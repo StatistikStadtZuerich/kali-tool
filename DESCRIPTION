@@ -1,12 +1,8 @@
 Package: KALI
-Title: An Amazing Shiny App
+Title: Shiny App zu Kandidierenden des Zürcher Gemeinderates
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: Golem-paketierte Shiny App.
 License: What license is it under?
 Imports: 
     config (>= 0.3.2),
