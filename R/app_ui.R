@@ -13,7 +13,7 @@ app_ui <- function(request) {
     golem_add_external_resources(),
 
     # Your application UI logic
-    fluidPage(
+    add_kali_devs(fluidPage(
       # Sidebar: Input widgets are placed here
       sidebarLayout(
         sidebarPanel(
@@ -152,6 +152,7 @@ app_ui <- function(request) {
         )
       )
     )
+    )
   )
 }
 
@@ -165,8 +166,6 @@ app_ui <- function(request) {
 #' @noRd
 golem_add_external_resources <- function() {
 
-  shinyjs::useShinyjs(debug = TRUE)
-
   add_resource_path(
     "www",
     app_sys("app/www")
@@ -177,8 +176,9 @@ golem_add_external_resources <- function() {
     bundle_resources(
       path = app_sys("app/www"),
       app_title = "KALI"
-    )
+    ),
     # Add here other external resources
     # for example, you can add shinyalert::useShinyalert()
+    shinyjs::useShinyjs(debug = TRUE)
   )
 }
