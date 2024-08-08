@@ -23,16 +23,18 @@ stages:
   - deploy_test
   - deploy_prod
 
-before_script:
-  - Rscript -e "renv::restore()"
+renv-restore-job:
+  script:
+    - Rscript -e "renv::restore()"
 
 deploy-job-test:
   # ausgeführt wenn push in merge request
   stage: deploy_test
+  needs: restore
+   rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
   variables:
     APP_NAME: $TEST_NAME
-  rules:
-    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
   script:
     - Rscript -e "source('data-raw/create_latest_data.R')"
     - Rscript -e "source('dev/deploy.R')"
@@ -40,10 +42,11 @@ deploy-job-test:
 deploy-job-prod:
   # ausgeführt wenn Push auf Main branch
   stage: deploy_prod
-  variables:
-    APP_NAME: $PROD_NAME
+  needs: restore
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  variables:
+    APP_NAME: $PROD_NAME
   script:
     - Rscript -e "packageVersion('rsconnect')"
     - Rscript -e "source('data-raw/create_latest_data.R')"
