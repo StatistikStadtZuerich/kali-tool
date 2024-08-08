@@ -15,7 +15,7 @@ ssz_download_excel <- function(filteredData, file, nameVote){
         Titel = ifelse(is.na(Titel), NA, paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl: ", nameVote))
         )
 
-    selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:", paste(nameVote), " ", " ","Quelle: Statistik Stadt Zürich, Präsidialdepartement")) %>%
+    selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:", paste(nameVote), " ", " ","Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
       as.data.frame()
 
     # Data Sheet 2

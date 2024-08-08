@@ -19,12 +19,12 @@ app_server <- function(input, output, session) {
 
   # Filter data according to inputs
   filtered_data <- reactive({
-    df_main %>%
-      filter(Wahljahr == input$select_year) %>%
-      filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) %>%
-      filter(if (input$gender_radio_button != "Alle") Geschlecht == input$gender_radio_button else TRUE) %>%
-      filter(if (input$select_kreis != "Ganz Stadt") Wahlkreis == input$select_kreis else TRUE)  %>%
-      filter(if (input$select_liste != "Alle Listen") ListeBezeichnung == input$select_liste else TRUE) %>%
+    df_main |>
+      filter(Wahljahr == input$select_year) |>
+      filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) |>
+      filter(if (input$gender_radio_button != "Alle") Geschlecht == input$gender_radio_button else TRUE) |>
+      filter(if (input$select_kreis != "Ganz Stadt") Wahlkreis == input$select_kreis else TRUE)  |>
+      filter(if (input$select_liste != "Alle Listen") ListeBezeichnung == input$select_liste else TRUE) |>
       filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE)
 
   })
@@ -52,34 +52,34 @@ app_server <- function(input, output, session) {
   data_person <- reactive({
     req(input$show_details > 0)
 
-    person <- filtered_data() %>%
+    person <- filtered_data() |>
       select(Name, Wahlkreis, ListeBezeichnung, Liste, Wahlresultat,
              `Anzahl Stimmen`, `Parteieigene Stimmen`,
              `Parteifremde Stimmen`,
-             `Anteil Stimmen aus veränderten Listen`) %>%
-      mutate(ID = row_number()) %>%
-      filter(ID == input$show_details) %>%
+             `Anteil Stimmen aus veränderten Listen`) |>
+      mutate(ID = row_number()) |>
+      filter(ID == input$show_details) |>
       select(-ID)
     person
 
-  }) %>%
+  }) |>
     bindEvent(input$show_details)
 
   data_download <- reactive({
     req(input$show_details > 0)
-    person <- filtered_data() %>%
+    person <- filtered_data() |>
       select(Wahljahr, Name, Alter, Geschlecht, Beruf, Wahlkreis, Liste,
              Wahlresultat, `Anzahl Stimmen`, `Parteieigene Stimmen`,
              `Parteifremde Stimmen`,
-             `Anteil Stimmen aus veränderten Listen`) %>%
-      mutate(ID = row_number()) %>%
-      filter(ID == input$show_details) %>%
-      select(-ID) %>%
+             `Anteil Stimmen aus veränderten Listen`) |>
+      mutate(ID = row_number()) |>
+      filter(ID == input$show_details) |>
+      select(-ID) |>
       gather(`Result der Wahl`, Wert, -Wahljahr, -Name, -Alter,
              -Geschlecht, -Beruf, -Wahlkreis, -Liste)
     person
 
-  }) %>%
+  }) |>
     bindEvent(input$show_details)
 
   # Render title of selected person
@@ -92,8 +92,8 @@ app_server <- function(input, output, session) {
   output$tableCand <- renderReactable({
     req(input$show_details > 0)
 
-    candidate_info <- data_person() %>%
-      select(-Name, -Wahlkreis, -ListeBezeichnung, -Liste) %>%
+    candidate_info <- data_person() |>
+      select(-Name, -Wahlkreis, -ListeBezeichnung, -Liste) |>
       gather(`Detailinformationen zu den erhaltenen Stimmen`, Wert)
 
 
@@ -111,17 +111,17 @@ app_server <- function(input, output, session) {
                  if (input$show_details > 0) {
                    shinyjs::show("sszvis-chart")
 
-                   person <- df_details %>%
+                   person <- df_details |>
                      #filter the equivalent of filtered_dat that is not also filtered below
-                     filter(Wahljahr == input$select_year) %>%
-                     #filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) %>%
-                     filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE) %>%
+                     filter(Wahljahr == input$select_year) |>
+                     #filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) |>
+                     filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE) |>
 
-                     filter(Name == data_person()$Name) %>%
-                     filter(Wahlkreis == data_person()$Wahlkreis) %>%
-                     filter(ListeBezeichnung == data_person()$ListeBezeichnung) %>%
-                     select(Name, StimmeVeraeListe, Value) %>%
-                     filter(!is.na(Value) & Value > 0) %>%
+                     filter(Name == data_person()$Name) |>
+                     filter(Wahlkreis == data_person()$Wahlkreis) |>
+                     filter(ListeBezeichnung == data_person()$ListeBezeichnung) |>
+                     select(Name, StimmeVeraeListe, Value) |>
+                     filter(!is.na(Value) & Value > 0) |>
                      arrange(desc(Value))
 
                    update_chart(person, "update_data", session)
