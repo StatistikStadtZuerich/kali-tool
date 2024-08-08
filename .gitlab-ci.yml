@@ -17,13 +17,13 @@ cache:
   paths:
     - ${RENV_PATHS_CACHE}
 
-
 stages:
   - restore
   - deploy_test
   - deploy_prod
 
 renv-restore-job:
+  stage: restore
   script:
     - Rscript -e "renv::restore()"
 
