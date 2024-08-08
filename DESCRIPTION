@@ -26,6 +26,8 @@ LazyData: true
 RoxygenNote: 7.3.2
 Suggests: 
     lintr,
-    styler
+    styler,
+    testthat (>= 3.0.0)
 Depends: 
     R (>= 2.10)
+Config/testthat/edition: 3
