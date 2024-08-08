@@ -147,7 +147,7 @@ app_ui <- function(request) {
           # update_data function is called, the UI is not ready yet when JS tries
           # to target container id.
           # ID must be "sszvis-chart", as this is what the JS is looking to fill
-          htmlOutput("sszvis-chart")
+          div(id = "sszvis-chart")
 
         )
       )
