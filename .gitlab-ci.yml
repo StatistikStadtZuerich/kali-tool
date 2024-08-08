@@ -31,7 +31,7 @@ deploy-job-test:
   # ausgeführt wenn push in merge request
   stage: deploy_test
   needs: 
-    - restore
+    - renv-restore-job
   rules:
     - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
   variables:
@@ -44,7 +44,7 @@ deploy-job-prod:
   # ausgeführt wenn Push auf Main branch
   stage: deploy_prod
   needs: 
-    - restore
+    - renv-restore-job
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   variables:
