@@ -1,5 +1,5 @@
 default:
-  image: $CI_REGISTRY/ssz-da/shiny_container:0.0.0.9006
+  image: $CI_REGISTRY/docker-hub-proxy/rocker/tidyverse:4.3.2
 
 variables:
   CONTAINER_REGISTRY: $CI_REGISTRY
@@ -9,10 +9,24 @@ variables:
   CONTAINER_IMAGE_NAME: $CI_PROJECT_NAME # used for container image name
   COMPONENT_NAME: $CI_PROJECT_NAME # used for component name (alias name) in umbrella chart
   GIT_STRATEGY: fetch
+  RENV_PATHS_CACHE: ${CI_PROJECT_DIR}/renv/cache
 
-stages:          # List of stages for jobs, and their order of execution
+
+cache:
+  key: ${CI_PROJECT_NAME}
+  paths:
+    - ${RENV_PATHS_CACHE}
+
+
+stages:
+  - restore
   - deploy_test
   - deploy_prod
+
+restore-renv-job:
+  stage: restore
+  script:
+    - Rscript -e "renv::restore()"
 
 deploy-job-test:
   # ausgeführt wenn push in merge request
