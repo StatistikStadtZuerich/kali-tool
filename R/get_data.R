@@ -161,9 +161,3 @@ get_data <- function() {
 
   return(list("df_main" = df_main, "df_details" = df_details))
 }
-
-# get data and make Data Frames
-data <- get_data()
-df_main <- data[["df_main"]]
-df_details <- data[["df_details"]]
-unique_wj <- sort(unique(df_main$Wahljahr))
