@@ -1,12 +1,22 @@
 # todos has
-# - document all functions including utils
+# - separate wrangling function for candidates
+# - test to make sure we have results for all candidates
+# - replace names with .data[["name"]]
 # - run styler
-# - put all wrangling in a separate function
 
+#' get_data
+#'
+#' @description Function to get the necessary data from the OGD portal.
+#'
+#'
+#' @return a list of two tibbles: df_main and df_details
+#' @export
+#'
+#' @examples
+#' data <- get_data()
 get_data <- function() {
   ### Candidates
   params <- get_params_data_load()
-
 
   ## Download and Rename and wrangle as required
   data_cand <- furrr::future_map2_dfr(params[["URLs_cand"]], params[["years"]], data_download) |>
@@ -30,11 +40,10 @@ get_data <- function() {
 
   ### Results
 
-
   # parallelised download for results
   df_details <- furrr::future_map2(params[["URLs_result"]], params[["years"]], data_download) |>
     # data wrangling step (includes correction for 2010 special names)
-    furrr::future_map(data_wrangle) |>
+    furrr::future_map(wrangle_data_results) |>
     # combine into one df
     purrr::list_rbind()
 
