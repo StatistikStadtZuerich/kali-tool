@@ -1,6 +1,5 @@
 # todos has
-# - separate wrangling function for candidates
-# - test to make sure we have results for all candidates
+# - test to make sure we have results for all candidates (separate test file for get_data, not in utils)
 # - replace names with .data[["name"]]
 # - run styler
 
@@ -15,39 +14,19 @@
 #' @examples
 #' data <- get_data()
 get_data <- function() {
-  ### Candidates
+  # get parameters for data load (years, urls)
   params <- get_params_data_load()
 
-  ## Download and Rename and wrangle as required
+  # Candidates: Download, rename and wrangle as required
   data_cand <- furrr::future_map2_dfr(params[["URLs_cand"]], params[["years"]], data_download) |>
-    mutate(G = case_when(
-      G == "M" ~ "Männlich",
-      G == "W" ~ "Weiblich"
-    )) |>
-    rename(Geschlecht = G) |>
-    mutate(
-      ListeBezeichnung = trimws(ListeBezeichnung),
-      Vorname = trimws(Vorname),
-      Nachname = trimws(Nachname),
-      Wahlkreis = trimws(Wahlkreis)
-    ) |>
-    select(-A, -Kand, -Liste) |>
-    mutate(
-      Name = paste(Vorname, Nachname, sep = " "),
-      Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
-    ) |>
-    select(-Vorname, -Nachname)
+    wrangle_candidates()
 
-  ### Results
-
-  # parallelised download for results
+  # Results: download and wrangle
   df_details <- furrr::future_map2(params[["URLs_result"]], params[["years"]], data_download) |>
     # data wrangling step (includes correction for 2010 special names)
     furrr::future_map(wrangle_data_results) |>
     # combine into one df
     purrr::list_rbind()
-
-  ### Data Manipulation
 
   # to avoid duplicates in main table, just select a subset to join
   df_details_for_join <- df_details |>
@@ -59,6 +38,7 @@ get_data <- function() {
     ) |>
     unique()
 
+  # join candidates and results
   df_main <- data_cand |>
     left_join(df_details_for_join, by = c(
       "Wahljahr",

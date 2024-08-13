@@ -47,10 +47,38 @@ data_download <- function(link, year) {
     mutate(Wahljahr = year)
 }
 
-# Function to make data long to wide, and wrangle data
+#' wrangle_candidates
+#'
+#' function to wrangle thd candidates data
+#'
+#' @param df tibble with candidates data
+#'
+#' @return wrangled candidate tibble
+#' @noRd
+wrangle_candidates <- function(df) {
+  df |>
+    mutate(G = case_when(
+    G == "M" ~ "Männlich",
+    G == "W" ~ "Weiblich"
+  )) |>
+    rename(Geschlecht = G) |>
+    mutate(
+      ListeBezeichnung = trimws(ListeBezeichnung),
+      Vorname = trimws(Vorname),
+      Nachname = trimws(Nachname),
+      Wahlkreis = trimws(Wahlkreis)
+    ) |>
+    select(-A, -Kand, -Liste) |>
+    mutate(
+      Name = paste(Vorname, Nachname, sep = " "),
+      Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
+    ) |>
+    select(-Vorname, -Nachname)
+}
+
 #' wrangle_data_results_per_year
 #'
-#' data wrangling for results for one year
+#' data wrangling for results for one year, also convert data from long to wide
 #'
 #' @param data tibble with results data
 #'
