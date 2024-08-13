@@ -1,3 +1,3 @@
-test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
+test_that("data is still the same", {
+  expect_snapshot_value(get_data(), style = "json2")
 })

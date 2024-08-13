@@ -1,5 +1,4 @@
 # todos has
-# - write test to check the data is still the same (snapshot?) (functions now work but results not checked)
 # - document all functions including utils
 # - run styler
 # - put all wrangling in a separate function
@@ -30,12 +29,12 @@ get_data <- function() {
     select(-Vorname, -Nachname)
 
   ### Results
-  
+
 
   # parallelised download for results
-  df_details <- furrr::future_map2(params[["URLs_result"]], params[["years"]], data_download) |> 
+  df_details <- furrr::future_map2(params[["URLs_result"]], params[["years"]], data_download) |>
     # data wrangling step (includes correction for 2010 special names)
-    furrr::future_map(data_wrangle) |> 
+    furrr::future_map(data_wrangle) |>
     # combine into one df
     purrr::list_rbind()
 
