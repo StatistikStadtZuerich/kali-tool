@@ -1,5 +1,4 @@
 # todos has
-# - replace names with .data[["name"]]
 # - run styler
 
 #' get_data
@@ -29,12 +28,12 @@ get_data <- function() {
 
   # to avoid duplicates in main table, just select a subset to join
   df_details_for_join <- df_details |>
-    select(
-      Name, Wahljahr, Wahlkreis, ListeBezeichnung, Wahlresultat,
-      `Anzahl Stimmen`, `Parteieigene Stimmen`,
-      `Parteifremde Stimmen`,
-      `Anteil Stimmen aus veränderten Listen`
-    ) |>
+    select(all_of(c(
+      "Name", "Wahljahr", "Wahlkreis", "ListeBezeichnung", "Wahlresultat",
+      "Anzahl Stimmen", "Parteieigene Stimmen",
+      "Parteifremde Stimmen",
+      "Anteil Stimmen aus veränderten Listen"
+    ))) |>
     unique()
 
   # join candidates and results
@@ -56,9 +55,9 @@ get_data <- function() {
       Wahlkreis == "Kreis 11" ~ 8,
       Wahlkreis == "Kreis 12" ~ 9
     )) |>
-    arrange(Wahljahr, WahlkreisSort) |>
-    mutate(Alter = Wahljahr - GebJ) |>
-    rename(Liste = ListeKurzbez)
+    arrange(across(all_of(c("Wahljahr", "WahlkreisSort")))) |>
+    mutate(Alter = .data[["Wahljahr"]] - .data[["GebJ"]]) |>
+    rename(Liste = .data[["ListeKurzbez"]])
 
   # with updated data (2026): check if this joined df has NA, in that case
   # there is probably a mismatch in names or someone missing

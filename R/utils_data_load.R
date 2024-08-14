@@ -58,22 +58,19 @@ data_download <- function(link, year) {
 wrangle_candidates <- function(df) {
   df |>
     mutate(G = case_when(
-    G == "M" ~ "Männlich",
-    G == "W" ~ "Weiblich"
+      .data[["G"]] == "M" ~ "Männlich",
+      .data[["G"]] == "W" ~ "Weiblich"
   )) |>
-    rename(Geschlecht = G) |>
-    mutate(
-      ListeBezeichnung = trimws(ListeBezeichnung),
-      Vorname = trimws(Vorname),
-      Nachname = trimws(Nachname),
-      Wahlkreis = trimws(Wahlkreis)
+    rename(all_of(c("Geschlecht" = "G"))) |>
+    mutate(across(
+      all_of(c("ListeBezeichnung", "Vorname", "Nachname", "Wahlkreis")),
+      trimws)
     ) |>
-    select(-A, -Kand, -Liste) |>
     mutate(
-      Name = paste(Vorname, Nachname, sep = " "),
-      Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
+      Name = paste(.data[["Vorname"]], .data[["Nachname"]], sep = " "),
+      Wahlkreis = paste("Kreis", .data[["Wahlkreis"]], sep = " ")
     ) |>
-    select(-Vorname, -Nachname)
+    select(-all_of(c("Vorname", "Nachname", "A", "Kand", "Liste")))
 }
 
 #' wrangle_data_results_per_year
@@ -86,29 +83,28 @@ wrangle_candidates <- function(df) {
 #' @noRd
 wrangle_data_results_per_year <- function(data) {
   data |>
-    select(
-      Wahljahr, Liste_Bez_lang, Wahlkreis, Nachname, Vorname,
-      Wahlresultat, total_stim, starts_with("part"), starts_with("stim")
+    select(all_of(c("Wahljahr", "Liste_Bez_lang", "Wahlkreis", "Nachname",
+                    "Vorname", "Wahlresultat", "total_stim")),
+           starts_with("part"),
+           starts_with("stim")
     ) |>
     gather(
       Var, Value, -Wahljahr, -Liste_Bez_lang, -Wahlkreis, -Nachname,
       -Vorname, -Wahlresultat, -total_stim, -starts_with("part")
     ) |>
-    mutate(Value = as.numeric(Value)) |>
-    rename(ListeBezeichnung = Liste_Bez_lang) |>
-    mutate(StimmeVeraeListe = str_remove_all(Var, "stim_verae_wl_")) |>
-    mutate(Wahlresultat = stringr::str_replace(Wahlresultat, "ae", "ä")) |>
-    mutate(
-      ListeBezeichnung = trimws(ListeBezeichnung),
-      Vorname = trimws(Vorname),
-      Nachname = trimws(Nachname),
-      Wahlkreis = trimws(Wahlkreis)
+    mutate(Value = as.numeric(.data[["Value"]]),
+           StimmeVeraeListe = str_remove_all(.data[["Var"]], "stim_verae_wl_"),
+           Wahlresultat = str_replace(.data[["Wahlresultat"]], "ae", "ä")) |>
+    rename(all_of(c("ListeBezeichnung" = "Liste_Bez_lang"))) |>
+    mutate(across(
+      all_of(c("ListeBezeichnung", "Vorname", "Nachname", "Wahlkreis")),
+      trimws)
     ) |>
     mutate(
-      Name = paste(Vorname, Nachname, sep = " "),
-      Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
+      Name = paste(.data[["Vorname"]], .data[["Nachname"]], sep = " "),
+      Wahlkreis = paste("Kreis", .data[["Wahlkreis"]], sep = " ")
     ) |>
-    select(-Vorname, -Nachname) |>
+    select(-all_of(c("Vorname", "Nachname"))) |>
     mutate(StimmeVeraeListe = case_when(
       StimmeVeraeListe == "Gruene" ~ "Grüne",
       StimmeVeraeListe == "evp_bdp" ~ "EVP/BDP",
@@ -118,20 +114,20 @@ wrangle_data_results_per_year <- function(data) {
     )) |>
     mutate(
       `Anteil Stimmen aus veränderten Listen` = as.character(
-        round(100 * (1 - (part_eig_stim_unv_wl / total_stim)), 1)
+        round(100 * (1 - (.data[["part_eig_stim_unv_wl"]] / .data[["total_stim"]])), 1)
       )
     ) |>
     mutate(
-      `Anteil Stimmen aus veränderten Listen` = paste(`Anteil Stimmen aus veränderten Listen`,
+      `Anteil Stimmen aus veränderten Listen` = paste(.data[["Anteil Stimmen aus veränderten Listen"]],
                                                       "%",
                                                       sep = " "
       )
     ) |>
-    rename(
-      `Anzahl Stimmen` = total_stim,
-      `Parteieigene Stimmen` = part_eig_stim,
-      `Parteifremde Stimmen` = part_frmd_stim
-    )
+    rename(all_of(c(
+      "Anzahl Stimmen" = "total_stim",
+      "Parteieigene Stimmen" = "part_eig_stim",
+      "Parteifremde Stimmen" = "part_frmd_stim"
+    )))
 }
 
 #' wrangle_data_results
@@ -153,8 +149,10 @@ wrangle_data_results <- function(df) {
 
   # for 2010, rename and mutate
   df |>
-    rename(Liste_Bez_lang = Liste, Wahlresultat = Wahlergebnis) |>
+    rename(all_of(c(
+      "Liste_Bez_lang" = "Liste",
+      "Wahlresultat" = "Wahlergebnis"))) |>
     wrangle_data_results_per_year() |>
-    mutate(ListeBezeichnung = gsub(".*– ", "", ListeBezeichnung))
+    mutate(ListeBezeichnung = str_replace(.data[["ListeBezeichnung"]], ".*– ", ""))
 
 }
