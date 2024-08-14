@@ -5,36 +5,13 @@
 #' @import shiny
 #' @noRd
 app_server <- function(input, output, session) {
-  # update selection of lists based on selected year
-  observeEvent(input$select_year, {
-    new_choices <- c(
-      "Alle Listen",
-      unique(df_main[df_main$Wahljahr == input$select_year, ]$ListeBezeichnung)
-    )
-    updateSelectInput(
-      session = session,
-      inputId = "select_liste",
-      choices = new_choices,
-      selected = new_choices[[1]]
-    )
-  })
-
-  # Filter data according to inputs
-  filtered_data <- reactive({
-    df_main |>
-      filter(Wahljahr == input$select_year) |>
-      filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) |>
-      filter(if (input$gender_radio_button != "Alle") Geschlecht == input$gender_radio_button else TRUE) |>
-      filter(if (input$select_kreis != "Ganz Stadt") Wahlkreis == input$select_kreis else TRUE) |>
-      filter(if (input$select_liste != "Alle Listen") ListeBezeichnung == input$select_liste else TRUE) |>
-      filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE)
-  })
+  filtered_input <- mod_input_server("input_module")
 
   # main Reactable Output
   output$table <- renderReactable({
     req(input$ActionButtonId > 0)
 
-    table_output <- get_reactable_candidates(filtered_data())
+    table_output <- get_reactable_candidates(filtered_input$filtered_data())
     table_output
   })
 
@@ -42,22 +19,15 @@ app_server <- function(input, output, session) {
 
   # update the show_details to zero when any of the inputs are changed
   observeEvent(
-    eventExpr = list(
-      input$suchfeld, input$select_year,
-      input$gender_radio_button,
-      input$select_kreis, input$select_liste,
-      input$wahlstatus_radio_button
-    ),
-    handlerExpr = {
-      updateNumericInput(session, "show_details", value = 0)
-    },
+    filtered_input$has_changed(),
+    updateNumericInput(session, "show_details", value = 0),
     ignoreNULL = FALSE
   )
 
   data_person <- reactive({
     req(input$show_details > 0)
 
-    person <- filtered_data() |>
+    person <- filtered_input$filtered_data() |>
       select(
         Name, Wahlkreis, ListeBezeichnung, Liste, Wahlresultat,
         `Anzahl Stimmen`, `Parteieigene Stimmen`,
@@ -73,7 +43,7 @@ app_server <- function(input, output, session) {
 
   data_download <- reactive({
     req(input$show_details > 0)
-    person <- filtered_data() |>
+    person <- filtered_input$filtered_data() |>
       select(
         Wahljahr, Name, Alter, Geschlecht, Beruf, Wahlkreis, Liste,
         Wahlresultat, `Anzahl Stimmen`, `Parteieigene Stimmen`,
@@ -119,10 +89,7 @@ app_server <- function(input, output, session) {
     if (input$show_details > 0) {
       shinyjs::show("sszvis-chart")
 
-      person <- df_details |>
-        # filter the equivalent of filtered_dat that is not also filtered below
-        filter(Wahljahr == input$select_year) |>
-        filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE) |>
+      person <- filtered_input$df_details_prefiltered() |>
         filter(Name == data_person()$Name) |>
         filter(Wahlkreis == data_person()$Wahlkreis) |>
         filter(ListeBezeichnung == data_person()$ListeBezeichnung) |>
