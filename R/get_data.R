@@ -1,5 +1,4 @@
 # todos has
-# - test to make sure we have results for all candidates (separate test file for get_data, not in utils)
 # - replace names with .data[["name"]]
 # - run styler
 

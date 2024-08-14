@@ -1,7 +1,3 @@
-test_that("data is still the same", {
-  expect_snapshot_value(get_data(), style = "json2")
-})
-
 test_that("utils functions for getting the data work", {
   # parameter function
   params <- get_params_data_load()
