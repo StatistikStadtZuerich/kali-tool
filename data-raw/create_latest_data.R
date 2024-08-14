@@ -11,5 +11,6 @@ df_details <- data[["df_details"]]
 unique_wj <- sort(unique(df_main$Wahljahr))
 
 usethis::use_data(df_main, df_details, unique_wj,
-                  overwrite = TRUE,
-                  internal = TRUE)
+  overwrite = TRUE,
+  internal = TRUE
+)
