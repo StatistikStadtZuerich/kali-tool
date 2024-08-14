@@ -1,138 +1,42 @@
+# todos has
+# - run styler
+
+#' get_data
+#'
+#' @description Function to get the necessary data from the OGD portal.
+#'
+#'
+#' @return a list of two tibbles: df_main and df_details
+#' @export
+#'
+#' @examples
+#' data <- get_data()
 get_data <- function() {
-  ### Candidates
-  ## Years
-  years <- c(2022, 2018, 2014, 2010)
+  # get parameters for data load (years, urls)
+  params <- get_params_data_load()
 
-  ## URLs
-  URLs_cand <- c(
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_kandidierende/download/gemeinderatswahlen_2022_kandidierende.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_kandidierende/download/gemeinderatswahlen_2018_kandidierende.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-alle-kandidierenden/download/GRW-2014-alle-Kandidierenden-OGD.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2010_kandidierende/download/gemeinderatswahlen_2010_kandidierende.csv"
-  )
+  # Candidates: Download, rename and wrangle as required
+  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years"]], data_download) |>
+    wrangle_candidates()
 
-  ## Function to download the data from Open Data Zürich
-  data_download <- function(link, year) {
-    data <- data.table::fread(link,
-      encoding = "UTF-8"
-    ) |>
-      mutate(Wahljahr = year)
-  }
-
-  ## Download and Rename and wrangle as required
-  data_cand <- furrr::future_map2_dfr(URLs_cand, years, data_download) |>
-    mutate(G = case_when(
-      G == "M" ~ "Männlich",
-      G == "W" ~ "Weiblich"
-    )) |>
-    rename(Geschlecht = G) |>
-    mutate(
-      ListeBezeichnung = trimws(ListeBezeichnung),
-      Vorname = trimws(Vorname),
-      Nachname = trimws(Nachname),
-      Wahlkreis = trimws(Wahlkreis)
-    ) |>
-    select(-A, -Kand, -Liste) |>
-    mutate(
-      Name = paste(Vorname, Nachname, sep = " "),
-      Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
-    ) |>
-    select(-Vorname, -Nachname)
-
-  ### Results
-  URLs_result <- c(
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_resultate/download/GRW_2022_resultate_kandidierende_und_herkunft_der_stimmen.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_resultate/download/GRW_2018_resultate_und_herkunft_der_stimmen.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-resultate/download/GRW_2014_Resultate_und_Herkunft_der_Stimmen_Nachzahlung_v2.csv"
-  )
-
-  ## Function to make data long to wide, and wrangle data
-  data_prep <- function(data) {
-    data |>
-      select(
-        Wahljahr, Liste_Bez_lang, Wahlkreis, Nachname, Vorname,
-        Wahlresultat, total_stim, starts_with("part"), starts_with("stim")
-      ) |>
-      gather(
-        Var, Value, -Wahljahr, -Liste_Bez_lang, -Wahlkreis, -Nachname,
-        -Vorname, -Wahlresultat, -total_stim, -starts_with("part")
-      ) |>
-      mutate(Value = as.numeric(Value)) |>
-      rename(ListeBezeichnung = Liste_Bez_lang) |>
-      mutate(StimmeVeraeListe = str_remove_all(Var, "stim_verae_wl_")) |>
-      mutate(Wahlresultat = stringr::str_replace(Wahlresultat, "ae", "ä")) |>
-      mutate(
-        ListeBezeichnung = trimws(ListeBezeichnung),
-        Vorname = trimws(Vorname),
-        Nachname = trimws(Nachname),
-        Wahlkreis = trimws(Wahlkreis)
-      ) |>
-      mutate(
-        Name = paste(Vorname, Nachname, sep = " "),
-        Wahlkreis = paste("Kreis", Wahlkreis, sep = " ")
-      ) |>
-      select(-Vorname, -Nachname) |>
-      mutate(StimmeVeraeListe = case_when(
-        StimmeVeraeListe == "Gruene" ~ "Grüne",
-        StimmeVeraeListe == "evp_bdp" ~ "EVP/BDP",
-        StimmeVeraeListe == "DieMitte" ~ "Die Mitte",
-        StimmeVeraeListe == "ILoveZH" ~ "I Love ZH",
-        TRUE ~ StimmeVeraeListe
-      )) |>
-      mutate(
-        `Anteil Stimmen aus veränderten Listen` = as.character(
-          round(100 * (1 - (part_eig_stim_unv_wl / total_stim)), 1)
-        )
-      ) |>
-      mutate(
-        `Anteil Stimmen aus veränderten Listen` = paste(`Anteil Stimmen aus veränderten Listen`,
-          "%",
-          sep = " "
-        )
-      ) |>
-      rename(
-        `Anzahl Stimmen` = total_stim,
-        `Parteieigene Stimmen` = part_eig_stim,
-        `Parteifremde Stimmen` = part_frmd_stim
-      )
-  }
-
-  ## Function to download the data from Open Data Zürich
-  data_download_prep <- function(link, year) {
-    data_download(link, year) |>
-      data_prep()
-  }
-
-  ## Parallelisation Download (3 out of 4 Datasets)
-  data_result_22_14 <- furrr::future_map2_dfr(URLs_result, years[1:3], data_download_prep)
-
-  # Separate Download as Columns have different names
-  data10 <- data.table::fread(
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2010_resultate/download/GRW_2010_resultate_kandidierende_und_herkunft_der_stimmen.csv",
-    encoding = "UTF-8"
-  ) |>
-    mutate(Wahljahr = 2010) |>
-    rename(Liste_Bez_lang = Liste, Wahlresultat = Wahlergebnis) |>
-    data_prep() |>
-    mutate(ListeBezeichnung = gsub(".*– ", "", ListeBezeichnung))
-
-  # Combine Downloads
-  df_details <- bind_rows(data_result_22_14, data10)
-
-  rm(data_result_22_14, data10)
-
-  ### Data Manipulation
+  # Results: download and wrangle
+  df_details <- furrr::future_map2(params[["urls_result"]], params[["years"]], data_download) |>
+    # data wrangling step (includes correction for 2010 special names)
+    furrr::future_map(wrangle_data_results) |>
+    # combine into one df
+    purrr::list_rbind()
 
   # to avoid duplicates in main table, just select a subset to join
   df_details_for_join <- df_details |>
-    select(
-      Name, Wahljahr, Wahlkreis, ListeBezeichnung, Wahlresultat,
-      `Anzahl Stimmen`, `Parteieigene Stimmen`,
-      `Parteifremde Stimmen`,
-      `Anteil Stimmen aus veränderten Listen`
-    ) |>
+    select(all_of(c(
+      "Name", "Wahljahr", "Wahlkreis", "ListeBezeichnung", "Wahlresultat",
+      "Anzahl Stimmen", "Parteieigene Stimmen",
+      "Parteifremde Stimmen",
+      "Anteil Stimmen aus veränderten Listen"
+    ))) |>
     unique()
 
+  # join candidates and results
   df_main <- data_cand |>
     left_join(df_details_for_join, by = c(
       "Wahljahr",
@@ -151,9 +55,9 @@ get_data <- function() {
       Wahlkreis == "Kreis 11" ~ 8,
       Wahlkreis == "Kreis 12" ~ 9
     )) |>
-    arrange(Wahljahr, WahlkreisSort) |>
-    mutate(Alter = Wahljahr - GebJ) |>
-    rename(Liste = ListeKurzbez)
+    arrange(across(all_of(c("Wahljahr", "WahlkreisSort")))) |>
+    mutate(Alter = .data[["Wahljahr"]] - .data[["GebJ"]]) |>
+    rename(all_of(c("Liste" = "ListeKurzbez")))
 
   # with updated data (2026): check if this joined df has NA, in that case
   # there is probably a mismatch in names or someone missing
@@ -161,9 +65,3 @@ get_data <- function() {
 
   return(list("df_main" = df_main, "df_details" = df_details))
 }
-
-# get data and make Data Frames
-data <- get_data()
-df_main <- data[["df_main"]]
-df_details <- data[["df_details"]]
-unique_wj <- sort(unique(df_main$Wahljahr))
