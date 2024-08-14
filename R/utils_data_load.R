@@ -10,7 +10,7 @@ get_params_data_load <- function() {
   years <- c(2022, 2018, 2014, 2010)
 
   # URLs for all the candidates
-  URLs_cand <- c(
+  urls_cand <- c(
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_kandidierende/download/gemeinderatswahlen_2022_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_kandidierende/download/gemeinderatswahlen_2018_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-alle-kandidierenden/download/GRW-2014-alle-Kandidierenden-OGD.csv",
@@ -18,7 +18,7 @@ get_params_data_load <- function() {
   )
 
   # URLs for the results
-  URLs_result <- c(
+  urls_result <- c(
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_resultate/download/GRW_2022_resultate_kandidierende_und_herkunft_der_stimmen.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_resultate/download/GRW_2018_resultate_und_herkunft_der_stimmen.csv",
     "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-resultate/download/GRW_2014_Resultate_und_Herkunft_der_Stimmen_Nachzahlung_v2.csv",
@@ -29,8 +29,8 @@ get_params_data_load <- function() {
 
   return(list(
     "years" = years,
-    "URLs_cand" = URLs_cand,
-    "URLs_result" = URLs_result
+    "urls_cand" = urls_cand,
+    "urls_result" = urls_result
   ))
 }
 
@@ -43,7 +43,7 @@ get_params_data_load <- function() {
 #' @return tibble, downloaded from link plus "Wahljahr" column added
 #' @noRd
 data_download <- function(link, year) {
-  data <- data.table::fread(link, encoding = "UTF-8") |>
+  data.table::fread(link, encoding = "UTF-8") |>
     mutate(Wahljahr = year)
 }
 
@@ -124,7 +124,8 @@ wrangle_data_results_per_year <- function(data) {
       )
     ) |>
     mutate(
-      `Anteil Stimmen aus veränderten Listen` = paste(.data[["Anteil Stimmen aus veränderten Listen"]],
+      `Anteil Stimmen aus veränderten Listen` = paste(
+        .data[["Anteil Stimmen aus veränderten Listen"]],
         "%",
         sep = " "
       )
@@ -134,7 +135,9 @@ wrangle_data_results_per_year <- function(data) {
       "Parteieigene Stimmen" = "part_eig_stim",
       "Parteifremde Stimmen" = "part_frmd_stim"
     ))) |>
-    arrange(across(all_of(c("Wahljahr", "ListeBezeichnung", "Wahlkreis", "Wahlresultat", "Name"))))
+    arrange(across(all_of(
+      c("Wahljahr", "ListeBezeichnung", "Wahlkreis", "Wahlresultat", "Name")
+      )))
 }
 
 #' wrangle_data_results

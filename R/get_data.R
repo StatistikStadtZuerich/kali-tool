@@ -16,11 +16,11 @@ get_data <- function() {
   params <- get_params_data_load()
 
   # Candidates: Download, rename and wrangle as required
-  data_cand <- furrr::future_map2_dfr(params[["URLs_cand"]], params[["years"]], data_download) |>
+  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years"]], data_download) |>
     wrangle_candidates()
 
   # Results: download and wrangle
-  df_details <- furrr::future_map2(params[["URLs_result"]], params[["years"]], data_download) |>
+  df_details <- furrr::future_map2(params[["urls_result"]], params[["years"]], data_download) |>
     # data wrangling step (includes correction for 2010 special names)
     furrr::future_map(wrangle_data_results) |>
     # combine into one df
