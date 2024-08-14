@@ -137,7 +137,7 @@ wrangle_data_results_per_year <- function(data) {
     ))) |>
     arrange(across(all_of(
       c("Wahljahr", "ListeBezeichnung", "Wahlkreis", "Wahlresultat", "Name")
-      )))
+    )))
 }
 
 #' wrangle_data_results

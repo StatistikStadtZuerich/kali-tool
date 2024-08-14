@@ -122,7 +122,6 @@ app_server <- function(input, output, session) {
       person <- df_details |>
         # filter the equivalent of filtered_dat that is not also filtered below
         filter(Wahljahr == input$select_year) |>
-        # filter(if (input$suchfeld != "") grepl(input$suchfeld, Name, ignore.case = TRUE) else TRUE) |>
         filter(if (input$wahlstatus_radio_button != "Alle") Wahlresultat == input$wahlstatus_radio_button else TRUE) |>
         filter(Name == data_person()$Name) |>
         filter(Wahlkreis == data_person()$Wahlkreis) |>
@@ -137,7 +136,6 @@ app_server <- function(input, output, session) {
       shinyjs::hide("sszvis-chart")
     }
   })
-
 
   ## Write Download Table
   # CSV

@@ -46,7 +46,6 @@ app_ui <- function(request) {
             selected = "Ganz Stadt"
           ),
 
-
           # selectInput() for party
           sszSelectInput("select_liste", "Liste",
             choices = c("Alle Listen"),
@@ -98,7 +97,6 @@ app_ui <- function(request) {
             )
           )
         ),
-
 
         # Mail Panel: Outputs are placed here
         mainPanel(
@@ -181,7 +179,6 @@ golem_add_external_resources <- function() {
       app_title = "KALI"
     ),
     # Add here other external resources
-    # for example, you can add shinyalert::useShinyalert()
     shinyjs::useShinyjs(debug = TRUE)
   )
 }
