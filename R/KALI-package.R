@@ -11,5 +11,6 @@
 #' @importFrom stringr str_remove_all
 #' @importFrom stringr str_replace
 #' @importFrom tidyr gather
+#' @importFrom tidyr pivot_longer
 ## usethis namespace: end
 NULL

@@ -57,7 +57,7 @@ get_data <- function() {
     )) |>
     arrange(across(all_of(c("Wahljahr", "WahlkreisSort")))) |>
     mutate(Alter = .data[["Wahljahr"]] - .data[["GebJ"]]) |>
-    rename(Liste = .data[["ListeKurzbez"]])
+    rename(all_of(c("Liste" = "ListeKurzbez")))
 
   # with updated data (2026): check if this joined df has NA, in that case
   # there is probably a mismatch in names or someone missing

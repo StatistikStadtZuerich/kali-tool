@@ -88,10 +88,10 @@ wrangle_data_results_per_year <- function(data) {
            starts_with("part"),
            starts_with("stim")
     ) |>
-    gather(
-      Var, Value, -Wahljahr, -Liste_Bez_lang, -Wahlkreis, -Nachname,
-      -Vorname, -Wahlresultat, -total_stim, -starts_with("part")
-    ) |>
+    # make sure all columns including number of votes are numeric
+    mutate(across(starts_with("stim_verae_wl"), as.numeric)) |>
+    pivot_longer(starts_with("stim_verae_wl_"),
+                        names_to = "Var", values_to = "Value") |>
     mutate(Value = as.numeric(.data[["Value"]]),
            StimmeVeraeListe = str_remove_all(.data[["Var"]], "stim_verae_wl_"),
            Wahlresultat = str_replace(.data[["Wahlresultat"]], "ae", "ä")) |>
@@ -127,7 +127,8 @@ wrangle_data_results_per_year <- function(data) {
       "Anzahl Stimmen" = "total_stim",
       "Parteieigene Stimmen" = "part_eig_stim",
       "Parteifremde Stimmen" = "part_frmd_stim"
-    )))
+    ))) |>
+    arrange(across(all_of(c("Wahljahr", "ListeBezeichnung", "Wahlkreis", "Wahlresultat", "Name"))))
 }
 
 #' wrangle_data_results
