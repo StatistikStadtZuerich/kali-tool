@@ -1,6 +1,7 @@
 #' get_params_data_load
 #'
-#' @description A utils function: the place where hardcoded things like links and years are set. No other function should need modification with the addition of another year if the structure remains the same.
+#' @description A utils function: the place where hardcoded things like links and years are set.
+#' No other function should need modification with the addition of another year if the structure remains the same.
 #'
 #' @return a list with a vector of years, a vector of links to the candidate datasets, and a vector of links to the result datasets
 #'
