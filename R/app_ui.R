@@ -17,49 +17,7 @@ app_ui <- function(request) {
       # Sidebar: Input widgets are placed here
       sidebarLayout(
         sidebarPanel(
-
-          # Suchfeld: Namensuche
-          sszTextInput("suchfeld", "Name"),
-
-
-          # radioButtons() vertical for gender
-          sszRadioButtons("gender_radio_button",
-            label = "Geschlecht",
-            choices = c("Alle", "Männlich", "Weiblich"),
-            selected = "Alle" # default value
-          ),
-
-          # selectInput() for year of election
-          sszSelectInput("select_year", "Gemeinderatswahlen",
-            choices = unique_wj,
-            selected = unique_wj[[length(unique_wj)]]
-          ),
-
-          # selectInput() for Stadtkreis
-          sszSelectInput("select_kreis", "Wahlkreis",
-            choices = c(
-              "Ganz Stadt", "Kreis 1 + 2", "Kreis 3",
-              "Kreis 4 + 5", "Kreis 6", "Kreis 7 + 8",
-              "Kreis 9", "Kreis 10", "Kreis 11",
-              "Kreis 12"
-            ),
-            selected = "Ganz Stadt"
-          ),
-
-
-          # selectInput() for party
-          sszSelectInput("select_liste", "Liste",
-            choices = c("Alle Listen"),
-            selected = "Alle Listen"
-          ),
-
-          # radioButtons() vertical for whether the person was elected
-          sszRadioButtons("wahlstatus_radio_button",
-            label = "Status",
-            choices = c("Alle", "gewählt", "nicht gewählt"),
-            selected = "Alle"
-          ),
-
+          mod_input_ui("input_module"),
           # Action Button to start the query and show the resulting table
           conditionalPanel(
             condition = "input.ActionButtonId==0",
@@ -98,7 +56,6 @@ app_ui <- function(request) {
             )
           )
         ),
-
 
         # Mail Panel: Outputs are placed here
         mainPanel(
@@ -181,7 +138,6 @@ golem_add_external_resources <- function() {
       app_title = "KALI"
     ),
     # Add here other external resources
-    # for example, you can add shinyalert::useShinyalert()
     shinyjs::useShinyjs(debug = TRUE)
   )
 }
