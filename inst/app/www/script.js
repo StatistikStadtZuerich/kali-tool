@@ -11,7 +11,7 @@ Global variables exposed by Shiny (dependencies): d3, sszvis
 // Configuration
 // -----------------------------------------------
 // Matches the one set in Shiny.
-var CHART_CONTAINER_ID = "#sszvis-chart";
+var CHART_CONTAINER_ID = "#details_1-sszvis-chart";
 /*var MAX_WIDTH = 3000;*/
 var queryProps = sszvis
           .responsiveProps()

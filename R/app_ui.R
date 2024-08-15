@@ -74,6 +74,12 @@ app_ui <- function(request) {
               type = 7,
               color = "#0F05A0"
             ),
+
+
+            conditionalPanel(
+              condition = "input.show_details > 0",
+              mod_details_ui("details_1")
+            )
           ),
 
           # initialise hidden variable for row selection, to be used with JS function in reactable
@@ -86,7 +92,6 @@ app_ui <- function(request) {
             )
           ),
 
-          #mod_details_ui("details_1")
         )
       )
     ))

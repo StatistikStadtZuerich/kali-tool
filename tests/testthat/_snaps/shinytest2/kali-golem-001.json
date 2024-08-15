@@ -10,7 +10,15 @@
     "show_details": 0
   },
   "output": {
-    "nameCandidate": {
+    "details_1-nameCandidate": {
+      "message": "",
+      "call": "NULL",
+      "type": [
+        "shiny.silent.error",
+        "validation"
+      ]
+    },
+    "details_1-tableCand": {
       "message": "",
       "call": "NULL",
       "type": [
@@ -19,14 +27,6 @@
       ]
     },
     "table": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
-      ]
-    },
-    "tableCand": {
       "message": "",
       "call": "NULL",
       "type": [
