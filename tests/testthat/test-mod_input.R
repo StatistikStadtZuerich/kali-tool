@@ -25,8 +25,11 @@ testServer(
     expect_s3_class(df_details_prefiltered(), "data.frame")
 
     # check has_changed actually changes when new input is set
-    #
-    # check resetting of inputs when different year is chosen
+    initial_has_changed <- has_changed()
+    session$setInputs(
+      "select_liste" = "Grüne"
+    )
+    expect_false(initial_has_changed == has_changed())
   }
 )
 
