@@ -10,17 +10,27 @@ filter_candidates <- function(df_main, input_values) {
     filter(Wahljahr == input_values$select_year) |>
     filter(if (input_values$suchfeld != "") {
       grepl(input_values$suchfeld, Name, ignore.case = TRUE)
-      } else TRUE) |>
+    } else {
+      TRUE
+    }) |>
     filter(if (input_values$gender_radio_button != "Alle") {
       Geschlecht == input_values$gender_radio_button
-      } else TRUE) |>
+    } else {
+      TRUE
+    }) |>
     filter(if (input_values$select_kreis != "Ganze Stadt") {
       Wahlkreis == input_values$select_kreis
-      } else TRUE) |>
+    } else {
+      TRUE
+    }) |>
     filter(if (input_values$select_liste != "Alle Listen") {
       ListeBezeichnung == input_values$select_liste
-      } else TRUE) |>
+    } else {
+      TRUE
+    }) |>
     filter(if (input_values$wahlstatus_radio_button != "Alle") {
       Wahlresultat == input_values$wahlstatus_radio_button
-      } else TRUE)
+    } else {
+      TRUE
+    })
 }
