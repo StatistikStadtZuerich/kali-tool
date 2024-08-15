@@ -30,7 +30,7 @@ app_ui <- function(request) {
           # Downloads - only show these when one person is selected to
           # download details about this person
           conditionalPanel(
-            condition = "output.tableCand",
+            condition = "input.show_details > 0",
             h3("Detailinformationen herunterladen"),
 
             # Download Panel
@@ -86,31 +86,7 @@ app_ui <- function(request) {
             )
           ),
 
-          # Name of selected candidate - requires show_details > 0
-          htmlOutput("nameCandidate"),
-
-          # table with info about selected candidate - requires show_details > 0
-          shinycssloaders::withSpinner(
-            reactableOutput("tableCand"),
-            type = 7,
-            color = "#0F05A0"
-          ),
-
-          # Only show plot if tableCand is also shown
-          conditionalPanel(
-            condition = "output.tableCand",
-
-            # Name of selected candidate
-            # Title for table
-            hr(),
-            h4("Stimmen aus veränderten Listen"),
-          ),
-
-          # Chart container; can't be used in a conditional panel as when the
-          # update_data function is called, the UI is not ready yet when JS tries
-          # to target container id.
-          # ID must be "sszvis-chart", as this is what the JS is looking to fill
-          div(id = "sszvis-chart")
+          #mod_details_ui("details_1")
         )
       )
     ))

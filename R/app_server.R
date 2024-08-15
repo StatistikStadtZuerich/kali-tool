@@ -61,48 +61,20 @@ app_server <- function(input, output, session) {
   }) |>
     bindEvent(input$show_details)
 
-  # Render title of selected person
-  output$nameCandidate <- renderText({
-    req(input$show_details > 0)
-    paste0("<br><h2>", data_person()$Name, " (", data_person()$Liste, ")", "</h2><hr>")
-  })
-
-  # table for selected person
-  output$tableCand <- renderReactable({
-    req(input$show_details > 0)
-
-    candidate_info <- data_person() |>
-      select(-Name, -Wahlkreis, -ListeBezeichnung, -Liste) |>
-      gather(`Detailinformationen zu den erhaltenen Stimmen`, Wert)
-
-
-    table_output <- get_reactable_details(candidate_info)
-    table_output
-  })
-
   # create and send data for bar chart
   # observeEvent rather than observe to avoid race condition between sending
   # the data and setting the input$show_details/the selected row number
-  observeEvent(input$show_details, {
-    req(input$ActionButtonId > 0)
-
-    if (input$show_details > 0) {
-      shinyjs::show("sszvis-chart")
-
-      person <- filtered_input$df_details_prefiltered() |>
-        filter(Name == data_person()$Name) |>
-        filter(Wahlkreis == data_person()$Wahlkreis) |>
-        filter(ListeBezeichnung == data_person()$ListeBezeichnung) |>
-        select(Name, StimmeVeraeListe, Value) |>
-        filter(!is.na(Value) & Value > 0) |>
-        arrange(desc(Value))
-
-      update_chart(person, "update_data", session)
-    } else {
-      # hide the chart (sending empty custom message does not work with iframe resizer on ssz website)
-      shinyjs::hide("sszvis-chart")
-    }
-  })
+  # mod_details_server("details_1", data_person, filtered_input$df_details_prefiltered)
+  # observeEvent(input$show_details, {
+  #   req(input$ActionButtonId > 0)
+  #
+  #   if (input$show_details > 0) {
+  #     shinyjs::show("details_1")
+  #   } else {
+  #     # hide the chart (sending empty custom message does not work with iframe resizer on ssz website)
+  #     shinyjs::hide("details_1")
+  #   }
+  # })
 
   ## Write Download Table
   # CSV

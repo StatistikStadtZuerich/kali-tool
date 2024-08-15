@@ -34,7 +34,7 @@ get_reactable_candidates <- function(df) {
             // Send the click event to Shiny, which will be available in input$show_details
             // Note that the row index starts at 0 in JavaScript, so we add 1
             if (window.Shiny) {
-            Shiny.setInputValue('show_details', rowInfo.index + 1, { priority: 'event' })
+            Shiny.setInputValue('show_details:shiny.number', rowInfo.index + 1, { priority: 'event' })
             }
             }")
   )
