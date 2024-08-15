@@ -1,0 +1,41 @@
+{
+  "input": {
+    "ActionButtonId": 0,
+    "input_module-gender_radio_button": "Alle",
+    "input_module-select_kreis": "Ganze Stadt",
+    "input_module-select_liste": "Alle Listen",
+    "input_module-select_year": "2022",
+    "input_module-suchfeld": "",
+    "input_module-wahlstatus_radio_button": "Alle",
+    "show_details": 0
+  },
+  "output": {
+    "nameCandidate": {
+      "message": "",
+      "call": "NULL",
+      "type": [
+        "shiny.silent.error",
+        "validation"
+      ]
+    },
+    "table": {
+      "message": "",
+      "call": "NULL",
+      "type": [
+        "shiny.silent.error",
+        "validation"
+      ]
+    },
+    "tableCand": {
+      "message": "",
+      "call": "NULL",
+      "type": [
+        "shiny.silent.error",
+        "validation"
+      ]
+    }
+  },
+  "export": {
+
+  }
+}
