@@ -1541,19 +1541,6 @@
       ],
       "Hash": "2b45a467a30d6a88a1892a738c0900cf"
     },
-    "shinyjs": {
-      "Package": "shinyjs",
-      "Version": "2.1.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "digest",
-        "jsonlite",
-        "shiny"
-      ],
-      "Hash": "802e4786b353a4bb27116957558548d5"
-    },
     "shinytest2": {
       "Package": "shinytest2",
       "Version": "0.3.2",

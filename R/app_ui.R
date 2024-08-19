@@ -119,6 +119,5 @@ golem_add_external_resources <- function() {
       app_title = "KALI"
     ),
     # Add here other external resources
-    shinyjs::useShinyjs(debug = TRUE)
   )
 }

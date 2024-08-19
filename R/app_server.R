@@ -54,16 +54,6 @@ app_server <- function(input, output, session) {
   # observeEvent rather than observe to avoid race condition between sending
   # the data and setting the input$show_details/the selected row number
   mod_details_server("details_1", data_person, filtered_input$df_details_prefiltered)
-  observeEvent(input$show_details, {
-    req(input$ActionButtonId > 0)
-
-    if (input$show_details > 0) {
-      shinyjs::show("details_1")
-    } else {
-      # hide the chart (sending empty custom message does not work with iframe resizer on ssz website)
-      shinyjs::hide("details_1")
-    }
-  })
 
   ## Write Download Table
   # CSV
