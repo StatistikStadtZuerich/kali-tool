@@ -25,8 +25,7 @@ mod_details_ui <- function(id) {
     hr(),
     h4("Stimmen aus veränderten Listen"),
 
-    # ID must be "sszvis-chart", as this is what the JS is looking to fill
-    # module namespacing unresolved, hardcoded in JS
+    # div for d3 chart; namespace is dealt with in server/JS message handler
     div(id = ns("sszvis-chart"))
 
   )
