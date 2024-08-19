@@ -7,15 +7,15 @@
 #' @noRd
 #'
 #' @importFrom shiny NS tagList
-mod_details_ui <- function(id){
+mod_details_ui <- function(id) {
   ns <- NS(id)
   tagList(
     # Name of selected candidate - requires show_details > 0
-    htmlOutput(ns("nameCandidate")),
+    htmlOutput(ns("name_candidate")),
 
     # table with info about selected candidate - requires show_details > 0
     shinycssloaders::withSpinner(
-      reactableOutput(ns("tableCand")),
+      reactableOutput(ns("table_candidate")),
       type = 7,
       color = "#0F05A0"
     ),
@@ -25,10 +25,8 @@ mod_details_ui <- function(id){
     hr(),
     h4("Stimmen aus veränderten Listen"),
 
-    # Chart container; can't be used in a conditional panel as when the
-    # update_data function is called, the UI is not ready yet when JS tries
-    # to target container id.
     # ID must be "sszvis-chart", as this is what the JS is looking to fill
+    # module namespacing unresolved, hardcoded in JS
     div(id = ns("sszvis-chart"))
 
   )
@@ -37,19 +35,19 @@ mod_details_ui <- function(id){
 #' details Server Functions
 #'
 #' @noRd
-mod_details_server <- function(id, data_person, df_details_prefiltered){
-  moduleServer( id, function(input, output, session){
+mod_details_server <- function(id, data_person, df_details_prefiltered) {
+  moduleServer( id, function(input, output, session) {
     ns <- session$ns
 
     # Render title of selected person
-    output$nameCandidate <- renderText({
+    output$name_candidate <- renderText({
       paste0("<br><h2>", data_person()$Name, " (", data_person()$Liste, ")", "</h2><hr>")
     })
 
     # table for selected person
-    output$tableCand <- renderReactable({
+    output$table_candidate <- renderReactable({
       candidate_info <- data_person() |>
-        select(-Name, -Wahlkreis, -ListeBezeichnung, -Liste) |>
+        select(-all_of(c("Name", "Wahlkreis", "ListeBezeichnung", "Liste"))) |>
         gather(`Detailinformationen zu den erhaltenen Stimmen`, Wert)
 
       get_reactable_details(candidate_info)
@@ -60,10 +58,10 @@ mod_details_server <- function(id, data_person, df_details_prefiltered){
     # the data and setting the input$show_details/the selected row number
     observe({
       person <- df_details_prefiltered() |>
-        filter(Name == data_person()$Name) |>
-        filter(Wahlkreis == data_person()$Wahlkreis) |>
-        filter(ListeBezeichnung == data_person()$ListeBezeichnung) |>
-        select(Name, StimmeVeraeListe, Value) |>
+        filter(.data[["Name"]] == data_person()$Name) |>
+        filter(.data[["Wahlkreis"]] == data_person()$Wahlkreis) |>
+        filter(.data[["ListeBezeichnung"]] == data_person()$ListeBezeichnung) |>
+        select(all_of(c("Name", "StimmeVeraeListe", "Value"))) |>
         filter(!is.na(Value) & Value > 0) |>
         arrange(desc(Value))
 
