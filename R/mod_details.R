@@ -50,8 +50,6 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
     })
 
     # create and send data for bar chart
-    # observeEvent rather than observe to avoid race condition between sending
-    # the data and setting the input$show_details/the selected row number
     observe({
       person <- create_data_for_chart(df_details_prefiltered(), data_person())
       id <- paste0("#", ns("sszvis-chart"))
