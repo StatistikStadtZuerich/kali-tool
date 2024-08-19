@@ -46,11 +46,7 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
 
     # table for selected person
     output$table_candidate <- renderReactable({
-      candidate_info <- data_person() |>
-        select(-all_of(c("Name", "Wahlkreis", "ListeBezeichnung", "Liste"))) |>
-        gather(`Detailinformationen zu den erhaltenen Stimmen`, Wert)
-
-      get_reactable_details(candidate_info)
+      create_details_reactable(data_person())
     })
 
     # create and send data for bar chart

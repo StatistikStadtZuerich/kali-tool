@@ -39,25 +39,3 @@ get_reactable_candidates <- function(df) {
             }")
   )
 }
-
-#' get_reactable_details
-#'
-#' @description function to generate the reactable for the details about the candidate
-#'
-#' @param candidate
-#'
-#' @return a reactable
-get_reactable_details <- function(candidate) {
-  reactable(candidate,
-    paginationType = "simple",
-    theme = reactableTheme(
-      borderColor = "#DEDEDE"
-    ),
-    defaultColDef = colDef(
-      align = "left",
-      minWidth = 50
-    ),
-    outlined = TRUE,
-    highlight = TRUE
-  )
-}

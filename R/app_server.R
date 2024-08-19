@@ -26,18 +26,7 @@ app_server <- function(input, output, session) {
 
   data_person <- reactive({
     req(input$show_details > 0)
-
-    person <- filtered_input$filtered_data() |>
-      select(
-        Name, Wahlkreis, ListeBezeichnung, Liste, Wahlresultat,
-        `Anzahl Stimmen`, `Parteieigene Stimmen`,
-        `Parteifremde Stimmen`,
-        `Anteil Stimmen aus veränderten Listen`
-      ) |>
-      mutate(ID = row_number()) |>
-      filter(ID == input$show_details) |>
-      select(-ID)
-    person
+    create_data_person(filtered_input$filtered_data(), input$show_details)
   }) |>
     bindEvent(input$show_details)
 
