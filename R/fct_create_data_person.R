@@ -4,7 +4,7 @@
 #'
 #' @param filtered_data data that is shown in the main table, output from input module
 #' @param show_details integer representing the row number of the candidate§ to be selected
-#' @return tibble with just data on one candidate
+#' @return data.frame with just data on one candidate
 #'
 #' @noRd
 create_data_person <- function(filtered_data, show_details) {
@@ -15,7 +15,5 @@ create_data_person <- function(filtered_data, show_details) {
       "Anteil Stimmen aus veränderten Listen"
     ))
   ) |>
-    mutate(ID = row_number()) |>
-    filter(ID == show_details) |>
-    select(-ID)
+    slice(show_details)
 }

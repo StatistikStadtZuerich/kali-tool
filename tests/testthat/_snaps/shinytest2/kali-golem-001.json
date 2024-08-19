@@ -10,7 +10,7 @@
     "show_details": 0
   },
   "output": {
-    "details_1-nameCandidate": {
+    "details_1-name_candidate": {
       "message": "",
       "call": "NULL",
       "type": [
@@ -18,7 +18,7 @@
         "validation"
       ]
     },
-    "details_1-tableCand": {
+    "details_1-table_candidate": {
       "message": "",
       "call": "NULL",
       "type": [

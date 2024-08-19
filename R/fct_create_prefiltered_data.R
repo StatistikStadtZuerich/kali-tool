@@ -6,7 +6,7 @@
 #' @param year year to be filtered
 #' @param wahlstatus wahlstatus, corresponds to input$wahlstatus_radio_button
 #'
-#' @return filtered tibble
+#' @return filtered data.frame
 #'
 #' @noRd
 create_prefiltered_data <- function(df_details, year, wahlstatus) {
