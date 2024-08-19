@@ -53,14 +53,7 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
     # observeEvent rather than observe to avoid race condition between sending
     # the data and setting the input$show_details/the selected row number
     observe({
-      person <- df_details_prefiltered() |>
-        filter(.data[["Name"]] == data_person()$Name) |>
-        filter(.data[["Wahlkreis"]] == data_person()$Wahlkreis) |>
-        filter(.data[["ListeBezeichnung"]] == data_person()$ListeBezeichnung) |>
-        select(all_of(c("Name", "StimmeVeraeListe", "Value"))) |>
-        filter(!is.na(Value) & Value > 0) |>
-        arrange(desc(Value))
-
+      person <- create_data_for_chart(df_details_prefiltered(), data_person())
       update_chart(person, "update_data", session)
     }) |>
       bindEvent(df_details_prefiltered(), data_person())
