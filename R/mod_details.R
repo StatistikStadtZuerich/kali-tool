@@ -54,7 +54,8 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
     # the data and setting the input$show_details/the selected row number
     observe({
       person <- create_data_for_chart(df_details_prefiltered(), data_person())
-      update_chart(person, "update_data", session)
+      id <- paste0("#", ns("sszvis-chart"))
+      update_chart(list("data" = person, "container_id" = id), "update_data", session)
     }) |>
       bindEvent(df_details_prefiltered(), data_person())
 
