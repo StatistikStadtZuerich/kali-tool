@@ -54,29 +54,17 @@ mod_results_server <- function(id, filtered_data, input_change){
       ignoreNULL = FALSE
     )
 
+    # create reactive with info about selected candidate
     data_person <- reactive({
       req(input$show_details > 0)
       create_data_person(filtered_data(), input$show_details)
     }) |>
       bindEvent(input$show_details)
 
+    # create reactive with info about selected candidate for download
     data_download <- reactive({
       req(input$show_details > 0)
-      person <- filtered_data() |>
-        select(
-          Wahljahr, Name, Alter, Geschlecht, Beruf, Wahlkreis, Liste,
-          Wahlresultat, `Anzahl Stimmen`, `Parteieigene Stimmen`,
-          `Parteifremde Stimmen`,
-          `Anteil Stimmen aus veränderten Listen`
-        ) |>
-        mutate(ID = row_number()) |>
-        filter(ID == input$show_details) |>
-        select(-ID) |>
-        gather(
-          `Result der Wahl`, Wert, -Wahljahr, -Name, -Alter,
-          -Geschlecht, -Beruf, -Wahlkreis, -Liste
-        )
-      person
+      create_data_download_candidate(filtered_data())
     }) |>
       bindEvent(input$show_details)
 
@@ -85,8 +73,6 @@ mod_results_server <- function(id, filtered_data, input_change){
       "data_download" = data_download,
       "row_click" = reactive(input$show_details)
     ))
-
-
 
   })
 }
