@@ -37,6 +37,7 @@ get_reactable_candidates <- function(df, name_of_row_var) {
             if (window.Shiny) {
             Shiny.setInputValue('", name_of_row_var, ":shiny.number', rowInfo.index + 1, { priority: 'event' })
             }
-            }"))
+            }")
+    )
   )
 }

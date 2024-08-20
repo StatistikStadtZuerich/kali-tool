@@ -10,20 +10,27 @@ test_that("check creation of data for chart works", {
   )
   filtered_data <- filter_candidates(df_main, my_inputs)
   data_person <- create_data_person(filtered_data, 42)
-  df_prefiltered <- create_prefiltered_data(df_details,
-                                            my_inputs$select_year,
-                                            my_inputs$wahlstatus_radio_button)
+  df_prefiltered <- create_prefiltered_data(
+    df_details,
+    my_inputs$select_year,
+    my_inputs$wahlstatus_radio_button
+  )
   # check data type
-  expect_s3_class(create_data_for_chart(df_prefiltered, data_person),
-                  "data.frame")
+  expect_s3_class(
+    create_data_for_chart(df_prefiltered, data_person),
+    "data.frame"
+  )
   # check name of candidate
-  expect_equal(create_data_for_chart(df_prefiltered, data_person) |>
-                 pull(Name) |>
-                 unique(),
-               data_person$Name)
+  expect_equal(
+    create_data_for_chart(df_prefiltered, data_person) |>
+      pull(Name) |>
+      unique(),
+    data_person$Name
+  )
   # check column names
-  expect_named(create_data_for_chart(df_prefiltered, data_person),
-               c("Name", "StimmeVeraeListe", "Value"))
+  expect_named(
+    create_data_for_chart(df_prefiltered, data_person),
+    c("Name", "StimmeVeraeListe", "Value")
+  )
   # could test more: dimensions etc
-
 })

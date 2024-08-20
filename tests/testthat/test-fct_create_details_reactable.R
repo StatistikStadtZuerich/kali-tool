@@ -12,13 +12,19 @@ test_that("make sure reactable for one candidate works", {
   data_person <- create_data_person(filtered_data, 42)
 
   # check data type
-  expect_s3_class(create_details_reactable(data_person),
-                  "reactable")
+  expect_s3_class(
+    create_details_reactable(data_person),
+    "reactable"
+  )
   # check dimensions
-  expect_equal(length(create_details_reactable(data_person)$x$tag$attribs$columns),
-               2)
-  expect_equal(length(dplyr::last(jsonlite::parse_json(
-    create_details_reactable(data_person)$x$tag$attribs$data
+  expect_equal(
+    length(create_details_reactable(data_person)$x$tag$attribs$columns),
+    2
+  )
+  expect_equal(
+    length(dplyr::last(jsonlite::parse_json(
+      create_details_reactable(data_person)$x$tag$attribs$data
     ))),
-               5)
+    5
+  )
 })

@@ -7,7 +7,7 @@
 #' @noRd
 #'
 #' @importFrom shiny NS tagList
-mod_results_ui <- function(id){
+mod_results_ui <- function(id) {
   ns <- NS(id)
   tagList(
     # Title for table
@@ -39,8 +39,8 @@ mod_results_ui <- function(id){
 #' @param filtered_data data frame to be shown in main reactable
 #' @param input_change reactive that changes when user changes something in input widgets
 #' @noRd
-mod_results_server <- function(id, filtered_data, input_change){
-  moduleServer( id, function(input, output, session){
+mod_results_server <- function(id, filtered_data, input_change) {
+  moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
     # main Reactable Output
@@ -74,7 +74,6 @@ mod_results_server <- function(id, filtered_data, input_change){
       "data_download" = data_download,
       "row_click" = reactive(input$show_details)
     ))
-
   })
 }
 

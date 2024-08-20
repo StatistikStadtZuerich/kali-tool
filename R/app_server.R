@@ -9,20 +9,25 @@ app_server <- function(input, output, session) {
   filtered_input <- mod_input_server("input_module")
 
   # main results module returns further filtered data according to click
-  info_single_candidate <- mod_results_server("results_1",
-                     filtered_input$filtered_data,
-                     filtered_input$has_changed)
+  info_single_candidate <- mod_results_server(
+    "results_1",
+    filtered_input$filtered_data,
+    filtered_input$has_changed
+  )
 
   observe({
     updateNumericInput(session, "show_details",
-                       value = info_single_candidate$row_click())
+      value = info_single_candidate$row_click()
+    )
   }) |>
     bindEvent(info_single_candidate$row_click())
 
   # module with details on one candidate
-  mod_details_server("details_1",
-                     info_single_candidate$data_person,
-                     filtered_input$df_details_prefiltered)
+  mod_details_server(
+    "details_1",
+    info_single_candidate$data_person,
+    filtered_input$df_details_prefiltered
+  )
 
   ## Write Download Table
   # CSV
@@ -43,9 +48,11 @@ app_server <- function(input, output, session) {
       paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
     },
     content = function(file) {
-      ssz_download_excel(info_single_candidate$data_download(),
-                         file,
-                         info_single_candidate$data_person()$Name)
+      ssz_download_excel(
+        info_single_candidate$data_download(),
+        file,
+        info_single_candidate$data_person()$Name
+      )
     }
   )
 }

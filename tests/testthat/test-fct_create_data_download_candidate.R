@@ -15,20 +15,38 @@ test_that("check data download for one candidate works", {
     pull(Name)
 
   # check data type
-  expect_s3_class(create_data_download_candidate(filtered_data,
-                                                 row_to_be_selected),
-                  "data.frame")
+  expect_s3_class(
+    create_data_download_candidate(
+      filtered_data,
+      row_to_be_selected
+    ),
+    "data.frame"
+  )
   # check correct name is selected
-  expect_equal(unique(create_data_download_candidate(filtered_data,
-                                              row_to_be_selected)$Name),
-               name_to_be_selected)
+  expect_equal(
+    unique(create_data_download_candidate(
+      filtered_data,
+      row_to_be_selected
+    )$Name),
+    name_to_be_selected
+  )
   # check column names
-  expect_named(create_data_download_candidate(filtered_data,
-                                              row_to_be_selected),
-               c("Wahljahr", "Name", "Alter", "Geschlecht", "Beruf", "Wahlkreis",
-                 "Liste", "Result der Wahl", "Wert"))
+  expect_named(
+    create_data_download_candidate(
+      filtered_data,
+      row_to_be_selected
+    ),
+    c(
+      "Wahljahr", "Name", "Alter", "Geschlecht", "Beruf", "Wahlkreis",
+      "Liste", "Result der Wahl", "Wert"
+    )
+  )
   # # check rows: 5
-  expect_equal(nrow(create_data_download_candidate(filtered_data,
-                                                   row_to_be_selected)),
-               5)
+  expect_equal(
+    nrow(create_data_download_candidate(
+      filtered_data,
+      row_to_be_selected
+    )),
+    5
+  )
 })

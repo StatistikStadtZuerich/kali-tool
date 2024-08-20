@@ -17,13 +17,19 @@ create_data_download_candidate <- function(filtered_data, show_details) {
     ))) |>
     slice(show_details) |>
     # change combo columns to character
-    mutate(across(c("Wahlresultat", "Anzahl Stimmen", "Parteieigene Stimmen",
-                    "Parteifremde Stimmen",
-                    "Anteil Stimmen aus veränderten Listen"),
-                  as.character)) |>
-    pivot_longer(c(
-      "Wahlresultat", "Anzahl Stimmen", "Parteieigene Stimmen",
-      "Parteifremde Stimmen", "Anteil Stimmen aus veränderten Listen"),
+    mutate(across(
+      c(
+        "Wahlresultat", "Anzahl Stimmen", "Parteieigene Stimmen",
+        "Parteifremde Stimmen",
+        "Anteil Stimmen aus veränderten Listen"
+      ),
+      as.character
+    )) |>
+    pivot_longer(
+      c(
+        "Wahlresultat", "Anzahl Stimmen", "Parteieigene Stimmen",
+        "Parteifremde Stimmen", "Anteil Stimmen aus veränderten Listen"
+      ),
       names_to = "Result der Wahl",
       values_to = "Wert"
     )

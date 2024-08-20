@@ -13,7 +13,6 @@ create_data_person <- function(filtered_data, show_details) {
       "Name", "Wahlkreis", "ListeBezeichnung", "Liste", "Wahlresultat",
       "Anzahl Stimmen", "Parteieigene Stimmen", "Parteifremde Stimmen",
       "Anteil Stimmen aus veränderten Listen"
-    ))
-  ) |>
+    ))) |>
     slice(show_details)
 }

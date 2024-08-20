@@ -61,9 +61,7 @@ app_ui <- function(request) {
         mainPanel(
           conditionalPanel(
             condition = "input.ActionButtonId>0",
-
             mod_results_ui("results_1"),
-
             conditionalPanel(
               condition = "input.show_details > 0",
               mod_details_ui("details_1")
@@ -79,7 +77,6 @@ app_ui <- function(request) {
               value = 0
             )
           ),
-
         )
       )
     ))
