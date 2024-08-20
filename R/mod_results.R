@@ -16,12 +16,9 @@ mod_results_ui <- function(id) {
     # Define subtitle
     p("Für Detailinformationen zu den Ergebnissen einzelner Kandidierenden wählen Sie eine Zeile aus."),
 
-    # Example Table Output
-    shinycssloaders::withSpinner(
-      reactableOutput(ns("table")),
-      type = 7,
-      color = "#0F05A0"
-    ),
+    # Table Output
+    reactableOutput(ns("table")),
+
 
     # initialise hidden variable for row selection, to be used with JS function in reactable
     conditionalPanel(
