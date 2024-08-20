@@ -64,7 +64,7 @@ mod_results_server <- function(id, filtered_data, input_change){
     # create reactive with info about selected candidate for download
     data_download <- reactive({
       req(input$show_details > 0)
-      create_data_download_candidate(filtered_data())
+      create_data_download_candidate(filtered_data(), input$show_details)
     }) |>
       bindEvent(input$show_details)
 
