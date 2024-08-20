@@ -35,7 +35,6 @@ testServer(
     session$setInputs("show_details" = 0)
     expect_error(data_person())
     expect_error(data_download())
-
   }
 )
 

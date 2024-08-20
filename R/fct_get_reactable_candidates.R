@@ -9,7 +9,9 @@
 get_reactable_candidates <- function(df, name_of_row_var) {
   reactable(
     df |>
-      select(Name, Alter, Geschlecht, Beruf, Wahlkreis, Liste) |>
+      select(all_of(c(
+        "Name", "Alter", "Geschlecht", "Beruf", "Wahlkreis", "Liste"
+        ))) |>
       unique(),
     paginationType = "simple",
     language = reactableLang(
