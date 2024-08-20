@@ -5,76 +5,45 @@
 #' @import shiny
 #' @noRd
 app_server <- function(input, output, session) {
+  # input module returns filtered data
   filtered_input <- mod_input_server("input_module")
 
-  # main Reactable Output
-  output$table <- renderReactable({
-    req(input$ActionButtonId > 0)
+  # main results module returns further filtered data according to click
+  info_single_candidate <- mod_results_server("results_1",
+                     filtered_input$filtered_data,
+                     filtered_input$has_changed)
 
-    table_output <- get_reactable_candidates(filtered_input$filtered_data())
-    table_output
-  })
-
-  # Prepare data for second Output
-
-  # update the show_details to zero when any of the inputs are changed
-  observeEvent(
-    filtered_input$has_changed(),
-    updateNumericInput(session, "show_details", value = 0),
-    ignoreNULL = FALSE
-  )
-
-  data_person <- reactive({
-    req(input$show_details > 0)
-    create_data_person(filtered_input$filtered_data(), input$show_details)
+  observe({
+    updateNumericInput(session, "show_details",
+                       value = info_single_candidate$row_click())
   }) |>
-    bindEvent(input$show_details)
+    bindEvent(info_single_candidate$row_click())
 
-  data_download <- reactive({
-    req(input$show_details > 0)
-    person <- filtered_input$filtered_data() |>
-      select(
-        Wahljahr, Name, Alter, Geschlecht, Beruf, Wahlkreis, Liste,
-        Wahlresultat, `Anzahl Stimmen`, `Parteieigene Stimmen`,
-        `Parteifremde Stimmen`,
-        `Anteil Stimmen aus veränderten Listen`
-      ) |>
-      mutate(ID = row_number()) |>
-      filter(ID == input$show_details) |>
-      select(-ID) |>
-      gather(
-        `Result der Wahl`, Wert, -Wahljahr, -Name, -Alter,
-        -Geschlecht, -Beruf, -Wahlkreis, -Liste
-      )
-    person
-  }) |>
-    bindEvent(input$show_details)
-
-  # create and send data for bar chart
-  # observeEvent rather than observe to avoid race condition between sending
-  # the data and setting the input$show_details/the selected row number
-  mod_details_server("details_1", data_person, filtered_input$df_details_prefiltered)
+  # module with details on one candidate
+  mod_details_server("details_1",
+                     info_single_candidate$data_person,
+                     filtered_input$df_details_prefiltered)
 
   ## Write Download Table
   # CSV
   output$csvDownload <- downloadHandler(
     filename = function(vote) {
-      suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
+      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
       paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".csv")
     },
     content = function(file) {
-      write.csv(data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
+      write.csv(info_single_candidate$data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
     }
   )
 
   # Excel
   output$excelDownload <- downloadHandler(
     filename = function(vote) {
-      suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
+      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
       paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
     },
     content = function(file) {
-      ssz_download_excel(data_download(), file, data_person()$Name)
+      ssz_download_excel(info_single_candidate$data_download(), file, data_person()$Name)
     }
   )
 }

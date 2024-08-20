@@ -62,19 +62,7 @@ app_ui <- function(request) {
           conditionalPanel(
             condition = "input.ActionButtonId>0",
 
-            # Title for table
-            h1("Die untenstehenden Kandidierenden entsprechen Ihren Suchkriterien"),
-            hr(),
-            # Define subtitle
-            p("Für Detailinformationen zu den Ergebnissen einzelner Kandidierenden wählen Sie eine Zeile aus."),
-
-            # Example Table Output
-            shinycssloaders::withSpinner(
-              reactableOutput("table"),
-              type = 7,
-              color = "#0F05A0"
-            ),
-
+            mod_results_ui("results_1"),
 
             conditionalPanel(
               condition = "input.show_details > 0",

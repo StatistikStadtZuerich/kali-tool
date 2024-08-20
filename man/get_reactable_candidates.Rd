@@ -4,10 +4,12 @@
 \alias{get_reactable_candidates}
 \title{get_reactable_candidates}
 \usage{
-get_reactable_candidates(df)
+get_reactable_candidates(df, name_of_row_var)
 }
 \arguments{
 \item{df}{filtered data to be shown}
+
+\item{name_of_row_var}{correctly namespaced name for the input variable to be set with click}
 }
 \value{
 a reactable
