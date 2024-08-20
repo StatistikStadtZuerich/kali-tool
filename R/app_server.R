@@ -43,7 +43,9 @@ app_server <- function(input, output, session) {
       paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
     },
     content = function(file) {
-      ssz_download_excel(info_single_candidate$data_download(), file, data_person()$Name)
+      ssz_download_excel(info_single_candidate$data_download(),
+                         file,
+                         info_single_candidate$data_person()$Name)
     }
   )
 }
