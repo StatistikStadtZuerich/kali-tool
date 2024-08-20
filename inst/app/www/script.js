@@ -11,7 +11,10 @@ Global variables exposed by Shiny (dependencies): d3, sszvis
 // Configuration
 // -----------------------------------------------
 // Matches the one set in Shiny.
-var CHART_CONTAINER_ID = "#sszvis-chart";
+var config = {
+  targetElement: "" // Set in custom message handler
+}
+
 /*var MAX_WIDTH = 3000;*/
 var queryProps = sszvis
           .responsiveProps()
@@ -70,7 +73,7 @@ var actions = {
 // Render
 // -----------------------------------------------
 function render(state) {
-  var props = queryProps(sszvis.measureDimensions(CHART_CONTAINER_ID));
+  var props = queryProps(sszvis.measureDimensions(config.targetElement));
   var chartDimensions = sszvis.dimensionsHorizontalBarChart(
     state.categories.length
   );
@@ -81,7 +84,7 @@ function render(state) {
       bottom: 40,
     },
 
-    CHART_CONTAINER_ID
+    config.targetElement
   );
 
   var chartWidth = Math.min(bounds.innerWidth, 2000);
@@ -103,13 +106,13 @@ function render(state) {
   // Layers
 
   var chartLayer = sszvis
-    .createSvgLayer(CHART_CONTAINER_ID, bounds)
+    .createSvgLayer(config.targetElement, bounds)
     .datum(state.data);
 
-  var controlLayer = sszvis.createHtmlLayer(CHART_CONTAINER_ID, bounds);
+  var controlLayer = sszvis.createHtmlLayer(config.targetElement, bounds);
 
   var tooltipLayer = sszvis
-    .createHtmlLayer(CHART_CONTAINER_ID, bounds)
+    .createHtmlLayer(config.targetElement, bounds)
     .datum(state.selected);
 
   // Components
@@ -235,9 +238,12 @@ It already comes in a form of parsed JSON object (array of observations), so the
 is no need to parse the CSV / JSON anymore, as was the case in original example -
 just a logic to extract needed properties is present (parseRow).
 */
-Shiny.addCustomMessageHandler("update_data", function (data) {
+Shiny.addCustomMessageHandler("update_data", function (message) {
   try {
-    var parsedRows = data.map(parseRow);
+    var container_id = message.container_id[0];
+    config.targetElement = container_id;
+    var data = message.data;
+    var parsedRows = data.map((d) => parseRow(d));
     actions.prepareState(parsedRows);
   } catch (e) {
     throw e;

@@ -80,13 +80,7 @@ mod_input_server <- function(id) {
 
     # filter detailed results data according to inputs
     df_details_prefiltered <- reactive({
-      df_details |>
-        filter(.data[["Wahljahr"]] == input$select_year) |>
-        filter(if (input$wahlstatus_radio_button != "Alle") {
-          .data[["Wahlresultat"]] == input$wahlstatus_radio_button
-        } else {
-          TRUE
-        })
+      create_prefiltered_data(df_details, input$select_year, input$wahlstatus_radio_button)
     })
 
     # update the reactive value to indicate any of the inputs has changed

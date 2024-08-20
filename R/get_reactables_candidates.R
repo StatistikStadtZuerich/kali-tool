@@ -34,30 +34,8 @@ get_reactable_candidates <- function(df) {
             // Send the click event to Shiny, which will be available in input$show_details
             // Note that the row index starts at 0 in JavaScript, so we add 1
             if (window.Shiny) {
-            Shiny.setInputValue('show_details', rowInfo.index + 1, { priority: 'event' })
+            Shiny.setInputValue('show_details:shiny.number', rowInfo.index + 1, { priority: 'event' })
             }
             }")
-  )
-}
-
-#' get_reactable_details
-#'
-#' @description function to generate the reactable for the details about the candidate
-#'
-#' @param candidate
-#'
-#' @return a reactable
-get_reactable_details <- function(candidate) {
-  reactable(candidate,
-    paginationType = "simple",
-    theme = reactableTheme(
-      borderColor = "#DEDEDE"
-    ),
-    defaultColDef = colDef(
-      align = "left",
-      minWidth = 50
-    ),
-    outlined = TRUE,
-    highlight = TRUE
   )
 }
