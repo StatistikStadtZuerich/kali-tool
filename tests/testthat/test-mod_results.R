@@ -1,29 +1,41 @@
+# prepare module inputs
+my_inputs <- list(
+  "suchfeld" = "",
+  "select_year" = 2014,
+  "gender_radio_button" = "Alle",
+  "select_kreis" = "Ganze Stadt",
+  "select_liste" = "Alle Listen",
+  "wahlstatus_radio_button" = "Alle"
+)
+filtered_data <- filter_candidates(df_main, my_inputs)
+
 testServer(
   mod_results_server,
   # Add here your module params
-  args = list(),
+  args = list(reactive(filtered_data), reactive(5)),
   {
     ns <- session$ns
-    expect_true(
-      inherits(ns, "function")
-    )
-    expect_true(
-      grepl(id, ns(""))
-    )
-    expect_true(
-      grepl("test", ns("test"))
-    )
-    # Here are some examples of tests you can
-    # run on your module
-    # - Testing the setting of inputs
-    # session$setInputs(x = 1)
-    # expect_true(input$x == 1)
-    # - If ever your input updates a reactiveValues
-    # - Note that this reactiveValues must be passed
-    # - to the testServer function via args = list()
-    # expect_true(r$x == 1)
-    # - Testing output
-    # expect_true(inherits(output$tbl$html, "html"))
+    initial_row <- 3
+    session$setInputs("show_details" = initial_row)
+    # Check returned
+    res <- session$returned
+    expect_named(res, c("data_person", "data_download", "row_click"))
+
+    # make sure output assignment worked
+    expect_identical(res$data_person(), data_person())
+    expect_identical(res$data_download(), data_download())
+    expect_identical(res$row_click(), input$show_details)
+
+    # check output types
+    expect_s3_class(data_person(), "data.frame")
+    expect_s3_class(data_download(), "data.frame")
+
+    # check detailed info is only available when a row is clicked,
+    # i.e. when show_details is > 0
+    session$setInputs("show_details" = 0)
+    expect_error(data_person())
+    expect_error(data_download())
+
   }
 )
 
