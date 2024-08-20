@@ -36,7 +36,8 @@ mod_results_ui <- function(id){
 }
 
 #' results Server Functions
-#'
+#' @param filtered_data data frame to be shown in main reactable
+#' @param input_change reactive that changes when user changes something in input widgets
 #' @noRd
 mod_results_server <- function(id, filtered_data, input_change){
   moduleServer( id, function(input, output, session){

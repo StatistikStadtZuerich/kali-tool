@@ -32,7 +32,8 @@ mod_details_ui <- function(id) {
 }
 
 #' details Server Functions
-#'
+#' @param data_person data frame with data to be shown in small reactable
+#' @param df_details_prefiltered data frame to be used for info on candidate's changed votes
 #' @noRd
 mod_details_server <- function(id, data_person, df_details_prefiltered) {
   moduleServer( id, function(input, output, session) {
