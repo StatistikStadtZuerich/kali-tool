@@ -33,9 +33,12 @@ app_server <- function(input, output, session) {
       filtered_input$df_details_prefiltered
     )
 
+    # create filename (currently without further specifyers like year or suchfeld)
+    fn_no_ext <- paste0("Gemeinderatswahlen_", info_single_candidate$data_person()$Name)
+
     mod_download_server("download_1",
-                        info_single_candidate$data_person,
-                        info_single_candidate$data_download)
+                        info_single_candidate,
+                        fn_no_ext)
   }) |>
     bindEvent(input$show_details)
 

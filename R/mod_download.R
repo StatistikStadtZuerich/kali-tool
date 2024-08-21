@@ -3,6 +3,8 @@
 #' @description A shiny Module.
 #'
 #' @param id,input,output,session Internal parameters for {shiny}.
+#' @param ssz_icons icon list/path which can be used
+#' @param ogd_link url to be used with OGD button
 #'
 #' @noRd
 #'
@@ -31,39 +33,38 @@ mod_download_ui <- function(id, ssz_icons, ogd_link){
         href = ogd_link
       )
     )
-
   )
 }
 
 #' download Server Functions
-#'
+#' @param id id of module(shiny)
+#' @param info_single_candidate list with two data.frames named data_person and data_download; both are reactive
+#' @param fn_no_ext Filename to be used for excel and csv download without extension
 #' @noRd
-mod_download_server <- function(id, data_person, data_download){
+mod_download_server <- function(id, info_single_candidate, fn_no_ext){
   moduleServer( id, function(input, output, session){
     ns <- session$ns
     ## Write Download Table
     # CSV
     output$csv_download <- downloadHandler(
       filename = function(vote) {
-        suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
-        paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".csv")
+        paste0(fn_no_ext, ".csv")
       },
       content = function(file) {
-        write.csv(data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
+        write.csv(info_single_candidate$data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
       }
     )
 
     # Excel
     output$excel_download <- downloadHandler(
       filename = function(vote) {
-        suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
-        paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
+        paste0(fn_no_ext, ".xlsx")
       },
       content = function(file) {
         ssz_download_excel(
-          data_download(),
+          info_single_candidate$data_download(),
           file,
-          data_person()$Name
+          info_single_candidate$data_person()$Name
         )
       }
     )
