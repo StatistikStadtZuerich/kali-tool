@@ -7,7 +7,7 @@
 #' @noRd
 #'
 #' @importFrom shiny NS tagList
-mod_download_ui <- function(id, ssz_icons){
+mod_download_ui <- function(id, ssz_icons, ogd_link){
   ns <- NS(id)
   tagList(
     # Download Panel
@@ -28,7 +28,7 @@ mod_download_ui <- function(id, ssz_icons){
         outputId = ns("ogdDown"),
         label = "OGD",
         image = img(ssz_icons("link")),
-        href = "https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc"
+        href = ogd_link
       )
     )
 

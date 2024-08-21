@@ -7,6 +7,8 @@
 app_ui <- function(request) {
   # Set the Icon path
   ssz_icons <- icon_set("inst/app/www/icons/")
+  # set OGD link
+  ogd_link <- "https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc"
 
   tagList(
     # Leave this function for adding external resources
@@ -33,7 +35,7 @@ app_ui <- function(request) {
             condition = "input.show_details > 0",
             h3("Detailinformationen herunterladen"),
 
-            mod_download_ui("download_1", ssz_icons)
+            mod_download_ui("download_1", ssz_icons, ogd_link)
           )
         ),
 
