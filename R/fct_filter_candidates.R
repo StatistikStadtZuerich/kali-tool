@@ -1,8 +1,11 @@
-#' mod_input
+#' filter candidates
 #'
-#' @description A utils function
+#' @description function to filter the candidates according to the inputs
 #'
-#' @return The return value, if any, from executing the utility.
+#' @param df_main data frame with all candidates (package data)
+#' @param input_values list of values for filtering
+#'
+#' @return dataframe with filtered data
 #'
 #' @noRd
 filter_candidates <- function(df_main, input_values) {
