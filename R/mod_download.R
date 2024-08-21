@@ -15,17 +15,17 @@ mod_download_ui <- function(id, ssz_icons, ogd_link){
       id = ns("downloadWrapperId"),
       class = "downloadWrapperDiv",
       sszDownloadButton(
-        outputId = ns("csvDownload"),
+        outputId = ns("csv_download"),
         label = "csv",
         image = img(ssz_icons$download)
       ),
       sszDownloadButton(
-        outputId = ns("excelDownload"),
+        outputId = ns("excel_download"),
         label = "xlsx",
         image = img(ssz_icons$download)
       ),
       sszOgdDownload(
-        outputId = ns("ogdDown"),
+        outputId = ns("ogd_download"),
         label = "OGD",
         image = img(ssz_icons("link")),
         href = ogd_link
@@ -43,7 +43,7 @@ mod_download_server <- function(id, data_person, data_download){
     ns <- session$ns
     ## Write Download Table
     # CSV
-    output$csvDownload <- downloadHandler(
+    output$csv_download <- downloadHandler(
       filename = function(vote) {
         suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
         paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".csv")
@@ -54,7 +54,7 @@ mod_download_server <- function(id, data_person, data_download){
     )
 
     # Excel
-    output$excelDownload <- downloadHandler(
+    output$excel_download <- downloadHandler(
       filename = function(vote) {
         suchfeld <- gsub(" ", "-", data_person()$Name, fixed = TRUE)
         paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
