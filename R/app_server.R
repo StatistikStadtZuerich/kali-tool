@@ -24,6 +24,8 @@ app_server <- function(input, output, session) {
 
   # module with details on one candidate
   observe({
+    # only show if show_details is > 0; avoid race conditio of module being
+    # shown when data is not yet ready
     req(input$show_details)
     mod_details_server(
       "details_1",
