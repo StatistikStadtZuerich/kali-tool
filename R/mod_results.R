@@ -17,8 +17,11 @@ mod_results_ui <- function(id) {
     p("Für Detailinformationen zu den Ergebnissen einzelner Kandidierenden wählen Sie eine Zeile aus."),
 
     # Table Output
-    reactableOutput(ns("table")),
-
+    shinycssloaders::withSpinner(
+      reactableOutput(ns("table")),
+      type = 7,
+      color = "#0F05A0"
+    ),
 
     # initialise hidden variable for row selection, to be used with JS function in reactable
     conditionalPanel(
