@@ -1,7 +1,5 @@
-ssz_download_excel <- function(file, excel_args) {
+ssz_download_excel <- function(file, data_for_download) {
 
-  filteredData <- excel_args[[1]]
-  nameVote <- excel_args[[2]]
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
   path_logo <- "inst/app/www/logo_stzh_stat_sw_pos_1.png"
@@ -16,11 +14,11 @@ ssz_download_excel <- function(file, excel_args) {
       Date = ifelse(is.na(Date), NA,
                     paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))),
       Titel = ifelse(is.na(Titel), NA,
-                     paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl: ", nameVote))
+                     paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl vom ", format(Sys.time(), "%Y-%m-%d, %H:%M:%S")))
     )
 
-  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:",
-                     paste(nameVote), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
+  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl",
+                     format(Sys.time(), "%Y-%m-%d, %H:%M:%S"), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
     as.data.frame()
 
   # Data Sheet 2
@@ -62,7 +60,7 @@ ssz_download_excel <- function(file, excel_args) {
     withFilter = FALSE
   )
   writeData(wb,
-    sheet = 2, x = filteredData,
+    sheet = 2, x = data_for_download,
     colNames = TRUE, rowNames = FALSE,
     startCol = 1,
     startRow = 9,
@@ -79,15 +77,15 @@ ssz_download_excel <- function(file, excel_args) {
   modifyBaseFont(wb, fontSize = 8, fontName = "Arial")
 
   # Set Column Width for content
-  setColWidths(wb, sheet = 2, cols = "A", widths = 10)
-  setColWidths(wb, sheet = 2, cols = "B", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "C", widths = 8)
-  setColWidths(wb, sheet = 2, cols = "D", widths = 12)
-  setColWidths(wb, sheet = 2, cols = "E", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "F", widths = 15)
-  setColWidths(wb, sheet = 2, cols = "G", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "H", widths = 35)
-  setColWidths(wb, sheet = 2, cols = "I", widths = 12)
+  # setColWidths(wb, sheet = 2, cols = "A", widths = 10)
+  # setColWidths(wb, sheet = 2, cols = "B", widths = 40)
+  # setColWidths(wb, sheet = 2, cols = "C", widths = 8)
+  # setColWidths(wb, sheet = 2, cols = "D", widths = 12)
+  # setColWidths(wb, sheet = 2, cols = "E", widths = 40)
+  # setColWidths(wb, sheet = 2, cols = "F", widths = 15)
+  # setColWidths(wb, sheet = 2, cols = "G", widths = 40)
+  # setColWidths(wb, sheet = 2, cols = "H", widths = 35)
+  # setColWidths(wb, sheet = 2, cols = "I", widths = 12)
 
   # Set Column Width for overview sheet
   setColWidths(wb, sheet = 1, cols = "A", widths = 1)
