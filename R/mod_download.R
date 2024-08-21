@@ -40,8 +40,10 @@ mod_download_ui <- function(id, ssz_icons, ogd_link){
 #' @param id id of module(shiny)
 #' @param info_single_candidate list with two data.frames named data_person and data_download; both are reactive
 #' @param fn_no_ext Filename to be used for excel and csv download without extension
+#' @param fct_create_excel function to be called with file argument and excel args to create the excel download file
+#' @param excel_arg arguments to be passed to fct_create_excel, can be list but rely on order, not on names
 #' @noRd
-mod_download_server <- function(id, info_single_candidate, fn_no_ext){
+mod_download_server <- function(id, info_single_candidate, fn_no_ext, fct_create_excel, excel_args){
   moduleServer( id, function(input, output, session){
     ns <- session$ns
     ## Write Download Table
@@ -61,11 +63,7 @@ mod_download_server <- function(id, info_single_candidate, fn_no_ext){
         paste0(fn_no_ext, ".xlsx")
       },
       content = function(file) {
-        ssz_download_excel(
-          info_single_candidate$data_download(),
-          file,
-          info_single_candidate$data_person()$Name
-        )
+        fct_create_excel(file, excel_args)
       }
     )
 

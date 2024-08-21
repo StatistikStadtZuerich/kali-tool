@@ -35,10 +35,18 @@ app_server <- function(input, output, session) {
 
     # create filename (currently without further specifyers like year or suchfeld)
     fn_no_ext <- paste0("Gemeinderatswahlen_", info_single_candidate$data_person()$Name)
+    # create additional arguments for excel creation function
+    # names somehow get lost when being passed to the module --> rely on order, not on name!
+    excel_args <- list(
+      info_single_candidate$data_download(),
+      info_single_candidate$data_person()$Name
+    )
 
     mod_download_server("download_1",
                         info_single_candidate,
-                        fn_no_ext)
+                        fn_no_ext,
+                        ssz_download_excel,
+                        excel_args)
   }) |>
     bindEvent(input$show_details)
 

@@ -1,4 +1,7 @@
-ssz_download_excel <- function(filteredData, file, nameVote) {
+ssz_download_excel <- function(file, excel_args) {
+
+  filteredData <- excel_args[[1]]
+  nameVote <- excel_args[[2]]
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
   path_logo <- "inst/app/www/logo_stzh_stat_sw_pos_1.png"
@@ -8,13 +11,16 @@ ssz_download_excel <- function(filteredData, file, nameVote) {
 
   # Manipulate Data
   # Data Sheet 1
-  data <- data %>%
+  data <- data |>
     mutate(
-      Date = ifelse(is.na(Date), NA, paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))),
-      Titel = ifelse(is.na(Titel), NA, paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl: ", nameVote))
+      Date = ifelse(is.na(Date), NA,
+                    paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))),
+      Titel = ifelse(is.na(Titel), NA,
+                     paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl: ", nameVote))
     )
 
-  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:", paste(nameVote), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
+  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:",
+                     paste(nameVote), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
     as.data.frame()
 
   # Data Sheet 2
