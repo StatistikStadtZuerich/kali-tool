@@ -32,34 +32,13 @@ app_server <- function(input, output, session) {
       info_single_candidate$data_person,
       filtered_input$df_details_prefiltered
     )
+
+    mod_download_server("download_1",
+                        info_single_candidate$data_person,
+                        info_single_candidate$data_download)
   }) |>
     bindEvent(input$show_details)
 
 
-  ## Write Download Table
-  # CSV
-  output$csvDownload <- downloadHandler(
-    filename = function(vote) {
-      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
-      paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".csv")
-    },
-    content = function(file) {
-      write.csv(info_single_candidate$data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
-    }
-  )
 
-  # Excel
-  output$excelDownload <- downloadHandler(
-    filename = function(vote) {
-      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
-      paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
-    },
-    content = function(file) {
-      ssz_download_excel(
-        info_single_candidate$data_download(),
-        file,
-        info_single_candidate$data_person()$Name
-      )
-    }
-  )
 }
