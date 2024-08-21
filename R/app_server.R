@@ -23,11 +23,16 @@ app_server <- function(input, output, session) {
     bindEvent(info_single_candidate$row_click())
 
   # module with details on one candidate
-  mod_details_server(
-    "details_1",
-    info_single_candidate$data_person,
-    filtered_input$df_details_prefiltered
-  )
+  observe({
+    req(input$show_details)
+    mod_details_server(
+      "details_1",
+      info_single_candidate$data_person,
+      filtered_input$df_details_prefiltered
+    )
+  }) |>
+    bindEvent(input$show_details)
+
 
   ## Write Download Table
   # CSV
