@@ -27,15 +27,15 @@ mod_details_ui <- function(id) {
 
     # div for d3 chart; namespace is dealt with in server/JS message handler
     div(id = ns("sszvis-chart"))
-
   )
 }
 
 #' details Server Functions
-#'
+#' @param data_person data frame with data to be shown in small reactable
+#' @param df_details_prefiltered data frame to be used for info on candidate's changed votes
 #' @noRd
 mod_details_server <- function(id, data_person, df_details_prefiltered) {
-  moduleServer( id, function(input, output, session) {
+  moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
     # Render title of selected person
@@ -55,7 +55,6 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
       update_chart(list("data" = person, "container_id" = id), "update_data", session)
     }) |>
       bindEvent(df_details_prefiltered(), data_person())
-
   })
 }
 

@@ -10,9 +10,11 @@
 #' @noRd
 create_data_for_chart <- function(df_prefiltered, data_person) {
   df_prefiltered |>
-    filter(.data[["Name"]] == data_person$Name,
-           .data[["Wahlkreis"]] == data_person$Wahlkreis,
-           .data[["ListeBezeichnung"]] == data_person$ListeBezeichnung) |>
+    filter(
+      .data[["Name"]] == data_person$Name,
+      .data[["Wahlkreis"]] == data_person$Wahlkreis,
+      .data[["ListeBezeichnung"]] == data_person$ListeBezeichnung
+    ) |>
     select(all_of(c("Name", "StimmeVeraeListe", "Value"))) |>
     filter(!is.na(Value) & Value > 0) |>
     arrange(desc(Value))

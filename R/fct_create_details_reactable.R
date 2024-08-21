@@ -13,17 +13,19 @@ create_details_reactable <- function(data_person) {
     # turn everything into strings, otherwise cannot put it into the same column
     mutate(across(everything(), as.character)) |>
     pivot_longer(everything(),
-                 names_to = "Detailinformationen zu den erhaltenen Stimmen",
-                 values_to = "Wert") |>
-    reactable(paginationType = "simple",
-              theme = reactableTheme(
-                borderColor = "#DEDEDE"
-              ),
-              defaultColDef = colDef(
-                align = "left",
-                minWidth = 50
-              ),
-              outlined = TRUE,
-              highlight = TRUE
+      names_to = "Detailinformationen zu den erhaltenen Stimmen",
+      values_to = "Wert"
+    ) |>
+    reactable(
+      paginationType = "simple",
+      theme = reactableTheme(
+        borderColor = "#DEDEDE"
+      ),
+      defaultColDef = colDef(
+        align = "left",
+        minWidth = 50
+      ),
+      outlined = TRUE,
+      highlight = TRUE
     )
 }
