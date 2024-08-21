@@ -32,7 +32,7 @@ app_ui <- function(request) {
           # Downloads - only show these when one person is selected to
           # download details about this person
           conditionalPanel(
-            condition = "input.show_details > 0",
+            condition = "input.ActionButtonId>0",
             h3("Detailinformationen herunterladen"),
 
             mod_download_ui("download_1", ssz_icons, ogd_link)
