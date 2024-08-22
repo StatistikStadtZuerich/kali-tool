@@ -51,3 +51,11 @@ test_that("check resetting of list choice", {
   app$expect_values()
   app$stop()
 })
+
+
+test_that("{shinytest2} recording: kali-golem-download", {
+  app <- AppDriver$new(name = "kali-golem-download", height = 853, width = 1606)
+  app$click("ActionButtonId")
+  app$expect_download("download_1-csv_download")
+  app$expect_download("download_1-excel_download")
+})
