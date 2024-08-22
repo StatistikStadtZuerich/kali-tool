@@ -77,15 +77,13 @@ ssz_download_excel <- function(file, data_for_download) {
   modifyBaseFont(wb, fontSize = 8, fontName = "Arial")
 
   # Set Column Width for content
-  # setColWidths(wb, sheet = 2, cols = "A", widths = 10)
-  # setColWidths(wb, sheet = 2, cols = "B", widths = 40)
-  # setColWidths(wb, sheet = 2, cols = "C", widths = 8)
-  # setColWidths(wb, sheet = 2, cols = "D", widths = 12)
-  # setColWidths(wb, sheet = 2, cols = "E", widths = 40)
-  # setColWidths(wb, sheet = 2, cols = "F", widths = 15)
-  # setColWidths(wb, sheet = 2, cols = "G", widths = 40)
-  # setColWidths(wb, sheet = 2, cols = "H", widths = 35)
-  # setColWidths(wb, sheet = 2, cols = "I", widths = 12)
+  column_names <- LETTERS[1:16]
+  widths <- c(8, 40, 8, 12, 12, 40, 15, 15, 12, 12, 13, 13, 13, 13, 13, 13)
+  purrr::map2(column_names, widths,
+              \(x, y) setColWidths(wb, sheet = 2, cols = x, widths = y))
+
+  # make percentage right-aligned
+  addStyle(wb, 2, style = createStyle(halign = "right"), rows = 10:(nrow(data_for_download) + 9), cols = "P")
 
   # Set Column Width for overview sheet
   setColWidths(wb, sheet = 1, cols = "A", widths = 1)
