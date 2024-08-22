@@ -1,4 +1,11 @@
-ssz_download_excel <- function(file, data_for_download) {
+#' ssz_download_excel
+#'
+#' @param file file path where excel is to be saved
+#' @param data_for_download data to be saved in T1 of that excel sheet
+#'
+#' @return NA
+#' @noRd
+#'ssz_download_excel <- function(file, data_for_download) {
 
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
