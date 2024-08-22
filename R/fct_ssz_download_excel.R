@@ -6,7 +6,6 @@
 #' @return NA
 #' @noRd
 ssz_download_excel <- function(file, data_for_download) {
-
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
   path_logo <- "inst/app/www/logo_stzh_stat_sw_pos_1.png"
@@ -19,13 +18,17 @@ ssz_download_excel <- function(file, data_for_download) {
   data <- data |>
     mutate(
       Date = ifelse(is.na(Date), NA,
-                    paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))),
+        paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))
+      ),
       Titel = ifelse(is.na(Titel), NA,
-                     paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl vom ", format(Sys.time(), "%Y-%m-%d, %H:%M:%S")))
+        paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl vom ", format(Sys.time(), "%Y-%m-%d, %H:%M:%S"))
+      )
     )
 
-  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl",
-                     format(Sys.time(), "%Y-%m-%d, %H:%M:%S"), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
+  selected <- list(c(
+    "T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl",
+    format(Sys.time(), "%Y-%m-%d, %H:%M:%S"), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement"
+  )) |>
     as.data.frame()
 
   # Data Sheet 2
@@ -86,8 +89,10 @@ ssz_download_excel <- function(file, data_for_download) {
   # Set Column Width for content
   column_names <- LETTERS[1:16]
   widths <- c(8, 40, 8, 12, 12, 40, 15, 15, 12, 12, 13, 13, 13, 13, 13, 13)
-  purrr::map2(column_names, widths,
-              \(x, y) setColWidths(wb, sheet = 2, cols = x, widths = y))
+  purrr::map2(
+    column_names, widths,
+    \(x, y) setColWidths(wb, sheet = 2, cols = x, widths = y)
+  )
 
   # make percentage right-aligned
   addStyle(wb, 2, style = createStyle(halign = "right"), rows = 10:(nrow(data_for_download) + 9), cols = "P")

@@ -34,7 +34,6 @@ app_ui <- function(request) {
           conditionalPanel(
             condition = "input.ActionButtonId>0",
             h3("Detailinformationen herunterladen"),
-
             mod_download_ui("download_1", ssz_icons, ogd_link)
           )
         ),

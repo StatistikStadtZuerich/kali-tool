@@ -1,8 +1,8 @@
 testServer(
   mod_download_server,
   # Add here your module params
-  args = list()
-  , {
+  args = list(),
+  {
     ns <- session$ns
     expect_true(
       inherits(ns, "function")
@@ -24,7 +24,8 @@ testServer(
     # expect_true(r$x == 1)
     # - Testing output
     # expect_true(inherits(output$tbl$html, "html"))
-})
+  }
+)
 
 test_that("module ui works", {
   ogd_link <- "https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc"
@@ -32,8 +33,7 @@ test_that("module ui works", {
   golem::expect_shinytaglist(ui)
   # Check that formals have not been removed
   fmls <- formals(mod_download_ui)
-  for (i in c("id")){
+  for (i in c("id")) {
     expect_true(i %in% names(fmls))
   }
 })
-
