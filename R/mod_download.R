@@ -38,14 +38,15 @@ mod_download_ui <- function(id, ssz_icons, ogd_link){
 
 #' download Server Functions
 #' @param id id of module(shiny)
-#' @param data_download data frame with data to be downloaded (static!)
+#' @param data_download data frame with data to be downloaded (static!) as csv
 #' @param fn_no_ext Filename to be used for excel and csv download without extension
 #' @param fct_create_excel function to be called with file argument and excel args to create the excel download file
-#' @param excel_arg arguments to be passed to fct_create_excel, can be list but rely on order, not on names
+#' @param excel_arg arguments to be passed to fct_create_excel, probably the data to be downloaded in excel, can be list but rely on order, not on names
 #' @noRd
 mod_download_server <- function(id, data_download, fn_no_ext, fct_create_excel, excel_args){
   moduleServer( id, function(input, output, session){
     ns <- session$ns
+
     ## Write Download Table
     # CSV
     output$csv_download <- downloadHandler(

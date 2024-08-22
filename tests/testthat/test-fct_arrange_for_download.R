@@ -10,14 +10,29 @@ test_that("arrange for download function works works", {
   )
   filtered_data <- filter_candidates(df_main, my_inputs)
 
-  #Beruf encoding does not work yet, so is not returned
-  expect_named(arrange_for_download(filtered_data),
+  # Beruf encoding does not work yet, so is not returned for Excel
+  expect_named(arrange_for_download(filtered_data, "xlsx"),
                c("Wahljahr", "Name", "Alter", "Titel", #"Beruf",
                  "Liste", "ListeBezeichnung",
-                 "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort"
+                 "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort",
+                 "Geschlecht", "Wahlresultat", "Anzahl Stimmen",
+                 "Parteieigene Stimmen", "Parteifremde Stimmen",
+                 "Anteil Stimmen aus veränderten Listen"
+               ))
+  # but it is returned for csv
+  expect_named(arrange_for_download(filtered_data, "csv"),
+               c("Wahljahr", "Name", "Alter", "Titel", "Beruf",
+                 "Liste", "ListeBezeichnung",
+                 "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort",
+                 "Geschlecht", "Wahlresultat", "Anzahl Stimmen",
+                 "Parteieigene Stimmen", "Parteifremde Stimmen",
+                 "Anteil Stimmen aus veränderten Listen"
                ))
 
   # number of rows should remain the same
-  expect_equal(nrow(arrange_for_download(filtered_data)),
+  expect_equal(nrow(arrange_for_download(filtered_data, "csv")),
                nrow(filtered_data))
+
+  # output type can only be excel or csv
+  expect_error(arrange_for_download(filtered_data, "parquet"))
 })

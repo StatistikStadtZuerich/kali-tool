@@ -35,13 +35,12 @@ app_server <- function(input, output, session) {
 
     # create filename (currently without further specifyers like year or suchfeld)
     fn_no_ext <- paste0("Gemeinderatswahlen_Auswahl_",  format(Sys.time(), "%Y-%m-%d_%H:%M:%S"))
-    data_for_download <- arrange_for_download(filtered_input$filtered_data())
 
     mod_download_server("download_1",
-                        data_for_download,
+                        arrange_for_download(filtered_input$filtered_data(), "csv"),
                         fn_no_ext,
                         ssz_download_excel,
-                        data_for_download)
+                        arrange_for_download(filtered_input$filtered_data(), "xlsx"))
   }) |>
     bindEvent(input$show_details)
 
