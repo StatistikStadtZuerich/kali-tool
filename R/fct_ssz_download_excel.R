@@ -5,7 +5,7 @@
 #'
 #' @return NA
 #' @noRd
-#'ssz_download_excel <- function(file, data_for_download) {
+ssz_download_excel <- function(file, data_for_download) {
 
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
