@@ -1,8 +1,8 @@
 #' arrange_for_download
 #'
-#' @description A fct function
+#' @description Function to arrange the data for download
 #'
-#' @return The return value, if any, from executing the function.
+#' @return rearranged data frame
 #'
 #' @noRd
 arrange_for_download <- function(filtered_data) {
@@ -15,7 +15,13 @@ arrange_for_download <- function(filtered_data) {
       "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort"
     )),
     everything()) |>
-    mutate(across(is.character,
-                  \(x) stringi::stri_trans_general(x, "de-ASCII"))) |>
+    # did not manage to convert the "Beruf" to valid strings that can be opened in excel
+    # rowwise() |>
+    # mutate(Beruf = rawToChar(charToRaw(Beruf)))
+    # mutate(Beruf = str_replace(Beruf, "\\&", ","),
+    #        Beruf = str_replace(Beruf, "[:symbol:]", ""))
+    # mutate(across(is.character,
+    #               \(x) stringi::stri_trans_general(x, "Latin-ASCII")))
+    # mutate(Beruf = enc2utf8(Beruf))
     select(-Beruf)
 }
