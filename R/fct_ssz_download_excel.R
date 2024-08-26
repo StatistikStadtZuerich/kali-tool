@@ -5,7 +5,12 @@
 #'
 #' @return NA
 #' @noRd
-ssz_download_excel <- function(file, data_for_download) {
+ssz_download_excel <- function(file, excel_args) {
+
+  data_for_download <- excel_args[[1]]
+  string_choice <- excel_args[[2]]
+  print(string_choice)
+
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
   path_logo <- "inst/app/www/logo_stzh_stat_sw_pos_1.png"
@@ -18,16 +23,16 @@ ssz_download_excel <- function(file, data_for_download) {
   data <- data |>
     mutate(
       Date = ifelse(is.na(Date), NA,
-        paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))
+        format(Sys.Date(), "%d.%m.%Y")
       ),
       Titel = ifelse(is.na(Titel), NA,
-        paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl vom ", format(Sys.time(), "%Y-%m-%d, %H:%M:%S"))
+        paste("Resultat der Gemeinderatswahlen für Ihre Auswahl:", string_choice)
       )
     )
 
   selected <- list(c(
-    "T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl",
-    format(Sys.time(), "%Y-%m-%d, %H:%M:%S"), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement"
+    "T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:",
+    string_choice, " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement"
   )) |>
     as.data.frame()
 
