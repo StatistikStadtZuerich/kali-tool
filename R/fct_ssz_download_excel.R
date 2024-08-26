@@ -1,7 +1,7 @@
 #' ssz_download_excel
 #'
 #' @param file file path where excel is to be saved
-#' @param data_for_download data to be saved in T1 of that excel sheet
+#' @param excel_args list of additional arguments, 1 is the data, 2 is the choice string
 #'
 #' @return NA
 #' @noRd
@@ -9,7 +9,6 @@ ssz_download_excel <- function(file, excel_args) {
 
   data_for_download <- excel_args[[1]]
   string_choice <- excel_args[[2]]
-  print(string_choice)
 
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
