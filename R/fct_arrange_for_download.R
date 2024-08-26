@@ -21,8 +21,10 @@ arrange_for_download <- function(filtered_data, output_target = c("csv", "xlsx")
     )
 
   if (output_target == "csv") {
-    return(pre_arranged)
+    # for csv, remove spaces from column names
+    return(pre_arranged |> rename_with(\(x) stringr::str_remove_all(x, " ")))
   } else if (output_target == "xlsx") {
+    # for excel, remove "Beruf" as string encoding corrupts excel file
     return(pre_arranged |> select(-Beruf))
   }
 

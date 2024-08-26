@@ -22,16 +22,16 @@ test_that("arrange for download function works works", {
       "Anteil Stimmen aus veränderten Listen"
     )
   )
-  # but it is returned for csv
+  # but it is returned for csv, and csv does not have spaces in column names
   expect_named(
     arrange_for_download(filtered_data, "csv"),
     c(
       "Wahljahr", "Name", "Alter", "Titel", "Beruf",
       "Liste", "ListeBezeichnung",
       "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort",
-      "Geschlecht", "Wahlresultat", "Anzahl Stimmen",
-      "Parteieigene Stimmen", "Parteifremde Stimmen",
-      "Anteil Stimmen aus veränderten Listen"
+      "Geschlecht", "Wahlresultat", "AnzahlStimmen",
+      "ParteieigeneStimmen", "ParteifremdeStimmen",
+      "AnteilStimmenausverändertenListen"
     )
   )
 
