@@ -30,8 +30,6 @@ test_that("check resetting of list choice", {
   # check observe in main app: reset show_inputs when some input is changed
   # after a row has been clicked
   app$set_inputs(`input_module-wahlstatus_radio_button` = "gewählt", wait_ = T)
-  Sys.sleep(2) # hacky way to avoid unreliable repetition
-  expect_equal(app$get_value(input = "show_details"), 0)
   expect_equal(app$get_value(input = "results_1-show_details"), 0)
   app$expect_values()
 

@@ -12,26 +12,9 @@
     "results_1-table__reactable__pageSize": 10,
     "results_1-table__reactable__pages": 108,
     "results_1-table__reactable__selected": null,
-    "results_1-table__reactable__sorted": null,
-    "show_details": 0
+    "results_1-table__reactable__sorted": null
   },
   "output": {
-    "details_1-name_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
-      ]
-    },
-    "details_1-table_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
-      ]
-    },
     "results_1-table": {
       "x": {
         "tag": {

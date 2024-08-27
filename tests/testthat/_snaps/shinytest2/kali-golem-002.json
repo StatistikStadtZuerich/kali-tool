@@ -12,24 +12,70 @@
     "results_1-table__reactable__pageSize": 10,
     "results_1-table__reactable__pages": 116,
     "results_1-table__reactable__selected": null,
-    "results_1-table__reactable__sorted": null,
-    "show_details": 0
+    "results_1-table__reactable__sorted": null
   },
   "output": {
-    "details_1-name_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
-      ]
-    },
-    "details_1-table_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
+    "results_1-details_1-name_candidate": "<br><h2>Beat Bloch (Grüne)<\/h2><hr>",
+    "results_1-details_1-table_candidate": {
+      "x": {
+        "tag": {
+          "name": "Reactable",
+          "attribs": {
+            "data": {
+              "Detailinformationen zu den erhaltenen Stimmen": [
+                "Wahlresultat",
+                "Anzahl Stimmen",
+                "Parteieigene Stimmen",
+                "Parteifremde Stimmen",
+                "Anteil Stimmen aus veränderten Listen"
+              ],
+              "Wert": [
+                "nicht gewählt",
+                "1196",
+                "1079",
+                "117",
+                "41.6 %"
+              ]
+            },
+            "columns": [
+              {
+                "id": "Detailinformationen zu den erhaltenen Stimmen",
+                "name": "Detailinformationen zu den erhaltenen Stimmen",
+                "type": "character",
+                "minWidth": 50,
+                "align": "left"
+              },
+              {
+                "id": "Wert",
+                "name": "Wert",
+                "type": "character",
+                "minWidth": 50,
+                "align": "left"
+              }
+            ],
+            "paginationType": "simple",
+            "highlight": true,
+            "outlined": true,
+            "theme": {
+              "borderColor": "#DEDEDE"
+            },
+            "dataKey": "6afeb4b7fec212be04ff1c6a63d5e031",
+            "static": false
+          },
+          "children": [
+
+          ]
+        },
+        "class": "reactR_markup"
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+
       ]
     },
     "results_1-table": {

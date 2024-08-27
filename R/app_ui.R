@@ -29,11 +29,10 @@ app_ui <- function(request) {
             )
           ),
 
-          # Downloads - only show these when one person is selected to
-          # download details about this person
+          # Downloads
           conditionalPanel(
             condition = "input.ActionButtonId>0",
-            h3("Detailinformationen herunterladen"),
+            h3("Daten herunterladen"),
             mod_download_ui("download_1", ssz_icons, ogd_link)
           )
         ),
@@ -42,21 +41,7 @@ app_ui <- function(request) {
         mainPanel(
           conditionalPanel(
             condition = "input.ActionButtonId>0",
-            mod_results_ui("results_1"),
-            conditionalPanel(
-              condition = "input.show_details > 0",
-              mod_details_ui("details_1")
-            )
-          ),
-
-          # initialise hidden variable for row selection, to be used with JS function in reactable
-          conditionalPanel(
-            "false",
-            numericInput(
-              label = NULL,
-              inputId = "show_details",
-              value = 0
-            )
+            mod_results_ui("results_1")
           ),
         )
       )
