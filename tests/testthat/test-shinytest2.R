@@ -29,7 +29,8 @@ test_that("check resetting of list choice", {
 
   # check observe in main app: reset show_inputs when some input is changed
   # after a row has been clicked
-  app$set_inputs(`input_module-wahlstatus_radio_button` = "gewählt")
+  app$set_inputs(`input_module-wahlstatus_radio_button` = "gewählt", wait_ = T)
+  Sys.sleep(2) # hacky way to avoid unreliable repetition
   expect_equal(app$get_value(input = "show_details"), 0)
   expect_equal(app$get_value(input = "results_1-show_details"), 0)
   app$expect_values()
@@ -50,4 +51,26 @@ test_that("check resetting of list choice", {
   app$set_inputs(`input_module-suchfeld` = "Meyer")
   app$expect_values()
   app$stop()
+})
+
+
+test_that("{shinytest2} recording: kali-golem-download", {
+  app <- AppDriver$new(name = "kali-golem-download", height = 853, width = 1606)
+  app$click("ActionButtonId")
+
+  # check csv
+  app$expect_download("download_1-csv_download")
+
+  # check excel
+  # adjust test for excel: as metadata is different every time, get file and
+  # compare only the content
+  # not tested like this: the image and the date on the first sheet
+  temp_excel_file <- "temp-excel-test.xlsx"
+  app$get_download("download_1-excel_download", temp_excel_file)
+  sheet1 <- read.xlsx(temp_excel_file, sheet = 1, colNames = F)
+  # only test first 3 columns, 4th columns contains date
+  expect_snapshot(sheet1[, 1:3])
+  sheet2 <- read.xlsx(temp_excel_file, sheet = 2, colNames = F)
+  expect_snapshot(sheet2)
+  file.remove(temp_excel_file)
 })

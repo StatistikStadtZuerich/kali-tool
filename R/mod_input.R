@@ -102,7 +102,14 @@ mod_input_server <- function(id) {
     return(list(
       "filtered_data" = filtered_data,
       "df_details_prefiltered" = df_details_prefiltered,
-      "has_changed" = has_changed
+      "has_changed" = has_changed,
+      # return some input values for appropriate naming of download
+      "current_inputs" = list(
+        "year" = reactive({ input$select_year }),
+        "kreis" = reactive({ input$select_kreis }),
+        "liste" = reactive({ input$select_liste })
+      )
+
     ))
   })
 }

@@ -32,34 +32,27 @@ app_server <- function(input, output, session) {
       info_single_candidate$data_person,
       filtered_input$df_details_prefiltered
     )
+
+    # create filename (currently without further specifyers like year or suchfeld)
+    fn_no_ext <- paste0("Gemeinderatswahlen_Auswahl_",
+                        filtered_input$current_inputs$year(), "_",
+                        filtered_input$current_inputs$kreis(), "_",
+                        filtered_input$current_inputs$liste())
+    excel_args <- list(
+      "data_for_download" = arrange_for_download(filtered_input$filtered_data(), "xlsx"),
+      "string_choice" <- paste(filtered_input$current_inputs$year(),
+                                filtered_input$current_inputs$kreis(),
+                                filtered_input$current_inputs$liste(),
+                               sep = ", ")
+    )
+
+    mod_download_server(
+      "download_1",
+      arrange_for_download(filtered_input$filtered_data(), "csv"),
+      fn_no_ext,
+      ssz_download_excel,
+      excel_args
+    )
   }) |>
     bindEvent(input$show_details)
-
-
-  ## Write Download Table
-  # CSV
-  output$csvDownload <- downloadHandler(
-    filename = function(vote) {
-      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
-      paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".csv")
-    },
-    content = function(file) {
-      write.csv(info_single_candidate$data_download(), file, fileEncoding = "UTF-8", row.names = FALSE, na = " ")
-    }
-  )
-
-  # Excel
-  output$excelDownload <- downloadHandler(
-    filename = function(vote) {
-      suchfeld <- gsub(" ", "-", info_single_candidate$data_person()$Name, fixed = TRUE)
-      paste0("Gemeinderatswahlen_", input$select_year, "_", suchfeld, ".xlsx")
-    },
-    content = function(file) {
-      ssz_download_excel(
-        info_single_candidate$data_download(),
-        file,
-        info_single_candidate$data_person()$Name
-      )
-    }
-  )
 }

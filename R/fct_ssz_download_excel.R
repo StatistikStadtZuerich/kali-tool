@@ -1,4 +1,15 @@
-ssz_download_excel <- function(filteredData, file, nameVote) {
+#' ssz_download_excel
+#'
+#' @param file file path where excel is to be saved
+#' @param excel_args list of additional arguments, 1 is the data, 2 is the choice string
+#'
+#' @return NA
+#' @noRd
+ssz_download_excel <- function(file, excel_args) {
+
+  data_for_download <- excel_args[[1]]
+  string_choice <- excel_args[[2]]
+
   # Data Paths
   path_title_page <- "inst/app/www/Titelblatt.xlsx"
   path_logo <- "inst/app/www/logo_stzh_stat_sw_pos_1.png"
@@ -8,13 +19,20 @@ ssz_download_excel <- function(filteredData, file, nameVote) {
 
   # Manipulate Data
   # Data Sheet 1
-  data <- data %>%
+  data <- data |>
     mutate(
-      Date = ifelse(is.na(Date), NA, paste0(format(Sys.Date(), "%d"), ".", format(Sys.Date(), "%m"), ".", format(Sys.Date(), "%Y"))),
-      Titel = ifelse(is.na(Titel), NA, paste0("Resultat der Gemeinderatswahlen für Ihre Auswahl: ", nameVote))
+      Date = ifelse(is.na(Date), NA,
+        format(Sys.Date(), "%d.%m.%Y")
+      ),
+      Titel = ifelse(is.na(Titel), NA,
+        paste("Resultat der Gemeinderatswahlen für Ihre Auswahl:", string_choice)
+      )
     )
 
-  selected <- list(c("T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:", paste(nameVote), " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement")) |>
+  selected <- list(c(
+    "T_1", "Resultat der Gemeinderatswahlen für Ihre Auswahl:",
+    string_choice, " ", " ", "Quelle: Statistik Stadt Zürich, Präsidialdepartement"
+  )) |>
     as.data.frame()
 
   # Data Sheet 2
@@ -56,7 +74,7 @@ ssz_download_excel <- function(filteredData, file, nameVote) {
     withFilter = FALSE
   )
   writeData(wb,
-    sheet = 2, x = filteredData,
+    sheet = 2, x = data_for_download,
     colNames = TRUE, rowNames = FALSE,
     startCol = 1,
     startRow = 9,
@@ -73,15 +91,15 @@ ssz_download_excel <- function(filteredData, file, nameVote) {
   modifyBaseFont(wb, fontSize = 8, fontName = "Arial")
 
   # Set Column Width for content
-  setColWidths(wb, sheet = 2, cols = "A", widths = 10)
-  setColWidths(wb, sheet = 2, cols = "B", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "C", widths = 8)
-  setColWidths(wb, sheet = 2, cols = "D", widths = 12)
-  setColWidths(wb, sheet = 2, cols = "E", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "F", widths = 15)
-  setColWidths(wb, sheet = 2, cols = "G", widths = 40)
-  setColWidths(wb, sheet = 2, cols = "H", widths = 35)
-  setColWidths(wb, sheet = 2, cols = "I", widths = 12)
+  column_names <- LETTERS[1:16]
+  widths <- c(8, 40, 8, 12, 12, 40, 15, 15, 12, 12, 13, 13, 13, 13, 13, 13)
+  purrr::map2(
+    column_names, widths,
+    \(x, y) setColWidths(wb, sheet = 2, cols = x, widths = y)
+  )
+
+  # make percentage right-aligned
+  addStyle(wb, 2, style = createStyle(halign = "right"), rows = 10:(nrow(data_for_download) + 9), cols = "P")
 
   # Set Column Width for overview sheet
   setColWidths(wb, sheet = 1, cols = "A", widths = 1)

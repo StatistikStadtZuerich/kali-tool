@@ -38,7 +38,7 @@ test_that("check data download for one candidate works", {
     ),
     c(
       "Wahljahr", "Name", "Alter", "Geschlecht", "Beruf", "Wahlkreis",
-      "Liste", "Result der Wahl", "Wert"
+      "Liste", "Resultat der Wahl", "Wert"
     )
   )
   # # check rows: 5

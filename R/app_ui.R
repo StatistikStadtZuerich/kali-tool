@@ -7,6 +7,8 @@
 app_ui <- function(request) {
   # Set the Icon path
   ssz_icons <- icon_set("inst/app/www/icons/")
+  # set OGD link
+  ogd_link <- "https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc"
 
   tagList(
     # Leave this function for adding external resources
@@ -30,30 +32,9 @@ app_ui <- function(request) {
           # Downloads - only show these when one person is selected to
           # download details about this person
           conditionalPanel(
-            condition = "input.show_details > 0",
+            condition = "input.ActionButtonId>0",
             h3("Detailinformationen herunterladen"),
-
-            # Download Panel
-            tags$div(
-              id = "downloadWrapperId",
-              class = "downloadWrapperDiv",
-              sszDownloadButton(
-                outputId = "csvDownload",
-                label = "csv",
-                image = img(ssz_icons$download)
-              ),
-              sszDownloadButton(
-                outputId = "excelDownload",
-                label = "xlsx",
-                image = img(ssz_icons$download)
-              ),
-              sszOgdDownload(
-                outputId = "ogdDown",
-                label = "OGD",
-                image = img(ssz_icons("link")),
-                href = "https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc"
-              )
-            )
+            mod_download_ui("download_1", ssz_icons, ogd_link)
           )
         ),
 

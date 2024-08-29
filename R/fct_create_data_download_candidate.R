@@ -30,7 +30,7 @@ create_data_download_candidate <- function(filtered_data, show_details) {
         "Wahlresultat", "Anzahl Stimmen", "Parteieigene Stimmen",
         "Parteifremde Stimmen", "Anteil Stimmen aus veränderten Listen"
       ),
-      names_to = "Result der Wahl",
+      names_to = "Resultat der Wahl",
       values_to = "Wert"
     )
 }
