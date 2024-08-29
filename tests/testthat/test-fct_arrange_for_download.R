@@ -15,8 +15,7 @@ test_that("arrange for download function works works", {
     arrange_for_download(filtered_data, "xlsx"),
     c(
       "Wahljahr", "Name", "Alter", "Titel", # "Beruf",
-      "Liste", "ListeBezeichnung",
-      "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort",
+      "Liste", "Liste Bezeichnung", "Wahlkreis", "BisherLang",
       "Geschlecht", "Wahlresultat", "Anzahl Stimmen",
       "Parteieigene Stimmen", "Parteifremde Stimmen",
       "Anteil Stimmen aus veränderten Listen"

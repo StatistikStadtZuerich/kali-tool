@@ -2203,3253 +2203,3253 @@
       1080                       Sibylle Weber    45                            EVP
       1081                        André Wohler    69                            SVP
       1082                        Bruno Wohler    69                            SVP
-                                         X6          X7            X8         X9
-      1                                <NA>        <NA>          <NA>       <NA>
-      2                                <NA>        <NA>          <NA>       <NA>
-      3                                <NA>        <NA>          <NA>       <NA>
-      4                                <NA>        <NA>          <NA>       <NA>
-      5                                <NA>        <NA>          <NA>       <NA>
-      6                                <NA>        <NA>          <NA>       <NA>
-      7                    ListeBezeichnung   Wahlkreis WahlkreisSort BisherLang
-      8           GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      9    Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      10          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      11                              Grüne Kreis 1 + 2             1        neu
-      12   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      13                              Grüne Kreis 1 + 2             1        neu
-      14             AL – Alternative Liste Kreis 1 + 2             1        neu
-      15                              Grüne Kreis 1 + 2             1        neu
-      16          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      17                  FDP.Die Liberalen Kreis 1 + 2             1     bisher
-      18                  Partei der Arbeit Kreis 1 + 2             1        neu
-      19    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      20    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      21       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      22                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      23                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      24          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      25       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      26    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      27             AL – Alternative Liste Kreis 1 + 2             1        neu
-      28                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      29             AL – Alternative Liste Kreis 1 + 2             1        neu
-      30                  Partei der Arbeit Kreis 1 + 2             1        neu
-      31   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      32       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      33          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      34    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      35                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      36       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      37                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      38         Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      39       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      40          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      41                              Grüne Kreis 1 + 2             1        neu
-      42    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      43                              Grüne Kreis 1 + 2             1        neu
-      44                          Die Mitte Kreis 1 + 2             1        neu
-      45                              Grüne Kreis 1 + 2             1        neu
-      46             AL – Alternative Liste Kreis 1 + 2             1        neu
-      47    SP – Sozialdemokratische Partei Kreis 1 + 2             1     bisher
-      48   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      49                              Grüne Kreis 1 + 2             1        neu
-      50         Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      51                              Grüne Kreis 1 + 2             1     bisher
-      52       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      53          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      54          GLP – Grünliberale Partei Kreis 1 + 2             1     bisher
-      55   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      56             AL – Alternative Liste Kreis 1 + 2             1        neu
-      57       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      58   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      59                          Die Mitte Kreis 1 + 2             1        neu
-      60                          Die Mitte Kreis 1 + 2             1        neu
-      61                          Die Mitte Kreis 1 + 2             1        neu
-      62                              Grüne Kreis 1 + 2             1     bisher
-      63                          Die Mitte Kreis 1 + 2             1        neu
-      64                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      65   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      66          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      67    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      68                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      69             AL – Alternative Liste Kreis 1 + 2             1        neu
-      70         Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      71          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      72   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      73                              Grüne Kreis 1 + 2             1        neu
-      74          GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      75                          Die Mitte Kreis 1 + 2             1        neu
-      76                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      77                          Die Mitte Kreis 1 + 2             1        neu
-      78                          Die Mitte Kreis 1 + 2             1        neu
-      79                              Grüne Kreis 1 + 2             1        neu
-      80             AL – Alternative Liste Kreis 1 + 2             1        neu
-      81       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      82                          Die Mitte Kreis 1 + 2             1        neu
-      83             AL – Alternative Liste Kreis 1 + 2             1        neu
-      84       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      85       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      86    SP – Sozialdemokratische Partei Kreis 1 + 2             1     bisher
-      87                  FDP.Die Liberalen Kreis 1 + 2             1     bisher
-      88             AL – Alternative Liste Kreis 1 + 2             1        neu
-      89   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      90    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      91       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      92         Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      93    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      94                  FDP.Die Liberalen Kreis 1 + 2             1        neu
-      95         Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      96    SP – Sozialdemokratische Partei Kreis 1 + 2             1        neu
-      97   Schweizerische Volkspartei – SVP Kreis 1 + 2             1        neu
-      98             AL – Alternative Liste Kreis 1 + 2             1        neu
-      99       Evangelische Volkspartei EVP Kreis 1 + 2             1        neu
-      100                         Die Mitte Kreis 1 + 2             1        neu
-      101                         Die Mitte Kreis 1 + 2             1        neu
-      102            AL – Alternative Liste Kreis 1 + 2             1        neu
-      103         GLP – Grünliberale Partei Kreis 1 + 2             1        neu
-      104                         Die Mitte Kreis 1 + 2             1        neu
-      105   SP – Sozialdemokratische Partei Kreis 1 + 2             1     bisher
-      106                 FDP.Die Liberalen Kreis 1 + 2             1        neu
-      107        Freie Liste – Stadt Zürich Kreis 1 + 2             1        neu
-      108                             Grüne Kreis 1 + 2             1        neu
-      109  Schweizerische Volkspartei – SVP Kreis 1 + 2             1     bisher
-      110  Schweizerische Volkspartei – SVP Kreis 1 + 2             1     bisher
-      111            AL – Alternative Liste Kreis 1 + 2             1        neu
-      112            AL – Alternative Liste     Kreis 3             2        neu
-      113         GLP – Grünliberale Partei     Kreis 3             2        neu
-      114  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      115        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      116            AL – Alternative Liste     Kreis 3             2     bisher
-      117                             Grüne     Kreis 3             2        neu
-      118            AL – Alternative Liste     Kreis 3             2        neu
-      119  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      120         GLP – Grünliberale Partei     Kreis 3             2        neu
-      121                         Die Mitte     Kreis 3             2        neu
-      122            AL – Alternative Liste     Kreis 3             2        neu
-      123            AL – Alternative Liste     Kreis 3             2        neu
-      124                             Grüne     Kreis 3             2        neu
-      125      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      126            AL – Alternative Liste     Kreis 3             2        neu
-      127                             Grüne     Kreis 3             2        neu
-      128                 FDP.Die Liberalen     Kreis 3             2     bisher
-      129   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      130            AL – Alternative Liste     Kreis 3             2        neu
-      131      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      132  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      133   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      134      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      135  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      136      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      137                             Grüne     Kreis 3             2        neu
-      138                 FDP.Die Liberalen     Kreis 3             2     bisher
-      139            AL – Alternative Liste     Kreis 3             2     bisher
-      140   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      141                 FDP.Die Liberalen     Kreis 3             2        neu
-      142         GLP – Grünliberale Partei     Kreis 3             2        neu
-      143   SP – Sozialdemokratische Partei     Kreis 3             2     bisher
-      144      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      145        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      146                             Grüne     Kreis 3             2        neu
-      147         GLP – Grünliberale Partei     Kreis 3             2     bisher
-      148  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      149   SP – Sozialdemokratische Partei     Kreis 3             2     bisher
-      150                 Partei der Arbeit     Kreis 3             2        neu
-      151                             Grüne     Kreis 3             2        neu
-      152                         Die Mitte     Kreis 3             2        neu
-      153                         Die Mitte     Kreis 3             2        neu
-      154  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      155   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      156  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      157      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      158                         Die Mitte     Kreis 3             2        neu
-      159            AL – Alternative Liste     Kreis 3             2        neu
-      160         GLP – Grünliberale Partei     Kreis 3             2        neu
-      161                         Die Mitte     Kreis 3             2        neu
-      162      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      163         GLP – Grünliberale Partei     Kreis 3             2        neu
-      164         GLP – Grünliberale Partei     Kreis 3             2        neu
-      165  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      166  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      167                 Partei der Arbeit     Kreis 3             2        neu
-      168        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      169      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      170         GLP – Grünliberale Partei     Kreis 3             2        neu
-      171        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      172                         Die Mitte     Kreis 3             2        neu
-      173                             Grüne     Kreis 3             2        neu
-      174                 FDP.Die Liberalen     Kreis 3             2        neu
-      175      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      176  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      177         GLP – Grünliberale Partei     Kreis 3             2        neu
-      178   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      179                         Die Mitte     Kreis 3             2        neu
-      180                 Partei der Arbeit     Kreis 3             2        neu
-      181                 Partei der Arbeit     Kreis 3             2        neu
-      182   SP – Sozialdemokratische Partei     Kreis 3             2     bisher
-      183            AL – Alternative Liste     Kreis 3             2        neu
-      184            AL – Alternative Liste     Kreis 3             2        neu
-      185                             Grüne     Kreis 3             2        neu
-      186                 FDP.Die Liberalen     Kreis 3             2        neu
-      187        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      188         GLP – Grünliberale Partei     Kreis 3             2     bisher
-      189         GLP – Grünliberale Partei     Kreis 3             2        neu
-      190                 Partei der Arbeit     Kreis 3             2        neu
-      191   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      192                 FDP.Die Liberalen     Kreis 3             2        neu
-      193                             Grüne     Kreis 3             2        neu
-      194      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      195  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      196                 FDP.Die Liberalen     Kreis 3             2        neu
-      197            AL – Alternative Liste     Kreis 3             2        neu
-      198   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      199  Schweizerische Volkspartei – SVP     Kreis 3             2     bisher
-      200                             Grüne     Kreis 3             2     bisher
-      201      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      202                             Grüne     Kreis 3             2        neu
-      203                 FDP.Die Liberalen     Kreis 3             2        neu
-      204         GLP – Grünliberale Partei     Kreis 3             2        neu
-      205        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      206            AL – Alternative Liste     Kreis 3             2        neu
-      207  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      208  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      209                             Grüne     Kreis 3             2        neu
-      210      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      211  Schweizerische Volkspartei – SVP     Kreis 3             2        neu
-      212            AL – Alternative Liste     Kreis 3             2        neu
-      213                         Die Mitte     Kreis 3             2        neu
-      214         GLP – Grünliberale Partei     Kreis 3             2        neu
-      215                 FDP.Die Liberalen     Kreis 3             2        neu
-      216   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      217                 FDP.Die Liberalen     Kreis 3             2        neu
-      218                         Die Mitte     Kreis 3             2        neu
-      219                         Die Mitte     Kreis 3             2        neu
-      220   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      221                 FDP.Die Liberalen     Kreis 3             2        neu
-      222        Freie Liste – Stadt Zürich     Kreis 3             2        neu
-      223                 FDP.Die Liberalen     Kreis 3             2        neu
-      224                 Partei der Arbeit     Kreis 3             2        neu
-      225                             Grüne     Kreis 3             2        neu
-      226                         Die Mitte     Kreis 3             2        neu
-      227                             Grüne     Kreis 3             2        neu
-      228      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      229         GLP – Grünliberale Partei     Kreis 3             2        neu
-      230                 Partei der Arbeit     Kreis 3             2        neu
-      231                 FDP.Die Liberalen     Kreis 3             2        neu
-      232                         Die Mitte     Kreis 3             2        neu
-      233      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      234                         Die Mitte     Kreis 3             2        neu
-      235      Evangelische Volkspartei EVP     Kreis 3             2        neu
-      236                 Partei der Arbeit     Kreis 3             2        neu
-      237   SP – Sozialdemokratische Partei     Kreis 3             2     bisher
-      238   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      239                             Grüne     Kreis 3             2        neu
-      240            AL – Alternative Liste     Kreis 3             2        neu
-      241                 FDP.Die Liberalen     Kreis 3             2        neu
-      242         GLP – Grünliberale Partei     Kreis 3             2        neu
-      243                 FDP.Die Liberalen     Kreis 3             2        neu
-      244   SP – Sozialdemokratische Partei     Kreis 3             2        neu
-      245                         Die Mitte Kreis 4 + 5             3        neu
-      246                 Partei der Arbeit Kreis 4 + 5             3        neu
-      247         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      248            AL – Alternative Liste Kreis 4 + 5             3        neu
-      249                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      250                         Die Mitte Kreis 4 + 5             3        neu
-      251  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      252  Schweizerische Volkspartei – SVP Kreis 4 + 5             3     bisher
-      253         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      254            AL – Alternative Liste Kreis 4 + 5             3        neu
-      255            AL – Alternative Liste Kreis 4 + 5             3        neu
-      256         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      257  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      258      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      259                             Grüne Kreis 4 + 5             3        neu
-      260         GLP – Grünliberale Partei Kreis 4 + 5             3     bisher
-      261   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      262                             Grüne Kreis 4 + 5             3        neu
-      263   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      264   SP – Sozialdemokratische Partei Kreis 4 + 5             3     bisher
-      265            AL – Alternative Liste Kreis 4 + 5             3        neu
-      266   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      267  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      268            AL – Alternative Liste Kreis 4 + 5             3        neu
-      269  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      270                         Die Mitte Kreis 4 + 5             3        neu
-      271         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      272         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      273                             Grüne Kreis 4 + 5             3        neu
-      274                             Grüne Kreis 4 + 5             3        neu
-      275         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      276                             Grüne Kreis 4 + 5             3     bisher
-      277                         Die Mitte Kreis 4 + 5             3        neu
-      278            AL – Alternative Liste Kreis 4 + 5             3     bisher
-      279                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      280      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      281                 Partei der Arbeit Kreis 4 + 5             3        neu
-      282   SP – Sozialdemokratische Partei Kreis 4 + 5             3     bisher
-      283  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      284                 Partei der Arbeit Kreis 4 + 5             3        neu
-      285      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      286                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      287                             Grüne Kreis 4 + 5             3        neu
-      288                             Grüne Kreis 4 + 5             3        neu
-      289                         Die Mitte Kreis 4 + 5             3        neu
-      290      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      291  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      292   SP – Sozialdemokratische Partei Kreis 4 + 5             3     bisher
-      293                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      294         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      295                 Partei der Arbeit Kreis 4 + 5             3        neu
-      296                             Grüne Kreis 4 + 5             3     bisher
-      297                             Grüne Kreis 4 + 5             3        neu
-      298                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      299            AL – Alternative Liste Kreis 4 + 5             3        neu
-      300      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      301                         Die Mitte Kreis 4 + 5             3        neu
-      302                 Partei der Arbeit Kreis 4 + 5             3        neu
-      303                 Partei der Arbeit Kreis 4 + 5             3        neu
-      304         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      305                         Die Mitte Kreis 4 + 5             3        neu
-      306  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      307                         Die Mitte Kreis 4 + 5             3        neu
-      308   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      309      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      310                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      311            AL – Alternative Liste Kreis 4 + 5             3        neu
-      312      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      313   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      314   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      315   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      316  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      317            AL – Alternative Liste Kreis 4 + 5             3        neu
-      318         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      319      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      320            AL – Alternative Liste Kreis 4 + 5             3        neu
-      321      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      322                             Grüne Kreis 4 + 5             3        neu
-      323                             Grüne Kreis 4 + 5             3        neu
-      324         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      325      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      326  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      327      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      328                 FDP.Die Liberalen Kreis 4 + 5             3     bisher
-      329   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      330      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      331                         Die Mitte Kreis 4 + 5             3        neu
-      332         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      333                             Grüne Kreis 4 + 5             3        neu
-      334  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      335                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      336   SP – Sozialdemokratische Partei Kreis 4 + 5             3        neu
-      337                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      338   SP – Sozialdemokratische Partei Kreis 4 + 5             3     bisher
-      339  Schweizerische Volkspartei – SVP Kreis 4 + 5             3        neu
-      340  Schweizerische Volkspartei – SVP Kreis 4 + 5             3     bisher
-      341                 Partei der Arbeit Kreis 4 + 5             3        neu
-      342                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      343                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      344                             Grüne Kreis 4 + 5             3        neu
-      345      Evangelische Volkspartei EVP Kreis 4 + 5             3        neu
-      346            AL – Alternative Liste Kreis 4 + 5             3        neu
-      347                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      348                 FDP.Die Liberalen Kreis 4 + 5             3        neu
-      349            AL – Alternative Liste Kreis 4 + 5             3     bisher
-      350                         Die Mitte Kreis 4 + 5             3        neu
-      351         GLP – Grünliberale Partei Kreis 4 + 5             3        neu
-      352            AL – Alternative Liste Kreis 4 + 5             3        neu
-      353         GLP – Grünliberale Partei     Kreis 6             4        neu
-      354  Schweizerische Volkspartei – SVP     Kreis 6             4     bisher
-      355   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      356                         Die Mitte     Kreis 6             4        neu
-      357                         Die Mitte     Kreis 6             4        neu
-      358            AL – Alternative Liste     Kreis 6             4        neu
-      359                 FDP.Die Liberalen     Kreis 6             4     bisher
-      360  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      361      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      362      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      363            AL – Alternative Liste     Kreis 6             4        neu
-      364      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      365  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      366   SP – Sozialdemokratische Partei     Kreis 6             4     bisher
-      367      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      368   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      369                         Die Mitte     Kreis 6             4        neu
-      370                 FDP.Die Liberalen     Kreis 6             4        neu
-      371  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      372         GLP – Grünliberale Partei     Kreis 6             4        neu
-      373  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      374      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      375            AL – Alternative Liste     Kreis 6             4        neu
-      376         GLP – Grünliberale Partei     Kreis 6             4        neu
-      377                 FDP.Die Liberalen     Kreis 6             4        neu
-      378                             Grüne     Kreis 6             4        neu
-      379            AL – Alternative Liste     Kreis 6             4        neu
-      380   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      381                 FDP.Die Liberalen     Kreis 6             4        neu
-      382   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      383                             Grüne     Kreis 6             4        neu
-      384  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      385                 Partei der Arbeit     Kreis 6             4        neu
-      386         GLP – Grünliberale Partei     Kreis 6             4        neu
-      387            AL – Alternative Liste     Kreis 6             4        neu
-      388   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      389         GLP – Grünliberale Partei     Kreis 6             4        neu
-      390                 Partei der Arbeit     Kreis 6             4        neu
-      391  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      392            AL – Alternative Liste     Kreis 6             4     bisher
-      393                             Grüne     Kreis 6             4        neu
-      394                 FDP.Die Liberalen     Kreis 6             4        neu
-      395   SP – Sozialdemokratische Partei     Kreis 6             4        neu
-      396   SP – Sozialdemokratische Partei     Kreis 6             4     bisher
-      397         GLP – Grünliberale Partei     Kreis 6             4        neu
-      398         GLP – Grünliberale Partei     Kreis 6             4        neu
-      399                             Grüne     Kreis 6             4        neu
-      400         GLP – Grünliberale Partei     Kreis 6             4        neu
-      401                         Die Mitte     Kreis 6             4        neu
-      402   SP – Sozialdemokratische Partei     Kreis 6             4     bisher
-      403  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      404                         Die Mitte     Kreis 6             4        neu
-      405      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      406      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      407                             Grüne     Kreis 6             4        neu
-      408      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      409                             Grüne     Kreis 6             4     bisher
-      410                 FDP.Die Liberalen     Kreis 6             4        neu
-      411   SP – Sozialdemokratische Partei     Kreis 6             4     bisher
-      412                 FDP.Die Liberalen     Kreis 6             4        neu
-      413         GLP – Grünliberale Partei     Kreis 6             4        neu
-      414            AL – Alternative Liste     Kreis 6             4        neu
-      415            AL – Alternative Liste     Kreis 6             4        neu
-      416                 Partei der Arbeit     Kreis 6             4        neu
-      417                             Grüne     Kreis 6             4        neu
-      418                             Grüne     Kreis 6             4        neu
-      419      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      420  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      421                             Grüne     Kreis 6             4        neu
-      422         GLP – Grünliberale Partei     Kreis 6             4        neu
-      423                             Grüne     Kreis 6             4        neu
-      424                         Die Mitte     Kreis 6             4        neu
-      425                 FDP.Die Liberalen     Kreis 6             4        neu
-      426                 FDP.Die Liberalen     Kreis 6             4     bisher
-      427                         Die Mitte     Kreis 6             4        neu
-      428                         Die Mitte     Kreis 6             4        neu
-      429            AL – Alternative Liste     Kreis 6             4        neu
-      430  Schweizerische Volkspartei – SVP     Kreis 6             4        neu
-      431            AL – Alternative Liste     Kreis 6             4        neu
-      432                 FDP.Die Liberalen     Kreis 6             4        neu
-      433      Evangelische Volkspartei EVP     Kreis 6             4        neu
-      434                         Die Mitte     Kreis 6             4        neu
-      435         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      436         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      437      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      438            AL – Alternative Liste Kreis 7 + 8             5        neu
-      439        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      440                         Die Mitte Kreis 7 + 8             5        neu
-      441                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      442   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      443   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      444                         Die Mitte Kreis 7 + 8             5        neu
-      445  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      446   SP – Sozialdemokratische Partei Kreis 7 + 8             5     bisher
-      447      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      448                 FDP.Die Liberalen Kreis 7 + 8             5     bisher
-      449   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      450                 FDP.Die Liberalen Kreis 7 + 8             5     bisher
-      451  Schweizerische Volkspartei – SVP Kreis 7 + 8             5     bisher
-      452      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      453                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      454                             Grüne Kreis 7 + 8             5     bisher
-      455            AL – Alternative Liste Kreis 7 + 8             5        neu
-      456         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      457      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      458   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      459   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      460  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      461                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      462      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      463   SP – Sozialdemokratische Partei Kreis 7 + 8             5     bisher
-      464  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      465                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      466   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      467        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      468  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      469        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      470                             Grüne Kreis 7 + 8             5        neu
-      471                             Grüne Kreis 7 + 8             5        neu
-      472      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      473         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      474  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      475                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      476   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      477                              Volt Kreis 7 + 8             5        neu
-      478  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      479            AL – Alternative Liste Kreis 7 + 8             5     bisher
-      480                             Grüne Kreis 7 + 8             5        neu
-      481            AL – Alternative Liste Kreis 7 + 8             5        neu
-      482                             Grüne Kreis 7 + 8             5        neu
-      483                             Grüne Kreis 7 + 8             5        neu
-      484   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      485         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      486        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      487                             Grüne Kreis 7 + 8             5        neu
-      488                             Grüne Kreis 7 + 8             5        neu
-      489            AL – Alternative Liste Kreis 7 + 8             5        neu
-      490                             Grüne Kreis 7 + 8             5        neu
-      491        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      492  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      493                             Grüne Kreis 7 + 8             5        neu
-      494         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      495                             Grüne Kreis 7 + 8             5        neu
-      496  Schweizerische Volkspartei – SVP Kreis 7 + 8             5     bisher
-      497                             Grüne Kreis 7 + 8             5     bisher
-      498   SP – Sozialdemokratische Partei Kreis 7 + 8             5     bisher
-      499                         Die Mitte Kreis 7 + 8             5        neu
-      500  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      501                         Die Mitte Kreis 7 + 8             5        neu
-      502            AL – Alternative Liste Kreis 7 + 8             5        neu
-      503                 FDP.Die Liberalen Kreis 7 + 8             5     bisher
-      504                             Grüne Kreis 7 + 8             5        neu
-      505                         Die Mitte Kreis 7 + 8             5        neu
-      506                         Die Mitte Kreis 7 + 8             5        neu
-      507                              Volt Kreis 7 + 8             5        neu
-      508            AL – Alternative Liste Kreis 7 + 8             5        neu
-      509                         Die Mitte Kreis 7 + 8             5        neu
-      510      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      511      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      512      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      513         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      514                 Partei der Arbeit Kreis 7 + 8             5        neu
-      515   SP – Sozialdemokratische Partei Kreis 7 + 8             5     bisher
-      516                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      517                 Partei der Arbeit Kreis 7 + 8             5        neu
-      518         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      519                         Die Mitte Kreis 7 + 8             5        neu
-      520                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      521      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      522  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      523        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      524         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      525         GLP – Grünliberale Partei Kreis 7 + 8             5     bisher
-      526   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      527         GLP – Grünliberale Partei Kreis 7 + 8             5     bisher
-      528                         Die Mitte Kreis 7 + 8             5        neu
-      529                 FDP.Die Liberalen Kreis 7 + 8             5     bisher
-      530  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      531                         Die Mitte Kreis 7 + 8             5        neu
-      532         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      533                         Die Mitte Kreis 7 + 8             5        neu
-      534            AL – Alternative Liste Kreis 7 + 8             5        neu
-      535                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      536  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      537   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      538        I love Zürich (ilovezh.ch) Kreis 7 + 8             5        neu
-      539            AL – Alternative Liste Kreis 7 + 8             5        neu
-      540            AL – Alternative Liste Kreis 7 + 8             5     bisher
-      541      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      542      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      543                         Die Mitte Kreis 7 + 8             5        neu
-      544                             Grüne Kreis 7 + 8             5        neu
-      545      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      546                             Grüne Kreis 7 + 8             5        neu
-      547        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      548         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      549            AL – Alternative Liste Kreis 7 + 8             5        neu
-      550  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      551                         Die Mitte Kreis 7 + 8             5        neu
-      552                         Die Mitte Kreis 7 + 8             5        neu
-      553        Freie Liste – Stadt Zürich Kreis 7 + 8             5        neu
-      554                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      555  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      556            AL – Alternative Liste Kreis 7 + 8             5        neu
-      557            AL – Alternative Liste Kreis 7 + 8             5        neu
-      558   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      559   SP – Sozialdemokratische Partei Kreis 7 + 8             5        neu
-      560                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      561            AL – Alternative Liste Kreis 7 + 8             5        neu
-      562            AL – Alternative Liste Kreis 7 + 8             5        neu
-      563         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      564         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      565         GLP – Grünliberale Partei Kreis 7 + 8             5        neu
-      566      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      567      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      568            AL – Alternative Liste Kreis 7 + 8             5        neu
-      569  Schweizerische Volkspartei – SVP Kreis 7 + 8             5        neu
-      570                             Grüne Kreis 7 + 8             5        neu
-      571                         Die Mitte Kreis 7 + 8             5        neu
-      572      Evangelische Volkspartei EVP Kreis 7 + 8             5        neu
-      573                 FDP.Die Liberalen Kreis 7 + 8             5        neu
-      574                         Die Mitte Kreis 7 + 8             5        neu
-      575                 FDP.Die Liberalen Kreis 7 + 8             5     bisher
-      576            AL – Alternative Liste     Kreis 9             6        neu
-      577         GLP – Grünliberale Partei     Kreis 9             6        neu
-      578   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      579  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      580                 Partei der Arbeit     Kreis 9             6        neu
-      581                 FDP.Die Liberalen     Kreis 9             6     bisher
-      582                         Die Mitte     Kreis 9             6        neu
-      583                 FDP.Die Liberalen     Kreis 9             6        neu
-      584  Schweizerische Volkspartei – SVP     Kreis 9             6     bisher
-      585  Schweizerische Volkspartei – SVP     Kreis 9             6     bisher
-      586                 FDP.Die Liberalen     Kreis 9             6        neu
-      587   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      588            AL – Alternative Liste     Kreis 9             6        neu
-      589            AL – Alternative Liste     Kreis 9             6        neu
-      590        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      591   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      592        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      593         GLP – Grünliberale Partei     Kreis 9             6        neu
-      594            AL – Alternative Liste     Kreis 9             6        neu
-      595        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      596        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      597   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      598                         Die Mitte     Kreis 9             6        neu
-      599         GLP – Grünliberale Partei     Kreis 9             6        neu
-      600  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      601                 FDP.Die Liberalen     Kreis 9             6        neu
-      602        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      603                 Partei der Arbeit     Kreis 9             6        neu
-      604                 FDP.Die Liberalen     Kreis 9             6        neu
-      605            AL – Alternative Liste     Kreis 9             6        neu
-      606                         Die Mitte     Kreis 9             6        neu
-      607                         Die Mitte     Kreis 9             6        neu
-      608      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      609  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      610   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      611                         Die Mitte     Kreis 9             6        neu
-      612                 FDP.Die Liberalen     Kreis 9             6        neu
-      613      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      614                         Die Mitte     Kreis 9             6        neu
-      615   SP – Sozialdemokratische Partei     Kreis 9             6     bisher
-      616   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      617                         Die Mitte     Kreis 9             6        neu
-      618  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      619   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      620  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      621      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      622  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      623                         Die Mitte     Kreis 9             6        neu
-      624                 FDP.Die Liberalen     Kreis 9             6        neu
-      625   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      626                 FDP.Die Liberalen     Kreis 9             6        neu
-      627        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      628      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      629                         Die Mitte     Kreis 9             6        neu
-      630                 FDP.Die Liberalen     Kreis 9             6        neu
-      631                             Grüne     Kreis 9             6        neu
-      632         GLP – Grünliberale Partei     Kreis 9             6        neu
-      633                             Grüne     Kreis 9             6     bisher
-      634         GLP – Grünliberale Partei     Kreis 9             6        neu
-      635         GLP – Grünliberale Partei     Kreis 9             6        neu
-      636            AL – Alternative Liste     Kreis 9             6        neu
-      637      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      638            AL – Alternative Liste     Kreis 9             6        neu
-      639   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      640         GLP – Grünliberale Partei     Kreis 9             6        neu
-      641            AL – Alternative Liste     Kreis 9             6        neu
-      642                             Grüne     Kreis 9             6        neu
-      643                             Grüne     Kreis 9             6        neu
-      644   SP – Sozialdemokratische Partei     Kreis 9             6     bisher
-      645   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      646  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      647                 FDP.Die Liberalen     Kreis 9             6     bisher
-      648      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      649            AL – Alternative Liste     Kreis 9             6        neu
-      650                             Grüne     Kreis 9             6        neu
-      651   SP – Sozialdemokratische Partei     Kreis 9             6     bisher
-      652      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      653                         Die Mitte     Kreis 9             6        neu
-      654      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      655  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      656                             Grüne     Kreis 9             6        neu
-      657  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      658                 FDP.Die Liberalen     Kreis 9             6     bisher
-      659  Schweizerische Volkspartei – SVP     Kreis 9             6     bisher
-      660        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      661                         Die Mitte     Kreis 9             6        neu
-      662  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      663                             Grüne     Kreis 9             6        neu
-      664      Evangelische Volkspartei EVP     Kreis 9             6     bisher
-      665                 FDP.Die Liberalen     Kreis 9             6        neu
-      666            AL – Alternative Liste     Kreis 9             6        neu
-      667      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      668         GLP – Grünliberale Partei     Kreis 9             6        neu
-      669                 FDP.Die Liberalen     Kreis 9             6        neu
-      670      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      671                             Grüne     Kreis 9             6        neu
-      672  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      673                             Grüne     Kreis 9             6        neu
-      674   SP – Sozialdemokratische Partei     Kreis 9             6     bisher
-      675                 FDP.Die Liberalen     Kreis 9             6        neu
-      676         GLP – Grünliberale Partei     Kreis 9             6        neu
-      677            AL – Alternative Liste     Kreis 9             6        neu
-      678         GLP – Grünliberale Partei     Kreis 9             6        neu
-      679                             Grüne     Kreis 9             6        neu
-      680         GLP – Grünliberale Partei     Kreis 9             6        neu
-      681      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      682                 FDP.Die Liberalen     Kreis 9             6        neu
-      683            AL – Alternative Liste     Kreis 9             6        neu
-      684            AL – Alternative Liste     Kreis 9             6        neu
-      685  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      686   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      687            AL – Alternative Liste     Kreis 9             6        neu
-      688         GLP – Grünliberale Partei     Kreis 9             6        neu
-      689                 Partei der Arbeit     Kreis 9             6        neu
-      690                         Die Mitte     Kreis 9             6        neu
-      691      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      692                             Grüne     Kreis 9             6        neu
-      693                             Grüne     Kreis 9             6        neu
-      694  Schweizerische Volkspartei – SVP     Kreis 9             6        neu
-      695         GLP – Grünliberale Partei     Kreis 9             6        neu
-      696        Freie Liste – Stadt Zürich     Kreis 9             6        neu
-      697                             Grüne     Kreis 9             6     bisher
-      698                 FDP.Die Liberalen     Kreis 9             6        neu
-      699         GLP – Grünliberale Partei     Kreis 9             6        neu
-      700                             Grüne     Kreis 9             6        neu
-      701         GLP – Grünliberale Partei     Kreis 9             6        neu
-      702                             Grüne     Kreis 9             6        neu
-      703      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      704                         Die Mitte     Kreis 9             6        neu
-      705      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      706      Evangelische Volkspartei EVP     Kreis 9             6        neu
-      707                             Grüne     Kreis 9             6        neu
-      708                         Die Mitte     Kreis 9             6        neu
-      709                         Die Mitte     Kreis 9             6        neu
-      710   SP – Sozialdemokratische Partei     Kreis 9             6        neu
-      711            AL – Alternative Liste     Kreis 9             6        neu
-      712         GLP – Grünliberale Partei     Kreis 9             6        neu
-      713                         Die Mitte     Kreis 9             6        neu
-      714            AL – Alternative Liste     Kreis 9             6        neu
-      715      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      716  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      717            AL – Alternative Liste    Kreis 10             7        neu
-      718                             Grüne    Kreis 10             7     bisher
-      719      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      720                 FDP.Die Liberalen    Kreis 10             7        neu
-      721  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      722            AL – Alternative Liste    Kreis 10             7        neu
-      723                 Partei der Arbeit    Kreis 10             7        neu
-      724                 FDP.Die Liberalen    Kreis 10             7        neu
-      725   SP – Sozialdemokratische Partei    Kreis 10             7     bisher
-      726            AL – Alternative Liste    Kreis 10             7        neu
-      727   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      728                             Grüne    Kreis 10             7        neu
-      729                             Grüne    Kreis 10             7        neu
-      730   SP – Sozialdemokratische Partei    Kreis 10             7     bisher
-      731      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      732                 FDP.Die Liberalen    Kreis 10             7        neu
-      733                 FDP.Die Liberalen    Kreis 10             7     bisher
-      734   SP – Sozialdemokratische Partei    Kreis 10             7     bisher
-      735                             Grüne    Kreis 10             7        neu
-      736                             Grüne    Kreis 10             7        neu
-      737                         Die Mitte    Kreis 10             7        neu
-      738            AL – Alternative Liste    Kreis 10             7     bisher
-      739                         Die Mitte    Kreis 10             7        neu
-      740         GLP – Grünliberale Partei    Kreis 10             7        neu
-      741         GLP – Grünliberale Partei    Kreis 10             7        neu
-      742            AL – Alternative Liste    Kreis 10             7        neu
-      743         GLP – Grünliberale Partei    Kreis 10             7        neu
-      744         GLP – Grünliberale Partei    Kreis 10             7        neu
-      745                 FDP.Die Liberalen    Kreis 10             7        neu
-      746                             Grüne    Kreis 10             7        neu
-      747                 FDP.Die Liberalen    Kreis 10             7        neu
-      748      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      749  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      750   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      751  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      752         GLP – Grünliberale Partei    Kreis 10             7        neu
-      753                             Grüne    Kreis 10             7        neu
-      754      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      755                         Die Mitte    Kreis 10             7        neu
-      756                             Grüne    Kreis 10             7     bisher
-      757         GLP – Grünliberale Partei    Kreis 10             7        neu
-      758   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      759                         Die Mitte    Kreis 10             7        neu
-      760      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      761  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      762                 FDP.Die Liberalen    Kreis 10             7        neu
-      763                             Grüne    Kreis 10             7        neu
-      764  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      765            AL – Alternative Liste    Kreis 10             7        neu
-      766                         Die Mitte    Kreis 10             7        neu
-      767            AL – Alternative Liste    Kreis 10             7        neu
-      768                              Volt    Kreis 10             7        neu
-      769                             Grüne    Kreis 10             7        neu
-      770                             Grüne    Kreis 10             7        neu
-      771   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      772  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      773         GLP – Grünliberale Partei    Kreis 10             7        neu
-      774      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      775      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      776   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      777      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      778            AL – Alternative Liste    Kreis 10             7        neu
-      779   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      780                         Die Mitte    Kreis 10             7        neu
-      781      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      782                 FDP.Die Liberalen    Kreis 10             7        neu
-      783  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      784            AL – Alternative Liste    Kreis 10             7        neu
-      785         GLP – Grünliberale Partei    Kreis 10             7        neu
-      786                         Die Mitte    Kreis 10             7        neu
-      787  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      788                 FDP.Die Liberalen    Kreis 10             7        neu
-      789   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      790      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      791                             Grüne    Kreis 10             7        neu
-      792            AL – Alternative Liste    Kreis 10             7        neu
-      793         GLP – Grünliberale Partei    Kreis 10             7        neu
-      794      Evangelische Volkspartei EVP    Kreis 10             7        neu
-      795         GLP – Grünliberale Partei    Kreis 10             7     bisher
-      796            AL – Alternative Liste    Kreis 10             7        neu
-      797  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      798   SP – Sozialdemokratische Partei    Kreis 10             7        neu
-      799                 FDP.Die Liberalen    Kreis 10             7        neu
-      800   SP – Sozialdemokratische Partei    Kreis 10             7     bisher
-      801         GLP – Grünliberale Partei    Kreis 10             7        neu
-      802  Schweizerische Volkspartei – SVP    Kreis 10             7        neu
-      803                         Die Mitte    Kreis 10             7        neu
-      804                         Die Mitte    Kreis 10             7        neu
-      805                 Partei der Arbeit    Kreis 10             7        neu
-      806                         Die Mitte    Kreis 10             7        neu
-      807  Schweizerische Volkspartei – SVP    Kreis 10             7     bisher
-      808         GLP – Grünliberale Partei    Kreis 10             7        neu
-      809                 FDP.Die Liberalen    Kreis 10             7        neu
-      810            AL – Alternative Liste    Kreis 10             7        neu
-      811                 FDP.Die Liberalen    Kreis 10             7     bisher
-      812                         Die Mitte    Kreis 11             8        neu
-      813                 Partei der Arbeit    Kreis 11             8        neu
-      814                 Partei der Arbeit    Kreis 11             8        neu
-      815                 FDP.Die Liberalen    Kreis 11             8        neu
-      816  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      817      Evangelische Volkspartei EVP    Kreis 11             8     bisher
-      818                 FDP.Die Liberalen    Kreis 11             8        neu
-      819            AL – Alternative Liste    Kreis 11             8        neu
-      820        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      821                         Die Mitte    Kreis 11             8        neu
-      822                             Grüne    Kreis 11             8        neu
-      823            AL – Alternative Liste    Kreis 11             8        neu
-      824            AL – Alternative Liste    Kreis 11             8        neu
-      825                         Die Mitte    Kreis 11             8        neu
-      826                         Die Mitte    Kreis 11             8        neu
-      827   SP – Sozialdemokratische Partei    Kreis 11             8     bisher
-      828         GLP – Grünliberale Partei    Kreis 11             8        neu
-      829            AL – Alternative Liste    Kreis 11             8        neu
-      830   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      831   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      832                 Partei der Arbeit    Kreis 11             8        neu
-      833                 FDP.Die Liberalen    Kreis 11             8        neu
-      834         GLP – Grünliberale Partei    Kreis 11             8        neu
-      835            AL – Alternative Liste    Kreis 11             8        neu
-      836  Schweizerische Volkspartei – SVP    Kreis 11             8     bisher
-      837   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      838                 FDP.Die Liberalen    Kreis 11             8        neu
-      839  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      840   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      841      Evangelische Volkspartei EVP    Kreis 11             8     bisher
-      842                 FDP.Die Liberalen    Kreis 11             8        neu
-      843   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      844                             Grüne    Kreis 11             8        neu
-      845  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      846      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      847                 FDP.Die Liberalen    Kreis 11             8     bisher
-      848                 FDP.Die Liberalen    Kreis 11             8        neu
-      849  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      850                 FDP.Die Liberalen    Kreis 11             8        neu
-      851            AL – Alternative Liste    Kreis 11             8        neu
-      852        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      853                 FDP.Die Liberalen    Kreis 11             8        neu
-      854   SP – Sozialdemokratische Partei    Kreis 11             8     bisher
-      855            AL – Alternative Liste    Kreis 11             8        neu
-      856            AL – Alternative Liste    Kreis 11             8        neu
-      857                 FDP.Die Liberalen    Kreis 11             8        neu
-      858   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      859                 FDP.Die Liberalen    Kreis 11             8        neu
-      860            AL – Alternative Liste    Kreis 11             8        neu
-      861        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      862      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      863   SP – Sozialdemokratische Partei    Kreis 11             8     bisher
-      864                             Grüne    Kreis 11             8        neu
-      865         GLP – Grünliberale Partei    Kreis 11             8        neu
-      866      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      867      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      868                         Die Mitte    Kreis 11             8        neu
-      869                         Die Mitte    Kreis 11             8        neu
-      870   SP – Sozialdemokratische Partei    Kreis 11             8     bisher
-      871                             Grüne    Kreis 11             8        neu
-      872                 Partei der Arbeit    Kreis 11             8        neu
-      873  Schweizerische Volkspartei – SVP    Kreis 11             8     bisher
-      874  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      875   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      876  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      877         GLP – Grünliberale Partei    Kreis 11             8        neu
-      878                             Grüne    Kreis 11             8        neu
-      879            AL – Alternative Liste    Kreis 11             8        neu
-      880            AL – Alternative Liste    Kreis 11             8        neu
-      881      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      882         GLP – Grünliberale Partei    Kreis 11             8        neu
-      883      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      884  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      885        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      886        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      887                             Grüne    Kreis 11             8        neu
-      888                             Grüne    Kreis 11             8        neu
-      889      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      890   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      891                             Grüne    Kreis 11             8        neu
-      892                             Grüne    Kreis 11             8        neu
-      893   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      894        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      895                         Die Mitte    Kreis 11             8        neu
-      896   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      897                             Grüne    Kreis 11             8     bisher
-      898                 FDP.Die Liberalen    Kreis 11             8        neu
-      899            AL – Alternative Liste    Kreis 11             8        neu
-      900                 FDP.Die Liberalen    Kreis 11             8        neu
-      901                             Grüne    Kreis 11             8        neu
-      902   SP – Sozialdemokratische Partei    Kreis 11             8     bisher
-      903      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      904                         Die Mitte    Kreis 11             8        neu
-      905                 FDP.Die Liberalen    Kreis 11             8     bisher
-      906  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      907                         Die Mitte    Kreis 11             8        neu
-      908  Schweizerische Volkspartei – SVP    Kreis 11             8     bisher
-      909      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      910      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      911         GLP – Grünliberale Partei    Kreis 11             8        neu
-      912            AL – Alternative Liste    Kreis 11             8        neu
-      913         GLP – Grünliberale Partei    Kreis 11             8        neu
-      914   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      915  Schweizerische Volkspartei – SVP    Kreis 11             8     bisher
-      916            AL – Alternative Liste    Kreis 11             8     bisher
-      917                         Die Mitte    Kreis 11             8        neu
-      918  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      919         GLP – Grünliberale Partei    Kreis 11             8        neu
-      920            AL – Alternative Liste    Kreis 11             8        neu
-      921         GLP – Grünliberale Partei    Kreis 11             8        neu
-      922            AL – Alternative Liste    Kreis 11             8        neu
-      923         GLP – Grünliberale Partei    Kreis 11             8     bisher
-      924      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      925                             Grüne    Kreis 11             8        neu
-      926  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      927         GLP – Grünliberale Partei    Kreis 11             8     bisher
-      928   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      929        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      930                         Die Mitte    Kreis 11             8        neu
-      931      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      932  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      933                         Die Mitte    Kreis 11             8        neu
-      934         GLP – Grünliberale Partei    Kreis 11             8        neu
-      935                         Die Mitte    Kreis 11             8        neu
-      936                             Grüne    Kreis 11             8        neu
-      937         GLP – Grünliberale Partei    Kreis 11             8        neu
-      938   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      939                             Grüne    Kreis 11             8        neu
-      940         GLP – Grünliberale Partei    Kreis 11             8        neu
-      941  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      942      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      943                 FDP.Die Liberalen    Kreis 11             8        neu
-      944  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      945            AL – Alternative Liste    Kreis 11             8        neu
-      946         GLP – Grünliberale Partei    Kreis 11             8        neu
-      947                             Grüne    Kreis 11             8        neu
-      948                 FDP.Die Liberalen    Kreis 11             8     bisher
-      949                 FDP.Die Liberalen    Kreis 11             8        neu
-      950                             Grüne    Kreis 11             8     bisher
-      951                 FDP.Die Liberalen    Kreis 11             8        neu
-      952      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      953                         Die Mitte    Kreis 11             8        neu
-      954                         Die Mitte    Kreis 11             8        neu
-      955   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      956                 FDP.Die Liberalen    Kreis 11             8        neu
-      957      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      958                         Die Mitte    Kreis 11             8        neu
-      959                         Die Mitte    Kreis 11             8        neu
-      960                         Die Mitte    Kreis 11             8        neu
-      961  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      962            AL – Alternative Liste    Kreis 11             8        neu
-      963                 Partei der Arbeit    Kreis 11             8        neu
-      964                 Partei der Arbeit    Kreis 11             8        neu
-      965         GLP – Grünliberale Partei    Kreis 11             8        neu
-      966            AL – Alternative Liste    Kreis 11             8        neu
-      967   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      968            AL – Alternative Liste    Kreis 11             8        neu
-      969      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      970         GLP – Grünliberale Partei    Kreis 11             8        neu
-      971  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      972        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      973        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      974  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      975      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      976      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      977                         Die Mitte    Kreis 11             8        neu
-      978                 FDP.Die Liberalen    Kreis 11             8        neu
-      979         GLP – Grünliberale Partei    Kreis 11             8        neu
-      980         GLP – Grünliberale Partei    Kreis 11             8     bisher
-      981        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      982                         Die Mitte    Kreis 11             8        neu
-      983                             Grüne    Kreis 11             8        neu
-      984      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      985         GLP – Grünliberale Partei    Kreis 11             8        neu
-      986         GLP – Grünliberale Partei    Kreis 11             8        neu
-      987                             Grüne    Kreis 11             8        neu
-      988        Freie Liste – Stadt Zürich    Kreis 11             8        neu
-      989                         Die Mitte    Kreis 11             8        neu
-      990      Evangelische Volkspartei EVP    Kreis 11             8        neu
-      991                             Grüne    Kreis 11             8        neu
-      992                             Grüne    Kreis 11             8        neu
-      993            AL – Alternative Liste    Kreis 11             8        neu
-      994                             Grüne    Kreis 11             8        neu
-      995   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      996  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      997            AL – Alternative Liste    Kreis 11             8        neu
-      998  Schweizerische Volkspartei – SVP    Kreis 11             8        neu
-      999   SP – Sozialdemokratische Partei    Kreis 11             8        neu
-      1000        GLP – Grünliberale Partei    Kreis 11             8        neu
-      1001                        Die Mitte    Kreis 11             8        neu
-      1002                FDP.Die Liberalen    Kreis 11             8        neu
-      1003                            Grüne    Kreis 11             8        neu
-      1004                FDP.Die Liberalen    Kreis 11             8        neu
-      1005 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1006     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1007        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1008        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1009  SP – Sozialdemokratische Partei    Kreis 12             9     bisher
-      1010                            Grüne    Kreis 12             9        neu
-      1011     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1012                        Die Mitte    Kreis 12             9        neu
-      1013                FDP.Die Liberalen    Kreis 12             9        neu
-      1014           AL – Alternative Liste    Kreis 12             9        neu
-      1015        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1016       Freie Liste – Stadt Zürich    Kreis 12             9        neu
-      1017     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1018           AL – Alternative Liste    Kreis 12             9        neu
-      1019                            Grüne    Kreis 12             9        neu
-      1020     Evangelische Volkspartei EVP    Kreis 12             9     bisher
-      1021  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1022                            Grüne    Kreis 12             9        neu
-      1023                FDP.Die Liberalen    Kreis 12             9        neu
-      1024        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1025                FDP.Die Liberalen    Kreis 12             9        neu
-      1026  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1027                            Grüne    Kreis 12             9        neu
-      1028                FDP.Die Liberalen    Kreis 12             9        neu
-      1029     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1030                            Grüne    Kreis 12             9        neu
-      1031                            Grüne    Kreis 12             9        neu
-      1032 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1033           AL – Alternative Liste    Kreis 12             9        neu
-      1034  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1035 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1036 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1037 Schweizerische Volkspartei – SVP    Kreis 12             9     bisher
-      1038           AL – Alternative Liste    Kreis 12             9        neu
-      1039     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1040                FDP.Die Liberalen    Kreis 12             9        neu
-      1041           AL – Alternative Liste    Kreis 12             9        neu
-      1042                        Die Mitte    Kreis 12             9        neu
-      1043                        Die Mitte    Kreis 12             9        neu
-      1044                        Die Mitte    Kreis 12             9        neu
-      1045           AL – Alternative Liste    Kreis 12             9        neu
-      1046        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1047                Partei der Arbeit    Kreis 12             9        neu
-      1048        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1049        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1050           AL – Alternative Liste    Kreis 12             9        neu
-      1051       Freie Liste – Stadt Zürich    Kreis 12             9        neu
-      1052        GLP – Grünliberale Partei    Kreis 12             9     bisher
-      1053                        Die Mitte    Kreis 12             9        neu
-      1054                            Grüne    Kreis 12             9     bisher
-      1055  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1056                Partei der Arbeit    Kreis 12             9        neu
-      1057                            Grüne    Kreis 12             9        neu
-      1058           AL – Alternative Liste    Kreis 12             9        neu
-      1059  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1060        GLP – Grünliberale Partei    Kreis 12             9        neu
-      1061     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1062 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1063           AL – Alternative Liste    Kreis 12             9        neu
-      1064                FDP.Die Liberalen    Kreis 12             9     bisher
-      1065       Freie Liste – Stadt Zürich    Kreis 12             9        neu
-      1066                Partei der Arbeit    Kreis 12             9        neu
-      1067                            Grüne    Kreis 12             9        neu
-      1068                FDP.Die Liberalen    Kreis 12             9        neu
-      1069     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1070       Freie Liste – Stadt Zürich    Kreis 12             9        neu
-      1071  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1072                FDP.Die Liberalen    Kreis 12             9        neu
-      1073  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1074 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1075                FDP.Die Liberalen    Kreis 12             9        neu
-      1076  SP – Sozialdemokratische Partei    Kreis 12             9        neu
-      1077                Partei der Arbeit    Kreis 12             9        neu
-      1078                Partei der Arbeit    Kreis 12             9        neu
-      1079                        Die Mitte    Kreis 12             9        neu
-      1080     Evangelische Volkspartei EVP    Kreis 12             9        neu
-      1081 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-      1082 Schweizerische Volkspartei – SVP    Kreis 12             9        neu
-                  X10        X11           X12            X13                  X14
-      1          <NA>       <NA>          <NA>           <NA>                 <NA>
-      2          <NA>       <NA>          <NA>           <NA>                 <NA>
-      3          <NA>       <NA>          <NA>           <NA>                 <NA>
-      4          <NA>       <NA>          <NA>           <NA>                 <NA>
-      5          <NA>       <NA>          <NA>           <NA>                 <NA>
-      6          <NA>       <NA>          <NA>           <NA>                 <NA>
-      7    BisherSort Geschlecht  Wahlresultat Anzahl Stimmen Parteieigene Stimmen
-      8             0   Männlich nicht gewählt           1105                 1096
-      9             0   Männlich nicht gewählt           1191                 1166
-      10            0   Weiblich nicht gewählt           1188                 1138
-      11            0   Männlich nicht gewählt           1401                 1331
-      12            0   Männlich nicht gewählt           1188                 1089
-      13            0   Weiblich nicht gewählt           1543                 1455
-      14            0   Weiblich nicht gewählt            486                  447
-      15            0   Weiblich nicht gewählt           1438                 1346
-      16            0   Weiblich nicht gewählt           1152                 1131
-      17            1   Männlich       gewählt           2430                 2177
-      18            0   Weiblich nicht gewählt            143                   98
-      19            0   Weiblich nicht gewählt           2561                 2450
-      20            0   Männlich nicht gewählt           2363                 2307
-      21            0   Weiblich nicht gewählt            184                  175
-      22            0   Männlich nicht gewählt           1887                 1865
-      23            0   Weiblich nicht gewählt           2048                 1981
-      24            0   Männlich nicht gewählt           1080                 1011
-      25            0   Weiblich nicht gewählt            337                  196
-      26            0   Männlich nicht gewählt           2473                 2389
-      27            0   Weiblich nicht gewählt            552                  463
-      28            0   Weiblich nicht gewählt           1942                 1905
-      29            0   Männlich nicht gewählt            477                  423
-      30            0   Männlich nicht gewählt            135                   96
-      31            0   Männlich nicht gewählt           1277                 1226
-      32            0   Weiblich nicht gewählt            223                  174
-      33            0   Weiblich nicht gewählt           1119                 1094
-      34            0   Weiblich nicht gewählt           2323                 2285
-      35            0   Männlich nicht gewählt           1694                 1685
-      36            0   Weiblich nicht gewählt            181                  176
-      37            0   Männlich       gewählt           2253                 2122
-      38            0   Weiblich nicht gewählt            337                  335
-      39            0   Männlich nicht gewählt            194                  167
-      40            0   Männlich nicht gewählt           1286                 1202
-      41            0   Männlich nicht gewählt           1399                 1356
-      42            0   Weiblich nicht gewählt           2322                 2252
-      43            0   Weiblich nicht gewählt           1562                 1438
-      44            0   Männlich nicht gewählt            549                  520
-      45            0   Weiblich nicht gewählt           1424                 1349
-      46            0   Männlich nicht gewählt            441                  413
-      47            1   Weiblich       gewählt           2768                 2576
-      48            0   Männlich nicht gewählt           1195                 1167
-      49            0   Weiblich nicht gewählt           1740                 1512
-      50            0   Männlich nicht gewählt            381                  347
-      51            1   Weiblich       gewählt           1993                 1551
-      52            0   Männlich nicht gewählt            173                  170
-      53            0   Weiblich nicht gewählt           1207                 1149
-      54            1   Männlich       gewählt           1537                 1203
-      55            0   Männlich nicht gewählt           1151                 1136
-      56            0   Weiblich nicht gewählt            432                  417
-      57            0   Weiblich nicht gewählt            175                  174
-      58            0   Weiblich nicht gewählt           1323                 1222
-      59            0   Weiblich nicht gewählt            579                  525
-      60            0   Männlich nicht gewählt            614                  544
-      61            0   Männlich nicht gewählt            630                  536
-      62            1   Männlich       gewählt           2135                 1554
-      63            0   Männlich nicht gewählt            522                  500
-      64            0   Weiblich nicht gewählt           1990                 1953
-      65            0   Weiblich nicht gewählt           1153                 1133
-      66            0   Männlich nicht gewählt           1176                 1137
-      67            0   Männlich nicht gewählt           2293                 2249
-      68            0   Männlich nicht gewählt           1930                 1902
-      69            0   Männlich nicht gewählt            515                  417
-      70            0   Männlich nicht gewählt            341                  336
-      71            0   Weiblich nicht gewählt           1223                 1182
-      72            0   Männlich nicht gewählt           1160                 1150
-      73            0   Männlich nicht gewählt           1392                 1317
-      74            0   Männlich nicht gewählt           1183                 1096
-      75            0   Weiblich nicht gewählt            485                  477
-      76            0   Männlich nicht gewählt           1742                 1732
-      77            0   Männlich nicht gewählt            479                  474
-      78            0   Männlich nicht gewählt            503                  485
-      79            0   Männlich nicht gewählt           1478                 1366
-      80            0   Weiblich nicht gewählt            555                  443
-      81            0   Weiblich nicht gewählt            205                  186
-      82            0   Männlich nicht gewählt            493                  490
-      83            0   Männlich nicht gewählt            444                  402
-      84            0   Weiblich nicht gewählt            179                  177
-      85            0   Weiblich nicht gewählt            184                  175
-      86            1   Weiblich       gewählt           3007                 2642
-      87            1   Männlich       gewählt           2465                 2216
-      88            0   Männlich       gewählt            632                  460
-      89            0   Männlich nicht gewählt           1131                 1113
-      90            0   Männlich nicht gewählt           2614                 2500
-      91            0   Weiblich nicht gewählt            179                  178
-      92            0   Männlich nicht gewählt            360                  345
-      93            0   Weiblich nicht gewählt           2483                 2417
-      94            0   Weiblich nicht gewählt           1843                 1806
-      95            0   Weiblich nicht gewählt            360                  348
-      96            0   Männlich nicht gewählt           2146                 2114
-      97            0   Männlich nicht gewählt           1173                 1156
-      98            0   Weiblich nicht gewählt            431                  422
-      99            0   Weiblich nicht gewählt            175                  171
-      100           0   Männlich       gewählt            906                  598
-      101           0   Weiblich nicht gewählt            553                  516
-      102           0   Männlich nicht gewählt            444                  430
-      103           0   Weiblich nicht gewählt           1195                 1145
-      104           0   Männlich nicht gewählt            493                  473
-      105           1   Weiblich       gewählt           2953                 2633
-      106           0   Weiblich nicht gewählt           1948                 1913
-      107           0   Weiblich nicht gewählt            339                  335
-      108           0   Männlich nicht gewählt           1454                 1364
-      109           1   Weiblich nicht gewählt           1267                 1178
-      110           1   Männlich       gewählt           1359                 1227
-      111           0   Weiblich nicht gewählt            578                  470
-      112           0   Weiblich nicht gewählt           1182                 1107
-      113           0   Männlich nicht gewählt           1600                 1504
-      114           0   Männlich nicht gewählt            998                  983
-      115           0   Weiblich nicht gewählt            424                  409
-      116           1   Männlich       gewählt           2451                 1280
-      117           0   Männlich nicht gewählt           1966                 1760
-      118           0   Weiblich nicht gewählt           1228                 1084
-      119           0   Männlich nicht gewählt            939                  939
-      120           0   Weiblich nicht gewählt           1508                 1422
-      121           0   Weiblich nicht gewählt            343                  320
-      122           0   Weiblich nicht gewählt           1035                  992
-      123           0   Weiblich nicht gewählt           1338                 1151
-      124           0   Weiblich nicht gewählt           1881                 1699
-      125           0   Weiblich nicht gewählt            165                  145
-      126           0   Männlich nicht gewählt           1103                 1032
-      127           0   Weiblich nicht gewählt           1741                 1700
-      128           1   Männlich       gewählt           1654                 1424
-      129           0   Männlich nicht gewählt           3773                 3717
-      130           0   Männlich nicht gewählt           1003                  968
-      131           0   Weiblich nicht gewählt            140                  136
-      132           0   Weiblich nicht gewählt            974                  973
-      133           0   Männlich nicht gewählt           3509                 3432
-      134           0   Männlich nicht gewählt            173                  144
-      135           0   Männlich nicht gewählt           1042                 1001
-      136           0   Männlich nicht gewählt            162                  144
-      137           0   Weiblich nicht gewählt           2365                 1910
-      138           1   Weiblich       gewählt           1577                 1379
-      139           1   Weiblich nicht gewählt           1819                 1204
-      140           0   Weiblich nicht gewählt           3236                 3166
-      141           0   Weiblich nicht gewählt           1298                 1280
-      142           0   Weiblich nicht gewählt           1409                 1378
-      143           1   Männlich       gewählt           4205                 3834
-      144           0   Männlich nicht gewählt            137                  137
-      145           0   Weiblich nicht gewählt            452                  409
-      146           0   Weiblich nicht gewählt           2102                 1842
-      147           1   Weiblich       gewählt           1870                 1518
-      148           0   Männlich nicht gewählt            939                  928
-      149           1   Männlich nicht gewählt           4013                 3834
-      150           0   Männlich nicht gewählt            184                  181
-      151           0   Männlich nicht gewählt           1546                 1520
-      152           0   Männlich nicht gewählt            279                  276
-      153           0   Weiblich nicht gewählt            315                  306
-      154           0   Weiblich nicht gewählt            950                  938
-      155           0   Weiblich       gewählt           4299                 3981
-      156           0   Männlich nicht gewählt           1021                 1000
-      157           0   Männlich nicht gewählt            148                  143
-      158           0   Männlich       gewählt            698                  614
-      159           0   Weiblich nicht gewählt           1134                 1028
-      160           0   Männlich nicht gewählt           1522                 1471
-      161           0   Männlich nicht gewählt            355                  328
-      162           0   Männlich nicht gewählt            206                  154
-      163           0   Männlich nicht gewählt           1659                 1527
-      164           0   Männlich nicht gewählt           1459                 1436
-      165           0   Weiblich nicht gewählt            939                  933
-      166           0   Männlich nicht gewählt            919                  917
-      167           0   Weiblich nicht gewählt            111                   93
-      168           0   Männlich nicht gewählt            423                  411
-      169           0   Männlich nicht gewählt            137                  137
-      170           0   Weiblich nicht gewählt           1592                 1525
-      171           0   Weiblich nicht gewählt            423                  409
-      172           0   Männlich nicht gewählt            282                  278
-      173           0   Männlich nicht gewählt           1924                 1786
-      174           0   Männlich nicht gewählt           1314                 1287
-      175           0   Weiblich nicht gewählt            163                  146
-      176           0   Weiblich nicht gewählt            975                  968
-      177           0   Männlich nicht gewählt           1312                 1288
-      178           0   Weiblich       gewählt           4098                 3884
-      179           0   Männlich nicht gewählt            393                  335
-      180           0   Männlich nicht gewählt            186                  179
-      181           0   Männlich nicht gewählt            241                  182
-      182           1   Männlich       gewählt           4209                 4044
-      183           0   Weiblich nicht gewählt           1171                 1111
-      184           0   Weiblich nicht gewählt           1119                 1073
-      185           0   Männlich nicht gewählt           1690                 1549
-      186           0   Weiblich nicht gewählt           1253                 1234
-      187           0   Weiblich nicht gewählt            423                  411
-      188           1   Männlich       gewählt           1875                 1566
-      189           0   Weiblich nicht gewählt           1497                 1460
-      190           0   Weiblich nicht gewählt            313                  188
-      191           0   Weiblich nicht gewählt           3707                 3619
-      192           0   Männlich nicht gewählt           1375                 1327
-      193           0   Weiblich nicht gewählt           1648                 1588
-      194           0   Männlich nicht gewählt            186                  149
-      195           0   Männlich nicht gewählt            997                  975
-      196           0   Weiblich nicht gewählt           1171                 1160
-      197           0   Männlich nicht gewählt           1129                 1092
-      198           0   Männlich nicht gewählt           3182                 3151
-      199           1   Männlich       gewählt           1100                 1013
-      200           1   Männlich       gewählt           2497                 1867
-      201           0   Männlich nicht gewählt            141                  140
-      202           0   Männlich nicht gewählt           1659                 1637
-      203           0   Männlich nicht gewählt           1344                 1297
-      204           0   Männlich nicht gewählt           1469                 1434
-      205           0   Weiblich nicht gewählt            425                  411
-      206           0   Weiblich nicht gewählt           1131                 1079
-      207           0   Männlich nicht gewählt           1078                 1022
-      208           0   Männlich nicht gewählt            953                  949
-      209           0   Weiblich       gewählt           2613                 1910
-      210           0   Männlich nicht gewählt            146                  145
-      211           0   Männlich nicht gewählt            970                  962
-      212           0   Männlich nicht gewählt           1193                 1061
-      213           0   Männlich nicht gewählt            333                  325
-      214           0   Weiblich nicht gewählt           1404                 1370
-      215           0   Männlich nicht gewählt           1227                 1202
-      216           0   Weiblich nicht gewählt           3893                 3670
-      217           0   Männlich       gewählt           2671                 2535
-      218           0   Weiblich nicht gewählt            326                  310
-      219           0   Männlich nicht gewählt            684                  624
-      220           0   Männlich nicht gewählt           3588                 3506
-      221           0   Weiblich nicht gewählt           1228                 1213
-      222           0   Männlich nicht gewählt            419                  408
-      223           0   Weiblich nicht gewählt           1354                 1302
-      224           0   Männlich nicht gewählt            200                  178
-      225           0   Weiblich nicht gewählt           1898                 1768
-      226           0   Männlich nicht gewählt            374                  337
-      227           0   Männlich nicht gewählt           1618                 1558
-      228           0   Männlich nicht gewählt            144                  141
-      229           0   Weiblich nicht gewählt           1507                 1481
-      230           0   Weiblich nicht gewählt            247                  188
-      231           0   Weiblich nicht gewählt           1451                 1351
-      232           0   Männlich nicht gewählt            328                  321
-      233           0   Weiblich nicht gewählt            141                  140
-      234           0   Männlich nicht gewählt            279                  270
-      235           0   Weiblich nicht gewählt            174                  148
-      236           0   Weiblich nicht gewählt            303                  185
-      237           1   Weiblich       gewählt           4656                 4108
-      238           0   Weiblich nicht gewählt           3592                 3547
-      239           0   Weiblich nicht gewählt           1867                 1765
-      240           0   Männlich nicht gewählt           1095                 1035
-      241           0   Männlich nicht gewählt           1325                 1278
-      242           0   Weiblich nicht gewählt           1518                 1485
-      243           0   Männlich nicht gewählt           1318                 1291
-      244           0   Weiblich nicht gewählt           3724                 3612
-      245           0   Weiblich nicht gewählt            185                  181
-      246           0   Männlich nicht gewählt            256                  251
-      247           0   Weiblich       gewählt           1720                 1465
-      248           0   Männlich nicht gewählt           1036                 1015
-      249           0   Männlich nicht gewählt           1004                  996
-      250           0   Männlich nicht gewählt            210                  187
-      251           0   Männlich nicht gewählt            621                  613
-      252           1   Männlich nicht gewählt            635                  621
-      253           0   Männlich nicht gewählt           1312                 1271
-      254           0   Weiblich nicht gewählt           1132                 1100
-      255           0   Weiblich nicht gewählt           1227                 1149
-      256           0   Weiblich       gewählt           1713                 1439
-      257           0   Männlich nicht gewählt            624                  617
-      258           0   Männlich nicht gewählt             88                   75
-      259           0   Männlich nicht gewählt           1762                 1540
-      260           1   Männlich nicht gewählt           1702                 1471
-      261           0   Weiblich nicht gewählt           3178                 3087
-      262           0   Männlich nicht gewählt           1309                 1266
-      263           0   Weiblich       gewählt           3819                 3495
-      264           1   Männlich       gewählt           3783                 3473
-      265           0   Männlich nicht gewählt            983                  981
-      266           0   Weiblich nicht gewählt           3275                 3164
-      267           0   Männlich nicht gewählt            586                  585
-      268           0   Weiblich nicht gewählt           1238                 1118
-      269           0   Weiblich nicht gewählt            588                  581
-      270           0   Männlich nicht gewählt            410                  361
-      271           0   Männlich nicht gewählt           1353                 1310
-      272           0   Männlich nicht gewählt           1410                 1353
-      273           0   Weiblich nicht gewählt           1847                 1563
-      274           0   Männlich nicht gewählt           1357                 1321
-      275           0   Weiblich nicht gewählt           1353                 1324
-      276           1   Weiblich       gewählt           2222                 1628
-      277           0   Weiblich nicht gewählt            485                  381
-      278           1   Männlich       gewählt           1759                 1257
-      279           0   Weiblich nicht gewählt           1121                 1089
-      280           0   Weiblich nicht gewählt             85                   78
-      281           0   Weiblich nicht gewählt            353                  287
-      282           1   Männlich nicht gewählt           3541                 3288
-      283           0   Männlich nicht gewählt            632                  612
-      284           0   Männlich nicht gewählt            407                  294
-      285           0   Männlich nicht gewählt             81                   70
-      286           0   Männlich nicht gewählt           1026                 1013
-      287           0   Männlich nicht gewählt           1536                 1417
-      288           0   Weiblich nicht gewählt           1509                 1471
-      289           0   Männlich nicht gewählt            202                  186
-      290           0   Männlich nicht gewählt             72                   72
-      291           0   Weiblich nicht gewählt            632                  621
-      292           1   Weiblich       gewählt           3812                 3450
-      293           0   Männlich nicht gewählt           1067                 1054
-      294           0   Weiblich nicht gewählt           1602                 1441
-      295           0   Männlich nicht gewählt            145                  137
-      296           1   Männlich       gewählt           2200                 1567
-      297           0   Weiblich nicht gewählt           1798                 1548
-      298           0   Männlich nicht gewählt           1082                 1045
-      299           0   Weiblich nicht gewählt           1206                 1157
-      300           0   Weiblich nicht gewählt             72                   71
-      301           0   Weiblich nicht gewählt            458                  384
-      302           0   Weiblich nicht gewählt            422                  308
-      303           0   Männlich nicht gewählt            323                  291
-      304           0   Männlich nicht gewählt           1436                 1383
-      305           0   Männlich nicht gewählt            198                  191
-      306           0   Männlich nicht gewählt            683                  649
-      307           0   Männlich nicht gewählt            245                  196
-      308           0   Männlich nicht gewählt           2904                 2817
-      309           0   Weiblich nicht gewählt             65                   65
-      310           0   Männlich nicht gewählt           1096                 1077
-      311           0   Weiblich nicht gewählt           1239                 1143
-      312           0   Männlich nicht gewählt             98                   77
-      313           0   Weiblich nicht gewählt           3296                 3169
-      314           0   Männlich nicht gewählt           3140                 3049
-      315           0   Weiblich       gewählt           3789                 3486
-      316           0   Männlich nicht gewählt            637                  616
-      317           0   Weiblich nicht gewählt           1568                 1257
-      318           0   Männlich nicht gewählt           1433                 1367
-      319           0   Männlich nicht gewählt             81                   78
-      320           0   Männlich nicht gewählt           1100                 1024
-      321           0   Männlich nicht gewählt            112                   78
-      322           0   Weiblich nicht gewählt           2085                 1623
-      323           0   Weiblich nicht gewählt           1439                 1375
-      324           0   Weiblich nicht gewählt           1279                 1269
-      325           0   Weiblich nicht gewählt             69                   68
-      326           0   Männlich nicht gewählt            573                  572
-      327           0   Männlich nicht gewählt            130                   86
-      328           1   Weiblich       gewählt           1380                 1165
-      329           0   Weiblich nicht gewählt           3469                 3262
-      330           0   Männlich nicht gewählt            154                   88
-      331           0   Männlich nicht gewählt            177                  174
-      332           0   Weiblich nicht gewählt           1273                 1254
-      333           0   Männlich nicht gewählt           1906                 1583
-      334           0   Männlich nicht gewählt            664                  635
-      335           0   Männlich       gewählt           1216                 1137
-      336           0   Männlich nicht gewählt           3023                 2922
-      337           0   Männlich nicht gewählt           1130                 1101
-      338           1   Männlich       gewählt           3613                 3402
-      339           0   Weiblich nicht gewählt            589                  587
-      340           1   Männlich       gewählt            811                  670
-      341           0   Männlich nicht gewählt            352                  274
-      342           0   Männlich nicht gewählt           1144                 1086
-      343           0   Weiblich nicht gewählt           1152                 1112
-      344           0   Weiblich nicht gewählt           1424                 1379
-      345           0   Männlich nicht gewählt             72                   66
-      346           0   Männlich nicht gewählt           1095                 1018
-      347           0   Weiblich nicht gewählt           1046                 1021
-      348           0   Männlich nicht gewählt            925                  916
-      349           1   Männlich nicht gewählt           1575                 1217
-      350           0   Weiblich nicht gewählt            197                  190
-      351           0   Weiblich nicht gewählt           1586                 1406
-      352           0   Weiblich nicht gewählt           1412                 1164
-      353           0   Weiblich       gewählt           1652                 1456
-      354           1   Männlich       gewählt            941                  820
-      355           0   Weiblich nicht gewählt           2615                 2575
-      356           0   Weiblich nicht gewählt            291                  254
-      357           0   Weiblich nicht gewählt            269                  257
-      358           0   Männlich nicht gewählt            483                  477
-      359           1   Männlich       gewählt           1883                 1715
-      360           0   Männlich nicht gewählt            739                  723
-      361           0   Weiblich nicht gewählt            200                  182
-      362           0   Männlich nicht gewählt            236                  172
-      363           0   Weiblich nicht gewählt            590                  547
-      364           0   Männlich nicht gewählt            189                  165
-      365           0   Männlich nicht gewählt            776                  754
-      366           1   Männlich       gewählt           3271                 2990
-      367           0   Weiblich nicht gewählt            201                  177
-      368           0   Männlich nicht gewählt           2551                 2520
-      369           0   Männlich nicht gewählt            272                  254
-      370           0   Weiblich nicht gewählt           1515                 1502
-      371           0   Weiblich nicht gewählt            791                  761
-      372           0   Weiblich nicht gewählt           1383                 1318
-      373           0   Männlich nicht gewählt            748                  732
-      374           0   Männlich nicht gewählt            170                  155
-      375           0   Weiblich nicht gewählt            595                  546
-      376           0   Männlich nicht gewählt           1486                 1385
-      377           0   Männlich nicht gewählt           1438                 1376
-      378           0   Weiblich nicht gewählt           1454                 1286
-      379           0   Männlich nicht gewählt            535                  506
-      380           0   Weiblich nicht gewählt           2877                 2752
-      381           0   Weiblich nicht gewählt           1531                 1493
-      382           0   Weiblich nicht gewählt           2949                 2797
-      383           0   Männlich       gewählt           1801                 1344
-      384           0   Weiblich nicht gewählt            779                  762
-      385           0   Weiblich nicht gewählt            146                   99
-      386           0   Weiblich nicht gewählt           1369                 1303
-      387           0   Männlich nicht gewählt            583                  495
-      388           0   Weiblich nicht gewählt           2739                 2611
-      389           0   Weiblich nicht gewählt           1579                 1433
-      390           0   Männlich nicht gewählt            129                   98
-      391           0   Weiblich nicht gewählt            766                  756
-      392           1   Männlich       gewählt            969                  562
-      393           0   Männlich nicht gewählt           1341                 1280
-      394           0   Männlich nicht gewählt           1644                 1579
-      395           0   Männlich nicht gewählt           2467                 2389
-      396           1   Männlich       gewählt           3299                 3088
-      397           0   Männlich nicht gewählt           1381                 1335
-      398           0   Männlich nicht gewählt           1329                 1278
-      399           0   Männlich nicht gewählt           1378                 1263
-      400           0   Männlich nicht gewählt           1630                 1422
-      401           0   Männlich nicht gewählt            276                  268
-      402           1   Weiblich       gewählt           3399                 3107
-      403           0   Männlich nicht gewählt            780                  765
-      404           0   Weiblich nicht gewählt            403                  283
-      405           0   Weiblich nicht gewählt            284                  197
-      406           0   Männlich nicht gewählt            167                  159
-      407           0   Weiblich nicht gewählt           1676                 1414
-      408           0   Weiblich nicht gewählt            227                  181
-      409           1   Männlich       gewählt           1887                 1398
-      410           0   Männlich nicht gewählt           1432                 1404
-      411           1   Männlich nicht gewählt           3116                 2975
-      412           0   Männlich nicht gewählt           1445                 1426
-      413           0   Männlich nicht gewählt           1132                 1125
-      414           0   Weiblich nicht gewählt            524                  510
-      415           0   Männlich nicht gewählt            502                  494
-      416           0   Weiblich nicht gewählt            144                   96
-      417           0   Männlich nicht gewählt           1228                 1183
-      418           0   Weiblich nicht gewählt           1533                 1359
-      419           0   Männlich nicht gewählt            200                  171
-      420           0   Weiblich nicht gewählt            751                  743
-      421           0   Weiblich nicht gewählt           1474                 1294
-      422           0   Weiblich nicht gewählt           1433                 1360
-      423           0   Weiblich nicht gewählt           1406                 1287
-      424           0   Weiblich nicht gewählt            325                  285
-      425           0   Weiblich nicht gewählt           1531                 1476
-      426           1   Männlich       gewählt           2126                 1823
-      427           0   Weiblich nicht gewählt            317                  284
-      428           0   Männlich nicht gewählt            693                  545
-      429           0   Weiblich nicht gewählt            715                  566
-      430           0   Weiblich nicht gewählt            784                  749
-      431           0   Weiblich nicht gewählt            589                  533
-      432           0   Männlich nicht gewählt           1790                 1709
-      433           0   Männlich nicht gewählt            194                  166
-      434           0   Männlich nicht gewählt            282                  258
-      435           0   Männlich nicht gewählt           2098                 2041
-      436           0   Weiblich nicht gewählt           1892                 1859
-      437           0   Männlich nicht gewählt            321                  297
-      438           0   Weiblich nicht gewählt            677                  590
-      439           0   Männlich nicht gewählt            720                  713
-      440           0   Weiblich nicht gewählt           1190                  802
-      441           0   Männlich nicht gewählt           3839                 3819
-      442           0   Männlich nicht gewählt           3963                 3666
-      443           0   Weiblich nicht gewählt           3295                 3224
-      444           0   Weiblich nicht gewählt            986                  745
-      445           0   Weiblich nicht gewählt           1446                 1432
-      446           1   Männlich       gewählt           4314                 3979
-      447           0   Männlich nicht gewählt            296                  292
-      448           1   Weiblich       gewählt           5291                 4734
-      449           0   Männlich nicht gewählt           3334                 3284
-      450           1   Männlich       gewählt           4876                 4548
-      451           1   Weiblich       gewählt           2339                 1742
-      452           0   Männlich nicht gewählt            259                  256
-      453           0   Männlich nicht gewählt           3661                 3647
-      454           1   Männlich       gewählt           2813                 1739
-      455           0   Weiblich nicht gewählt            575                  555
-      456           0   Weiblich nicht gewählt           2007                 1957
-      457           0   Weiblich nicht gewählt            292                  278
-      458           0   Weiblich       gewählt           4281                 3984
-      459           0   Männlich nicht gewählt           3376                 3320
-      460           0   Männlich nicht gewählt           1643                 1569
-      461           0   Weiblich nicht gewählt           4072                 4010
-      462           0   Männlich nicht gewählt            431                  339
-      463           1   Weiblich       gewählt           4498                 4065
-      464           0   Weiblich nicht gewählt           1442                 1419
-      465           0   Männlich nicht gewählt           3936                 3903
-      466           0   Weiblich nicht gewählt           3611                 3540
-      467           0   Weiblich nicht gewählt            759                  732
-      468           0   Männlich nicht gewählt           1517                 1506
-      469           0   Männlich nicht gewählt            717                  713
-      470           0   Weiblich nicht gewählt           2059                 1737
-      471           0   Männlich nicht gewählt           1598                 1553
-      472           0   Weiblich nicht gewählt            297                  294
-      473           0   Männlich nicht gewählt           2164                 2044
-      474           0   Männlich nicht gewählt           1430                 1413
-      475           0   Weiblich nicht gewählt           3986                 3938
-      476           0   Männlich nicht gewählt           3340                 3311
-      477           0   Männlich nicht gewählt            143                   63
-      478           0   Männlich nicht gewählt           1379                 1373
-      479           1   Männlich nicht gewählt            967                  647
-      480           0   Männlich nicht gewählt           1766                 1620
-      481           0   Männlich nicht gewählt            537                  510
-      482           0   Weiblich nicht gewählt           2267                 1761
-      483           0   Männlich nicht gewählt           1674                 1607
-      484           0   Männlich nicht gewählt           3765                 3593
-      485           0   Weiblich nicht gewählt           1954                 1923
-      486           0   Weiblich nicht gewählt            735                  719
-      487           0   Weiblich nicht gewählt           1609                 1544
-      488           0   Weiblich nicht gewählt           1538                 1483
-      489           0   Weiblich nicht gewählt           1059                  667
-      490           0   Männlich nicht gewählt           1485                 1466
-      491           0   Männlich nicht gewählt            774                  724
-      492           0   Männlich nicht gewählt           1490                 1477
-      493           0   Weiblich nicht gewählt           1600                 1556
-      494           0   Männlich nicht gewählt           1976                 1922
-      495           0   Männlich nicht gewählt           1655                 1561
-      496           1   Männlich       gewählt           1957                 1668
-      497           1   Männlich       gewählt           2577                 1771
-      498           1   Weiblich       gewählt           4648                 4128
-      499           0   Männlich nicht gewählt            710                  671
-      500           0   Männlich nicht gewählt           1497                 1468
-      501           0   Männlich nicht gewählt            675                  651
-      502           0   Weiblich nicht gewählt            639                  565
-      503           1   Weiblich       gewählt           4685                 4457
-      504           0   Weiblich nicht gewählt           1768                 1597
-      505           0   Weiblich nicht gewählt            871                  756
-      506           0   Männlich nicht gewählt            716                  684
-      507           0   Männlich nicht gewählt            122                   55
-      508           0   Männlich nicht gewählt            602                  556
-      509           0   Männlich nicht gewählt            686                  642
-      510           0   Weiblich nicht gewählt            434                  315
-      511           0   Männlich nicht gewählt            387                  327
-      512           0   Männlich nicht gewählt            337                  304
-      513           0   Männlich nicht gewählt           1852                 1839
-      514           0   Weiblich nicht gewählt            144                   70
-      515           1   Männlich nicht gewählt           4220                 3841
-      516           0   Weiblich nicht gewählt           4023                 3963
-      517           0   Männlich nicht gewählt            134                   69
-      518           0   Männlich nicht gewählt           1871                 1820
-      519           0   Männlich nicht gewählt            692                  665
-      520           0   Männlich nicht gewählt           4381                 4246
-      521           0   Männlich nicht gewählt            332                  300
-      522           0   Männlich nicht gewählt           1522                 1504
-      523           0   Weiblich nicht gewählt            891                  752
-      524           0   Männlich nicht gewählt           1984                 1932
-      525           1   Weiblich       gewählt           2863                 2254
-      526           0   Weiblich nicht gewählt           3592                 3530
-      527           1   Weiblich       gewählt           2810                 2276
-      528           0   Männlich nicht gewählt            709                  671
-      529           1   Weiblich nicht gewählt           4654                 4447
-      530           0   Männlich nicht gewählt           1563                 1544
-      531           0   Weiblich nicht gewählt            730                  686
-      532           0   Männlich nicht gewählt           2058                 1929
-      533           0   Männlich nicht gewählt            609                  600
-      534           0   Weiblich nicht gewählt            576                  557
-      535           0   Männlich nicht gewählt           3696                 3681
-      536           0   Männlich nicht gewählt           1323                 1318
-      537           0   Weiblich nicht gewählt           3385                 3341
-      538           0   Männlich nicht gewählt            440                  205
-      539           0   Weiblich nicht gewählt            611                  538
-      540           1   Männlich       gewählt           1594                  729
-      541           0   Männlich nicht gewählt            329                  291
-      542           0   Weiblich nicht gewählt            287                  282
-      543           0   Männlich nicht gewählt            605                  598
-      544           0   Männlich nicht gewählt           1585                 1530
-      545           0   Männlich nicht gewählt            301                  297
-      546           0   Weiblich nicht gewählt           1787                 1655
-      547           0   Weiblich nicht gewählt            766                  738
-      548           0   Männlich nicht gewählt           2032                 1992
-      549           0   Männlich nicht gewählt            589                  555
-      550           0   Männlich nicht gewählt           1526                 1504
-      551           0   Männlich nicht gewählt            780                  701
-      552           0   Männlich nicht gewählt            719                  693
-      553           0   Weiblich nicht gewählt            727                  712
-      554           0   Weiblich nicht gewählt           3946                 3879
-      555           0   Männlich nicht gewählt           1491                 1455
-      556           0   Männlich nicht gewählt            540                  525
-      557           0   Männlich nicht gewählt            564                  529
-      558           0   Männlich nicht gewählt           3360                 3329
-      559           0   Weiblich nicht gewählt           3884                 3768
-      560           0   Männlich nicht gewählt           4195                 4148
-      561           0   Weiblich nicht gewählt            531                  526
-      562           0   Weiblich nicht gewählt            673                  605
-      563           0   Männlich nicht gewählt           1732                 1720
-      564           0   Weiblich nicht gewählt           2380                 2169
-      565           0   Männlich nicht gewählt           2155                 2044
-      566           0   Männlich nicht gewählt            283                  280
-      567           0   Weiblich nicht gewählt            345                  308
-      568           0   Männlich nicht gewählt            545                  535
-      569           0   Männlich nicht gewählt           1704                 1583
-      570           0   Weiblich nicht gewählt           1539                 1520
-      571           0   Weiblich       gewählt           1280                  817
-      572           0   Weiblich nicht gewählt            342                  302
-      573           0   Männlich nicht gewählt           4406                 4318
-      574           0   Männlich nicht gewählt            809                  703
-      575           1   Männlich       gewählt           4742                 4558
-      576           0   Weiblich nicht gewählt            620                  583
-      577           0   Männlich nicht gewählt           1238                 1197
-      578           0   Männlich       gewählt           3591                 3349
-      579           0   Weiblich nicht gewählt           1661                 1648
-      580           0   Männlich nicht gewählt            160                  105
-      581           1   Männlich       gewählt           2346                 2113
-      582           0   Männlich nicht gewählt            742                  737
-      583           0   Weiblich nicht gewählt           1676                 1665
-      584           1   Männlich       gewählt           1951                 1802
-      585           1   Männlich       gewählt           2034                 1816
-      586           0   Männlich nicht gewählt           1636                 1572
-      587           0   Weiblich nicht gewählt           3234                 3151
-      588           0   Weiblich nicht gewählt            763                  628
-      589           0   Weiblich nicht gewählt            624                  555
-      590           0   Weiblich nicht gewählt            398                  380
-      591           0   Weiblich nicht gewählt           2813                 2780
-      592           0   Weiblich nicht gewählt            391                  381
-      593           0   Männlich nicht gewählt           1172                 1153
-      594           0   Weiblich nicht gewählt            597                  566
-      595           0   Weiblich nicht gewählt            432                  389
-      596           0   Männlich nicht gewählt            368                  364
-      597           0   Männlich nicht gewählt           3066                 2990
-      598           0   Männlich nicht gewählt            765                  752
-      599           0   Weiblich nicht gewählt           1271                 1222
-      600           0   Männlich nicht gewählt           1518                 1507
-      601           0   Weiblich nicht gewählt           1731                 1697
-      602           0   Weiblich nicht gewählt            393                  381
-      603           0   Männlich nicht gewählt            128                   95
-      604           0   Weiblich nicht gewählt           1828                 1751
-      605           0   Weiblich nicht gewählt            613                  581
-      606           0   Männlich nicht gewählt            655                  646
-      607           0   Männlich nicht gewählt            788                  761
-      608           0   Weiblich nicht gewählt            407                  404
-      609           0   Weiblich nicht gewählt           1563                 1555
-      610           0   Weiblich nicht gewählt           3376                 3269
-      611           0   Männlich nicht gewählt            814                  769
-      612           0   Männlich nicht gewählt           1707                 1691
-      613           0   Männlich nicht gewählt            419                  398
-      614           0   Weiblich nicht gewählt            705                  685
-      615           1   Männlich       gewählt           3733                 3456
-      616           0   Weiblich       gewählt           3741                 3458
-      617           0   Männlich nicht gewählt            755                  746
-      618           0   Männlich nicht gewählt           1624                 1618
-      619           0   Weiblich nicht gewählt           3221                 3151
-      620           0   Männlich nicht gewählt           1667                 1636
-      621           0   Männlich nicht gewählt            514                  454
-      622           0   Männlich nicht gewählt           1696                 1670
-      623           0   Weiblich nicht gewählt            882                  787
-      624           0   Männlich nicht gewählt           1641                 1617
-      625           0   Männlich nicht gewählt           3370                 3280
-      626           0   Männlich nicht gewählt           1739                 1717
-      627           0   Männlich nicht gewählt            378                  366
-      628           0   Weiblich nicht gewählt            406                  396
-      629           0   Männlich nicht gewählt            785                  756
-      630           0   Weiblich nicht gewählt           1731                 1712
-      631           0   Weiblich nicht gewählt           1478                 1388
-      632           0   Weiblich nicht gewählt           1281                 1234
-      633           1   Männlich       gewählt           1979                 1511
-      634           0   Weiblich nicht gewählt           1192                 1132
-      635           0   Weiblich       gewählt           1414                 1272
-      636           0   Männlich nicht gewählt            725                  599
-      637           0   Männlich nicht gewählt            434                  400
-      638           0   Männlich nicht gewählt            564                  550
-      639           0   Männlich nicht gewählt           2989                 2935
-      640           0   Männlich nicht gewählt           1320                 1208
-      641           0   Weiblich nicht gewählt            616                  556
-      642           0   Männlich nicht gewählt           1457                 1362
-      643           0   Männlich nicht gewählt           1381                 1348
-      644           1   Männlich nicht gewählt           3589                 3400
-      645           0   Weiblich nicht gewählt           3134                 3074
-      646           0   Weiblich nicht gewählt           1620                 1581
-      647           1   Männlich       gewählt           2136                 1803
-      648           0   Männlich nicht gewählt            455                  432
-      649           0   Weiblich       gewählt            989                  659
-      650           0   Weiblich nicht gewählt           1454                 1383
-      651           1   Weiblich       gewählt           3898                 3554
-      652           0   Weiblich nicht gewählt            477                  435
-      653           0   Männlich nicht gewählt           1011                  821
-      654           0   Männlich nicht gewählt            357                  349
-      655           0   Männlich nicht gewählt           1611                 1603
-      656           0   Männlich nicht gewählt           1365                 1240
-      657           0   Männlich nicht gewählt           1758                 1717
-      658           1   Männlich nicht gewählt           1852                 1701
-      659           1   Männlich nicht gewählt           1898                 1771
-      660           0   Männlich nicht gewählt            402                  381
-      661           0   Männlich nicht gewählt            810                  765
-      662           0   Männlich nicht gewählt           1615                 1590
-      663           0   Weiblich nicht gewählt           1551                 1329
-      664           1   Weiblich       gewählt            691                  484
-      665           0   Männlich nicht gewählt           1722                 1689
-      666           0   Männlich nicht gewählt            622                  545
-      667           0   Männlich nicht gewählt            450                  423
-      668           0   Weiblich       gewählt           1452                 1305
-      669           0   Weiblich nicht gewählt           1822                 1751
-      670           0   Männlich nicht gewählt            445                  416
-      671           0   Weiblich nicht gewählt           1421                 1354
-      672           0   Weiblich nicht gewählt           1637                 1615
-      673           0   Männlich nicht gewählt           1388                 1333
-      674           1   Männlich       gewählt           3628                 3412
-      675           0   Männlich nicht gewählt           1688                 1665
-      676           0   Weiblich nicht gewählt           1208                 1176
-      677           0   Weiblich nicht gewählt            593                  581
-      678           0   Männlich nicht gewählt           1156                 1128
-      679           0   Weiblich nicht gewählt           1732                 1481
-      680           0   Männlich nicht gewählt           1259                 1212
-      681           0   Weiblich nicht gewählt            445                  428
-      682           0   Männlich nicht gewählt           1688                 1642
-      683           0   Weiblich nicht gewählt            752                  605
-      684           0   Weiblich nicht gewählt            560                  541
-      685           0   Männlich nicht gewählt           1611                 1600
-      686           0   Weiblich nicht gewählt           3454                 3334
-      687           0   Weiblich nicht gewählt            628                  562
-      688           0   Männlich nicht gewählt           1378                 1283
-      689           0   Männlich nicht gewählt            185                  104
-      690           0   Weiblich nicht gewählt            999                  832
-      691           0   Männlich nicht gewählt            464                  436
-      692           0   Männlich nicht gewählt           1457                 1361
-      693           0   Weiblich nicht gewählt           1421                 1336
-      694           0   Männlich nicht gewählt           1591                 1580
-      695           0   Männlich nicht gewählt           1210                 1185
-      696           0   Männlich nicht gewählt            378                  366
-      697           1   Weiblich       gewählt           2195                 1546
-      698           0   Männlich nicht gewählt           1921                 1793
-      699           0   Weiblich nicht gewählt           1357                 1277
-      700           0   Weiblich nicht gewählt           1490                 1425
-      701           0   Weiblich nicht gewählt           1277                 1230
-      702           0   Weiblich nicht gewählt           1684                 1470
-      703           0   Männlich nicht gewählt            450                  425
-      704           0   Weiblich nicht gewählt            908                  797
-      705           0   Männlich nicht gewählt            546                  446
-      706           0   Männlich nicht gewählt            436                  390
-      707           0   Männlich nicht gewählt           1679                 1444
-      708           0   Männlich       gewählt           1298                  898
-      709           0   Weiblich nicht gewählt            808                  764
-      710           0   Männlich nicht gewählt           2994                 2967
-      711           0   Männlich nicht gewählt            590                  554
-      712           0   Männlich nicht gewählt           1272                 1200
-      713           0   Männlich nicht gewählt            657                  654
-      714           0   Männlich nicht gewählt            572                  552
-      715           0   Weiblich nicht gewählt            228                  214
-      716           0   Männlich nicht gewählt           1121                 1113
-      717           0   Weiblich nicht gewählt            896                  777
-      718           1   Weiblich       gewählt           2079                 1636
-      719           0   Weiblich nicht gewählt            224                  213
-      720           0   Männlich nicht gewählt           1863                 1818
-      721           0   Weiblich nicht gewählt           1273                 1237
-      722           0   Männlich nicht gewählt            900                  729
-      723           0   Männlich nicht gewählt            163                  108
-      724           0   Männlich nicht gewählt           1970                 1921
-      725           1   Weiblich       gewählt           4426                 3812
-      726           0   Weiblich nicht gewählt            836                  745
-      727           0   Männlich nicht gewählt           3470                 3337
-      728           0   Männlich       gewählt           2109                 1676
-      729           0   Männlich nicht gewählt           1695                 1502
-      730           1   Weiblich       gewählt           4019                 3723
-      731           0   Weiblich nicht gewählt            245                  220
-      732           0   Weiblich nicht gewählt           2005                 1911
-      733           1   Männlich       gewählt           2480                 2188
-      734           1   Männlich nicht gewählt           3870                 3619
-      735           0   Weiblich nicht gewählt           1987                 1676
-      736           0   Weiblich nicht gewählt           1707                 1541
-      737           0   Weiblich nicht gewählt            413                  374
-      738           1   Weiblich       gewählt           1311                  830
-      739           0   Männlich       gewählt            982                  816
-      740           0   Weiblich       gewählt           1799                 1563
-      741           0   Männlich nicht gewählt           1602                 1501
-      742           0   Weiblich nicht gewählt            807                  741
-      743           0   Männlich nicht gewählt           1484                 1426
-      744           0   Weiblich nicht gewählt           1384                 1379
-      745           0   Weiblich nicht gewählt           1849                 1824
-      746           0   Männlich nicht gewählt           1651                 1548
-      747           0   Männlich nicht gewählt           1835                 1807
-      748           0   Männlich nicht gewählt            290                  241
-      749           0   Männlich nicht gewählt           1234                 1216
-      750           0   Weiblich nicht gewählt           3398                 3299
-      751           0   Männlich nicht gewählt           1178                 1153
-      752           0   Weiblich nicht gewählt           1430                 1401
-      753           0   Männlich nicht gewählt           1619                 1507
-      754           0   Weiblich nicht gewählt            235                  219
-      755           0   Männlich nicht gewählt            395                  376
-      756           1   Männlich nicht gewählt           2042                 1654
-      757           0   Männlich nicht gewählt           1367                 1346
-      758           0   Weiblich nicht gewählt           3512                 3389
-      759           0   Männlich nicht gewählt            532                  434
-      760           0   Männlich nicht gewählt            264                  221
-      761           0   Männlich nicht gewählt           1259                 1236
-      762           0   Weiblich nicht gewählt           1752                 1727
-      763           0   Weiblich nicht gewählt           1863                 1644
-      764           0   Männlich nicht gewählt           1156                 1152
-      765           0   Männlich nicht gewählt            756                  687
-      766           0   Männlich nicht gewählt            424                  379
-      767           0   Weiblich nicht gewählt            838                  756
-      768           0   Männlich nicht gewählt            214                   71
-      769           0   Weiblich nicht gewählt           1470                 1399
-      770           0   Weiblich nicht gewählt           1621                 1490
-      771           0   Weiblich nicht gewählt           3360                 3263
-      772           0   Männlich nicht gewählt           1226                 1205
-      773           0   Weiblich nicht gewählt           1549                 1412
-      774           0   Weiblich nicht gewählt            207                  200
-      775           0   Männlich nicht gewählt            226                  211
-      776           0   Männlich nicht gewählt           3252                 3211
-      777           0   Männlich nicht gewählt            209                  208
-      778           0   Weiblich nicht gewählt            769                  693
-      779           0   Männlich nicht gewählt           3423                 3322
-      780           0   Männlich nicht gewählt            454                  390
-      781           0   Männlich nicht gewählt            220                  209
-      782           0   Männlich nicht gewählt           1875                 1844
-      783           0   Männlich nicht gewählt           1340                 1280
-      784           0   Männlich nicht gewählt            767                  657
-      785           0   Männlich nicht gewählt           1581                 1483
-      786           0   Weiblich nicht gewählt            445                  420
-      787           0   Weiblich nicht gewählt           1168                 1153
-      788           0   Männlich nicht gewählt           1867                 1795
-      789           0   Weiblich nicht gewählt           3727                 3588
-      790           0   Männlich nicht gewählt            260                  219
-      791           0   Männlich nicht gewählt           1624                 1509
-      792           0   Männlich nicht gewählt            716                  703
-      793           0   Weiblich nicht gewählt           1442                 1399
-      794           0   Männlich nicht gewählt            219                  217
-      795           1   Männlich       gewählt           1858                 1506
-      796           0   Männlich nicht gewählt            769                  721
-      797           0   Weiblich nicht gewählt           1084                 1077
-      798           0   Männlich nicht gewählt           2858                 2808
-      799           0   Weiblich nicht gewählt           2187                 2022
-      800           1   Männlich       gewählt           4091                 3728
-      801           0   Weiblich nicht gewählt           1276                 1256
-      802           0   Männlich nicht gewählt           1211                 1190
-      803           0   Männlich nicht gewählt            420                  393
-      804           0   Weiblich nicht gewählt            490                  404
-      805           0   Männlich nicht gewählt            128                  105
-      806           0   Männlich nicht gewählt            833                  789
-      807           1   Männlich       gewählt           1537                 1340
-      808           0   Männlich nicht gewählt           1394                 1354
-      809           0   Männlich nicht gewählt           1772                 1720
-      810           0   Männlich nicht gewählt            764                  698
-      811           1   Weiblich       gewählt           2474                 2188
-      812           0   Weiblich nicht gewählt            618                  558
-      813           0   Männlich nicht gewählt            189                  155
-      814           0   Weiblich nicht gewählt            190                  157
-      815           0   Männlich nicht gewählt           1787                 1759
-      816           0   Männlich nicht gewählt           2108                 2076
-      817           1   Männlich       gewählt            957                  663
-      818           0   Männlich nicht gewählt           1765                 1752
-      819           0   Weiblich nicht gewählt            436                  424
-      820           0   Männlich nicht gewählt            469                  459
-      821           0   Weiblich nicht gewählt            587                  552
-      822           0   Weiblich nicht gewählt           1453                 1447
-      823           0   Weiblich nicht gewählt            562                  441
-      824           0   Weiblich nicht gewählt            542                  440
-      825           0   Männlich nicht gewählt            532                  472
-      826           0   Weiblich nicht gewählt            574                  556
-      827           1   Männlich       gewählt           3992                 3659
-      828           0   Weiblich nicht gewählt           1780                 1749
-      829           0   Männlich nicht gewählt            486                  433
-      830           0   Weiblich nicht gewählt           3238                 3186
-      831           0   Weiblich nicht gewählt           3489                 3412
-      832           0   Weiblich nicht gewählt            171                  156
-      833           0   Männlich nicht gewählt           1849                 1806
-      834           0   Weiblich nicht gewählt           1715                 1684
-      835           0   Weiblich nicht gewählt            456                  429
-      836           1   Männlich       gewählt           2426                 2207
-      837           0   Männlich nicht gewählt           2992                 2961
-      838           0   Männlich nicht gewählt           1752                 1730
-      839           0   Weiblich nicht gewählt           2028                 1992
-      840           0   Weiblich nicht gewählt           3107                 3087
-      841           1   Männlich nicht gewählt            953                  663
-      842           0   Weiblich nicht gewählt           1909                 1766
-      843           0   Männlich nicht gewählt           3188                 3116
-      844           0   Männlich nicht gewählt           1821                 1614
-      845           0   Männlich nicht gewählt           1942                 1919
-      846           0   Männlich nicht gewählt            567                  564
-      847           1   Männlich       gewählt           2191                 1986
-      848           0   Weiblich nicht gewählt           1702                 1667
-      849           0   Männlich nicht gewählt           2069                 2047
-      850           0   Weiblich nicht gewählt           1808                 1740
-      851           0   Männlich nicht gewählt            448                  408
-      852           0   Männlich nicht gewählt            558                  470
-      853           0   Männlich nicht gewählt           1665                 1659
-      854           1   Weiblich       gewählt           3858                 3586
-      855           0   Männlich nicht gewählt            465                  416
-      856           0   Weiblich nicht gewählt            461                  432
-      857           0   Weiblich nicht gewählt           1698                 1683
-      858           0   Männlich nicht gewählt           3291                 3229
-      859           0   Männlich nicht gewählt           1633                 1616
-      860           0   Männlich nicht gewählt            430                  406
-      861           0   Weiblich nicht gewählt            438                  431
-      862           0   Weiblich nicht gewählt            605                  579
-      863           1   Weiblich       gewählt           4040                 3691
-      864           0   Weiblich nicht gewählt           1564                 1527
-      865           0   Männlich nicht gewählt           1598                 1571
-      866           0   Männlich nicht gewählt            587                  564
-      867           0   Weiblich nicht gewählt            650                  593
-      868           0   Weiblich nicht gewählt            553                  539
-      869           0   Männlich       gewählt            739                  604
-      870           1   Weiblich       gewählt           4134                 3775
-      871           0   Männlich nicht gewählt           1570                 1508
-      872           0   Männlich nicht gewählt            170                  152
-      873           1   Männlich       gewählt           2414                 2213
-      874           0   Weiblich nicht gewählt           2051                 2043
-      875           0   Weiblich nicht gewählt           3373                 3325
-      876           0   Weiblich nicht gewählt           2093                 2070
-      877           0   Männlich nicht gewählt           1753                 1734
-      878           0   Weiblich nicht gewählt           1592                 1542
-      879           0   Männlich nicht gewählt            495                  425
-      880           0   Männlich nicht gewählt            699                  462
-      881           0   Weiblich nicht gewählt            619                  572
-      882           0   Männlich       gewählt           2421                 1928
-      883           0   Weiblich nicht gewählt            606                  568
-      884           0   Männlich nicht gewählt           1993                 1974
-      885           0   Weiblich nicht gewählt            501                  461
-      886           0   Weiblich nicht gewählt            444                  434
-      887           0   Männlich nicht gewählt           1485                 1434
-      888           0   Weiblich nicht gewählt           1880                 1626
-      889           0   Weiblich nicht gewählt            564                  556
-      890           0   Männlich nicht gewählt           3306                 3271
-      891           0   Weiblich nicht gewählt           1978                 1646
-      892           0   Männlich nicht gewählt           1530                 1478
-      893           0   Weiblich nicht gewählt           3488                 3380
-      894           0   Weiblich nicht gewählt            433                  430
-      895           0   Weiblich nicht gewählt            656                  577
-      896           0   Männlich nicht gewählt           3102                 3036
-      897           1   Weiblich       gewählt           2490                 1714
-      898           0   Männlich nicht gewählt           1993                 1873
-      899           0   Männlich nicht gewählt            497                  437
-      900           0   Weiblich nicht gewählt           1876                 1797
-      901           0   Weiblich nicht gewählt           1877                 1653
-      902           1   Weiblich       gewählt           3775                 3601
-      903           0   Männlich nicht gewählt            587                  583
-      904           0   Männlich nicht gewählt            698                  579
-      905           1   Männlich       gewählt           2231                 1982
-      906           0   Männlich nicht gewählt           2056                 2024
-      907           0   Männlich nicht gewählt            567                  552
-      908           1   Männlich       gewählt           2475                 2224
-      909           0   Weiblich nicht gewählt            713                  601
-      910           0   Männlich nicht gewählt            585                  572
-      911           0   Weiblich       gewählt           2016                 1812
-      912           0   Weiblich nicht gewählt            452                  433
-      913           0   Weiblich nicht gewählt           1679                 1671
-      914           0   Männlich nicht gewählt           3343                 3278
-      915           1   Männlich nicht gewählt           2297                 2149
-      916           1   Männlich       gewählt            904                  484
-      917           0   Männlich nicht gewählt            510                  501
-      918           0   Weiblich nicht gewählt           2120                 2085
-      919           0   Männlich nicht gewählt           1728                 1700
-      920           0   Weiblich nicht gewählt            436                  427
-      921           0   Männlich nicht gewählt           1675                 1652
-      922           0   Männlich nicht gewählt            468                  429
-      923           1   Weiblich       gewählt           2096                 1812
-      924           0   Männlich nicht gewählt            559                  543
-      925           0   Weiblich nicht gewählt           1574                 1510
-      926           0   Männlich nicht gewählt           1986                 1981
-      927           1   Männlich nicht gewählt           1994                 1818
-      928           0   Weiblich       gewählt           3570                 3464
-      929           0   Weiblich nicht gewählt            461                  448
-      930           0   Weiblich nicht gewählt            678                  520
-      931           0   Männlich nicht gewählt            542                  531
-      932           0   Männlich nicht gewählt           1952                 1947
-      933           0   Weiblich nicht gewählt            599                  555
-      934           0   Männlich nicht gewählt           1620                 1571
-      935           0   Weiblich nicht gewählt            661                  574
-      936           0   Männlich nicht gewählt           1643                 1549
-      937           0   Weiblich nicht gewählt           1762                 1718
-      938           0   Männlich nicht gewählt           3467                 3385
-      939           0   Weiblich nicht gewählt           1777                 1617
-      940           0   Männlich nicht gewählt           1586                 1580
-      941           0   Weiblich nicht gewählt           2028                 2017
-      942           0   Weiblich nicht gewählt            565                  561
-      943           0   Männlich nicht gewählt           1718                 1701
-      944           0   Männlich nicht gewählt           1875                 1868
-      945           0   Männlich nicht gewählt            423                  413
-      946           0   Weiblich nicht gewählt           1803                 1755
-      947           0   Weiblich nicht gewählt           1620                 1561
-      948           1   Männlich       gewählt           2378                 2028
-      949           0   Männlich nicht gewählt           1692                 1691
-      950           1   Männlich       gewählt           2209                 1680
-      951           0   Männlich nicht gewählt           1817                 1786
-      952           0   Weiblich nicht gewählt            581                  566
-      953           0   Weiblich nicht gewählt            532                  516
-      954           0   Männlich nicht gewählt            544                  531
-      955           0   Männlich nicht gewählt           3192                 3120
-      956           0   Weiblich nicht gewählt           1849                 1810
-      957           0   Männlich nicht gewählt            529                  525
-      958           0   Männlich nicht gewählt            549                  538
-      959           0   Männlich nicht gewählt            587                  547
-      960           0   Männlich nicht gewählt            547                  537
-      961           0   Männlich nicht gewählt           2093                 2062
-      962           0   Weiblich nicht gewählt            438                  401
-      963           0   Männlich nicht gewählt            166                  154
-      964           0   Weiblich nicht gewählt            172                  156
-      965           0   Weiblich nicht gewählt           1889                 1775
-      966           0   Weiblich nicht gewählt            500                  429
-      967           0   Weiblich nicht gewählt           3423                 3351
-      968           0   Weiblich nicht gewählt            481                  445
-      969           0   Männlich nicht gewählt            552                  552
-      970           0   Weiblich nicht gewählt           1669                 1636
-      971           0   Männlich nicht gewählt           2034                 2018
-      972           0   Männlich nicht gewählt            464                  442
-      973           0   Männlich nicht gewählt            451                  436
-      974           0   Männlich nicht gewählt           2047                 2023
-      975           0   Weiblich nicht gewählt            504                  504
-      976           0   Männlich nicht gewählt            566                  557
-      977           0   Männlich nicht gewählt            590                  551
-      978           0   Männlich nicht gewählt           1717                 1649
-      979           0   Weiblich nicht gewählt           1731                 1705
-      980           1   Männlich       gewählt           2014                 1803
-      981           0   Weiblich nicht gewählt            476                  463
-      982           0   Männlich nicht gewählt            582                  547
-      983           0   Weiblich nicht gewählt           1603                 1500
-      984           0   Männlich nicht gewählt            621                  579
-      985           0   Männlich nicht gewählt           1762                 1731
-      986           0   Weiblich nicht gewählt           1774                 1710
-      987           0   Weiblich nicht gewählt           1664                 1575
-      988           0   Männlich nicht gewählt            446                  440
-      989           0   Männlich nicht gewählt            585                  563
-      990           0   Männlich nicht gewählt            580                  572
-      991           0   Männlich nicht gewählt           1656                 1552
-      992           0   Männlich nicht gewählt           1671                 1557
-      993           0   Männlich nicht gewählt            431                  423
-      994           0   Männlich       gewählt           2194                 1693
-      995           0   Männlich nicht gewählt           3526                 3376
-      996           0   Männlich nicht gewählt           1938                 1934
-      997           0   Männlich nicht gewählt            455                  414
-      998           0   Weiblich nicht gewählt           1994                 1980
-      999           0   Weiblich nicht gewählt           3220                 3162
-      1000          0   Männlich nicht gewählt           1796                 1749
-      1001          0   Männlich nicht gewählt            561                  535
-      1002          0   Weiblich nicht gewählt           1625                 1616
-      1003          0   Weiblich nicht gewählt           1520                 1447
-      1004          0   Weiblich nicht gewählt           1707                 1696
-      1005          0   Weiblich nicht gewählt            736                  732
-      1006          0   Weiblich nicht gewählt            304                  291
-      1007          0   Weiblich nicht gewählt            456                  434
-      1008          0   Weiblich nicht gewählt            511                  465
-      1009          1   Weiblich       gewählt           1530                 1401
-      1010          0   Weiblich nicht gewählt            521                  476
-      1011          0   Männlich nicht gewählt            371                  330
-      1012          0   Männlich nicht gewählt            314                  288
-      1013          0   Weiblich nicht gewählt            459                  450
-      1014          0   Männlich nicht gewählt            184                  158
-      1015          0   Männlich nicht gewählt            435                  419
-      1016          0   Männlich nicht gewählt            130                  118
-      1017          0   Weiblich nicht gewählt            340                  319
-      1018          0   Weiblich nicht gewählt            284                  186
-      1019          0   Männlich nicht gewählt            580                  501
-      1020          1   Männlich       gewählt            475                  382
-      1021          0   Männlich nicht gewählt           1183                 1169
-      1022          0   Männlich nicht gewählt            468                  449
-      1023          0   Männlich nicht gewählt            518                  493
-      1024          0   Männlich nicht gewählt            418                  407
-      1025          0   Weiblich nicht gewählt            451                  442
-      1026          0   Männlich nicht gewählt           1329                 1269
-      1027          0   Weiblich nicht gewählt            602                  542
-      1028          0   Männlich nicht gewählt            562                  538
-      1029          0   Männlich nicht gewählt            318                  311
-      1030          0   Weiblich nicht gewählt            512                  472
-      1031          0   Männlich nicht gewählt            590                  523
-      1032          0   Männlich nicht gewählt            782                  771
-      1033          0   Weiblich nicht gewählt            149                  141
-      1034          0   Weiblich nicht gewählt           1287                 1270
-      1035          0   Männlich nicht gewählt            763                  755
-      1036          0   Weiblich nicht gewählt            734                  730
-      1037          1   Männlich       gewählt            847                  798
-      1038          0   Männlich nicht gewählt            166                  156
-      1039          0   Männlich nicht gewählt            311                  309
-      1040          0   Männlich nicht gewählt            499                  476
-      1041          0   Männlich nicht gewählt            148                  146
-      1042          0   Weiblich nicht gewählt            144                  131
-      1043          0   Weiblich nicht gewählt            138                  137
-      1044          0   Männlich nicht gewählt            311                  282
-      1045          0   Männlich nicht gewählt            142                  141
-      1046          0   Männlich nicht gewählt            446                  438
-      1047          0   Männlich nicht gewählt            102                   81
-      1048          0   Männlich nicht gewählt            372                  359
-      1049          0   Weiblich nicht gewählt            416                  406
-      1050          0   Weiblich nicht gewählt            189                  166
-      1051          0   Männlich nicht gewählt            118                  113
-      1052          1   Männlich       gewählt            600                  475
-      1053          0   Männlich nicht gewählt            144                  142
-      1054          1   Männlich       gewählt            717                  544
-      1055          0   Männlich       gewählt           1415                 1350
-      1056          0   Männlich nicht gewählt             94                   77
-      1057          0   Männlich nicht gewählt            496                  459
-      1058          0   Männlich nicht gewählt            158                  151
-      1059          0   Weiblich nicht gewählt           1371                 1332
-      1060          0   Weiblich nicht gewählt            420                  407
-      1061          0   Weiblich nicht gewählt            287                  285
-      1062          0   Männlich nicht gewählt            757                  750
-      1063          0   Weiblich nicht gewählt            163                  156
-      1064          1   Männlich       gewählt            640                  507
-      1065          0   Weiblich nicht gewählt            122                  111
-      1066          0   Männlich nicht gewählt             47                   40
-      1067          0   Weiblich nicht gewählt            631                  546
-      1068          0   Männlich nicht gewählt            508                  488
-      1069          0   Weiblich nicht gewählt            307                  298
-      1070          0   Weiblich nicht gewählt            123                  117
-      1071          0   Weiblich nicht gewählt           1306                 1267
-      1072          0   Männlich nicht gewählt            481                  472
-      1073          0   Weiblich nicht gewählt           1256                 1220
-      1074          0   Männlich nicht gewählt            798                  785
-      1075          0   Männlich nicht gewählt            534                  506
-      1076          0   Männlich       gewählt           1445                 1359
-      1077          0   Männlich nicht gewählt             91                   77
-      1078          0   Männlich nicht gewählt             85                   77
-      1079          0   Männlich nicht gewählt            317                  289
-      1080          0   Weiblich nicht gewählt            284                  278
-      1081          0   Männlich nicht gewählt            719                  714
-      1082          0   Männlich       gewählt            803                  783
-                            X15                                   X16
-      1                    <NA>                                  <NA>
-      2                    <NA>                                  <NA>
-      3                    <NA>                                  <NA>
-      4                    <NA>                                  <NA>
-      5                    <NA>                                  <NA>
-      6                    <NA>                                  <NA>
-      7    Parteifremde Stimmen Anteil Stimmen aus veränderten Listen
-      8                       9                                24.4 %
-      9                      25                                24.3 %
-      10                     50                                29.7 %
-      11                     70                                26.6 %
-      12                     99                                24.1 %
-      13                     88                                33.3 %
-      14                     39                                35.2 %
-      15                     92                                28.4 %
-      16                     21                                27.5 %
-      17                    253                                45.6 %
-      18                     45                                70.6 %
-      19                    111                                31.9 %
-      20                     56                                26.2 %
-      21                      9                                22.8 %
-      22                     22                                29.9 %
-      23                     67                                35.4 %
-      24                     69                                22.7 %
-      25                    141                                57.9 %
-      26                     84                                29.4 %
-      27                     89                                42.9 %
-      28                     37                                31.9 %
-      29                     54                                  34 %
-      30                     39                                68.9 %
-      31                     51                                29.4 %
-      32                     49                                36.3 %
-      33                     25                                25.4 %
-      34                     38                                24.9 %
-      35                      9                                  22 %
-      36                      5                                21.5 %
-      37                    131                                41.3 %
-      38                      2                                 9.8 %
-      39                     27                                26.8 %
-      40                     84                                35.1 %
-      41                     43                                26.4 %
-      42                     70                                24.8 %
-      43                    124                                34.1 %
-      44                     29                                  33 %
-      45                     75                                27.7 %
-      46                     28                                28.6 %
-      47                    192                                  37 %
-      48                     28                                24.5 %
-      49                    228                                40.9 %
-      50                     34                                20.2 %
-      51                    442                                48.4 %
-      52                      3                                17.9 %
-      53                     58                                30.8 %
-      54                    334                                45.7 %
-      55                     15                                21.6 %
-      56                     15                                27.1 %
-      57                      1                                18.9 %
-      58                    101                                31.8 %
-      59                     54                                36.4 %
-      60                     70                                40.1 %
-      61                     94                                41.6 %
-      62                    581                                51.8 %
-      63                     22                                29.5 %
-      64                     37                                33.6 %
-      65                     20                                21.8 %
-      66                     39                                  29 %
-      67                     44                                23.9 %
-      68                     28                                31.5 %
-      69                     98                                38.8 %
-      70                      5                                10.9 %
-      71                     41                                31.7 %
-      72                     10                                22.2 %
-      73                     75                                26.1 %
-      74                     87                                29.4 %
-      75                      8                                24.1 %
-      76                     10                                24.1 %
-      77                      5                                23.2 %
-      78                     18                                26.8 %
-      79                    112                                30.4 %
-      80                    112                                43.2 %
-      81                     19                                30.7 %
-      82                      3                                25.4 %
-      83                     42                                29.1 %
-      84                      2                                20.7 %
-      85                      9                                22.8 %
-      86                    365                                  42 %
-      87                    249                                46.4 %
-      88                    172                                50.2 %
-      89                     18                                20.2 %
-      90                    114                                33.2 %
-      91                      1                                20.7 %
-      92                     15                                15.6 %
-      93                     66                                29.7 %
-      94                     37                                28.3 %
-      95                     12                                15.6 %
-      96                     32                                18.7 %
-      97                     17                                23.1 %
-      98                      9                                26.9 %
-      99                      4                                18.9 %
-      100                   308                                59.4 %
-      101                    37                                33.5 %
-      102                    14                                29.1 %
-      103                    50                                30.1 %
-      104                    20                                25.4 %
-      105                   320                                40.9 %
-      106                    35                                32.1 %
-      107                     4                                10.3 %
-      108                    90                                29.2 %
-      109                    89                                28.8 %
-      110                   132                                33.6 %
-      111                   108                                45.5 %
-      112                    75                                37.2 %
-      113                    96                                35.1 %
-      114                    15                                19.3 %
-      115                    15                                15.1 %
-      116                  1171                                69.7 %
-      117                   206                                39.9 %
-      118                   144                                39.6 %
-      119                     0                                14.3 %
-      120                    86                                31.1 %
-      121                    23                                35.3 %
-      122                    43                                28.3 %
-      123                   187                                44.5 %
-      124                   182                                37.2 %
-      125                    20                                31.5 %
-      126                    71                                32.7 %
-      127                    41                                32.2 %
-      128                   230                                44.2 %
-      129                    56                                37.5 %
-      130                    35                                  26 %
-      131                     4                                19.3 %
-      132                     1                                17.4 %
-      133                    77                                32.7 %
-      134                    29                                34.7 %
-      135                    41                                22.7 %
-      136                    18                                30.2 %
-      137                   455                                50.1 %
-      138                   198                                41.5 %
-      139                   615                                59.2 %
-      140                    70                                27.1 %
-      141                    18                                28.9 %
-      142                    31                                26.3 %
-      143                   371                                43.9 %
-      144                     0                                17.5 %
-      145                    43                                20.4 %
-      146                   260                                43.8 %
-      147                   352                                44.4 %
-      148                    11                                14.3 %
-      149                   179                                41.2 %
-      150                     3                                19.6 %
-      151                    26                                23.6 %
-      152                     3                                20.4 %
-      153                     9                                29.5 %
-      154                    12                                15.3 %
-      155                   318                                45.1 %
-      156                    21                                21.2 %
-      157                     5                                23.6 %
-      158                    84                                36.4 %
-      159                   106                                34.6 %
-      160                    51                                31.7 %
-      161                    27                                37.5 %
-      162                    52                                45.1 %
-      163                   132                                37.4 %
-      164                    23                                28.8 %
-      165                     6                                14.3 %
-      166                     2                                12.4 %
-      167                    18                                33.3 %
-      168                    12                                14.9 %
-      169                     0                                17.5 %
-      170                    67                                34.7 %
-      171                    14                                14.9 %
-      172                     4                                21.3 %
-      173                   138                                38.6 %
-      174                    27                                29.8 %
-      175                    17                                30.7 %
-      176                     7                                17.4 %
-      177                    24                                20.8 %
-      178                   214                                42.4 %
-      179                    58                                43.5 %
-      180                     7                                20.4 %
-      181                    59                                38.6 %
-      182                   165                                43.9 %
-      183                    60                                36.6 %
-      184                    46                                33.7 %
-      185                   141                                30.1 %
-      186                    19                                26.3 %
-      187                    12                                14.9 %
-      188                   309                                44.6 %
-      189                    37                                30.6 %
-      190                   125                                52.7 %
-      191                    88                                36.3 %
-      192                    48                                32.9 %
-      193                    60                                28.3 %
-      194                    37                                39.2 %
-      195                    22                                19.3 %
-      196                    11                                21.2 %
-      197                    37                                34.3 %
-      198                    31                                25.8 %
-      199                    87                                26.8 %
-      200                   630                                52.7 %
-      201                     1                                19.9 %
-      202                    22                                28.8 %
-      203                    47                                31.3 %
-      204                    35                                29.3 %
-      205                    14                                15.3 %
-      206                    52                                34.4 %
-      207                    56                                25.3 %
-      208                     4                                15.5 %
-      209                   703                                54.8 %
-      210                     1                                22.6 %
-      211                     8                                  17 %
-      212                   132                                37.8 %
-      213                     8                                33.3 %
-      214                    34                                  26 %
-      215                    25                                24.8 %
-      216                   223                                39.4 %
-      217                   136                                65.4 %
-      218                    16                                31.9 %
-      219                    60                                35.1 %
-      220                    82                                34.2 %
-      221                    15                                24.8 %
-      222                    11                                14.1 %
-      223                    52                                31.8 %
-      224                    22                                  26 %
-      225                   130                                37.8 %
-      226                    37                                40.6 %
-      227                    60                                  27 %
-      228                     3                                21.5 %
-      229                    26                                31.1 %
-      230                    59                                40.1 %
-      231                   100                                36.4 %
-      232                     7                                32.3 %
-      233                     1                                19.9 %
-      234                     9                                20.4 %
-      235                    26                                35.1 %
-      236                   118                                51.2 %
-      237                   548                                49.3 %
-      238                    45                                34.3 %
-      239                   102                                36.7 %
-      240                    60                                32.2 %
-      241                    47                                30.3 %
-      242                    33                                31.6 %
-      243                    27                                  30 %
-      244                   112                                36.6 %
-      245                     4                                16.2 %
-      246                     5                                21.9 %
-      247                   255                                42.6 %
-      248                    21                                  26 %
-      249                     8                                21.7 %
-      250                    23                                26.2 %
-      251                     8                                16.1 %
-      252                    14                                  18 %
-      253                    41                                24.8 %
-      254                    32                                32.2 %
-      255                    78                                37.5 %
-      256                   274                                42.4 %
-      257                     7                                16.5 %
-      258                    13                                37.5 %
-      259                   222                                40.7 %
-      260                   231                                  42 %
-      261                    91                                36.8 %
-      262                    43                                20.2 %
-      263                   324                                47.4 %
-      264                   310                                46.9 %
-      265                     2                                  22 %
-      266                   111                                38.7 %
-      267                     1                                11.1 %
-      268                   120                                  38 %
-      269                     7                                11.4 %
-      270                    49                                24.4 %
-      271                    43                                27.1 %
-      272                    57                                  30 %
-      273                   284                                43.4 %
-      274                    36                                  23 %
-      275                    29                                27.1 %
-      276                   594                                  53 %
-      277                   104                                36.1 %
-      278                   502                                56.4 %
-      279                    32                                29.9 %
-      280                     7                                35.3 %
-      281                    66                                43.3 %
-      282                   253                                43.3 %
-      283                    20                                17.6 %
-      284                   113                                50.9 %
-      285                    11                                32.1 %
-      286                    13                                23.4 %
-      287                   119                                  32 %
-      288                    38                                30.7 %
-      289                    16                                23.3 %
-      290                     0                                23.6 %
-      291                    11                                17.6 %
-      292                   362                                47.4 %
-      293                    13                                26.3 %
-      294                   161                                38.4 %
-      295                     8                                  31 %
-      296                   633                                52.5 %
-      297                   250                                41.9 %
-      298                    37                                27.4 %
-      299                    49                                36.4 %
-      300                     1                                23.6 %
-      301                    74                                32.3 %
-      302                   114                                52.6 %
-      303                    32                                38.1 %
-      304                    53                                31.3 %
-      305                     7                                21.7 %
-      306                    34                                23.7 %
-      307                    49                                36.7 %
-      308                    87                                30.9 %
-      309                     0                                15.4 %
-      310                    19                                28.3 %
-      311                    96                                38.1 %
-      312                    21                                43.9 %
-      313                   127                                39.1 %
-      314                    91                                36.1 %
-      315                   303                                  47 %
-      316                    21                                18.2 %
-      317                   311                                51.1 %
-      318                    66                                31.1 %
-      319                     3                                32.1 %
-      320                    76                                30.3 %
-      321                    34                                50.9 %
-      322                   462                                49.9 %
-      323                    64                                27.4 %
-      324                    10                                22.8 %
-      325                     1                                20.3 %
-      326                     1                                 9.1 %
-      327                    44                                57.7 %
-      328                   215                                  43 %
-      329                   207                                42.1 %
-      330                    66                                64.3 %
-      331                     3                                12.4 %
-      332                    19                                22.5 %
-      333                   323                                45.2 %
-      334                    29                                21.5 %
-      335                    79                                35.4 %
-      336                   101                                33.6 %
-      337                    29                                30.4 %
-      338                   211                                44.5 %
-      339                     2                                11.5 %
-      340                   141                                35.8 %
-      341                    78                                43.2 %
-      342                    58                                31.3 %
-      343                    40                                31.8 %
-      344                    45                                26.6 %
-      345                     6                                23.6 %
-      346                    77                                  30 %
-      347                    25                                24.9 %
-      348                     9                                  15 %
-      349                   358                                51.3 %
-      350                     7                                21.3 %
-      351                   180                                37.8 %
-      352                   248                                45.7 %
-      353                   196                                41.3 %
-      354                   121                                32.1 %
-      355                    40                                29.3 %
-      356                    37                                31.3 %
-      357                    12                                25.7 %
-      358                     6                                  17 %
-      359                   168                                40.9 %
-      360                    16                                13.5 %
-      361                    18                                  39 %
-      362                    64                                48.3 %
-      363                    43                                  32 %
-      364                    24                                35.4 %
-      365                    22                                17.7 %
-      366                   281                                43.4 %
-      367                    24                                39.3 %
-      368                    31                                27.5 %
-      369                    18                                26.5 %
-      370                    13                                26.6 %
-      371                    30                                19.2 %
-      372                    65                                29.9 %
-      373                    16                                14.6 %
-      374                    15                                28.2 %
-      375                    49                                32.6 %
-      376                   101                                34.7 %
-      377                    62                                22.7 %
-      378                   168                                37.2 %
-      379                    29                                  25 %
-      380                   125                                35.7 %
-      381                    38                                27.4 %
-      382                   152                                37.3 %
-      383                   457                                49.3 %
-      384                    17                                  18 %
-      385                    47                                60.3 %
-      386                    66                                29.1 %
-      387                    88                                31.2 %
-      388                   128                                32.5 %
-      389                   146                                38.6 %
-      390                    31                                  55 %
-      391                    10                                16.6 %
-      392                   407                                58.6 %
-      393                    61                                31.9 %
-      394                    65                                32.4 %
-      395                    78                                  25 %
-      396                   211                                43.9 %
-      397                    46                                29.8 %
-      398                    51                                  27 %
-      399                   115                                33.7 %
-      400                   208                                40.5 %
-      401                     8                                27.5 %
-      402                   292                                45.6 %
-      403                    15                                18.1 %
-      404                   120                                50.4 %
-      405                    87                                  57 %
-      406                     8                                26.9 %
-      407                   262                                45.5 %
-      408                    46                                46.3 %
-      409                   489                                51.6 %
-      410                    28                                22.3 %
-      411                   141                                40.6 %
-      412                    19                                  23 %
-      413                     7                                14.3 %
-      414                    14                                23.5 %
-      415                     8                                20.1 %
-      416                    48                                59.7 %
-      417                    45                                25.7 %
-      418                   174                                40.4 %
-      419                    29                                  39 %
-      420                     8                                14.9 %
-      421                   180                                38.1 %
-      422                    73                                32.3 %
-      423                   119                                35.1 %
-      424                    40                                38.5 %
-      425                    55                                27.4 %
-      426                   303                                47.7 %
-      427                    33                                36.9 %
-      428                   148                                42.3 %
-      429                   149                                43.9 %
-      430                    35                                18.5 %
-      431                    56                                31.9 %
-      432                    81                                37.9 %
-      433                    28                                37.1 %
-      434                    24                                29.1 %
-      435                    57                                33.7 %
-      436                    33                                26.4 %
-      437                    24                                30.5 %
-      438                    87                                47.6 %
-      439                     7                                12.5 %
-      440                   388                                63.9 %
-      441                    20                                24.6 %
-      442                   297                                41.9 %
-      443                    71                                30.1 %
-      444                   241                                56.5 %
-      445                    14                                21.6 %
-      446                   335                                46.6 %
-      447                     4                                24.7 %
-      448                   557                                45.3 %
-      449                    50                                  31 %
-      450                   328                                40.6 %
-      451                   597                                51.6 %
-      452                     3                                13.9 %
-      453                    14                                20.9 %
-      454                  1074                                59.6 %
-      455                    20                                38.3 %
-      456                    50                                30.6 %
-      457                    14                                23.6 %
-      458                   297                                46.2 %
-      459                    56                                31.8 %
-      460                    74                                  31 %
-      461                    62                                28.9 %
-      462                    92                                48.3 %
-      463                   433                                48.8 %
-      464                    23                                21.4 %
-      465                    33                                26.4 %
-      466                    71                                36.3 %
-      467                    27                                  17 %
-      468                    11                                25.3 %
-      469                     4                                12.1 %
-      470                   322                                44.8 %
-      471                    45                                28.8 %
-      472                     3                                24.9 %
-      473                   120                                35.7 %
-      474                    17                                20.8 %
-      475                    48                                27.3 %
-      476                    29                                31.1 %
-      477                    80                                88.1 %
-      478                     6                                17.8 %
-      479                   320                                63.3 %
-      480                   146                                35.6 %
-      481                    27                                33.9 %
-      482                   506                                49.8 %
-      483                    67                                32.1 %
-      484                   172                                38.9 %
-      485                    31                                28.8 %
-      486                    16                                14.3 %
-      487                    65                                29.3 %
-      488                    55                                26.1 %
-      489                   392                                66.5 %
-      490                    19                                23.4 %
-      491                    50                                18.6 %
-      492                    13                                  24 %
-      493                    44                                28.9 %
-      494                    54                                29.6 %
-      495                    94                                31.3 %
-      496                   289                                42.1 %
-      497                   806                                55.9 %
-      498                   520                                50.5 %
-      499                    39                                39.6 %
-      500                    29                                24.3 %
-      501                    24                                36.4 %
-      502                    74                                44.4 %
-      503                   228                                38.2 %
-      504                   171                                35.7 %
-      505                   115                                50.7 %
-      506                    32                                40.1 %
-      507                    67                                86.1 %
-      508                    46                                  41 %
-      509                    44                                37.5 %
-      510                   119                                48.6 %
-      511                    60                                42.4 %
-      512                    33                                33.8 %
-      513                    13                                24.8 %
-      514                    74                                86.1 %
-      515                   379                                45.5 %
-      516                    60                                  28 %
-      517                    65                                85.1 %
-      518                    51                                25.6 %
-      519                    27                                  38 %
-      520                   135                                33.9 %
-      521                    32                                32.8 %
-      522                    18                                25.6 %
-      523                   139                                29.3 %
-      524                    52                                29.8 %
-      525                   609                                51.4 %
-      526                    62                                35.9 %
-      527                   534                                50.5 %
-      528                    38                                39.5 %
-      529                   207                                37.8 %
-      530                    19                                27.5 %
-      531                    44                                41.2 %
-      532                   129                                32.4 %
-      533                     9                                29.6 %
-      534                    19                                38.4 %
-      535                    15                                21.6 %
-      536                     5                                14.4 %
-      537                    44                                  32 %
-      538                   235                                75.5 %
-      539                    73                                41.9 %
-      540                   865                                77.7 %
-      541                    38                                32.2 %
-      542                     5                                22.3 %
-      543                     7                                29.1 %
-      544                    55                                28.3 %
-      545                     4                                25.9 %
-      546                   132                                36.4 %
-      547                    28                                17.8 %
-      548                    40                                31.5 %
-      549                    34                                39.7 %
-      550                    22                                25.8 %
-      551                    79                                  45 %
-      552                    26                                40.3 %
-      553                    15                                13.3 %
-      554                    67                                26.6 %
-      555                    36                                  24 %
-      556                    15                                34.3 %
-      557                    35                                37.1 %
-      558                    31                                31.5 %
-      559                   116                                40.7 %
-      560                    47                                  31 %
-      561                     5                                33.1 %
-      562                    68                                47.3 %
-      563                    12                                19.6 %
-      564                   211                                41.5 %
-      565                   111                                35.4 %
-      566                     3                                21.2 %
-      567                    37                                35.4 %
-      568                    10                                34.9 %
-      569                   121                                33.5 %
-      570                    19                                26.1 %
-      571                   463                                66.5 %
-      572                    40                                34.8 %
-      573                    88                                34.3 %
-      574                   106                                  47 %
-      575                   184                                38.9 %
-      576                    37                                30.6 %
-      577                    41                                27.9 %
-      578                   242                                38.6 %
-      579                    13                                22.7 %
-      580                    55                                  70 %
-      581                   233                                54.4 %
-      582                     5                                  31 %
-      583                    11                                36.2 %
-      584                   149                                34.2 %
-      585                   218                                36.9 %
-      586                    64                                34.7 %
-      587                    83                                31.8 %
-      588                   135                                43.6 %
-      589                    69                                31.1 %
-      590                    18                                18.6 %
-      591                    33                                21.6 %
-      592                    10                                17.1 %
-      593                    19                                23.9 %
-      594                    31                                  28 %
-      595                    43                                  25 %
-      596                     4                                  12 %
-      597                    76                                  28 %
-      598                    13                                33.1 %
-      599                    49                                29.8 %
-      600                    11                                15.4 %
-      601                    34                                38.2 %
-      602                    12                                17.6 %
-      603                    33                                62.5 %
-      604                    77                                41.5 %
-      605                    32                                29.9 %
-      606                     9                                21.8 %
-      607                    27                                  35 %
-      608                     3                                28.3 %
-      609                     8                                17.9 %
-      610                   107                                34.7 %
-      611                    45                                37.1 %
-      612                    16                                37.4 %
-      613                    21                                30.3 %
-      614                    20                                27.4 %
-      615                   277                                40.9 %
-      616                   283                                  41 %
-      617                     9                                32.2 %
-      618                     6                                20.9 %
-      619                    70                                31.5 %
-      620                    31                                  23 %
-      621                    60                                43.2 %
-      622                    26                                24.3 %
-      623                    95                                  42 %
-      624                    24                                34.9 %
-      625                    90                                34.5 %
-      626                    22                                38.5 %
-      627                    12                                14.3 %
-      628                    10                                28.1 %
-      629                    29                                34.8 %
-      630                    19                                38.2 %
-      631                    90                                33.5 %
-      632                    47                                30.4 %
-      633                   468                                50.3 %
-      634                    60                                25.2 %
-      635                   142                                36.9 %
-      636                   126                                40.7 %
-      637                    34                                32.7 %
-      638                    14                                23.8 %
-      639                    54                                26.2 %
-      640                   112                                32.4 %
-      641                    60                                30.2 %
-      642                    95                                32.5 %
-      643                    33                                28.8 %
-      644                   189                                38.5 %
-      645                    60                                29.6 %
-      646                    39                                20.7 %
-      647                   333                                  50 %
-      648                    23                                35.8 %
-      649                   330                                56.5 %
-      650                    71                                32.4 %
-      651                   344                                43.4 %
-      652                    42                                38.8 %
-      653                   190                                49.4 %
-      654                     8                                18.2 %
-      655                     8                                20.3 %
-      656                   125                                  28 %
-      657                    41                                  27 %
-      658                   151                                42.3 %
-      659                   127                                32.3 %
-      660                    21                                19.4 %
-      661                    45                                36.8 %
-      662                    25                                20.5 %
-      663                   222                                36.6 %
-      664                   207                                57.7 %
-      665                    33                                37.9 %
-      666                    77                                30.9 %
-      667                    27                                35.1 %
-      668                   147                                38.6 %
-      669                    71                                41.3 %
-      670                    29                                34.4 %
-      671                    67                                30.8 %
-      672                    22                                21.6 %
-      673                    55                                29.2 %
-      674                   216                                39.2 %
-      675                    23                                36.7 %
-      676                    32                                26.2 %
-      677                    12                                27.5 %
-      678                    28                                22.8 %
-      679                   251                                43.2 %
-      680                    47                                29.2 %
-      681                    17                                34.4 %
-      682                    46                                36.7 %
-      683                   147                                42.8 %
-      684                    19                                23.2 %
-      685                    11                                20.3 %
-      686                   120                                36.1 %
-      687                    66                                31.5 %
-      688                    95                                35.3 %
-      689                    81                                74.1 %
-      690                   167                                48.7 %
-      691                    28                                37.1 %
-      692                    96                                32.5 %
-      693                    85                                30.8 %
-      694                    11                                19.3 %
-      695                    25                                26.3 %
-      696                    12                                14.3 %
-      697                   649                                55.2 %
-      698                   128                                44.4 %
-      699                    80                                34.3 %
-      700                    65                                  34 %
-      701                    47                                30.1 %
-      702                   214                                41.6 %
-      703                    25                                35.1 %
-      704                   111                                43.6 %
-      705                   100                                46.5 %
-      706                    46                                  33 %
-      707                   235                                41.5 %
-      708                   400                                60.6 %
-      709                    44                                36.6 %
-      710                    27                                26.3 %
-      711                    36                                27.1 %
-      712                    72                                29.9 %
-      713                     3                                22.1 %
-      714                    20                                24.8 %
-      715                    14                                24.6 %
-      716                     8                                12.6 %
-      717                   119                                40.4 %
-      718                   443                                47.8 %
-      719                    11                                23.2 %
-      720                    45                                28.1 %
-      721                    36                                  23 %
-      722                   171                                40.7 %
-      723                    55                                68.1 %
-      724                    49                                  32 %
-      725                   614                                45.6 %
-      726                    91                                36.1 %
-      727                   133                                30.6 %
-      728                   433                                48.5 %
-      729                   193                                35.9 %
-      730                   296                                40.1 %
-      731                    25                                29.8 %
-      732                    94                                33.2 %
-      733                   292                                  46 %
-      734                   251                                37.8 %
-      735                   311                                45.3 %
-      736                   166                                36.4 %
-      737                    39                                27.6 %
-      738                   481                                59.3 %
-      739                   166                                39.1 %
-      740                   236                                41.5 %
-      741                   101                                34.3 %
-      742                    66                                33.8 %
-      743                    58                                  29 %
-      744                     5                                23.9 %
-      745                    25                                27.6 %
-      746                   103                                34.2 %
-      747                    28                                  27 %
-      748                    49                                40.7 %
-      749                    18                                20.6 %
-      750                    99                                29.2 %
-      751                    25                                16.8 %
-      752                    29                                26.4 %
-      753                   112                                32.9 %
-      754                    16                                26.8 %
-      755                    19                                24.3 %
-      756                   388                                46.8 %
-      757                    21                                  23 %
-      758                   123                                31.5 %
-      759                    98                                43.8 %
-      760                    43                                34.8 %
-      761                    23                                22.2 %
-      762                    25                                23.6 %
-      763                   219                                41.7 %
-      764                     4                                15.2 %
-      765                    69                                29.4 %
-      766                    45                                29.5 %
-      767                    82                                36.3 %
-      768                   143                                93.5 %
-      769                    71                                26.1 %
-      770                   131                                  33 %
-      771                    97                                28.4 %
-      772                    21                                20.1 %
-      773                   137                                  32 %
-      774                     7                                16.9 %
-      775                    15                                23.9 %
-      776                    41                                  26 %
-      777                     1                                17.7 %
-      778                    76                                30.6 %
-      779                   101                                29.7 %
-      780                    64                                34.1 %
-      781                    11                                21.8 %
-      782                    31                                28.6 %
-      783                    60                                26.9 %
-      784                   110                                30.4 %
-      785                    98                                33.4 %
-      786                    25                                32.8 %
-      787                    15                                16.1 %
-      788                    72                                28.3 %
-      789                   139                                35.4 %
-      790                    41                                33.8 %
-      791                   115                                33.1 %
-      792                    13                                25.4 %
-      793                    43                                  27 %
-      794                     2                                21.5 %
-      795                   352                                43.3 %
-      796                    48                                30.6 %
-      797                     7                                 9.6 %
-      798                    50                                15.8 %
-      799                   165                                38.8 %
-      800                   363                                41.2 %
-      801                    20                                17.5 %
-      802                    21                                19.1 %
-      803                    27                                28.8 %
-      804                    86                                  39 %
-      805                    23                                59.4 %
-      806                    44                                28.2 %
-      807                   197                                36.2 %
-      808                    40                                24.5 %
-      809                    52                                24.4 %
-      810                    66                                30.1 %
-      811                   286                                45.9 %
-      812                    60                                41.1 %
-      813                    34                                35.4 %
-      814                    33                                35.8 %
-      815                    28                                29.9 %
-      816                    32                                  24 %
-      817                   294                                57.3 %
-      818                    13                                29.1 %
-      819                    12                                26.8 %
-      820                    10                                17.7 %
-      821                    35                                  38 %
-      822                     6                                22.6 %
-      823                   121                                43.2 %
-      824                   102                                41.1 %
-      825                    60                                31.6 %
-      826                    18                                36.6 %
-      827                   333                                41.4 %
-      828                    31                                33.9 %
-      829                    53                                34.4 %
-      830                    52                                27.8 %
-      831                    77                                  33 %
-      832                    15                                28.7 %
-      833                    43                                32.3 %
-      834                    31                                31.4 %
-      835                    27                                  30 %
-      836                   219                                  34 %
-      837                    31                                21.9 %
-      838                    22                                28.5 %
-      839                    36                                  21 %
-      840                    20                                24.8 %
-      841                   290                                57.1 %
-      842                   143                                34.4 %
-      843                    72                                26.7 %
-      844                   207                                38.3 %
-      845                    23                                17.5 %
-      846                     3                                27.9 %
-      847                   205                                42.9 %
-      848                    35                                26.4 %
-      849                    22                                22.6 %
-      850                    68                                30.8 %
-      851                    40                                28.8 %
-      852                    88                                30.8 %
-      853                     6                                24.8 %
-      854                   272                                39.4 %
-      855                    49                                31.4 %
-      856                    29                                30.8 %
-      857                    15                                26.3 %
-      858                    62                                  29 %
-      859                    17                                23.3 %
-      860                    24                                25.8 %
-      861                     7                                11.9 %
-      862                    26                                32.4 %
-      863                   349                                42.1 %
-      864                    37                                28.1 %
-      865                    27                                26.3 %
-      866                    23                                30.3 %
-      867                    57                                37.1 %
-      868                    14                                34.2 %
-      869                   135                                50.7 %
-      870                   359                                43.4 %
-      871                    62                                28.4 %
-      872                    18                                28.2 %
-      873                   201                                33.6 %
-      874                     8                                21.9 %
-      875                    48                                30.7 %
-      876                    23                                23.5 %
-      877                    19                                32.9 %
-      878                    50                                29.4 %
-      879                    70                                35.6 %
-      880                   237                                54.4 %
-      881                    47                                33.9 %
-      882                   493                                51.4 %
-      883                    38                                32.5 %
-      884                    19                                19.6 %
-      885                    40                                  23 %
-      886                    10                                13.1 %
-      887                    51                                24.3 %
-      888                   254                                40.2 %
-      889                     8                                27.5 %
-      890                    35                                29.3 %
-      891                   332                                43.2 %
-      892                    52                                26.5 %
-      893                   108                                  33 %
-      894                     3                                10.9 %
-      895                    79                                44.5 %
-      896                    66                                24.6 %
-      897                   776                                54.9 %
-      898                   120                                37.2 %
-      899                    60                                35.8 %
-      900                    79                                33.3 %
-      901                   224                                40.1 %
-      902                   174                                38.1 %
-      903                     4                                30.3 %
-      904                   119                                47.9 %
-      905                   249                                43.9 %
-      906                    32                                22.1 %
-      907                    15                                35.8 %
-      908                   251                                35.3 %
-      909                   112                                42.6 %
-      910                    13                                30.1 %
-      911                   204                                41.6 %
-      912                    19                                29.4 %
-      913                     8                                29.9 %
-      914                    65                                30.1 %
-      915                   148                                30.3 %
-      916                   420                                64.7 %
-      917                     9                                28.6 %
-      918                    35                                24.4 %
-      919                    28                                31.9 %
-      920                     9                                26.8 %
-      921                    23                                29.7 %
-      922                    39                                31.8 %
-      923                   284                                43.8 %
-      924                    16                                26.8 %
-      925                    64                                28.6 %
-      926                     5                                19.3 %
-      927                   176                                  41 %
-      928                   106                                34.5 %
-      929                    13                                16.3 %
-      930                   158                                46.3 %
-      931                    11                                24.5 %
-      932                     5                                17.9 %
-      933                    44                                39.2 %
-      934                    49                                27.3 %
-      935                    87                                44.9 %
-      936                    94                                31.6 %
-      937                    44                                33.2 %
-      938                    82                                32.6 %
-      939                   160                                36.7 %
-      940                     6                                25.8 %
-      941                    11                                  21 %
-      942                     4                                27.6 %
-      943                    17                                27.1 %
-      944                     7                                14.6 %
-      945                    10                                24.6 %
-      946                    48                                34.7 %
-      947                    59                                30.6 %
-      948                   350                                47.4 %
-      949                     1                                  26 %
-      950                   529                                49.1 %
-      951                    31                                31.1 %
-      952                    15                                29.6 %
-      953                    16                                31.6 %
-      954                    13                                33.1 %
-      955                    72                                26.8 %
-      956                    39                                32.3 %
-      957                     4                                22.7 %
-      958                    11                                33.7 %
-      959                    40                                  38 %
-      960                    10                                33.5 %
-      961                    31                                23.5 %
-      962                    37                                27.2 %
-      963                    12                                26.5 %
-      964                    16                                29.1 %
-      965                   114                                37.7 %
-      966                    71                                36.2 %
-      967                    72                                31.7 %
-      968                    36                                33.7 %
-      969                     0                                25.9 %
-      970                    33                                29.5 %
-      971                    16                                21.2 %
-      972                    22                                16.8 %
-      973                    15                                14.4 %
-      974                    24                                21.7 %
-      975                     0                                18.8 %
-      976                     9                                27.7 %
-      977                    39                                38.3 %
-      978                    68                                27.1 %
-      979                    26                                  32 %
-      980                   211                                41.6 %
-      981                    13                                18.9 %
-      982                    35                                37.5 %
-      983                   103                                29.9 %
-      984                    42                                34.1 %
-      985                    31                                33.2 %
-      986                    64                                33.7 %
-      987                    89                                32.5 %
-      988                     6                                13.5 %
-      989                    22                                37.8 %
-      990                     8                                29.5 %
-      991                   104                                32.1 %
-      992                   114                                32.7 %
-      993                     8                                  26 %
-      994                   501                                48.8 %
-      995                   150                                33.7 %
-      996                     4                                17.3 %
-      997                    41                                29.9 %
-      998                    14                                19.7 %
-      999                    58                                27.4 %
-      1000                   47                                34.5 %
-      1001                   26                                35.1 %
-      1002                    9                                  23 %
-      1003                   73                                26.1 %
-      1004                   11                                26.7 %
-      1005                    4                                15.4 %
-      1006                   13                                23.4 %
-      1007                   22                                  36 %
-      1008                   46                                42.9 %
-      1009                  129                                36.8 %
-      1010                   45                                  33 %
-      1011                   41                                37.2 %
-      1012                   26                                22.9 %
-      1013                    9                                28.5 %
-      1014                   26                                38.6 %
-      1015                   16                                32.9 %
-      1016                   12                                18.5 %
-      1017                   21                                31.5 %
-      1018                   98                                60.2 %
-      1019                   79                                39.8 %
-      1020                   93                                50.9 %
-      1021                   14                                18.3 %
-      1022                   19                                25.4 %
-      1023                   25                                36.7 %
-      1024                   11                                30.1 %
-      1025                    9                                27.3 %
-      1026                   60                                27.2 %
-      1027                   60                                  42 %
-      1028                   24                                41.6 %
-      1029                    7                                26.7 %
-      1030                   40                                31.8 %
-      1031                   67                                40.8 %
-      1032                   11                                20.3 %
-      1033                    8                                24.2 %
-      1034                   17                                24.9 %
-      1035                    8                                18.3 %
-      1036                    4                                15.1 %
-      1037                   49                                26.4 %
-      1038                   10                                31.9 %
-      1039                    2                                25.1 %
-      1040                   23                                34.3 %
-      1041                    2                                23.6 %
-      1042                   13                                  16 %
-      1043                    1                                12.3 %
-      1044                   29                                22.2 %
-      1045                    1                                20.4 %
-      1046                    8                                34.5 %
-      1047                   21                                31.4 %
-      1048                   13                                21.5 %
-      1049                   10                                29.8 %
-      1050                   23                                40.2 %
-      1051                    5                                10.2 %
-      1052                  125                                51.3 %
-      1053                    2                                  16 %
-      1054                  173                                51.3 %
-      1055                   65                                31.7 %
-      1056                   17                                25.5 %
-      1057                   37                                29.6 %
-      1058                    7                                28.5 %
-      1059                   39                                29.5 %
-      1060                   13                                30.5 %
-      1061                    2                                18.8 %
-      1062                    7                                17.7 %
-      1063                    7                                30.7 %
-      1064                  133                                48.8 %
-      1065                   11                                13.1 %
-      1066                    7                                25.5 %
-      1067                   85                                44.7 %
-      1068                   20                                35.4 %
-      1069                    9                                24.1 %
-      1070                    6                                13.8 %
-      1071                   39                                  26 %
-      1072                    9                                31.8 %
-      1073                   36                                  23 %
-      1074                   13                                21.9 %
-      1075                   28                                38.6 %
-      1076                   86                                33.1 %
-      1077                   14                                23.1 %
-      1078                    8                                17.6 %
-      1079                   28                                23.7 %
-      1080                    6                                  18 %
-      1081                    5                                13.4 %
-      1082                   20                                22.4 %
+                                         X6          X7         X8         X9
+      1                                <NA>        <NA>       <NA>       <NA>
+      2                                <NA>        <NA>       <NA>       <NA>
+      3                                <NA>        <NA>       <NA>       <NA>
+      4                                <NA>        <NA>       <NA>       <NA>
+      5                                <NA>        <NA>       <NA>       <NA>
+      6                                <NA>        <NA>       <NA>       <NA>
+      7                   Liste Bezeichnung   Wahlkreis BisherLang Geschlecht
+      8           GLP – Grünliberale Partei Kreis 1 + 2        neu   Männlich
+      9    Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      10          GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      11                              Grüne Kreis 1 + 2        neu   Männlich
+      12   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      13                              Grüne Kreis 1 + 2        neu   Weiblich
+      14             AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      15                              Grüne Kreis 1 + 2        neu   Weiblich
+      16          GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      17                  FDP.Die Liberalen Kreis 1 + 2     bisher   Männlich
+      18                  Partei der Arbeit Kreis 1 + 2        neu   Weiblich
+      19    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Weiblich
+      20    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Männlich
+      21       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      22                  FDP.Die Liberalen Kreis 1 + 2        neu   Männlich
+      23                  FDP.Die Liberalen Kreis 1 + 2        neu   Weiblich
+      24          GLP – Grünliberale Partei Kreis 1 + 2        neu   Männlich
+      25       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      26    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Männlich
+      27             AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      28                  FDP.Die Liberalen Kreis 1 + 2        neu   Weiblich
+      29             AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      30                  Partei der Arbeit Kreis 1 + 2        neu   Männlich
+      31   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      32       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      33          GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      34    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Weiblich
+      35                  FDP.Die Liberalen Kreis 1 + 2        neu   Männlich
+      36       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      37                  FDP.Die Liberalen Kreis 1 + 2        neu   Männlich
+      38         Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Weiblich
+      39       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Männlich
+      40          GLP – Grünliberale Partei Kreis 1 + 2        neu   Männlich
+      41                              Grüne Kreis 1 + 2        neu   Männlich
+      42    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Weiblich
+      43                              Grüne Kreis 1 + 2        neu   Weiblich
+      44                          Die Mitte Kreis 1 + 2        neu   Männlich
+      45                              Grüne Kreis 1 + 2        neu   Weiblich
+      46             AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      47    SP – Sozialdemokratische Partei Kreis 1 + 2     bisher   Weiblich
+      48   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      49                              Grüne Kreis 1 + 2        neu   Weiblich
+      50         Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Männlich
+      51                              Grüne Kreis 1 + 2     bisher   Weiblich
+      52       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Männlich
+      53          GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      54          GLP – Grünliberale Partei Kreis 1 + 2     bisher   Männlich
+      55   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      56             AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      57       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      58   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Weiblich
+      59                          Die Mitte Kreis 1 + 2        neu   Weiblich
+      60                          Die Mitte Kreis 1 + 2        neu   Männlich
+      61                          Die Mitte Kreis 1 + 2        neu   Männlich
+      62                              Grüne Kreis 1 + 2     bisher   Männlich
+      63                          Die Mitte Kreis 1 + 2        neu   Männlich
+      64                  FDP.Die Liberalen Kreis 1 + 2        neu   Weiblich
+      65   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Weiblich
+      66          GLP – Grünliberale Partei Kreis 1 + 2        neu   Männlich
+      67    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Männlich
+      68                  FDP.Die Liberalen Kreis 1 + 2        neu   Männlich
+      69             AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      70         Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Männlich
+      71          GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      72   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      73                              Grüne Kreis 1 + 2        neu   Männlich
+      74          GLP – Grünliberale Partei Kreis 1 + 2        neu   Männlich
+      75                          Die Mitte Kreis 1 + 2        neu   Weiblich
+      76                  FDP.Die Liberalen Kreis 1 + 2        neu   Männlich
+      77                          Die Mitte Kreis 1 + 2        neu   Männlich
+      78                          Die Mitte Kreis 1 + 2        neu   Männlich
+      79                              Grüne Kreis 1 + 2        neu   Männlich
+      80             AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      81       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      82                          Die Mitte Kreis 1 + 2        neu   Männlich
+      83             AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      84       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      85       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      86    SP – Sozialdemokratische Partei Kreis 1 + 2     bisher   Weiblich
+      87                  FDP.Die Liberalen Kreis 1 + 2     bisher   Männlich
+      88             AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      89   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      90    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Männlich
+      91       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      92         Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Männlich
+      93    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Weiblich
+      94                  FDP.Die Liberalen Kreis 1 + 2        neu   Weiblich
+      95         Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Weiblich
+      96    SP – Sozialdemokratische Partei Kreis 1 + 2        neu   Männlich
+      97   Schweizerische Volkspartei – SVP Kreis 1 + 2        neu   Männlich
+      98             AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      99       Evangelische Volkspartei EVP Kreis 1 + 2        neu   Weiblich
+      100                         Die Mitte Kreis 1 + 2        neu   Männlich
+      101                         Die Mitte Kreis 1 + 2        neu   Weiblich
+      102            AL – Alternative Liste Kreis 1 + 2        neu   Männlich
+      103         GLP – Grünliberale Partei Kreis 1 + 2        neu   Weiblich
+      104                         Die Mitte Kreis 1 + 2        neu   Männlich
+      105   SP – Sozialdemokratische Partei Kreis 1 + 2     bisher   Weiblich
+      106                 FDP.Die Liberalen Kreis 1 + 2        neu   Weiblich
+      107        Freie Liste – Stadt Zürich Kreis 1 + 2        neu   Weiblich
+      108                             Grüne Kreis 1 + 2        neu   Männlich
+      109  Schweizerische Volkspartei – SVP Kreis 1 + 2     bisher   Weiblich
+      110  Schweizerische Volkspartei – SVP Kreis 1 + 2     bisher   Männlich
+      111            AL – Alternative Liste Kreis 1 + 2        neu   Weiblich
+      112            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      113         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      114  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      115        Freie Liste – Stadt Zürich     Kreis 3        neu   Weiblich
+      116            AL – Alternative Liste     Kreis 3     bisher   Männlich
+      117                             Grüne     Kreis 3        neu   Männlich
+      118            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      119  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      120         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      121                         Die Mitte     Kreis 3        neu   Weiblich
+      122            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      123            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      124                             Grüne     Kreis 3        neu   Weiblich
+      125      Evangelische Volkspartei EVP     Kreis 3        neu   Weiblich
+      126            AL – Alternative Liste     Kreis 3        neu   Männlich
+      127                             Grüne     Kreis 3        neu   Weiblich
+      128                 FDP.Die Liberalen     Kreis 3     bisher   Männlich
+      129   SP – Sozialdemokratische Partei     Kreis 3        neu   Männlich
+      130            AL – Alternative Liste     Kreis 3        neu   Männlich
+      131      Evangelische Volkspartei EVP     Kreis 3        neu   Weiblich
+      132  Schweizerische Volkspartei – SVP     Kreis 3        neu   Weiblich
+      133   SP – Sozialdemokratische Partei     Kreis 3        neu   Männlich
+      134      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      135  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      136      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      137                             Grüne     Kreis 3        neu   Weiblich
+      138                 FDP.Die Liberalen     Kreis 3     bisher   Weiblich
+      139            AL – Alternative Liste     Kreis 3     bisher   Weiblich
+      140   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      141                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      142         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      143   SP – Sozialdemokratische Partei     Kreis 3     bisher   Männlich
+      144      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      145        Freie Liste – Stadt Zürich     Kreis 3        neu   Weiblich
+      146                             Grüne     Kreis 3        neu   Weiblich
+      147         GLP – Grünliberale Partei     Kreis 3     bisher   Weiblich
+      148  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      149   SP – Sozialdemokratische Partei     Kreis 3     bisher   Männlich
+      150                 Partei der Arbeit     Kreis 3        neu   Männlich
+      151                             Grüne     Kreis 3        neu   Männlich
+      152                         Die Mitte     Kreis 3        neu   Männlich
+      153                         Die Mitte     Kreis 3        neu   Weiblich
+      154  Schweizerische Volkspartei – SVP     Kreis 3        neu   Weiblich
+      155   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      156  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      157      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      158                         Die Mitte     Kreis 3        neu   Männlich
+      159            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      160         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      161                         Die Mitte     Kreis 3        neu   Männlich
+      162      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      163         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      164         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      165  Schweizerische Volkspartei – SVP     Kreis 3        neu   Weiblich
+      166  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      167                 Partei der Arbeit     Kreis 3        neu   Weiblich
+      168        Freie Liste – Stadt Zürich     Kreis 3        neu   Männlich
+      169      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      170         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      171        Freie Liste – Stadt Zürich     Kreis 3        neu   Weiblich
+      172                         Die Mitte     Kreis 3        neu   Männlich
+      173                             Grüne     Kreis 3        neu   Männlich
+      174                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      175      Evangelische Volkspartei EVP     Kreis 3        neu   Weiblich
+      176  Schweizerische Volkspartei – SVP     Kreis 3        neu   Weiblich
+      177         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      178   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      179                         Die Mitte     Kreis 3        neu   Männlich
+      180                 Partei der Arbeit     Kreis 3        neu   Männlich
+      181                 Partei der Arbeit     Kreis 3        neu   Männlich
+      182   SP – Sozialdemokratische Partei     Kreis 3     bisher   Männlich
+      183            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      184            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      185                             Grüne     Kreis 3        neu   Männlich
+      186                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      187        Freie Liste – Stadt Zürich     Kreis 3        neu   Weiblich
+      188         GLP – Grünliberale Partei     Kreis 3     bisher   Männlich
+      189         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      190                 Partei der Arbeit     Kreis 3        neu   Weiblich
+      191   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      192                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      193                             Grüne     Kreis 3        neu   Weiblich
+      194      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      195  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      196                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      197            AL – Alternative Liste     Kreis 3        neu   Männlich
+      198   SP – Sozialdemokratische Partei     Kreis 3        neu   Männlich
+      199  Schweizerische Volkspartei – SVP     Kreis 3     bisher   Männlich
+      200                             Grüne     Kreis 3     bisher   Männlich
+      201      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      202                             Grüne     Kreis 3        neu   Männlich
+      203                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      204         GLP – Grünliberale Partei     Kreis 3        neu   Männlich
+      205        Freie Liste – Stadt Zürich     Kreis 3        neu   Weiblich
+      206            AL – Alternative Liste     Kreis 3        neu   Weiblich
+      207  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      208  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      209                             Grüne     Kreis 3        neu   Weiblich
+      210      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      211  Schweizerische Volkspartei – SVP     Kreis 3        neu   Männlich
+      212            AL – Alternative Liste     Kreis 3        neu   Männlich
+      213                         Die Mitte     Kreis 3        neu   Männlich
+      214         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      215                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      216   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      217                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      218                         Die Mitte     Kreis 3        neu   Weiblich
+      219                         Die Mitte     Kreis 3        neu   Männlich
+      220   SP – Sozialdemokratische Partei     Kreis 3        neu   Männlich
+      221                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      222        Freie Liste – Stadt Zürich     Kreis 3        neu   Männlich
+      223                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      224                 Partei der Arbeit     Kreis 3        neu   Männlich
+      225                             Grüne     Kreis 3        neu   Weiblich
+      226                         Die Mitte     Kreis 3        neu   Männlich
+      227                             Grüne     Kreis 3        neu   Männlich
+      228      Evangelische Volkspartei EVP     Kreis 3        neu   Männlich
+      229         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      230                 Partei der Arbeit     Kreis 3        neu   Weiblich
+      231                 FDP.Die Liberalen     Kreis 3        neu   Weiblich
+      232                         Die Mitte     Kreis 3        neu   Männlich
+      233      Evangelische Volkspartei EVP     Kreis 3        neu   Weiblich
+      234                         Die Mitte     Kreis 3        neu   Männlich
+      235      Evangelische Volkspartei EVP     Kreis 3        neu   Weiblich
+      236                 Partei der Arbeit     Kreis 3        neu   Weiblich
+      237   SP – Sozialdemokratische Partei     Kreis 3     bisher   Weiblich
+      238   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      239                             Grüne     Kreis 3        neu   Weiblich
+      240            AL – Alternative Liste     Kreis 3        neu   Männlich
+      241                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      242         GLP – Grünliberale Partei     Kreis 3        neu   Weiblich
+      243                 FDP.Die Liberalen     Kreis 3        neu   Männlich
+      244   SP – Sozialdemokratische Partei     Kreis 3        neu   Weiblich
+      245                         Die Mitte Kreis 4 + 5        neu   Weiblich
+      246                 Partei der Arbeit Kreis 4 + 5        neu   Männlich
+      247         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      248            AL – Alternative Liste Kreis 4 + 5        neu   Männlich
+      249                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      250                         Die Mitte Kreis 4 + 5        neu   Männlich
+      251  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      252  Schweizerische Volkspartei – SVP Kreis 4 + 5     bisher   Männlich
+      253         GLP – Grünliberale Partei Kreis 4 + 5        neu   Männlich
+      254            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      255            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      256         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      257  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      258      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      259                             Grüne Kreis 4 + 5        neu   Männlich
+      260         GLP – Grünliberale Partei Kreis 4 + 5     bisher   Männlich
+      261   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      262                             Grüne Kreis 4 + 5        neu   Männlich
+      263   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      264   SP – Sozialdemokratische Partei Kreis 4 + 5     bisher   Männlich
+      265            AL – Alternative Liste Kreis 4 + 5        neu   Männlich
+      266   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      267  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      268            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      269  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Weiblich
+      270                         Die Mitte Kreis 4 + 5        neu   Männlich
+      271         GLP – Grünliberale Partei Kreis 4 + 5        neu   Männlich
+      272         GLP – Grünliberale Partei Kreis 4 + 5        neu   Männlich
+      273                             Grüne Kreis 4 + 5        neu   Weiblich
+      274                             Grüne Kreis 4 + 5        neu   Männlich
+      275         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      276                             Grüne Kreis 4 + 5     bisher   Weiblich
+      277                         Die Mitte Kreis 4 + 5        neu   Weiblich
+      278            AL – Alternative Liste Kreis 4 + 5     bisher   Männlich
+      279                 FDP.Die Liberalen Kreis 4 + 5        neu   Weiblich
+      280      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Weiblich
+      281                 Partei der Arbeit Kreis 4 + 5        neu   Weiblich
+      282   SP – Sozialdemokratische Partei Kreis 4 + 5     bisher   Männlich
+      283  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      284                 Partei der Arbeit Kreis 4 + 5        neu   Männlich
+      285      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      286                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      287                             Grüne Kreis 4 + 5        neu   Männlich
+      288                             Grüne Kreis 4 + 5        neu   Weiblich
+      289                         Die Mitte Kreis 4 + 5        neu   Männlich
+      290      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      291  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Weiblich
+      292   SP – Sozialdemokratische Partei Kreis 4 + 5     bisher   Weiblich
+      293                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      294         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      295                 Partei der Arbeit Kreis 4 + 5        neu   Männlich
+      296                             Grüne Kreis 4 + 5     bisher   Männlich
+      297                             Grüne Kreis 4 + 5        neu   Weiblich
+      298                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      299            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      300      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Weiblich
+      301                         Die Mitte Kreis 4 + 5        neu   Weiblich
+      302                 Partei der Arbeit Kreis 4 + 5        neu   Weiblich
+      303                 Partei der Arbeit Kreis 4 + 5        neu   Männlich
+      304         GLP – Grünliberale Partei Kreis 4 + 5        neu   Männlich
+      305                         Die Mitte Kreis 4 + 5        neu   Männlich
+      306  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      307                         Die Mitte Kreis 4 + 5        neu   Männlich
+      308   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Männlich
+      309      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Weiblich
+      310                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      311            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      312      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      313   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      314   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Männlich
+      315   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      316  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      317            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      318         GLP – Grünliberale Partei Kreis 4 + 5        neu   Männlich
+      319      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      320            AL – Alternative Liste Kreis 4 + 5        neu   Männlich
+      321      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      322                             Grüne Kreis 4 + 5        neu   Weiblich
+      323                             Grüne Kreis 4 + 5        neu   Weiblich
+      324         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      325      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Weiblich
+      326  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      327      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      328                 FDP.Die Liberalen Kreis 4 + 5     bisher   Weiblich
+      329   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Weiblich
+      330      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      331                         Die Mitte Kreis 4 + 5        neu   Männlich
+      332         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      333                             Grüne Kreis 4 + 5        neu   Männlich
+      334  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Männlich
+      335                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      336   SP – Sozialdemokratische Partei Kreis 4 + 5        neu   Männlich
+      337                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      338   SP – Sozialdemokratische Partei Kreis 4 + 5     bisher   Männlich
+      339  Schweizerische Volkspartei – SVP Kreis 4 + 5        neu   Weiblich
+      340  Schweizerische Volkspartei – SVP Kreis 4 + 5     bisher   Männlich
+      341                 Partei der Arbeit Kreis 4 + 5        neu   Männlich
+      342                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      343                 FDP.Die Liberalen Kreis 4 + 5        neu   Weiblich
+      344                             Grüne Kreis 4 + 5        neu   Weiblich
+      345      Evangelische Volkspartei EVP Kreis 4 + 5        neu   Männlich
+      346            AL – Alternative Liste Kreis 4 + 5        neu   Männlich
+      347                 FDP.Die Liberalen Kreis 4 + 5        neu   Weiblich
+      348                 FDP.Die Liberalen Kreis 4 + 5        neu   Männlich
+      349            AL – Alternative Liste Kreis 4 + 5     bisher   Männlich
+      350                         Die Mitte Kreis 4 + 5        neu   Weiblich
+      351         GLP – Grünliberale Partei Kreis 4 + 5        neu   Weiblich
+      352            AL – Alternative Liste Kreis 4 + 5        neu   Weiblich
+      353         GLP – Grünliberale Partei     Kreis 6        neu   Weiblich
+      354  Schweizerische Volkspartei – SVP     Kreis 6     bisher   Männlich
+      355   SP – Sozialdemokratische Partei     Kreis 6        neu   Weiblich
+      356                         Die Mitte     Kreis 6        neu   Weiblich
+      357                         Die Mitte     Kreis 6        neu   Weiblich
+      358            AL – Alternative Liste     Kreis 6        neu   Männlich
+      359                 FDP.Die Liberalen     Kreis 6     bisher   Männlich
+      360  Schweizerische Volkspartei – SVP     Kreis 6        neu   Männlich
+      361      Evangelische Volkspartei EVP     Kreis 6        neu   Weiblich
+      362      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      363            AL – Alternative Liste     Kreis 6        neu   Weiblich
+      364      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      365  Schweizerische Volkspartei – SVP     Kreis 6        neu   Männlich
+      366   SP – Sozialdemokratische Partei     Kreis 6     bisher   Männlich
+      367      Evangelische Volkspartei EVP     Kreis 6        neu   Weiblich
+      368   SP – Sozialdemokratische Partei     Kreis 6        neu   Männlich
+      369                         Die Mitte     Kreis 6        neu   Männlich
+      370                 FDP.Die Liberalen     Kreis 6        neu   Weiblich
+      371  Schweizerische Volkspartei – SVP     Kreis 6        neu   Weiblich
+      372         GLP – Grünliberale Partei     Kreis 6        neu   Weiblich
+      373  Schweizerische Volkspartei – SVP     Kreis 6        neu   Männlich
+      374      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      375            AL – Alternative Liste     Kreis 6        neu   Weiblich
+      376         GLP – Grünliberale Partei     Kreis 6        neu   Männlich
+      377                 FDP.Die Liberalen     Kreis 6        neu   Männlich
+      378                             Grüne     Kreis 6        neu   Weiblich
+      379            AL – Alternative Liste     Kreis 6        neu   Männlich
+      380   SP – Sozialdemokratische Partei     Kreis 6        neu   Weiblich
+      381                 FDP.Die Liberalen     Kreis 6        neu   Weiblich
+      382   SP – Sozialdemokratische Partei     Kreis 6        neu   Weiblich
+      383                             Grüne     Kreis 6        neu   Männlich
+      384  Schweizerische Volkspartei – SVP     Kreis 6        neu   Weiblich
+      385                 Partei der Arbeit     Kreis 6        neu   Weiblich
+      386         GLP – Grünliberale Partei     Kreis 6        neu   Weiblich
+      387            AL – Alternative Liste     Kreis 6        neu   Männlich
+      388   SP – Sozialdemokratische Partei     Kreis 6        neu   Weiblich
+      389         GLP – Grünliberale Partei     Kreis 6        neu   Weiblich
+      390                 Partei der Arbeit     Kreis 6        neu   Männlich
+      391  Schweizerische Volkspartei – SVP     Kreis 6        neu   Weiblich
+      392            AL – Alternative Liste     Kreis 6     bisher   Männlich
+      393                             Grüne     Kreis 6        neu   Männlich
+      394                 FDP.Die Liberalen     Kreis 6        neu   Männlich
+      395   SP – Sozialdemokratische Partei     Kreis 6        neu   Männlich
+      396   SP – Sozialdemokratische Partei     Kreis 6     bisher   Männlich
+      397         GLP – Grünliberale Partei     Kreis 6        neu   Männlich
+      398         GLP – Grünliberale Partei     Kreis 6        neu   Männlich
+      399                             Grüne     Kreis 6        neu   Männlich
+      400         GLP – Grünliberale Partei     Kreis 6        neu   Männlich
+      401                         Die Mitte     Kreis 6        neu   Männlich
+      402   SP – Sozialdemokratische Partei     Kreis 6     bisher   Weiblich
+      403  Schweizerische Volkspartei – SVP     Kreis 6        neu   Männlich
+      404                         Die Mitte     Kreis 6        neu   Weiblich
+      405      Evangelische Volkspartei EVP     Kreis 6        neu   Weiblich
+      406      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      407                             Grüne     Kreis 6        neu   Weiblich
+      408      Evangelische Volkspartei EVP     Kreis 6        neu   Weiblich
+      409                             Grüne     Kreis 6     bisher   Männlich
+      410                 FDP.Die Liberalen     Kreis 6        neu   Männlich
+      411   SP – Sozialdemokratische Partei     Kreis 6     bisher   Männlich
+      412                 FDP.Die Liberalen     Kreis 6        neu   Männlich
+      413         GLP – Grünliberale Partei     Kreis 6        neu   Männlich
+      414            AL – Alternative Liste     Kreis 6        neu   Weiblich
+      415            AL – Alternative Liste     Kreis 6        neu   Männlich
+      416                 Partei der Arbeit     Kreis 6        neu   Weiblich
+      417                             Grüne     Kreis 6        neu   Männlich
+      418                             Grüne     Kreis 6        neu   Weiblich
+      419      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      420  Schweizerische Volkspartei – SVP     Kreis 6        neu   Weiblich
+      421                             Grüne     Kreis 6        neu   Weiblich
+      422         GLP – Grünliberale Partei     Kreis 6        neu   Weiblich
+      423                             Grüne     Kreis 6        neu   Weiblich
+      424                         Die Mitte     Kreis 6        neu   Weiblich
+      425                 FDP.Die Liberalen     Kreis 6        neu   Weiblich
+      426                 FDP.Die Liberalen     Kreis 6     bisher   Männlich
+      427                         Die Mitte     Kreis 6        neu   Weiblich
+      428                         Die Mitte     Kreis 6        neu   Männlich
+      429            AL – Alternative Liste     Kreis 6        neu   Weiblich
+      430  Schweizerische Volkspartei – SVP     Kreis 6        neu   Weiblich
+      431            AL – Alternative Liste     Kreis 6        neu   Weiblich
+      432                 FDP.Die Liberalen     Kreis 6        neu   Männlich
+      433      Evangelische Volkspartei EVP     Kreis 6        neu   Männlich
+      434                         Die Mitte     Kreis 6        neu   Männlich
+      435         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      436         GLP – Grünliberale Partei Kreis 7 + 8        neu   Weiblich
+      437      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      438            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      439        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Männlich
+      440                         Die Mitte Kreis 7 + 8        neu   Weiblich
+      441                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      442   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      443   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      444                         Die Mitte Kreis 7 + 8        neu   Weiblich
+      445  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Weiblich
+      446   SP – Sozialdemokratische Partei Kreis 7 + 8     bisher   Männlich
+      447      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      448                 FDP.Die Liberalen Kreis 7 + 8     bisher   Weiblich
+      449   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      450                 FDP.Die Liberalen Kreis 7 + 8     bisher   Männlich
+      451  Schweizerische Volkspartei – SVP Kreis 7 + 8     bisher   Weiblich
+      452      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      453                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      454                             Grüne Kreis 7 + 8     bisher   Männlich
+      455            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      456         GLP – Grünliberale Partei Kreis 7 + 8        neu   Weiblich
+      457      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      458   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      459   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      460  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      461                 FDP.Die Liberalen Kreis 7 + 8        neu   Weiblich
+      462      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      463   SP – Sozialdemokratische Partei Kreis 7 + 8     bisher   Weiblich
+      464  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Weiblich
+      465                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      466   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      467        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Weiblich
+      468  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      469        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Männlich
+      470                             Grüne Kreis 7 + 8        neu   Weiblich
+      471                             Grüne Kreis 7 + 8        neu   Männlich
+      472      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      473         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      474  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      475                 FDP.Die Liberalen Kreis 7 + 8        neu   Weiblich
+      476   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      477                              Volt Kreis 7 + 8        neu   Männlich
+      478  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      479            AL – Alternative Liste Kreis 7 + 8     bisher   Männlich
+      480                             Grüne Kreis 7 + 8        neu   Männlich
+      481            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      482                             Grüne Kreis 7 + 8        neu   Weiblich
+      483                             Grüne Kreis 7 + 8        neu   Männlich
+      484   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      485         GLP – Grünliberale Partei Kreis 7 + 8        neu   Weiblich
+      486        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Weiblich
+      487                             Grüne Kreis 7 + 8        neu   Weiblich
+      488                             Grüne Kreis 7 + 8        neu   Weiblich
+      489            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      490                             Grüne Kreis 7 + 8        neu   Männlich
+      491        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Männlich
+      492  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      493                             Grüne Kreis 7 + 8        neu   Weiblich
+      494         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      495                             Grüne Kreis 7 + 8        neu   Männlich
+      496  Schweizerische Volkspartei – SVP Kreis 7 + 8     bisher   Männlich
+      497                             Grüne Kreis 7 + 8     bisher   Männlich
+      498   SP – Sozialdemokratische Partei Kreis 7 + 8     bisher   Weiblich
+      499                         Die Mitte Kreis 7 + 8        neu   Männlich
+      500  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      501                         Die Mitte Kreis 7 + 8        neu   Männlich
+      502            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      503                 FDP.Die Liberalen Kreis 7 + 8     bisher   Weiblich
+      504                             Grüne Kreis 7 + 8        neu   Weiblich
+      505                         Die Mitte Kreis 7 + 8        neu   Weiblich
+      506                         Die Mitte Kreis 7 + 8        neu   Männlich
+      507                              Volt Kreis 7 + 8        neu   Männlich
+      508            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      509                         Die Mitte Kreis 7 + 8        neu   Männlich
+      510      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      511      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      512      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      513         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      514                 Partei der Arbeit Kreis 7 + 8        neu   Weiblich
+      515   SP – Sozialdemokratische Partei Kreis 7 + 8     bisher   Männlich
+      516                 FDP.Die Liberalen Kreis 7 + 8        neu   Weiblich
+      517                 Partei der Arbeit Kreis 7 + 8        neu   Männlich
+      518         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      519                         Die Mitte Kreis 7 + 8        neu   Männlich
+      520                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      521      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      522  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      523        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Weiblich
+      524         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      525         GLP – Grünliberale Partei Kreis 7 + 8     bisher   Weiblich
+      526   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      527         GLP – Grünliberale Partei Kreis 7 + 8     bisher   Weiblich
+      528                         Die Mitte Kreis 7 + 8        neu   Männlich
+      529                 FDP.Die Liberalen Kreis 7 + 8     bisher   Weiblich
+      530  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      531                         Die Mitte Kreis 7 + 8        neu   Weiblich
+      532         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      533                         Die Mitte Kreis 7 + 8        neu   Männlich
+      534            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      535                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      536  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      537   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      538        I love Zürich (ilovezh.ch) Kreis 7 + 8        neu   Männlich
+      539            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      540            AL – Alternative Liste Kreis 7 + 8     bisher   Männlich
+      541      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      542      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      543                         Die Mitte Kreis 7 + 8        neu   Männlich
+      544                             Grüne Kreis 7 + 8        neu   Männlich
+      545      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      546                             Grüne Kreis 7 + 8        neu   Weiblich
+      547        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Weiblich
+      548         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      549            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      550  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      551                         Die Mitte Kreis 7 + 8        neu   Männlich
+      552                         Die Mitte Kreis 7 + 8        neu   Männlich
+      553        Freie Liste – Stadt Zürich Kreis 7 + 8        neu   Weiblich
+      554                 FDP.Die Liberalen Kreis 7 + 8        neu   Weiblich
+      555  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      556            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      557            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      558   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Männlich
+      559   SP – Sozialdemokratische Partei Kreis 7 + 8        neu   Weiblich
+      560                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      561            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      562            AL – Alternative Liste Kreis 7 + 8        neu   Weiblich
+      563         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      564         GLP – Grünliberale Partei Kreis 7 + 8        neu   Weiblich
+      565         GLP – Grünliberale Partei Kreis 7 + 8        neu   Männlich
+      566      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Männlich
+      567      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      568            AL – Alternative Liste Kreis 7 + 8        neu   Männlich
+      569  Schweizerische Volkspartei – SVP Kreis 7 + 8        neu   Männlich
+      570                             Grüne Kreis 7 + 8        neu   Weiblich
+      571                         Die Mitte Kreis 7 + 8        neu   Weiblich
+      572      Evangelische Volkspartei EVP Kreis 7 + 8        neu   Weiblich
+      573                 FDP.Die Liberalen Kreis 7 + 8        neu   Männlich
+      574                         Die Mitte Kreis 7 + 8        neu   Männlich
+      575                 FDP.Die Liberalen Kreis 7 + 8     bisher   Männlich
+      576            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      577         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      578   SP – Sozialdemokratische Partei     Kreis 9        neu   Männlich
+      579  Schweizerische Volkspartei – SVP     Kreis 9        neu   Weiblich
+      580                 Partei der Arbeit     Kreis 9        neu   Männlich
+      581                 FDP.Die Liberalen     Kreis 9     bisher   Männlich
+      582                         Die Mitte     Kreis 9        neu   Männlich
+      583                 FDP.Die Liberalen     Kreis 9        neu   Weiblich
+      584  Schweizerische Volkspartei – SVP     Kreis 9     bisher   Männlich
+      585  Schweizerische Volkspartei – SVP     Kreis 9     bisher   Männlich
+      586                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      587   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      588            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      589            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      590        Freie Liste – Stadt Zürich     Kreis 9        neu   Weiblich
+      591   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      592        Freie Liste – Stadt Zürich     Kreis 9        neu   Weiblich
+      593         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      594            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      595        Freie Liste – Stadt Zürich     Kreis 9        neu   Weiblich
+      596        Freie Liste – Stadt Zürich     Kreis 9        neu   Männlich
+      597   SP – Sozialdemokratische Partei     Kreis 9        neu   Männlich
+      598                         Die Mitte     Kreis 9        neu   Männlich
+      599         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      600  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      601                 FDP.Die Liberalen     Kreis 9        neu   Weiblich
+      602        Freie Liste – Stadt Zürich     Kreis 9        neu   Weiblich
+      603                 Partei der Arbeit     Kreis 9        neu   Männlich
+      604                 FDP.Die Liberalen     Kreis 9        neu   Weiblich
+      605            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      606                         Die Mitte     Kreis 9        neu   Männlich
+      607                         Die Mitte     Kreis 9        neu   Männlich
+      608      Evangelische Volkspartei EVP     Kreis 9        neu   Weiblich
+      609  Schweizerische Volkspartei – SVP     Kreis 9        neu   Weiblich
+      610   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      611                         Die Mitte     Kreis 9        neu   Männlich
+      612                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      613      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      614                         Die Mitte     Kreis 9        neu   Weiblich
+      615   SP – Sozialdemokratische Partei     Kreis 9     bisher   Männlich
+      616   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      617                         Die Mitte     Kreis 9        neu   Männlich
+      618  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      619   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      620  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      621      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      622  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      623                         Die Mitte     Kreis 9        neu   Weiblich
+      624                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      625   SP – Sozialdemokratische Partei     Kreis 9        neu   Männlich
+      626                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      627        Freie Liste – Stadt Zürich     Kreis 9        neu   Männlich
+      628      Evangelische Volkspartei EVP     Kreis 9        neu   Weiblich
+      629                         Die Mitte     Kreis 9        neu   Männlich
+      630                 FDP.Die Liberalen     Kreis 9        neu   Weiblich
+      631                             Grüne     Kreis 9        neu   Weiblich
+      632         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      633                             Grüne     Kreis 9     bisher   Männlich
+      634         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      635         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      636            AL – Alternative Liste     Kreis 9        neu   Männlich
+      637      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      638            AL – Alternative Liste     Kreis 9        neu   Männlich
+      639   SP – Sozialdemokratische Partei     Kreis 9        neu   Männlich
+      640         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      641            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      642                             Grüne     Kreis 9        neu   Männlich
+      643                             Grüne     Kreis 9        neu   Männlich
+      644   SP – Sozialdemokratische Partei     Kreis 9     bisher   Männlich
+      645   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      646  Schweizerische Volkspartei – SVP     Kreis 9        neu   Weiblich
+      647                 FDP.Die Liberalen     Kreis 9     bisher   Männlich
+      648      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      649            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      650                             Grüne     Kreis 9        neu   Weiblich
+      651   SP – Sozialdemokratische Partei     Kreis 9     bisher   Weiblich
+      652      Evangelische Volkspartei EVP     Kreis 9        neu   Weiblich
+      653                         Die Mitte     Kreis 9        neu   Männlich
+      654      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      655  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      656                             Grüne     Kreis 9        neu   Männlich
+      657  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      658                 FDP.Die Liberalen     Kreis 9     bisher   Männlich
+      659  Schweizerische Volkspartei – SVP     Kreis 9     bisher   Männlich
+      660        Freie Liste – Stadt Zürich     Kreis 9        neu   Männlich
+      661                         Die Mitte     Kreis 9        neu   Männlich
+      662  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      663                             Grüne     Kreis 9        neu   Weiblich
+      664      Evangelische Volkspartei EVP     Kreis 9     bisher   Weiblich
+      665                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      666            AL – Alternative Liste     Kreis 9        neu   Männlich
+      667      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      668         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      669                 FDP.Die Liberalen     Kreis 9        neu   Weiblich
+      670      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      671                             Grüne     Kreis 9        neu   Weiblich
+      672  Schweizerische Volkspartei – SVP     Kreis 9        neu   Weiblich
+      673                             Grüne     Kreis 9        neu   Männlich
+      674   SP – Sozialdemokratische Partei     Kreis 9     bisher   Männlich
+      675                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      676         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      677            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      678         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      679                             Grüne     Kreis 9        neu   Weiblich
+      680         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      681      Evangelische Volkspartei EVP     Kreis 9        neu   Weiblich
+      682                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      683            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      684            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      685  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      686   SP – Sozialdemokratische Partei     Kreis 9        neu   Weiblich
+      687            AL – Alternative Liste     Kreis 9        neu   Weiblich
+      688         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      689                 Partei der Arbeit     Kreis 9        neu   Männlich
+      690                         Die Mitte     Kreis 9        neu   Weiblich
+      691      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      692                             Grüne     Kreis 9        neu   Männlich
+      693                             Grüne     Kreis 9        neu   Weiblich
+      694  Schweizerische Volkspartei – SVP     Kreis 9        neu   Männlich
+      695         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      696        Freie Liste – Stadt Zürich     Kreis 9        neu   Männlich
+      697                             Grüne     Kreis 9     bisher   Weiblich
+      698                 FDP.Die Liberalen     Kreis 9        neu   Männlich
+      699         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      700                             Grüne     Kreis 9        neu   Weiblich
+      701         GLP – Grünliberale Partei     Kreis 9        neu   Weiblich
+      702                             Grüne     Kreis 9        neu   Weiblich
+      703      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      704                         Die Mitte     Kreis 9        neu   Weiblich
+      705      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      706      Evangelische Volkspartei EVP     Kreis 9        neu   Männlich
+      707                             Grüne     Kreis 9        neu   Männlich
+      708                         Die Mitte     Kreis 9        neu   Männlich
+      709                         Die Mitte     Kreis 9        neu   Weiblich
+      710   SP – Sozialdemokratische Partei     Kreis 9        neu   Männlich
+      711            AL – Alternative Liste     Kreis 9        neu   Männlich
+      712         GLP – Grünliberale Partei     Kreis 9        neu   Männlich
+      713                         Die Mitte     Kreis 9        neu   Männlich
+      714            AL – Alternative Liste     Kreis 9        neu   Männlich
+      715      Evangelische Volkspartei EVP    Kreis 10        neu   Weiblich
+      716  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      717            AL – Alternative Liste    Kreis 10        neu   Weiblich
+      718                             Grüne    Kreis 10     bisher   Weiblich
+      719      Evangelische Volkspartei EVP    Kreis 10        neu   Weiblich
+      720                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      721  Schweizerische Volkspartei – SVP    Kreis 10        neu   Weiblich
+      722            AL – Alternative Liste    Kreis 10        neu   Männlich
+      723                 Partei der Arbeit    Kreis 10        neu   Männlich
+      724                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      725   SP – Sozialdemokratische Partei    Kreis 10     bisher   Weiblich
+      726            AL – Alternative Liste    Kreis 10        neu   Weiblich
+      727   SP – Sozialdemokratische Partei    Kreis 10        neu   Männlich
+      728                             Grüne    Kreis 10        neu   Männlich
+      729                             Grüne    Kreis 10        neu   Männlich
+      730   SP – Sozialdemokratische Partei    Kreis 10     bisher   Weiblich
+      731      Evangelische Volkspartei EVP    Kreis 10        neu   Weiblich
+      732                 FDP.Die Liberalen    Kreis 10        neu   Weiblich
+      733                 FDP.Die Liberalen    Kreis 10     bisher   Männlich
+      734   SP – Sozialdemokratische Partei    Kreis 10     bisher   Männlich
+      735                             Grüne    Kreis 10        neu   Weiblich
+      736                             Grüne    Kreis 10        neu   Weiblich
+      737                         Die Mitte    Kreis 10        neu   Weiblich
+      738            AL – Alternative Liste    Kreis 10     bisher   Weiblich
+      739                         Die Mitte    Kreis 10        neu   Männlich
+      740         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      741         GLP – Grünliberale Partei    Kreis 10        neu   Männlich
+      742            AL – Alternative Liste    Kreis 10        neu   Weiblich
+      743         GLP – Grünliberale Partei    Kreis 10        neu   Männlich
+      744         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      745                 FDP.Die Liberalen    Kreis 10        neu   Weiblich
+      746                             Grüne    Kreis 10        neu   Männlich
+      747                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      748      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      749  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      750   SP – Sozialdemokratische Partei    Kreis 10        neu   Weiblich
+      751  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      752         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      753                             Grüne    Kreis 10        neu   Männlich
+      754      Evangelische Volkspartei EVP    Kreis 10        neu   Weiblich
+      755                         Die Mitte    Kreis 10        neu   Männlich
+      756                             Grüne    Kreis 10     bisher   Männlich
+      757         GLP – Grünliberale Partei    Kreis 10        neu   Männlich
+      758   SP – Sozialdemokratische Partei    Kreis 10        neu   Weiblich
+      759                         Die Mitte    Kreis 10        neu   Männlich
+      760      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      761  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      762                 FDP.Die Liberalen    Kreis 10        neu   Weiblich
+      763                             Grüne    Kreis 10        neu   Weiblich
+      764  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      765            AL – Alternative Liste    Kreis 10        neu   Männlich
+      766                         Die Mitte    Kreis 10        neu   Männlich
+      767            AL – Alternative Liste    Kreis 10        neu   Weiblich
+      768                              Volt    Kreis 10        neu   Männlich
+      769                             Grüne    Kreis 10        neu   Weiblich
+      770                             Grüne    Kreis 10        neu   Weiblich
+      771   SP – Sozialdemokratische Partei    Kreis 10        neu   Weiblich
+      772  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      773         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      774      Evangelische Volkspartei EVP    Kreis 10        neu   Weiblich
+      775      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      776   SP – Sozialdemokratische Partei    Kreis 10        neu   Männlich
+      777      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      778            AL – Alternative Liste    Kreis 10        neu   Weiblich
+      779   SP – Sozialdemokratische Partei    Kreis 10        neu   Männlich
+      780                         Die Mitte    Kreis 10        neu   Männlich
+      781      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      782                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      783  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      784            AL – Alternative Liste    Kreis 10        neu   Männlich
+      785         GLP – Grünliberale Partei    Kreis 10        neu   Männlich
+      786                         Die Mitte    Kreis 10        neu   Weiblich
+      787  Schweizerische Volkspartei – SVP    Kreis 10        neu   Weiblich
+      788                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      789   SP – Sozialdemokratische Partei    Kreis 10        neu   Weiblich
+      790      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      791                             Grüne    Kreis 10        neu   Männlich
+      792            AL – Alternative Liste    Kreis 10        neu   Männlich
+      793         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      794      Evangelische Volkspartei EVP    Kreis 10        neu   Männlich
+      795         GLP – Grünliberale Partei    Kreis 10     bisher   Männlich
+      796            AL – Alternative Liste    Kreis 10        neu   Männlich
+      797  Schweizerische Volkspartei – SVP    Kreis 10        neu   Weiblich
+      798   SP – Sozialdemokratische Partei    Kreis 10        neu   Männlich
+      799                 FDP.Die Liberalen    Kreis 10        neu   Weiblich
+      800   SP – Sozialdemokratische Partei    Kreis 10     bisher   Männlich
+      801         GLP – Grünliberale Partei    Kreis 10        neu   Weiblich
+      802  Schweizerische Volkspartei – SVP    Kreis 10        neu   Männlich
+      803                         Die Mitte    Kreis 10        neu   Männlich
+      804                         Die Mitte    Kreis 10        neu   Weiblich
+      805                 Partei der Arbeit    Kreis 10        neu   Männlich
+      806                         Die Mitte    Kreis 10        neu   Männlich
+      807  Schweizerische Volkspartei – SVP    Kreis 10     bisher   Männlich
+      808         GLP – Grünliberale Partei    Kreis 10        neu   Männlich
+      809                 FDP.Die Liberalen    Kreis 10        neu   Männlich
+      810            AL – Alternative Liste    Kreis 10        neu   Männlich
+      811                 FDP.Die Liberalen    Kreis 10     bisher   Weiblich
+      812                         Die Mitte    Kreis 11        neu   Weiblich
+      813                 Partei der Arbeit    Kreis 11        neu   Männlich
+      814                 Partei der Arbeit    Kreis 11        neu   Weiblich
+      815                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      816  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      817      Evangelische Volkspartei EVP    Kreis 11     bisher   Männlich
+      818                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      819            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      820        Freie Liste – Stadt Zürich    Kreis 11        neu   Männlich
+      821                         Die Mitte    Kreis 11        neu   Weiblich
+      822                             Grüne    Kreis 11        neu   Weiblich
+      823            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      824            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      825                         Die Mitte    Kreis 11        neu   Männlich
+      826                         Die Mitte    Kreis 11        neu   Weiblich
+      827   SP – Sozialdemokratische Partei    Kreis 11     bisher   Männlich
+      828         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      829            AL – Alternative Liste    Kreis 11        neu   Männlich
+      830   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      831   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      832                 Partei der Arbeit    Kreis 11        neu   Weiblich
+      833                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      834         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      835            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      836  Schweizerische Volkspartei – SVP    Kreis 11     bisher   Männlich
+      837   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      838                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      839  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      840   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      841      Evangelische Volkspartei EVP    Kreis 11     bisher   Männlich
+      842                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      843   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      844                             Grüne    Kreis 11        neu   Männlich
+      845  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      846      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      847                 FDP.Die Liberalen    Kreis 11     bisher   Männlich
+      848                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      849  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      850                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      851            AL – Alternative Liste    Kreis 11        neu   Männlich
+      852        Freie Liste – Stadt Zürich    Kreis 11        neu   Männlich
+      853                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      854   SP – Sozialdemokratische Partei    Kreis 11     bisher   Weiblich
+      855            AL – Alternative Liste    Kreis 11        neu   Männlich
+      856            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      857                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      858   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      859                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      860            AL – Alternative Liste    Kreis 11        neu   Männlich
+      861        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      862      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      863   SP – Sozialdemokratische Partei    Kreis 11     bisher   Weiblich
+      864                             Grüne    Kreis 11        neu   Weiblich
+      865         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      866      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      867      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      868                         Die Mitte    Kreis 11        neu   Weiblich
+      869                         Die Mitte    Kreis 11        neu   Männlich
+      870   SP – Sozialdemokratische Partei    Kreis 11     bisher   Weiblich
+      871                             Grüne    Kreis 11        neu   Männlich
+      872                 Partei der Arbeit    Kreis 11        neu   Männlich
+      873  Schweizerische Volkspartei – SVP    Kreis 11     bisher   Männlich
+      874  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      875   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      876  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      877         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      878                             Grüne    Kreis 11        neu   Weiblich
+      879            AL – Alternative Liste    Kreis 11        neu   Männlich
+      880            AL – Alternative Liste    Kreis 11        neu   Männlich
+      881      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      882         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      883      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      884  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      885        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      886        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      887                             Grüne    Kreis 11        neu   Männlich
+      888                             Grüne    Kreis 11        neu   Weiblich
+      889      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      890   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      891                             Grüne    Kreis 11        neu   Weiblich
+      892                             Grüne    Kreis 11        neu   Männlich
+      893   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      894        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      895                         Die Mitte    Kreis 11        neu   Weiblich
+      896   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      897                             Grüne    Kreis 11     bisher   Weiblich
+      898                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      899            AL – Alternative Liste    Kreis 11        neu   Männlich
+      900                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      901                             Grüne    Kreis 11        neu   Weiblich
+      902   SP – Sozialdemokratische Partei    Kreis 11     bisher   Weiblich
+      903      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      904                         Die Mitte    Kreis 11        neu   Männlich
+      905                 FDP.Die Liberalen    Kreis 11     bisher   Männlich
+      906  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      907                         Die Mitte    Kreis 11        neu   Männlich
+      908  Schweizerische Volkspartei – SVP    Kreis 11     bisher   Männlich
+      909      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      910      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      911         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      912            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      913         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      914   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      915  Schweizerische Volkspartei – SVP    Kreis 11     bisher   Männlich
+      916            AL – Alternative Liste    Kreis 11     bisher   Männlich
+      917                         Die Mitte    Kreis 11        neu   Männlich
+      918  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      919         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      920            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      921         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      922            AL – Alternative Liste    Kreis 11        neu   Männlich
+      923         GLP – Grünliberale Partei    Kreis 11     bisher   Weiblich
+      924      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      925                             Grüne    Kreis 11        neu   Weiblich
+      926  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      927         GLP – Grünliberale Partei    Kreis 11     bisher   Männlich
+      928   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      929        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      930                         Die Mitte    Kreis 11        neu   Weiblich
+      931      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      932  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      933                         Die Mitte    Kreis 11        neu   Weiblich
+      934         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      935                         Die Mitte    Kreis 11        neu   Weiblich
+      936                             Grüne    Kreis 11        neu   Männlich
+      937         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      938   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      939                             Grüne    Kreis 11        neu   Weiblich
+      940         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      941  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      942      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      943                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      944  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      945            AL – Alternative Liste    Kreis 11        neu   Männlich
+      946         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      947                             Grüne    Kreis 11        neu   Weiblich
+      948                 FDP.Die Liberalen    Kreis 11     bisher   Männlich
+      949                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      950                             Grüne    Kreis 11     bisher   Männlich
+      951                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      952      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      953                         Die Mitte    Kreis 11        neu   Weiblich
+      954                         Die Mitte    Kreis 11        neu   Männlich
+      955   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      956                 FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      957      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      958                         Die Mitte    Kreis 11        neu   Männlich
+      959                         Die Mitte    Kreis 11        neu   Männlich
+      960                         Die Mitte    Kreis 11        neu   Männlich
+      961  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      962            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      963                 Partei der Arbeit    Kreis 11        neu   Männlich
+      964                 Partei der Arbeit    Kreis 11        neu   Weiblich
+      965         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      966            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      967   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      968            AL – Alternative Liste    Kreis 11        neu   Weiblich
+      969      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      970         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      971  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      972        Freie Liste – Stadt Zürich    Kreis 11        neu   Männlich
+      973        Freie Liste – Stadt Zürich    Kreis 11        neu   Männlich
+      974  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      975      Evangelische Volkspartei EVP    Kreis 11        neu   Weiblich
+      976      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      977                         Die Mitte    Kreis 11        neu   Männlich
+      978                 FDP.Die Liberalen    Kreis 11        neu   Männlich
+      979         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      980         GLP – Grünliberale Partei    Kreis 11     bisher   Männlich
+      981        Freie Liste – Stadt Zürich    Kreis 11        neu   Weiblich
+      982                         Die Mitte    Kreis 11        neu   Männlich
+      983                             Grüne    Kreis 11        neu   Weiblich
+      984      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      985         GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      986         GLP – Grünliberale Partei    Kreis 11        neu   Weiblich
+      987                             Grüne    Kreis 11        neu   Weiblich
+      988        Freie Liste – Stadt Zürich    Kreis 11        neu   Männlich
+      989                         Die Mitte    Kreis 11        neu   Männlich
+      990      Evangelische Volkspartei EVP    Kreis 11        neu   Männlich
+      991                             Grüne    Kreis 11        neu   Männlich
+      992                             Grüne    Kreis 11        neu   Männlich
+      993            AL – Alternative Liste    Kreis 11        neu   Männlich
+      994                             Grüne    Kreis 11        neu   Männlich
+      995   SP – Sozialdemokratische Partei    Kreis 11        neu   Männlich
+      996  Schweizerische Volkspartei – SVP    Kreis 11        neu   Männlich
+      997            AL – Alternative Liste    Kreis 11        neu   Männlich
+      998  Schweizerische Volkspartei – SVP    Kreis 11        neu   Weiblich
+      999   SP – Sozialdemokratische Partei    Kreis 11        neu   Weiblich
+      1000        GLP – Grünliberale Partei    Kreis 11        neu   Männlich
+      1001                        Die Mitte    Kreis 11        neu   Männlich
+      1002                FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      1003                            Grüne    Kreis 11        neu   Weiblich
+      1004                FDP.Die Liberalen    Kreis 11        neu   Weiblich
+      1005 Schweizerische Volkspartei – SVP    Kreis 12        neu   Weiblich
+      1006     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
+      1007        GLP – Grünliberale Partei    Kreis 12        neu   Weiblich
+      1008        GLP – Grünliberale Partei    Kreis 12        neu   Weiblich
+      1009  SP – Sozialdemokratische Partei    Kreis 12     bisher   Weiblich
+      1010                            Grüne    Kreis 12        neu   Weiblich
+      1011     Evangelische Volkspartei EVP    Kreis 12        neu   Männlich
+      1012                        Die Mitte    Kreis 12        neu   Männlich
+      1013                FDP.Die Liberalen    Kreis 12        neu   Weiblich
+      1014           AL – Alternative Liste    Kreis 12        neu   Männlich
+      1015        GLP – Grünliberale Partei    Kreis 12        neu   Männlich
+      1016       Freie Liste – Stadt Zürich    Kreis 12        neu   Männlich
+      1017     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
+      1018           AL – Alternative Liste    Kreis 12        neu   Weiblich
+      1019                            Grüne    Kreis 12        neu   Männlich
+      1020     Evangelische Volkspartei EVP    Kreis 12     bisher   Männlich
+      1021  SP – Sozialdemokratische Partei    Kreis 12        neu   Männlich
+      1022                            Grüne    Kreis 12        neu   Männlich
+      1023                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1024        GLP – Grünliberale Partei    Kreis 12        neu   Männlich
+      1025                FDP.Die Liberalen    Kreis 12        neu   Weiblich
+      1026  SP – Sozialdemokratische Partei    Kreis 12        neu   Männlich
+      1027                            Grüne    Kreis 12        neu   Weiblich
+      1028                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1029     Evangelische Volkspartei EVP    Kreis 12        neu   Männlich
+      1030                            Grüne    Kreis 12        neu   Weiblich
+      1031                            Grüne    Kreis 12        neu   Männlich
+      1032 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+      1033           AL – Alternative Liste    Kreis 12        neu   Weiblich
+      1034  SP – Sozialdemokratische Partei    Kreis 12        neu   Weiblich
+      1035 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+      1036 Schweizerische Volkspartei – SVP    Kreis 12        neu   Weiblich
+      1037 Schweizerische Volkspartei – SVP    Kreis 12     bisher   Männlich
+      1038           AL – Alternative Liste    Kreis 12        neu   Männlich
+      1039     Evangelische Volkspartei EVP    Kreis 12        neu   Männlich
+      1040                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1041           AL – Alternative Liste    Kreis 12        neu   Männlich
+      1042                        Die Mitte    Kreis 12        neu   Weiblich
+      1043                        Die Mitte    Kreis 12        neu   Weiblich
+      1044                        Die Mitte    Kreis 12        neu   Männlich
+      1045           AL – Alternative Liste    Kreis 12        neu   Männlich
+      1046        GLP – Grünliberale Partei    Kreis 12        neu   Männlich
+      1047                Partei der Arbeit    Kreis 12        neu   Männlich
+      1048        GLP – Grünliberale Partei    Kreis 12        neu   Männlich
+      1049        GLP – Grünliberale Partei    Kreis 12        neu   Weiblich
+      1050           AL – Alternative Liste    Kreis 12        neu   Weiblich
+      1051       Freie Liste – Stadt Zürich    Kreis 12        neu   Männlich
+      1052        GLP – Grünliberale Partei    Kreis 12     bisher   Männlich
+      1053                        Die Mitte    Kreis 12        neu   Männlich
+      1054                            Grüne    Kreis 12     bisher   Männlich
+      1055  SP – Sozialdemokratische Partei    Kreis 12        neu   Männlich
+      1056                Partei der Arbeit    Kreis 12        neu   Männlich
+      1057                            Grüne    Kreis 12        neu   Männlich
+      1058           AL – Alternative Liste    Kreis 12        neu   Männlich
+      1059  SP – Sozialdemokratische Partei    Kreis 12        neu   Weiblich
+      1060        GLP – Grünliberale Partei    Kreis 12        neu   Weiblich
+      1061     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
+      1062 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+      1063           AL – Alternative Liste    Kreis 12        neu   Weiblich
+      1064                FDP.Die Liberalen    Kreis 12     bisher   Männlich
+      1065       Freie Liste – Stadt Zürich    Kreis 12        neu   Weiblich
+      1066                Partei der Arbeit    Kreis 12        neu   Männlich
+      1067                            Grüne    Kreis 12        neu   Weiblich
+      1068                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1069     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
+      1070       Freie Liste – Stadt Zürich    Kreis 12        neu   Weiblich
+      1071  SP – Sozialdemokratische Partei    Kreis 12        neu   Weiblich
+      1072                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1073  SP – Sozialdemokratische Partei    Kreis 12        neu   Weiblich
+      1074 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+      1075                FDP.Die Liberalen    Kreis 12        neu   Männlich
+      1076  SP – Sozialdemokratische Partei    Kreis 12        neu   Männlich
+      1077                Partei der Arbeit    Kreis 12        neu   Männlich
+      1078                Partei der Arbeit    Kreis 12        neu   Männlich
+      1079                        Die Mitte    Kreis 12        neu   Männlich
+      1080     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
+      1081 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+      1082 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
+                     X10            X11                  X12                  X13
+      1             <NA>           <NA>                 <NA>                 <NA>
+      2             <NA>           <NA>                 <NA>                 <NA>
+      3             <NA>           <NA>                 <NA>                 <NA>
+      4             <NA>           <NA>                 <NA>                 <NA>
+      5             <NA>           <NA>                 <NA>                 <NA>
+      6             <NA>           <NA>                 <NA>                 <NA>
+      7     Wahlresultat Anzahl Stimmen Parteieigene Stimmen Parteifremde Stimmen
+      8    nicht gewählt           1105                 1096                    9
+      9    nicht gewählt           1191                 1166                   25
+      10   nicht gewählt           1188                 1138                   50
+      11   nicht gewählt           1401                 1331                   70
+      12   nicht gewählt           1188                 1089                   99
+      13   nicht gewählt           1543                 1455                   88
+      14   nicht gewählt            486                  447                   39
+      15   nicht gewählt           1438                 1346                   92
+      16   nicht gewählt           1152                 1131                   21
+      17         gewählt           2430                 2177                  253
+      18   nicht gewählt            143                   98                   45
+      19   nicht gewählt           2561                 2450                  111
+      20   nicht gewählt           2363                 2307                   56
+      21   nicht gewählt            184                  175                    9
+      22   nicht gewählt           1887                 1865                   22
+      23   nicht gewählt           2048                 1981                   67
+      24   nicht gewählt           1080                 1011                   69
+      25   nicht gewählt            337                  196                  141
+      26   nicht gewählt           2473                 2389                   84
+      27   nicht gewählt            552                  463                   89
+      28   nicht gewählt           1942                 1905                   37
+      29   nicht gewählt            477                  423                   54
+      30   nicht gewählt            135                   96                   39
+      31   nicht gewählt           1277                 1226                   51
+      32   nicht gewählt            223                  174                   49
+      33   nicht gewählt           1119                 1094                   25
+      34   nicht gewählt           2323                 2285                   38
+      35   nicht gewählt           1694                 1685                    9
+      36   nicht gewählt            181                  176                    5
+      37         gewählt           2253                 2122                  131
+      38   nicht gewählt            337                  335                    2
+      39   nicht gewählt            194                  167                   27
+      40   nicht gewählt           1286                 1202                   84
+      41   nicht gewählt           1399                 1356                   43
+      42   nicht gewählt           2322                 2252                   70
+      43   nicht gewählt           1562                 1438                  124
+      44   nicht gewählt            549                  520                   29
+      45   nicht gewählt           1424                 1349                   75
+      46   nicht gewählt            441                  413                   28
+      47         gewählt           2768                 2576                  192
+      48   nicht gewählt           1195                 1167                   28
+      49   nicht gewählt           1740                 1512                  228
+      50   nicht gewählt            381                  347                   34
+      51         gewählt           1993                 1551                  442
+      52   nicht gewählt            173                  170                    3
+      53   nicht gewählt           1207                 1149                   58
+      54         gewählt           1537                 1203                  334
+      55   nicht gewählt           1151                 1136                   15
+      56   nicht gewählt            432                  417                   15
+      57   nicht gewählt            175                  174                    1
+      58   nicht gewählt           1323                 1222                  101
+      59   nicht gewählt            579                  525                   54
+      60   nicht gewählt            614                  544                   70
+      61   nicht gewählt            630                  536                   94
+      62         gewählt           2135                 1554                  581
+      63   nicht gewählt            522                  500                   22
+      64   nicht gewählt           1990                 1953                   37
+      65   nicht gewählt           1153                 1133                   20
+      66   nicht gewählt           1176                 1137                   39
+      67   nicht gewählt           2293                 2249                   44
+      68   nicht gewählt           1930                 1902                   28
+      69   nicht gewählt            515                  417                   98
+      70   nicht gewählt            341                  336                    5
+      71   nicht gewählt           1223                 1182                   41
+      72   nicht gewählt           1160                 1150                   10
+      73   nicht gewählt           1392                 1317                   75
+      74   nicht gewählt           1183                 1096                   87
+      75   nicht gewählt            485                  477                    8
+      76   nicht gewählt           1742                 1732                   10
+      77   nicht gewählt            479                  474                    5
+      78   nicht gewählt            503                  485                   18
+      79   nicht gewählt           1478                 1366                  112
+      80   nicht gewählt            555                  443                  112
+      81   nicht gewählt            205                  186                   19
+      82   nicht gewählt            493                  490                    3
+      83   nicht gewählt            444                  402                   42
+      84   nicht gewählt            179                  177                    2
+      85   nicht gewählt            184                  175                    9
+      86         gewählt           3007                 2642                  365
+      87         gewählt           2465                 2216                  249
+      88         gewählt            632                  460                  172
+      89   nicht gewählt           1131                 1113                   18
+      90   nicht gewählt           2614                 2500                  114
+      91   nicht gewählt            179                  178                    1
+      92   nicht gewählt            360                  345                   15
+      93   nicht gewählt           2483                 2417                   66
+      94   nicht gewählt           1843                 1806                   37
+      95   nicht gewählt            360                  348                   12
+      96   nicht gewählt           2146                 2114                   32
+      97   nicht gewählt           1173                 1156                   17
+      98   nicht gewählt            431                  422                    9
+      99   nicht gewählt            175                  171                    4
+      100        gewählt            906                  598                  308
+      101  nicht gewählt            553                  516                   37
+      102  nicht gewählt            444                  430                   14
+      103  nicht gewählt           1195                 1145                   50
+      104  nicht gewählt            493                  473                   20
+      105        gewählt           2953                 2633                  320
+      106  nicht gewählt           1948                 1913                   35
+      107  nicht gewählt            339                  335                    4
+      108  nicht gewählt           1454                 1364                   90
+      109  nicht gewählt           1267                 1178                   89
+      110        gewählt           1359                 1227                  132
+      111  nicht gewählt            578                  470                  108
+      112  nicht gewählt           1182                 1107                   75
+      113  nicht gewählt           1600                 1504                   96
+      114  nicht gewählt            998                  983                   15
+      115  nicht gewählt            424                  409                   15
+      116        gewählt           2451                 1280                 1171
+      117  nicht gewählt           1966                 1760                  206
+      118  nicht gewählt           1228                 1084                  144
+      119  nicht gewählt            939                  939                    0
+      120  nicht gewählt           1508                 1422                   86
+      121  nicht gewählt            343                  320                   23
+      122  nicht gewählt           1035                  992                   43
+      123  nicht gewählt           1338                 1151                  187
+      124  nicht gewählt           1881                 1699                  182
+      125  nicht gewählt            165                  145                   20
+      126  nicht gewählt           1103                 1032                   71
+      127  nicht gewählt           1741                 1700                   41
+      128        gewählt           1654                 1424                  230
+      129  nicht gewählt           3773                 3717                   56
+      130  nicht gewählt           1003                  968                   35
+      131  nicht gewählt            140                  136                    4
+      132  nicht gewählt            974                  973                    1
+      133  nicht gewählt           3509                 3432                   77
+      134  nicht gewählt            173                  144                   29
+      135  nicht gewählt           1042                 1001                   41
+      136  nicht gewählt            162                  144                   18
+      137  nicht gewählt           2365                 1910                  455
+      138        gewählt           1577                 1379                  198
+      139  nicht gewählt           1819                 1204                  615
+      140  nicht gewählt           3236                 3166                   70
+      141  nicht gewählt           1298                 1280                   18
+      142  nicht gewählt           1409                 1378                   31
+      143        gewählt           4205                 3834                  371
+      144  nicht gewählt            137                  137                    0
+      145  nicht gewählt            452                  409                   43
+      146  nicht gewählt           2102                 1842                  260
+      147        gewählt           1870                 1518                  352
+      148  nicht gewählt            939                  928                   11
+      149  nicht gewählt           4013                 3834                  179
+      150  nicht gewählt            184                  181                    3
+      151  nicht gewählt           1546                 1520                   26
+      152  nicht gewählt            279                  276                    3
+      153  nicht gewählt            315                  306                    9
+      154  nicht gewählt            950                  938                   12
+      155        gewählt           4299                 3981                  318
+      156  nicht gewählt           1021                 1000                   21
+      157  nicht gewählt            148                  143                    5
+      158        gewählt            698                  614                   84
+      159  nicht gewählt           1134                 1028                  106
+      160  nicht gewählt           1522                 1471                   51
+      161  nicht gewählt            355                  328                   27
+      162  nicht gewählt            206                  154                   52
+      163  nicht gewählt           1659                 1527                  132
+      164  nicht gewählt           1459                 1436                   23
+      165  nicht gewählt            939                  933                    6
+      166  nicht gewählt            919                  917                    2
+      167  nicht gewählt            111                   93                   18
+      168  nicht gewählt            423                  411                   12
+      169  nicht gewählt            137                  137                    0
+      170  nicht gewählt           1592                 1525                   67
+      171  nicht gewählt            423                  409                   14
+      172  nicht gewählt            282                  278                    4
+      173  nicht gewählt           1924                 1786                  138
+      174  nicht gewählt           1314                 1287                   27
+      175  nicht gewählt            163                  146                   17
+      176  nicht gewählt            975                  968                    7
+      177  nicht gewählt           1312                 1288                   24
+      178        gewählt           4098                 3884                  214
+      179  nicht gewählt            393                  335                   58
+      180  nicht gewählt            186                  179                    7
+      181  nicht gewählt            241                  182                   59
+      182        gewählt           4209                 4044                  165
+      183  nicht gewählt           1171                 1111                   60
+      184  nicht gewählt           1119                 1073                   46
+      185  nicht gewählt           1690                 1549                  141
+      186  nicht gewählt           1253                 1234                   19
+      187  nicht gewählt            423                  411                   12
+      188        gewählt           1875                 1566                  309
+      189  nicht gewählt           1497                 1460                   37
+      190  nicht gewählt            313                  188                  125
+      191  nicht gewählt           3707                 3619                   88
+      192  nicht gewählt           1375                 1327                   48
+      193  nicht gewählt           1648                 1588                   60
+      194  nicht gewählt            186                  149                   37
+      195  nicht gewählt            997                  975                   22
+      196  nicht gewählt           1171                 1160                   11
+      197  nicht gewählt           1129                 1092                   37
+      198  nicht gewählt           3182                 3151                   31
+      199        gewählt           1100                 1013                   87
+      200        gewählt           2497                 1867                  630
+      201  nicht gewählt            141                  140                    1
+      202  nicht gewählt           1659                 1637                   22
+      203  nicht gewählt           1344                 1297                   47
+      204  nicht gewählt           1469                 1434                   35
+      205  nicht gewählt            425                  411                   14
+      206  nicht gewählt           1131                 1079                   52
+      207  nicht gewählt           1078                 1022                   56
+      208  nicht gewählt            953                  949                    4
+      209        gewählt           2613                 1910                  703
+      210  nicht gewählt            146                  145                    1
+      211  nicht gewählt            970                  962                    8
+      212  nicht gewählt           1193                 1061                  132
+      213  nicht gewählt            333                  325                    8
+      214  nicht gewählt           1404                 1370                   34
+      215  nicht gewählt           1227                 1202                   25
+      216  nicht gewählt           3893                 3670                  223
+      217        gewählt           2671                 2535                  136
+      218  nicht gewählt            326                  310                   16
+      219  nicht gewählt            684                  624                   60
+      220  nicht gewählt           3588                 3506                   82
+      221  nicht gewählt           1228                 1213                   15
+      222  nicht gewählt            419                  408                   11
+      223  nicht gewählt           1354                 1302                   52
+      224  nicht gewählt            200                  178                   22
+      225  nicht gewählt           1898                 1768                  130
+      226  nicht gewählt            374                  337                   37
+      227  nicht gewählt           1618                 1558                   60
+      228  nicht gewählt            144                  141                    3
+      229  nicht gewählt           1507                 1481                   26
+      230  nicht gewählt            247                  188                   59
+      231  nicht gewählt           1451                 1351                  100
+      232  nicht gewählt            328                  321                    7
+      233  nicht gewählt            141                  140                    1
+      234  nicht gewählt            279                  270                    9
+      235  nicht gewählt            174                  148                   26
+      236  nicht gewählt            303                  185                  118
+      237        gewählt           4656                 4108                  548
+      238  nicht gewählt           3592                 3547                   45
+      239  nicht gewählt           1867                 1765                  102
+      240  nicht gewählt           1095                 1035                   60
+      241  nicht gewählt           1325                 1278                   47
+      242  nicht gewählt           1518                 1485                   33
+      243  nicht gewählt           1318                 1291                   27
+      244  nicht gewählt           3724                 3612                  112
+      245  nicht gewählt            185                  181                    4
+      246  nicht gewählt            256                  251                    5
+      247        gewählt           1720                 1465                  255
+      248  nicht gewählt           1036                 1015                   21
+      249  nicht gewählt           1004                  996                    8
+      250  nicht gewählt            210                  187                   23
+      251  nicht gewählt            621                  613                    8
+      252  nicht gewählt            635                  621                   14
+      253  nicht gewählt           1312                 1271                   41
+      254  nicht gewählt           1132                 1100                   32
+      255  nicht gewählt           1227                 1149                   78
+      256        gewählt           1713                 1439                  274
+      257  nicht gewählt            624                  617                    7
+      258  nicht gewählt             88                   75                   13
+      259  nicht gewählt           1762                 1540                  222
+      260  nicht gewählt           1702                 1471                  231
+      261  nicht gewählt           3178                 3087                   91
+      262  nicht gewählt           1309                 1266                   43
+      263        gewählt           3819                 3495                  324
+      264        gewählt           3783                 3473                  310
+      265  nicht gewählt            983                  981                    2
+      266  nicht gewählt           3275                 3164                  111
+      267  nicht gewählt            586                  585                    1
+      268  nicht gewählt           1238                 1118                  120
+      269  nicht gewählt            588                  581                    7
+      270  nicht gewählt            410                  361                   49
+      271  nicht gewählt           1353                 1310                   43
+      272  nicht gewählt           1410                 1353                   57
+      273  nicht gewählt           1847                 1563                  284
+      274  nicht gewählt           1357                 1321                   36
+      275  nicht gewählt           1353                 1324                   29
+      276        gewählt           2222                 1628                  594
+      277  nicht gewählt            485                  381                  104
+      278        gewählt           1759                 1257                  502
+      279  nicht gewählt           1121                 1089                   32
+      280  nicht gewählt             85                   78                    7
+      281  nicht gewählt            353                  287                   66
+      282  nicht gewählt           3541                 3288                  253
+      283  nicht gewählt            632                  612                   20
+      284  nicht gewählt            407                  294                  113
+      285  nicht gewählt             81                   70                   11
+      286  nicht gewählt           1026                 1013                   13
+      287  nicht gewählt           1536                 1417                  119
+      288  nicht gewählt           1509                 1471                   38
+      289  nicht gewählt            202                  186                   16
+      290  nicht gewählt             72                   72                    0
+      291  nicht gewählt            632                  621                   11
+      292        gewählt           3812                 3450                  362
+      293  nicht gewählt           1067                 1054                   13
+      294  nicht gewählt           1602                 1441                  161
+      295  nicht gewählt            145                  137                    8
+      296        gewählt           2200                 1567                  633
+      297  nicht gewählt           1798                 1548                  250
+      298  nicht gewählt           1082                 1045                   37
+      299  nicht gewählt           1206                 1157                   49
+      300  nicht gewählt             72                   71                    1
+      301  nicht gewählt            458                  384                   74
+      302  nicht gewählt            422                  308                  114
+      303  nicht gewählt            323                  291                   32
+      304  nicht gewählt           1436                 1383                   53
+      305  nicht gewählt            198                  191                    7
+      306  nicht gewählt            683                  649                   34
+      307  nicht gewählt            245                  196                   49
+      308  nicht gewählt           2904                 2817                   87
+      309  nicht gewählt             65                   65                    0
+      310  nicht gewählt           1096                 1077                   19
+      311  nicht gewählt           1239                 1143                   96
+      312  nicht gewählt             98                   77                   21
+      313  nicht gewählt           3296                 3169                  127
+      314  nicht gewählt           3140                 3049                   91
+      315        gewählt           3789                 3486                  303
+      316  nicht gewählt            637                  616                   21
+      317  nicht gewählt           1568                 1257                  311
+      318  nicht gewählt           1433                 1367                   66
+      319  nicht gewählt             81                   78                    3
+      320  nicht gewählt           1100                 1024                   76
+      321  nicht gewählt            112                   78                   34
+      322  nicht gewählt           2085                 1623                  462
+      323  nicht gewählt           1439                 1375                   64
+      324  nicht gewählt           1279                 1269                   10
+      325  nicht gewählt             69                   68                    1
+      326  nicht gewählt            573                  572                    1
+      327  nicht gewählt            130                   86                   44
+      328        gewählt           1380                 1165                  215
+      329  nicht gewählt           3469                 3262                  207
+      330  nicht gewählt            154                   88                   66
+      331  nicht gewählt            177                  174                    3
+      332  nicht gewählt           1273                 1254                   19
+      333  nicht gewählt           1906                 1583                  323
+      334  nicht gewählt            664                  635                   29
+      335        gewählt           1216                 1137                   79
+      336  nicht gewählt           3023                 2922                  101
+      337  nicht gewählt           1130                 1101                   29
+      338        gewählt           3613                 3402                  211
+      339  nicht gewählt            589                  587                    2
+      340        gewählt            811                  670                  141
+      341  nicht gewählt            352                  274                   78
+      342  nicht gewählt           1144                 1086                   58
+      343  nicht gewählt           1152                 1112                   40
+      344  nicht gewählt           1424                 1379                   45
+      345  nicht gewählt             72                   66                    6
+      346  nicht gewählt           1095                 1018                   77
+      347  nicht gewählt           1046                 1021                   25
+      348  nicht gewählt            925                  916                    9
+      349  nicht gewählt           1575                 1217                  358
+      350  nicht gewählt            197                  190                    7
+      351  nicht gewählt           1586                 1406                  180
+      352  nicht gewählt           1412                 1164                  248
+      353        gewählt           1652                 1456                  196
+      354        gewählt            941                  820                  121
+      355  nicht gewählt           2615                 2575                   40
+      356  nicht gewählt            291                  254                   37
+      357  nicht gewählt            269                  257                   12
+      358  nicht gewählt            483                  477                    6
+      359        gewählt           1883                 1715                  168
+      360  nicht gewählt            739                  723                   16
+      361  nicht gewählt            200                  182                   18
+      362  nicht gewählt            236                  172                   64
+      363  nicht gewählt            590                  547                   43
+      364  nicht gewählt            189                  165                   24
+      365  nicht gewählt            776                  754                   22
+      366        gewählt           3271                 2990                  281
+      367  nicht gewählt            201                  177                   24
+      368  nicht gewählt           2551                 2520                   31
+      369  nicht gewählt            272                  254                   18
+      370  nicht gewählt           1515                 1502                   13
+      371  nicht gewählt            791                  761                   30
+      372  nicht gewählt           1383                 1318                   65
+      373  nicht gewählt            748                  732                   16
+      374  nicht gewählt            170                  155                   15
+      375  nicht gewählt            595                  546                   49
+      376  nicht gewählt           1486                 1385                  101
+      377  nicht gewählt           1438                 1376                   62
+      378  nicht gewählt           1454                 1286                  168
+      379  nicht gewählt            535                  506                   29
+      380  nicht gewählt           2877                 2752                  125
+      381  nicht gewählt           1531                 1493                   38
+      382  nicht gewählt           2949                 2797                  152
+      383        gewählt           1801                 1344                  457
+      384  nicht gewählt            779                  762                   17
+      385  nicht gewählt            146                   99                   47
+      386  nicht gewählt           1369                 1303                   66
+      387  nicht gewählt            583                  495                   88
+      388  nicht gewählt           2739                 2611                  128
+      389  nicht gewählt           1579                 1433                  146
+      390  nicht gewählt            129                   98                   31
+      391  nicht gewählt            766                  756                   10
+      392        gewählt            969                  562                  407
+      393  nicht gewählt           1341                 1280                   61
+      394  nicht gewählt           1644                 1579                   65
+      395  nicht gewählt           2467                 2389                   78
+      396        gewählt           3299                 3088                  211
+      397  nicht gewählt           1381                 1335                   46
+      398  nicht gewählt           1329                 1278                   51
+      399  nicht gewählt           1378                 1263                  115
+      400  nicht gewählt           1630                 1422                  208
+      401  nicht gewählt            276                  268                    8
+      402        gewählt           3399                 3107                  292
+      403  nicht gewählt            780                  765                   15
+      404  nicht gewählt            403                  283                  120
+      405  nicht gewählt            284                  197                   87
+      406  nicht gewählt            167                  159                    8
+      407  nicht gewählt           1676                 1414                  262
+      408  nicht gewählt            227                  181                   46
+      409        gewählt           1887                 1398                  489
+      410  nicht gewählt           1432                 1404                   28
+      411  nicht gewählt           3116                 2975                  141
+      412  nicht gewählt           1445                 1426                   19
+      413  nicht gewählt           1132                 1125                    7
+      414  nicht gewählt            524                  510                   14
+      415  nicht gewählt            502                  494                    8
+      416  nicht gewählt            144                   96                   48
+      417  nicht gewählt           1228                 1183                   45
+      418  nicht gewählt           1533                 1359                  174
+      419  nicht gewählt            200                  171                   29
+      420  nicht gewählt            751                  743                    8
+      421  nicht gewählt           1474                 1294                  180
+      422  nicht gewählt           1433                 1360                   73
+      423  nicht gewählt           1406                 1287                  119
+      424  nicht gewählt            325                  285                   40
+      425  nicht gewählt           1531                 1476                   55
+      426        gewählt           2126                 1823                  303
+      427  nicht gewählt            317                  284                   33
+      428  nicht gewählt            693                  545                  148
+      429  nicht gewählt            715                  566                  149
+      430  nicht gewählt            784                  749                   35
+      431  nicht gewählt            589                  533                   56
+      432  nicht gewählt           1790                 1709                   81
+      433  nicht gewählt            194                  166                   28
+      434  nicht gewählt            282                  258                   24
+      435  nicht gewählt           2098                 2041                   57
+      436  nicht gewählt           1892                 1859                   33
+      437  nicht gewählt            321                  297                   24
+      438  nicht gewählt            677                  590                   87
+      439  nicht gewählt            720                  713                    7
+      440  nicht gewählt           1190                  802                  388
+      441  nicht gewählt           3839                 3819                   20
+      442  nicht gewählt           3963                 3666                  297
+      443  nicht gewählt           3295                 3224                   71
+      444  nicht gewählt            986                  745                  241
+      445  nicht gewählt           1446                 1432                   14
+      446        gewählt           4314                 3979                  335
+      447  nicht gewählt            296                  292                    4
+      448        gewählt           5291                 4734                  557
+      449  nicht gewählt           3334                 3284                   50
+      450        gewählt           4876                 4548                  328
+      451        gewählt           2339                 1742                  597
+      452  nicht gewählt            259                  256                    3
+      453  nicht gewählt           3661                 3647                   14
+      454        gewählt           2813                 1739                 1074
+      455  nicht gewählt            575                  555                   20
+      456  nicht gewählt           2007                 1957                   50
+      457  nicht gewählt            292                  278                   14
+      458        gewählt           4281                 3984                  297
+      459  nicht gewählt           3376                 3320                   56
+      460  nicht gewählt           1643                 1569                   74
+      461  nicht gewählt           4072                 4010                   62
+      462  nicht gewählt            431                  339                   92
+      463        gewählt           4498                 4065                  433
+      464  nicht gewählt           1442                 1419                   23
+      465  nicht gewählt           3936                 3903                   33
+      466  nicht gewählt           3611                 3540                   71
+      467  nicht gewählt            759                  732                   27
+      468  nicht gewählt           1517                 1506                   11
+      469  nicht gewählt            717                  713                    4
+      470  nicht gewählt           2059                 1737                  322
+      471  nicht gewählt           1598                 1553                   45
+      472  nicht gewählt            297                  294                    3
+      473  nicht gewählt           2164                 2044                  120
+      474  nicht gewählt           1430                 1413                   17
+      475  nicht gewählt           3986                 3938                   48
+      476  nicht gewählt           3340                 3311                   29
+      477  nicht gewählt            143                   63                   80
+      478  nicht gewählt           1379                 1373                    6
+      479  nicht gewählt            967                  647                  320
+      480  nicht gewählt           1766                 1620                  146
+      481  nicht gewählt            537                  510                   27
+      482  nicht gewählt           2267                 1761                  506
+      483  nicht gewählt           1674                 1607                   67
+      484  nicht gewählt           3765                 3593                  172
+      485  nicht gewählt           1954                 1923                   31
+      486  nicht gewählt            735                  719                   16
+      487  nicht gewählt           1609                 1544                   65
+      488  nicht gewählt           1538                 1483                   55
+      489  nicht gewählt           1059                  667                  392
+      490  nicht gewählt           1485                 1466                   19
+      491  nicht gewählt            774                  724                   50
+      492  nicht gewählt           1490                 1477                   13
+      493  nicht gewählt           1600                 1556                   44
+      494  nicht gewählt           1976                 1922                   54
+      495  nicht gewählt           1655                 1561                   94
+      496        gewählt           1957                 1668                  289
+      497        gewählt           2577                 1771                  806
+      498        gewählt           4648                 4128                  520
+      499  nicht gewählt            710                  671                   39
+      500  nicht gewählt           1497                 1468                   29
+      501  nicht gewählt            675                  651                   24
+      502  nicht gewählt            639                  565                   74
+      503        gewählt           4685                 4457                  228
+      504  nicht gewählt           1768                 1597                  171
+      505  nicht gewählt            871                  756                  115
+      506  nicht gewählt            716                  684                   32
+      507  nicht gewählt            122                   55                   67
+      508  nicht gewählt            602                  556                   46
+      509  nicht gewählt            686                  642                   44
+      510  nicht gewählt            434                  315                  119
+      511  nicht gewählt            387                  327                   60
+      512  nicht gewählt            337                  304                   33
+      513  nicht gewählt           1852                 1839                   13
+      514  nicht gewählt            144                   70                   74
+      515  nicht gewählt           4220                 3841                  379
+      516  nicht gewählt           4023                 3963                   60
+      517  nicht gewählt            134                   69                   65
+      518  nicht gewählt           1871                 1820                   51
+      519  nicht gewählt            692                  665                   27
+      520  nicht gewählt           4381                 4246                  135
+      521  nicht gewählt            332                  300                   32
+      522  nicht gewählt           1522                 1504                   18
+      523  nicht gewählt            891                  752                  139
+      524  nicht gewählt           1984                 1932                   52
+      525        gewählt           2863                 2254                  609
+      526  nicht gewählt           3592                 3530                   62
+      527        gewählt           2810                 2276                  534
+      528  nicht gewählt            709                  671                   38
+      529  nicht gewählt           4654                 4447                  207
+      530  nicht gewählt           1563                 1544                   19
+      531  nicht gewählt            730                  686                   44
+      532  nicht gewählt           2058                 1929                  129
+      533  nicht gewählt            609                  600                    9
+      534  nicht gewählt            576                  557                   19
+      535  nicht gewählt           3696                 3681                   15
+      536  nicht gewählt           1323                 1318                    5
+      537  nicht gewählt           3385                 3341                   44
+      538  nicht gewählt            440                  205                  235
+      539  nicht gewählt            611                  538                   73
+      540        gewählt           1594                  729                  865
+      541  nicht gewählt            329                  291                   38
+      542  nicht gewählt            287                  282                    5
+      543  nicht gewählt            605                  598                    7
+      544  nicht gewählt           1585                 1530                   55
+      545  nicht gewählt            301                  297                    4
+      546  nicht gewählt           1787                 1655                  132
+      547  nicht gewählt            766                  738                   28
+      548  nicht gewählt           2032                 1992                   40
+      549  nicht gewählt            589                  555                   34
+      550  nicht gewählt           1526                 1504                   22
+      551  nicht gewählt            780                  701                   79
+      552  nicht gewählt            719                  693                   26
+      553  nicht gewählt            727                  712                   15
+      554  nicht gewählt           3946                 3879                   67
+      555  nicht gewählt           1491                 1455                   36
+      556  nicht gewählt            540                  525                   15
+      557  nicht gewählt            564                  529                   35
+      558  nicht gewählt           3360                 3329                   31
+      559  nicht gewählt           3884                 3768                  116
+      560  nicht gewählt           4195                 4148                   47
+      561  nicht gewählt            531                  526                    5
+      562  nicht gewählt            673                  605                   68
+      563  nicht gewählt           1732                 1720                   12
+      564  nicht gewählt           2380                 2169                  211
+      565  nicht gewählt           2155                 2044                  111
+      566  nicht gewählt            283                  280                    3
+      567  nicht gewählt            345                  308                   37
+      568  nicht gewählt            545                  535                   10
+      569  nicht gewählt           1704                 1583                  121
+      570  nicht gewählt           1539                 1520                   19
+      571        gewählt           1280                  817                  463
+      572  nicht gewählt            342                  302                   40
+      573  nicht gewählt           4406                 4318                   88
+      574  nicht gewählt            809                  703                  106
+      575        gewählt           4742                 4558                  184
+      576  nicht gewählt            620                  583                   37
+      577  nicht gewählt           1238                 1197                   41
+      578        gewählt           3591                 3349                  242
+      579  nicht gewählt           1661                 1648                   13
+      580  nicht gewählt            160                  105                   55
+      581        gewählt           2346                 2113                  233
+      582  nicht gewählt            742                  737                    5
+      583  nicht gewählt           1676                 1665                   11
+      584        gewählt           1951                 1802                  149
+      585        gewählt           2034                 1816                  218
+      586  nicht gewählt           1636                 1572                   64
+      587  nicht gewählt           3234                 3151                   83
+      588  nicht gewählt            763                  628                  135
+      589  nicht gewählt            624                  555                   69
+      590  nicht gewählt            398                  380                   18
+      591  nicht gewählt           2813                 2780                   33
+      592  nicht gewählt            391                  381                   10
+      593  nicht gewählt           1172                 1153                   19
+      594  nicht gewählt            597                  566                   31
+      595  nicht gewählt            432                  389                   43
+      596  nicht gewählt            368                  364                    4
+      597  nicht gewählt           3066                 2990                   76
+      598  nicht gewählt            765                  752                   13
+      599  nicht gewählt           1271                 1222                   49
+      600  nicht gewählt           1518                 1507                   11
+      601  nicht gewählt           1731                 1697                   34
+      602  nicht gewählt            393                  381                   12
+      603  nicht gewählt            128                   95                   33
+      604  nicht gewählt           1828                 1751                   77
+      605  nicht gewählt            613                  581                   32
+      606  nicht gewählt            655                  646                    9
+      607  nicht gewählt            788                  761                   27
+      608  nicht gewählt            407                  404                    3
+      609  nicht gewählt           1563                 1555                    8
+      610  nicht gewählt           3376                 3269                  107
+      611  nicht gewählt            814                  769                   45
+      612  nicht gewählt           1707                 1691                   16
+      613  nicht gewählt            419                  398                   21
+      614  nicht gewählt            705                  685                   20
+      615        gewählt           3733                 3456                  277
+      616        gewählt           3741                 3458                  283
+      617  nicht gewählt            755                  746                    9
+      618  nicht gewählt           1624                 1618                    6
+      619  nicht gewählt           3221                 3151                   70
+      620  nicht gewählt           1667                 1636                   31
+      621  nicht gewählt            514                  454                   60
+      622  nicht gewählt           1696                 1670                   26
+      623  nicht gewählt            882                  787                   95
+      624  nicht gewählt           1641                 1617                   24
+      625  nicht gewählt           3370                 3280                   90
+      626  nicht gewählt           1739                 1717                   22
+      627  nicht gewählt            378                  366                   12
+      628  nicht gewählt            406                  396                   10
+      629  nicht gewählt            785                  756                   29
+      630  nicht gewählt           1731                 1712                   19
+      631  nicht gewählt           1478                 1388                   90
+      632  nicht gewählt           1281                 1234                   47
+      633        gewählt           1979                 1511                  468
+      634  nicht gewählt           1192                 1132                   60
+      635        gewählt           1414                 1272                  142
+      636  nicht gewählt            725                  599                  126
+      637  nicht gewählt            434                  400                   34
+      638  nicht gewählt            564                  550                   14
+      639  nicht gewählt           2989                 2935                   54
+      640  nicht gewählt           1320                 1208                  112
+      641  nicht gewählt            616                  556                   60
+      642  nicht gewählt           1457                 1362                   95
+      643  nicht gewählt           1381                 1348                   33
+      644  nicht gewählt           3589                 3400                  189
+      645  nicht gewählt           3134                 3074                   60
+      646  nicht gewählt           1620                 1581                   39
+      647        gewählt           2136                 1803                  333
+      648  nicht gewählt            455                  432                   23
+      649        gewählt            989                  659                  330
+      650  nicht gewählt           1454                 1383                   71
+      651        gewählt           3898                 3554                  344
+      652  nicht gewählt            477                  435                   42
+      653  nicht gewählt           1011                  821                  190
+      654  nicht gewählt            357                  349                    8
+      655  nicht gewählt           1611                 1603                    8
+      656  nicht gewählt           1365                 1240                  125
+      657  nicht gewählt           1758                 1717                   41
+      658  nicht gewählt           1852                 1701                  151
+      659  nicht gewählt           1898                 1771                  127
+      660  nicht gewählt            402                  381                   21
+      661  nicht gewählt            810                  765                   45
+      662  nicht gewählt           1615                 1590                   25
+      663  nicht gewählt           1551                 1329                  222
+      664        gewählt            691                  484                  207
+      665  nicht gewählt           1722                 1689                   33
+      666  nicht gewählt            622                  545                   77
+      667  nicht gewählt            450                  423                   27
+      668        gewählt           1452                 1305                  147
+      669  nicht gewählt           1822                 1751                   71
+      670  nicht gewählt            445                  416                   29
+      671  nicht gewählt           1421                 1354                   67
+      672  nicht gewählt           1637                 1615                   22
+      673  nicht gewählt           1388                 1333                   55
+      674        gewählt           3628                 3412                  216
+      675  nicht gewählt           1688                 1665                   23
+      676  nicht gewählt           1208                 1176                   32
+      677  nicht gewählt            593                  581                   12
+      678  nicht gewählt           1156                 1128                   28
+      679  nicht gewählt           1732                 1481                  251
+      680  nicht gewählt           1259                 1212                   47
+      681  nicht gewählt            445                  428                   17
+      682  nicht gewählt           1688                 1642                   46
+      683  nicht gewählt            752                  605                  147
+      684  nicht gewählt            560                  541                   19
+      685  nicht gewählt           1611                 1600                   11
+      686  nicht gewählt           3454                 3334                  120
+      687  nicht gewählt            628                  562                   66
+      688  nicht gewählt           1378                 1283                   95
+      689  nicht gewählt            185                  104                   81
+      690  nicht gewählt            999                  832                  167
+      691  nicht gewählt            464                  436                   28
+      692  nicht gewählt           1457                 1361                   96
+      693  nicht gewählt           1421                 1336                   85
+      694  nicht gewählt           1591                 1580                   11
+      695  nicht gewählt           1210                 1185                   25
+      696  nicht gewählt            378                  366                   12
+      697        gewählt           2195                 1546                  649
+      698  nicht gewählt           1921                 1793                  128
+      699  nicht gewählt           1357                 1277                   80
+      700  nicht gewählt           1490                 1425                   65
+      701  nicht gewählt           1277                 1230                   47
+      702  nicht gewählt           1684                 1470                  214
+      703  nicht gewählt            450                  425                   25
+      704  nicht gewählt            908                  797                  111
+      705  nicht gewählt            546                  446                  100
+      706  nicht gewählt            436                  390                   46
+      707  nicht gewählt           1679                 1444                  235
+      708        gewählt           1298                  898                  400
+      709  nicht gewählt            808                  764                   44
+      710  nicht gewählt           2994                 2967                   27
+      711  nicht gewählt            590                  554                   36
+      712  nicht gewählt           1272                 1200                   72
+      713  nicht gewählt            657                  654                    3
+      714  nicht gewählt            572                  552                   20
+      715  nicht gewählt            228                  214                   14
+      716  nicht gewählt           1121                 1113                    8
+      717  nicht gewählt            896                  777                  119
+      718        gewählt           2079                 1636                  443
+      719  nicht gewählt            224                  213                   11
+      720  nicht gewählt           1863                 1818                   45
+      721  nicht gewählt           1273                 1237                   36
+      722  nicht gewählt            900                  729                  171
+      723  nicht gewählt            163                  108                   55
+      724  nicht gewählt           1970                 1921                   49
+      725        gewählt           4426                 3812                  614
+      726  nicht gewählt            836                  745                   91
+      727  nicht gewählt           3470                 3337                  133
+      728        gewählt           2109                 1676                  433
+      729  nicht gewählt           1695                 1502                  193
+      730        gewählt           4019                 3723                  296
+      731  nicht gewählt            245                  220                   25
+      732  nicht gewählt           2005                 1911                   94
+      733        gewählt           2480                 2188                  292
+      734  nicht gewählt           3870                 3619                  251
+      735  nicht gewählt           1987                 1676                  311
+      736  nicht gewählt           1707                 1541                  166
+      737  nicht gewählt            413                  374                   39
+      738        gewählt           1311                  830                  481
+      739        gewählt            982                  816                  166
+      740        gewählt           1799                 1563                  236
+      741  nicht gewählt           1602                 1501                  101
+      742  nicht gewählt            807                  741                   66
+      743  nicht gewählt           1484                 1426                   58
+      744  nicht gewählt           1384                 1379                    5
+      745  nicht gewählt           1849                 1824                   25
+      746  nicht gewählt           1651                 1548                  103
+      747  nicht gewählt           1835                 1807                   28
+      748  nicht gewählt            290                  241                   49
+      749  nicht gewählt           1234                 1216                   18
+      750  nicht gewählt           3398                 3299                   99
+      751  nicht gewählt           1178                 1153                   25
+      752  nicht gewählt           1430                 1401                   29
+      753  nicht gewählt           1619                 1507                  112
+      754  nicht gewählt            235                  219                   16
+      755  nicht gewählt            395                  376                   19
+      756  nicht gewählt           2042                 1654                  388
+      757  nicht gewählt           1367                 1346                   21
+      758  nicht gewählt           3512                 3389                  123
+      759  nicht gewählt            532                  434                   98
+      760  nicht gewählt            264                  221                   43
+      761  nicht gewählt           1259                 1236                   23
+      762  nicht gewählt           1752                 1727                   25
+      763  nicht gewählt           1863                 1644                  219
+      764  nicht gewählt           1156                 1152                    4
+      765  nicht gewählt            756                  687                   69
+      766  nicht gewählt            424                  379                   45
+      767  nicht gewählt            838                  756                   82
+      768  nicht gewählt            214                   71                  143
+      769  nicht gewählt           1470                 1399                   71
+      770  nicht gewählt           1621                 1490                  131
+      771  nicht gewählt           3360                 3263                   97
+      772  nicht gewählt           1226                 1205                   21
+      773  nicht gewählt           1549                 1412                  137
+      774  nicht gewählt            207                  200                    7
+      775  nicht gewählt            226                  211                   15
+      776  nicht gewählt           3252                 3211                   41
+      777  nicht gewählt            209                  208                    1
+      778  nicht gewählt            769                  693                   76
+      779  nicht gewählt           3423                 3322                  101
+      780  nicht gewählt            454                  390                   64
+      781  nicht gewählt            220                  209                   11
+      782  nicht gewählt           1875                 1844                   31
+      783  nicht gewählt           1340                 1280                   60
+      784  nicht gewählt            767                  657                  110
+      785  nicht gewählt           1581                 1483                   98
+      786  nicht gewählt            445                  420                   25
+      787  nicht gewählt           1168                 1153                   15
+      788  nicht gewählt           1867                 1795                   72
+      789  nicht gewählt           3727                 3588                  139
+      790  nicht gewählt            260                  219                   41
+      791  nicht gewählt           1624                 1509                  115
+      792  nicht gewählt            716                  703                   13
+      793  nicht gewählt           1442                 1399                   43
+      794  nicht gewählt            219                  217                    2
+      795        gewählt           1858                 1506                  352
+      796  nicht gewählt            769                  721                   48
+      797  nicht gewählt           1084                 1077                    7
+      798  nicht gewählt           2858                 2808                   50
+      799  nicht gewählt           2187                 2022                  165
+      800        gewählt           4091                 3728                  363
+      801  nicht gewählt           1276                 1256                   20
+      802  nicht gewählt           1211                 1190                   21
+      803  nicht gewählt            420                  393                   27
+      804  nicht gewählt            490                  404                   86
+      805  nicht gewählt            128                  105                   23
+      806  nicht gewählt            833                  789                   44
+      807        gewählt           1537                 1340                  197
+      808  nicht gewählt           1394                 1354                   40
+      809  nicht gewählt           1772                 1720                   52
+      810  nicht gewählt            764                  698                   66
+      811        gewählt           2474                 2188                  286
+      812  nicht gewählt            618                  558                   60
+      813  nicht gewählt            189                  155                   34
+      814  nicht gewählt            190                  157                   33
+      815  nicht gewählt           1787                 1759                   28
+      816  nicht gewählt           2108                 2076                   32
+      817        gewählt            957                  663                  294
+      818  nicht gewählt           1765                 1752                   13
+      819  nicht gewählt            436                  424                   12
+      820  nicht gewählt            469                  459                   10
+      821  nicht gewählt            587                  552                   35
+      822  nicht gewählt           1453                 1447                    6
+      823  nicht gewählt            562                  441                  121
+      824  nicht gewählt            542                  440                  102
+      825  nicht gewählt            532                  472                   60
+      826  nicht gewählt            574                  556                   18
+      827        gewählt           3992                 3659                  333
+      828  nicht gewählt           1780                 1749                   31
+      829  nicht gewählt            486                  433                   53
+      830  nicht gewählt           3238                 3186                   52
+      831  nicht gewählt           3489                 3412                   77
+      832  nicht gewählt            171                  156                   15
+      833  nicht gewählt           1849                 1806                   43
+      834  nicht gewählt           1715                 1684                   31
+      835  nicht gewählt            456                  429                   27
+      836        gewählt           2426                 2207                  219
+      837  nicht gewählt           2992                 2961                   31
+      838  nicht gewählt           1752                 1730                   22
+      839  nicht gewählt           2028                 1992                   36
+      840  nicht gewählt           3107                 3087                   20
+      841  nicht gewählt            953                  663                  290
+      842  nicht gewählt           1909                 1766                  143
+      843  nicht gewählt           3188                 3116                   72
+      844  nicht gewählt           1821                 1614                  207
+      845  nicht gewählt           1942                 1919                   23
+      846  nicht gewählt            567                  564                    3
+      847        gewählt           2191                 1986                  205
+      848  nicht gewählt           1702                 1667                   35
+      849  nicht gewählt           2069                 2047                   22
+      850  nicht gewählt           1808                 1740                   68
+      851  nicht gewählt            448                  408                   40
+      852  nicht gewählt            558                  470                   88
+      853  nicht gewählt           1665                 1659                    6
+      854        gewählt           3858                 3586                  272
+      855  nicht gewählt            465                  416                   49
+      856  nicht gewählt            461                  432                   29
+      857  nicht gewählt           1698                 1683                   15
+      858  nicht gewählt           3291                 3229                   62
+      859  nicht gewählt           1633                 1616                   17
+      860  nicht gewählt            430                  406                   24
+      861  nicht gewählt            438                  431                    7
+      862  nicht gewählt            605                  579                   26
+      863        gewählt           4040                 3691                  349
+      864  nicht gewählt           1564                 1527                   37
+      865  nicht gewählt           1598                 1571                   27
+      866  nicht gewählt            587                  564                   23
+      867  nicht gewählt            650                  593                   57
+      868  nicht gewählt            553                  539                   14
+      869        gewählt            739                  604                  135
+      870        gewählt           4134                 3775                  359
+      871  nicht gewählt           1570                 1508                   62
+      872  nicht gewählt            170                  152                   18
+      873        gewählt           2414                 2213                  201
+      874  nicht gewählt           2051                 2043                    8
+      875  nicht gewählt           3373                 3325                   48
+      876  nicht gewählt           2093                 2070                   23
+      877  nicht gewählt           1753                 1734                   19
+      878  nicht gewählt           1592                 1542                   50
+      879  nicht gewählt            495                  425                   70
+      880  nicht gewählt            699                  462                  237
+      881  nicht gewählt            619                  572                   47
+      882        gewählt           2421                 1928                  493
+      883  nicht gewählt            606                  568                   38
+      884  nicht gewählt           1993                 1974                   19
+      885  nicht gewählt            501                  461                   40
+      886  nicht gewählt            444                  434                   10
+      887  nicht gewählt           1485                 1434                   51
+      888  nicht gewählt           1880                 1626                  254
+      889  nicht gewählt            564                  556                    8
+      890  nicht gewählt           3306                 3271                   35
+      891  nicht gewählt           1978                 1646                  332
+      892  nicht gewählt           1530                 1478                   52
+      893  nicht gewählt           3488                 3380                  108
+      894  nicht gewählt            433                  430                    3
+      895  nicht gewählt            656                  577                   79
+      896  nicht gewählt           3102                 3036                   66
+      897        gewählt           2490                 1714                  776
+      898  nicht gewählt           1993                 1873                  120
+      899  nicht gewählt            497                  437                   60
+      900  nicht gewählt           1876                 1797                   79
+      901  nicht gewählt           1877                 1653                  224
+      902        gewählt           3775                 3601                  174
+      903  nicht gewählt            587                  583                    4
+      904  nicht gewählt            698                  579                  119
+      905        gewählt           2231                 1982                  249
+      906  nicht gewählt           2056                 2024                   32
+      907  nicht gewählt            567                  552                   15
+      908        gewählt           2475                 2224                  251
+      909  nicht gewählt            713                  601                  112
+      910  nicht gewählt            585                  572                   13
+      911        gewählt           2016                 1812                  204
+      912  nicht gewählt            452                  433                   19
+      913  nicht gewählt           1679                 1671                    8
+      914  nicht gewählt           3343                 3278                   65
+      915  nicht gewählt           2297                 2149                  148
+      916        gewählt            904                  484                  420
+      917  nicht gewählt            510                  501                    9
+      918  nicht gewählt           2120                 2085                   35
+      919  nicht gewählt           1728                 1700                   28
+      920  nicht gewählt            436                  427                    9
+      921  nicht gewählt           1675                 1652                   23
+      922  nicht gewählt            468                  429                   39
+      923        gewählt           2096                 1812                  284
+      924  nicht gewählt            559                  543                   16
+      925  nicht gewählt           1574                 1510                   64
+      926  nicht gewählt           1986                 1981                    5
+      927  nicht gewählt           1994                 1818                  176
+      928        gewählt           3570                 3464                  106
+      929  nicht gewählt            461                  448                   13
+      930  nicht gewählt            678                  520                  158
+      931  nicht gewählt            542                  531                   11
+      932  nicht gewählt           1952                 1947                    5
+      933  nicht gewählt            599                  555                   44
+      934  nicht gewählt           1620                 1571                   49
+      935  nicht gewählt            661                  574                   87
+      936  nicht gewählt           1643                 1549                   94
+      937  nicht gewählt           1762                 1718                   44
+      938  nicht gewählt           3467                 3385                   82
+      939  nicht gewählt           1777                 1617                  160
+      940  nicht gewählt           1586                 1580                    6
+      941  nicht gewählt           2028                 2017                   11
+      942  nicht gewählt            565                  561                    4
+      943  nicht gewählt           1718                 1701                   17
+      944  nicht gewählt           1875                 1868                    7
+      945  nicht gewählt            423                  413                   10
+      946  nicht gewählt           1803                 1755                   48
+      947  nicht gewählt           1620                 1561                   59
+      948        gewählt           2378                 2028                  350
+      949  nicht gewählt           1692                 1691                    1
+      950        gewählt           2209                 1680                  529
+      951  nicht gewählt           1817                 1786                   31
+      952  nicht gewählt            581                  566                   15
+      953  nicht gewählt            532                  516                   16
+      954  nicht gewählt            544                  531                   13
+      955  nicht gewählt           3192                 3120                   72
+      956  nicht gewählt           1849                 1810                   39
+      957  nicht gewählt            529                  525                    4
+      958  nicht gewählt            549                  538                   11
+      959  nicht gewählt            587                  547                   40
+      960  nicht gewählt            547                  537                   10
+      961  nicht gewählt           2093                 2062                   31
+      962  nicht gewählt            438                  401                   37
+      963  nicht gewählt            166                  154                   12
+      964  nicht gewählt            172                  156                   16
+      965  nicht gewählt           1889                 1775                  114
+      966  nicht gewählt            500                  429                   71
+      967  nicht gewählt           3423                 3351                   72
+      968  nicht gewählt            481                  445                   36
+      969  nicht gewählt            552                  552                    0
+      970  nicht gewählt           1669                 1636                   33
+      971  nicht gewählt           2034                 2018                   16
+      972  nicht gewählt            464                  442                   22
+      973  nicht gewählt            451                  436                   15
+      974  nicht gewählt           2047                 2023                   24
+      975  nicht gewählt            504                  504                    0
+      976  nicht gewählt            566                  557                    9
+      977  nicht gewählt            590                  551                   39
+      978  nicht gewählt           1717                 1649                   68
+      979  nicht gewählt           1731                 1705                   26
+      980        gewählt           2014                 1803                  211
+      981  nicht gewählt            476                  463                   13
+      982  nicht gewählt            582                  547                   35
+      983  nicht gewählt           1603                 1500                  103
+      984  nicht gewählt            621                  579                   42
+      985  nicht gewählt           1762                 1731                   31
+      986  nicht gewählt           1774                 1710                   64
+      987  nicht gewählt           1664                 1575                   89
+      988  nicht gewählt            446                  440                    6
+      989  nicht gewählt            585                  563                   22
+      990  nicht gewählt            580                  572                    8
+      991  nicht gewählt           1656                 1552                  104
+      992  nicht gewählt           1671                 1557                  114
+      993  nicht gewählt            431                  423                    8
+      994        gewählt           2194                 1693                  501
+      995  nicht gewählt           3526                 3376                  150
+      996  nicht gewählt           1938                 1934                    4
+      997  nicht gewählt            455                  414                   41
+      998  nicht gewählt           1994                 1980                   14
+      999  nicht gewählt           3220                 3162                   58
+      1000 nicht gewählt           1796                 1749                   47
+      1001 nicht gewählt            561                  535                   26
+      1002 nicht gewählt           1625                 1616                    9
+      1003 nicht gewählt           1520                 1447                   73
+      1004 nicht gewählt           1707                 1696                   11
+      1005 nicht gewählt            736                  732                    4
+      1006 nicht gewählt            304                  291                   13
+      1007 nicht gewählt            456                  434                   22
+      1008 nicht gewählt            511                  465                   46
+      1009       gewählt           1530                 1401                  129
+      1010 nicht gewählt            521                  476                   45
+      1011 nicht gewählt            371                  330                   41
+      1012 nicht gewählt            314                  288                   26
+      1013 nicht gewählt            459                  450                    9
+      1014 nicht gewählt            184                  158                   26
+      1015 nicht gewählt            435                  419                   16
+      1016 nicht gewählt            130                  118                   12
+      1017 nicht gewählt            340                  319                   21
+      1018 nicht gewählt            284                  186                   98
+      1019 nicht gewählt            580                  501                   79
+      1020       gewählt            475                  382                   93
+      1021 nicht gewählt           1183                 1169                   14
+      1022 nicht gewählt            468                  449                   19
+      1023 nicht gewählt            518                  493                   25
+      1024 nicht gewählt            418                  407                   11
+      1025 nicht gewählt            451                  442                    9
+      1026 nicht gewählt           1329                 1269                   60
+      1027 nicht gewählt            602                  542                   60
+      1028 nicht gewählt            562                  538                   24
+      1029 nicht gewählt            318                  311                    7
+      1030 nicht gewählt            512                  472                   40
+      1031 nicht gewählt            590                  523                   67
+      1032 nicht gewählt            782                  771                   11
+      1033 nicht gewählt            149                  141                    8
+      1034 nicht gewählt           1287                 1270                   17
+      1035 nicht gewählt            763                  755                    8
+      1036 nicht gewählt            734                  730                    4
+      1037       gewählt            847                  798                   49
+      1038 nicht gewählt            166                  156                   10
+      1039 nicht gewählt            311                  309                    2
+      1040 nicht gewählt            499                  476                   23
+      1041 nicht gewählt            148                  146                    2
+      1042 nicht gewählt            144                  131                   13
+      1043 nicht gewählt            138                  137                    1
+      1044 nicht gewählt            311                  282                   29
+      1045 nicht gewählt            142                  141                    1
+      1046 nicht gewählt            446                  438                    8
+      1047 nicht gewählt            102                   81                   21
+      1048 nicht gewählt            372                  359                   13
+      1049 nicht gewählt            416                  406                   10
+      1050 nicht gewählt            189                  166                   23
+      1051 nicht gewählt            118                  113                    5
+      1052       gewählt            600                  475                  125
+      1053 nicht gewählt            144                  142                    2
+      1054       gewählt            717                  544                  173
+      1055       gewählt           1415                 1350                   65
+      1056 nicht gewählt             94                   77                   17
+      1057 nicht gewählt            496                  459                   37
+      1058 nicht gewählt            158                  151                    7
+      1059 nicht gewählt           1371                 1332                   39
+      1060 nicht gewählt            420                  407                   13
+      1061 nicht gewählt            287                  285                    2
+      1062 nicht gewählt            757                  750                    7
+      1063 nicht gewählt            163                  156                    7
+      1064       gewählt            640                  507                  133
+      1065 nicht gewählt            122                  111                   11
+      1066 nicht gewählt             47                   40                    7
+      1067 nicht gewählt            631                  546                   85
+      1068 nicht gewählt            508                  488                   20
+      1069 nicht gewählt            307                  298                    9
+      1070 nicht gewählt            123                  117                    6
+      1071 nicht gewählt           1306                 1267                   39
+      1072 nicht gewählt            481                  472                    9
+      1073 nicht gewählt           1256                 1220                   36
+      1074 nicht gewählt            798                  785                   13
+      1075 nicht gewählt            534                  506                   28
+      1076       gewählt           1445                 1359                   86
+      1077 nicht gewählt             91                   77                   14
+      1078 nicht gewählt             85                   77                    8
+      1079 nicht gewählt            317                  289                   28
+      1080 nicht gewählt            284                  278                    6
+      1081 nicht gewählt            719                  714                    5
+      1082       gewählt            803                  783                   20
+                                             X14
+      1                                     <NA>
+      2                                     <NA>
+      3                                     <NA>
+      4                                     <NA>
+      5                                     <NA>
+      6                                     <NA>
+      7    Anteil Stimmen aus veränderten Listen
+      8                                   24.4 %
+      9                                   24.3 %
+      10                                  29.7 %
+      11                                  26.6 %
+      12                                  24.1 %
+      13                                  33.3 %
+      14                                  35.2 %
+      15                                  28.4 %
+      16                                  27.5 %
+      17                                  45.6 %
+      18                                  70.6 %
+      19                                  31.9 %
+      20                                  26.2 %
+      21                                  22.8 %
+      22                                  29.9 %
+      23                                  35.4 %
+      24                                  22.7 %
+      25                                  57.9 %
+      26                                  29.4 %
+      27                                  42.9 %
+      28                                  31.9 %
+      29                                    34 %
+      30                                  68.9 %
+      31                                  29.4 %
+      32                                  36.3 %
+      33                                  25.4 %
+      34                                  24.9 %
+      35                                    22 %
+      36                                  21.5 %
+      37                                  41.3 %
+      38                                   9.8 %
+      39                                  26.8 %
+      40                                  35.1 %
+      41                                  26.4 %
+      42                                  24.8 %
+      43                                  34.1 %
+      44                                    33 %
+      45                                  27.7 %
+      46                                  28.6 %
+      47                                    37 %
+      48                                  24.5 %
+      49                                  40.9 %
+      50                                  20.2 %
+      51                                  48.4 %
+      52                                  17.9 %
+      53                                  30.8 %
+      54                                  45.7 %
+      55                                  21.6 %
+      56                                  27.1 %
+      57                                  18.9 %
+      58                                  31.8 %
+      59                                  36.4 %
+      60                                  40.1 %
+      61                                  41.6 %
+      62                                  51.8 %
+      63                                  29.5 %
+      64                                  33.6 %
+      65                                  21.8 %
+      66                                    29 %
+      67                                  23.9 %
+      68                                  31.5 %
+      69                                  38.8 %
+      70                                  10.9 %
+      71                                  31.7 %
+      72                                  22.2 %
+      73                                  26.1 %
+      74                                  29.4 %
+      75                                  24.1 %
+      76                                  24.1 %
+      77                                  23.2 %
+      78                                  26.8 %
+      79                                  30.4 %
+      80                                  43.2 %
+      81                                  30.7 %
+      82                                  25.4 %
+      83                                  29.1 %
+      84                                  20.7 %
+      85                                  22.8 %
+      86                                    42 %
+      87                                  46.4 %
+      88                                  50.2 %
+      89                                  20.2 %
+      90                                  33.2 %
+      91                                  20.7 %
+      92                                  15.6 %
+      93                                  29.7 %
+      94                                  28.3 %
+      95                                  15.6 %
+      96                                  18.7 %
+      97                                  23.1 %
+      98                                  26.9 %
+      99                                  18.9 %
+      100                                 59.4 %
+      101                                 33.5 %
+      102                                 29.1 %
+      103                                 30.1 %
+      104                                 25.4 %
+      105                                 40.9 %
+      106                                 32.1 %
+      107                                 10.3 %
+      108                                 29.2 %
+      109                                 28.8 %
+      110                                 33.6 %
+      111                                 45.5 %
+      112                                 37.2 %
+      113                                 35.1 %
+      114                                 19.3 %
+      115                                 15.1 %
+      116                                 69.7 %
+      117                                 39.9 %
+      118                                 39.6 %
+      119                                 14.3 %
+      120                                 31.1 %
+      121                                 35.3 %
+      122                                 28.3 %
+      123                                 44.5 %
+      124                                 37.2 %
+      125                                 31.5 %
+      126                                 32.7 %
+      127                                 32.2 %
+      128                                 44.2 %
+      129                                 37.5 %
+      130                                   26 %
+      131                                 19.3 %
+      132                                 17.4 %
+      133                                 32.7 %
+      134                                 34.7 %
+      135                                 22.7 %
+      136                                 30.2 %
+      137                                 50.1 %
+      138                                 41.5 %
+      139                                 59.2 %
+      140                                 27.1 %
+      141                                 28.9 %
+      142                                 26.3 %
+      143                                 43.9 %
+      144                                 17.5 %
+      145                                 20.4 %
+      146                                 43.8 %
+      147                                 44.4 %
+      148                                 14.3 %
+      149                                 41.2 %
+      150                                 19.6 %
+      151                                 23.6 %
+      152                                 20.4 %
+      153                                 29.5 %
+      154                                 15.3 %
+      155                                 45.1 %
+      156                                 21.2 %
+      157                                 23.6 %
+      158                                 36.4 %
+      159                                 34.6 %
+      160                                 31.7 %
+      161                                 37.5 %
+      162                                 45.1 %
+      163                                 37.4 %
+      164                                 28.8 %
+      165                                 14.3 %
+      166                                 12.4 %
+      167                                 33.3 %
+      168                                 14.9 %
+      169                                 17.5 %
+      170                                 34.7 %
+      171                                 14.9 %
+      172                                 21.3 %
+      173                                 38.6 %
+      174                                 29.8 %
+      175                                 30.7 %
+      176                                 17.4 %
+      177                                 20.8 %
+      178                                 42.4 %
+      179                                 43.5 %
+      180                                 20.4 %
+      181                                 38.6 %
+      182                                 43.9 %
+      183                                 36.6 %
+      184                                 33.7 %
+      185                                 30.1 %
+      186                                 26.3 %
+      187                                 14.9 %
+      188                                 44.6 %
+      189                                 30.6 %
+      190                                 52.7 %
+      191                                 36.3 %
+      192                                 32.9 %
+      193                                 28.3 %
+      194                                 39.2 %
+      195                                 19.3 %
+      196                                 21.2 %
+      197                                 34.3 %
+      198                                 25.8 %
+      199                                 26.8 %
+      200                                 52.7 %
+      201                                 19.9 %
+      202                                 28.8 %
+      203                                 31.3 %
+      204                                 29.3 %
+      205                                 15.3 %
+      206                                 34.4 %
+      207                                 25.3 %
+      208                                 15.5 %
+      209                                 54.8 %
+      210                                 22.6 %
+      211                                   17 %
+      212                                 37.8 %
+      213                                 33.3 %
+      214                                   26 %
+      215                                 24.8 %
+      216                                 39.4 %
+      217                                 65.4 %
+      218                                 31.9 %
+      219                                 35.1 %
+      220                                 34.2 %
+      221                                 24.8 %
+      222                                 14.1 %
+      223                                 31.8 %
+      224                                   26 %
+      225                                 37.8 %
+      226                                 40.6 %
+      227                                   27 %
+      228                                 21.5 %
+      229                                 31.1 %
+      230                                 40.1 %
+      231                                 36.4 %
+      232                                 32.3 %
+      233                                 19.9 %
+      234                                 20.4 %
+      235                                 35.1 %
+      236                                 51.2 %
+      237                                 49.3 %
+      238                                 34.3 %
+      239                                 36.7 %
+      240                                 32.2 %
+      241                                 30.3 %
+      242                                 31.6 %
+      243                                   30 %
+      244                                 36.6 %
+      245                                 16.2 %
+      246                                 21.9 %
+      247                                 42.6 %
+      248                                   26 %
+      249                                 21.7 %
+      250                                 26.2 %
+      251                                 16.1 %
+      252                                   18 %
+      253                                 24.8 %
+      254                                 32.2 %
+      255                                 37.5 %
+      256                                 42.4 %
+      257                                 16.5 %
+      258                                 37.5 %
+      259                                 40.7 %
+      260                                   42 %
+      261                                 36.8 %
+      262                                 20.2 %
+      263                                 47.4 %
+      264                                 46.9 %
+      265                                   22 %
+      266                                 38.7 %
+      267                                 11.1 %
+      268                                   38 %
+      269                                 11.4 %
+      270                                 24.4 %
+      271                                 27.1 %
+      272                                   30 %
+      273                                 43.4 %
+      274                                   23 %
+      275                                 27.1 %
+      276                                   53 %
+      277                                 36.1 %
+      278                                 56.4 %
+      279                                 29.9 %
+      280                                 35.3 %
+      281                                 43.3 %
+      282                                 43.3 %
+      283                                 17.6 %
+      284                                 50.9 %
+      285                                 32.1 %
+      286                                 23.4 %
+      287                                   32 %
+      288                                 30.7 %
+      289                                 23.3 %
+      290                                 23.6 %
+      291                                 17.6 %
+      292                                 47.4 %
+      293                                 26.3 %
+      294                                 38.4 %
+      295                                   31 %
+      296                                 52.5 %
+      297                                 41.9 %
+      298                                 27.4 %
+      299                                 36.4 %
+      300                                 23.6 %
+      301                                 32.3 %
+      302                                 52.6 %
+      303                                 38.1 %
+      304                                 31.3 %
+      305                                 21.7 %
+      306                                 23.7 %
+      307                                 36.7 %
+      308                                 30.9 %
+      309                                 15.4 %
+      310                                 28.3 %
+      311                                 38.1 %
+      312                                 43.9 %
+      313                                 39.1 %
+      314                                 36.1 %
+      315                                   47 %
+      316                                 18.2 %
+      317                                 51.1 %
+      318                                 31.1 %
+      319                                 32.1 %
+      320                                 30.3 %
+      321                                 50.9 %
+      322                                 49.9 %
+      323                                 27.4 %
+      324                                 22.8 %
+      325                                 20.3 %
+      326                                  9.1 %
+      327                                 57.7 %
+      328                                   43 %
+      329                                 42.1 %
+      330                                 64.3 %
+      331                                 12.4 %
+      332                                 22.5 %
+      333                                 45.2 %
+      334                                 21.5 %
+      335                                 35.4 %
+      336                                 33.6 %
+      337                                 30.4 %
+      338                                 44.5 %
+      339                                 11.5 %
+      340                                 35.8 %
+      341                                 43.2 %
+      342                                 31.3 %
+      343                                 31.8 %
+      344                                 26.6 %
+      345                                 23.6 %
+      346                                   30 %
+      347                                 24.9 %
+      348                                   15 %
+      349                                 51.3 %
+      350                                 21.3 %
+      351                                 37.8 %
+      352                                 45.7 %
+      353                                 41.3 %
+      354                                 32.1 %
+      355                                 29.3 %
+      356                                 31.3 %
+      357                                 25.7 %
+      358                                   17 %
+      359                                 40.9 %
+      360                                 13.5 %
+      361                                   39 %
+      362                                 48.3 %
+      363                                   32 %
+      364                                 35.4 %
+      365                                 17.7 %
+      366                                 43.4 %
+      367                                 39.3 %
+      368                                 27.5 %
+      369                                 26.5 %
+      370                                 26.6 %
+      371                                 19.2 %
+      372                                 29.9 %
+      373                                 14.6 %
+      374                                 28.2 %
+      375                                 32.6 %
+      376                                 34.7 %
+      377                                 22.7 %
+      378                                 37.2 %
+      379                                   25 %
+      380                                 35.7 %
+      381                                 27.4 %
+      382                                 37.3 %
+      383                                 49.3 %
+      384                                   18 %
+      385                                 60.3 %
+      386                                 29.1 %
+      387                                 31.2 %
+      388                                 32.5 %
+      389                                 38.6 %
+      390                                   55 %
+      391                                 16.6 %
+      392                                 58.6 %
+      393                                 31.9 %
+      394                                 32.4 %
+      395                                   25 %
+      396                                 43.9 %
+      397                                 29.8 %
+      398                                   27 %
+      399                                 33.7 %
+      400                                 40.5 %
+      401                                 27.5 %
+      402                                 45.6 %
+      403                                 18.1 %
+      404                                 50.4 %
+      405                                   57 %
+      406                                 26.9 %
+      407                                 45.5 %
+      408                                 46.3 %
+      409                                 51.6 %
+      410                                 22.3 %
+      411                                 40.6 %
+      412                                   23 %
+      413                                 14.3 %
+      414                                 23.5 %
+      415                                 20.1 %
+      416                                 59.7 %
+      417                                 25.7 %
+      418                                 40.4 %
+      419                                   39 %
+      420                                 14.9 %
+      421                                 38.1 %
+      422                                 32.3 %
+      423                                 35.1 %
+      424                                 38.5 %
+      425                                 27.4 %
+      426                                 47.7 %
+      427                                 36.9 %
+      428                                 42.3 %
+      429                                 43.9 %
+      430                                 18.5 %
+      431                                 31.9 %
+      432                                 37.9 %
+      433                                 37.1 %
+      434                                 29.1 %
+      435                                 33.7 %
+      436                                 26.4 %
+      437                                 30.5 %
+      438                                 47.6 %
+      439                                 12.5 %
+      440                                 63.9 %
+      441                                 24.6 %
+      442                                 41.9 %
+      443                                 30.1 %
+      444                                 56.5 %
+      445                                 21.6 %
+      446                                 46.6 %
+      447                                 24.7 %
+      448                                 45.3 %
+      449                                   31 %
+      450                                 40.6 %
+      451                                 51.6 %
+      452                                 13.9 %
+      453                                 20.9 %
+      454                                 59.6 %
+      455                                 38.3 %
+      456                                 30.6 %
+      457                                 23.6 %
+      458                                 46.2 %
+      459                                 31.8 %
+      460                                   31 %
+      461                                 28.9 %
+      462                                 48.3 %
+      463                                 48.8 %
+      464                                 21.4 %
+      465                                 26.4 %
+      466                                 36.3 %
+      467                                   17 %
+      468                                 25.3 %
+      469                                 12.1 %
+      470                                 44.8 %
+      471                                 28.8 %
+      472                                 24.9 %
+      473                                 35.7 %
+      474                                 20.8 %
+      475                                 27.3 %
+      476                                 31.1 %
+      477                                 88.1 %
+      478                                 17.8 %
+      479                                 63.3 %
+      480                                 35.6 %
+      481                                 33.9 %
+      482                                 49.8 %
+      483                                 32.1 %
+      484                                 38.9 %
+      485                                 28.8 %
+      486                                 14.3 %
+      487                                 29.3 %
+      488                                 26.1 %
+      489                                 66.5 %
+      490                                 23.4 %
+      491                                 18.6 %
+      492                                   24 %
+      493                                 28.9 %
+      494                                 29.6 %
+      495                                 31.3 %
+      496                                 42.1 %
+      497                                 55.9 %
+      498                                 50.5 %
+      499                                 39.6 %
+      500                                 24.3 %
+      501                                 36.4 %
+      502                                 44.4 %
+      503                                 38.2 %
+      504                                 35.7 %
+      505                                 50.7 %
+      506                                 40.1 %
+      507                                 86.1 %
+      508                                   41 %
+      509                                 37.5 %
+      510                                 48.6 %
+      511                                 42.4 %
+      512                                 33.8 %
+      513                                 24.8 %
+      514                                 86.1 %
+      515                                 45.5 %
+      516                                   28 %
+      517                                 85.1 %
+      518                                 25.6 %
+      519                                   38 %
+      520                                 33.9 %
+      521                                 32.8 %
+      522                                 25.6 %
+      523                                 29.3 %
+      524                                 29.8 %
+      525                                 51.4 %
+      526                                 35.9 %
+      527                                 50.5 %
+      528                                 39.5 %
+      529                                 37.8 %
+      530                                 27.5 %
+      531                                 41.2 %
+      532                                 32.4 %
+      533                                 29.6 %
+      534                                 38.4 %
+      535                                 21.6 %
+      536                                 14.4 %
+      537                                   32 %
+      538                                 75.5 %
+      539                                 41.9 %
+      540                                 77.7 %
+      541                                 32.2 %
+      542                                 22.3 %
+      543                                 29.1 %
+      544                                 28.3 %
+      545                                 25.9 %
+      546                                 36.4 %
+      547                                 17.8 %
+      548                                 31.5 %
+      549                                 39.7 %
+      550                                 25.8 %
+      551                                   45 %
+      552                                 40.3 %
+      553                                 13.3 %
+      554                                 26.6 %
+      555                                   24 %
+      556                                 34.3 %
+      557                                 37.1 %
+      558                                 31.5 %
+      559                                 40.7 %
+      560                                   31 %
+      561                                 33.1 %
+      562                                 47.3 %
+      563                                 19.6 %
+      564                                 41.5 %
+      565                                 35.4 %
+      566                                 21.2 %
+      567                                 35.4 %
+      568                                 34.9 %
+      569                                 33.5 %
+      570                                 26.1 %
+      571                                 66.5 %
+      572                                 34.8 %
+      573                                 34.3 %
+      574                                   47 %
+      575                                 38.9 %
+      576                                 30.6 %
+      577                                 27.9 %
+      578                                 38.6 %
+      579                                 22.7 %
+      580                                   70 %
+      581                                 54.4 %
+      582                                   31 %
+      583                                 36.2 %
+      584                                 34.2 %
+      585                                 36.9 %
+      586                                 34.7 %
+      587                                 31.8 %
+      588                                 43.6 %
+      589                                 31.1 %
+      590                                 18.6 %
+      591                                 21.6 %
+      592                                 17.1 %
+      593                                 23.9 %
+      594                                   28 %
+      595                                   25 %
+      596                                   12 %
+      597                                   28 %
+      598                                 33.1 %
+      599                                 29.8 %
+      600                                 15.4 %
+      601                                 38.2 %
+      602                                 17.6 %
+      603                                 62.5 %
+      604                                 41.5 %
+      605                                 29.9 %
+      606                                 21.8 %
+      607                                   35 %
+      608                                 28.3 %
+      609                                 17.9 %
+      610                                 34.7 %
+      611                                 37.1 %
+      612                                 37.4 %
+      613                                 30.3 %
+      614                                 27.4 %
+      615                                 40.9 %
+      616                                   41 %
+      617                                 32.2 %
+      618                                 20.9 %
+      619                                 31.5 %
+      620                                   23 %
+      621                                 43.2 %
+      622                                 24.3 %
+      623                                   42 %
+      624                                 34.9 %
+      625                                 34.5 %
+      626                                 38.5 %
+      627                                 14.3 %
+      628                                 28.1 %
+      629                                 34.8 %
+      630                                 38.2 %
+      631                                 33.5 %
+      632                                 30.4 %
+      633                                 50.3 %
+      634                                 25.2 %
+      635                                 36.9 %
+      636                                 40.7 %
+      637                                 32.7 %
+      638                                 23.8 %
+      639                                 26.2 %
+      640                                 32.4 %
+      641                                 30.2 %
+      642                                 32.5 %
+      643                                 28.8 %
+      644                                 38.5 %
+      645                                 29.6 %
+      646                                 20.7 %
+      647                                   50 %
+      648                                 35.8 %
+      649                                 56.5 %
+      650                                 32.4 %
+      651                                 43.4 %
+      652                                 38.8 %
+      653                                 49.4 %
+      654                                 18.2 %
+      655                                 20.3 %
+      656                                   28 %
+      657                                   27 %
+      658                                 42.3 %
+      659                                 32.3 %
+      660                                 19.4 %
+      661                                 36.8 %
+      662                                 20.5 %
+      663                                 36.6 %
+      664                                 57.7 %
+      665                                 37.9 %
+      666                                 30.9 %
+      667                                 35.1 %
+      668                                 38.6 %
+      669                                 41.3 %
+      670                                 34.4 %
+      671                                 30.8 %
+      672                                 21.6 %
+      673                                 29.2 %
+      674                                 39.2 %
+      675                                 36.7 %
+      676                                 26.2 %
+      677                                 27.5 %
+      678                                 22.8 %
+      679                                 43.2 %
+      680                                 29.2 %
+      681                                 34.4 %
+      682                                 36.7 %
+      683                                 42.8 %
+      684                                 23.2 %
+      685                                 20.3 %
+      686                                 36.1 %
+      687                                 31.5 %
+      688                                 35.3 %
+      689                                 74.1 %
+      690                                 48.7 %
+      691                                 37.1 %
+      692                                 32.5 %
+      693                                 30.8 %
+      694                                 19.3 %
+      695                                 26.3 %
+      696                                 14.3 %
+      697                                 55.2 %
+      698                                 44.4 %
+      699                                 34.3 %
+      700                                   34 %
+      701                                 30.1 %
+      702                                 41.6 %
+      703                                 35.1 %
+      704                                 43.6 %
+      705                                 46.5 %
+      706                                   33 %
+      707                                 41.5 %
+      708                                 60.6 %
+      709                                 36.6 %
+      710                                 26.3 %
+      711                                 27.1 %
+      712                                 29.9 %
+      713                                 22.1 %
+      714                                 24.8 %
+      715                                 24.6 %
+      716                                 12.6 %
+      717                                 40.4 %
+      718                                 47.8 %
+      719                                 23.2 %
+      720                                 28.1 %
+      721                                   23 %
+      722                                 40.7 %
+      723                                 68.1 %
+      724                                   32 %
+      725                                 45.6 %
+      726                                 36.1 %
+      727                                 30.6 %
+      728                                 48.5 %
+      729                                 35.9 %
+      730                                 40.1 %
+      731                                 29.8 %
+      732                                 33.2 %
+      733                                   46 %
+      734                                 37.8 %
+      735                                 45.3 %
+      736                                 36.4 %
+      737                                 27.6 %
+      738                                 59.3 %
+      739                                 39.1 %
+      740                                 41.5 %
+      741                                 34.3 %
+      742                                 33.8 %
+      743                                   29 %
+      744                                 23.9 %
+      745                                 27.6 %
+      746                                 34.2 %
+      747                                   27 %
+      748                                 40.7 %
+      749                                 20.6 %
+      750                                 29.2 %
+      751                                 16.8 %
+      752                                 26.4 %
+      753                                 32.9 %
+      754                                 26.8 %
+      755                                 24.3 %
+      756                                 46.8 %
+      757                                   23 %
+      758                                 31.5 %
+      759                                 43.8 %
+      760                                 34.8 %
+      761                                 22.2 %
+      762                                 23.6 %
+      763                                 41.7 %
+      764                                 15.2 %
+      765                                 29.4 %
+      766                                 29.5 %
+      767                                 36.3 %
+      768                                 93.5 %
+      769                                 26.1 %
+      770                                   33 %
+      771                                 28.4 %
+      772                                 20.1 %
+      773                                   32 %
+      774                                 16.9 %
+      775                                 23.9 %
+      776                                   26 %
+      777                                 17.7 %
+      778                                 30.6 %
+      779                                 29.7 %
+      780                                 34.1 %
+      781                                 21.8 %
+      782                                 28.6 %
+      783                                 26.9 %
+      784                                 30.4 %
+      785                                 33.4 %
+      786                                 32.8 %
+      787                                 16.1 %
+      788                                 28.3 %
+      789                                 35.4 %
+      790                                 33.8 %
+      791                                 33.1 %
+      792                                 25.4 %
+      793                                   27 %
+      794                                 21.5 %
+      795                                 43.3 %
+      796                                 30.6 %
+      797                                  9.6 %
+      798                                 15.8 %
+      799                                 38.8 %
+      800                                 41.2 %
+      801                                 17.5 %
+      802                                 19.1 %
+      803                                 28.8 %
+      804                                   39 %
+      805                                 59.4 %
+      806                                 28.2 %
+      807                                 36.2 %
+      808                                 24.5 %
+      809                                 24.4 %
+      810                                 30.1 %
+      811                                 45.9 %
+      812                                 41.1 %
+      813                                 35.4 %
+      814                                 35.8 %
+      815                                 29.9 %
+      816                                   24 %
+      817                                 57.3 %
+      818                                 29.1 %
+      819                                 26.8 %
+      820                                 17.7 %
+      821                                   38 %
+      822                                 22.6 %
+      823                                 43.2 %
+      824                                 41.1 %
+      825                                 31.6 %
+      826                                 36.6 %
+      827                                 41.4 %
+      828                                 33.9 %
+      829                                 34.4 %
+      830                                 27.8 %
+      831                                   33 %
+      832                                 28.7 %
+      833                                 32.3 %
+      834                                 31.4 %
+      835                                   30 %
+      836                                   34 %
+      837                                 21.9 %
+      838                                 28.5 %
+      839                                   21 %
+      840                                 24.8 %
+      841                                 57.1 %
+      842                                 34.4 %
+      843                                 26.7 %
+      844                                 38.3 %
+      845                                 17.5 %
+      846                                 27.9 %
+      847                                 42.9 %
+      848                                 26.4 %
+      849                                 22.6 %
+      850                                 30.8 %
+      851                                 28.8 %
+      852                                 30.8 %
+      853                                 24.8 %
+      854                                 39.4 %
+      855                                 31.4 %
+      856                                 30.8 %
+      857                                 26.3 %
+      858                                   29 %
+      859                                 23.3 %
+      860                                 25.8 %
+      861                                 11.9 %
+      862                                 32.4 %
+      863                                 42.1 %
+      864                                 28.1 %
+      865                                 26.3 %
+      866                                 30.3 %
+      867                                 37.1 %
+      868                                 34.2 %
+      869                                 50.7 %
+      870                                 43.4 %
+      871                                 28.4 %
+      872                                 28.2 %
+      873                                 33.6 %
+      874                                 21.9 %
+      875                                 30.7 %
+      876                                 23.5 %
+      877                                 32.9 %
+      878                                 29.4 %
+      879                                 35.6 %
+      880                                 54.4 %
+      881                                 33.9 %
+      882                                 51.4 %
+      883                                 32.5 %
+      884                                 19.6 %
+      885                                   23 %
+      886                                 13.1 %
+      887                                 24.3 %
+      888                                 40.2 %
+      889                                 27.5 %
+      890                                 29.3 %
+      891                                 43.2 %
+      892                                 26.5 %
+      893                                   33 %
+      894                                 10.9 %
+      895                                 44.5 %
+      896                                 24.6 %
+      897                                 54.9 %
+      898                                 37.2 %
+      899                                 35.8 %
+      900                                 33.3 %
+      901                                 40.1 %
+      902                                 38.1 %
+      903                                 30.3 %
+      904                                 47.9 %
+      905                                 43.9 %
+      906                                 22.1 %
+      907                                 35.8 %
+      908                                 35.3 %
+      909                                 42.6 %
+      910                                 30.1 %
+      911                                 41.6 %
+      912                                 29.4 %
+      913                                 29.9 %
+      914                                 30.1 %
+      915                                 30.3 %
+      916                                 64.7 %
+      917                                 28.6 %
+      918                                 24.4 %
+      919                                 31.9 %
+      920                                 26.8 %
+      921                                 29.7 %
+      922                                 31.8 %
+      923                                 43.8 %
+      924                                 26.8 %
+      925                                 28.6 %
+      926                                 19.3 %
+      927                                   41 %
+      928                                 34.5 %
+      929                                 16.3 %
+      930                                 46.3 %
+      931                                 24.5 %
+      932                                 17.9 %
+      933                                 39.2 %
+      934                                 27.3 %
+      935                                 44.9 %
+      936                                 31.6 %
+      937                                 33.2 %
+      938                                 32.6 %
+      939                                 36.7 %
+      940                                 25.8 %
+      941                                   21 %
+      942                                 27.6 %
+      943                                 27.1 %
+      944                                 14.6 %
+      945                                 24.6 %
+      946                                 34.7 %
+      947                                 30.6 %
+      948                                 47.4 %
+      949                                   26 %
+      950                                 49.1 %
+      951                                 31.1 %
+      952                                 29.6 %
+      953                                 31.6 %
+      954                                 33.1 %
+      955                                 26.8 %
+      956                                 32.3 %
+      957                                 22.7 %
+      958                                 33.7 %
+      959                                   38 %
+      960                                 33.5 %
+      961                                 23.5 %
+      962                                 27.2 %
+      963                                 26.5 %
+      964                                 29.1 %
+      965                                 37.7 %
+      966                                 36.2 %
+      967                                 31.7 %
+      968                                 33.7 %
+      969                                 25.9 %
+      970                                 29.5 %
+      971                                 21.2 %
+      972                                 16.8 %
+      973                                 14.4 %
+      974                                 21.7 %
+      975                                 18.8 %
+      976                                 27.7 %
+      977                                 38.3 %
+      978                                 27.1 %
+      979                                   32 %
+      980                                 41.6 %
+      981                                 18.9 %
+      982                                 37.5 %
+      983                                 29.9 %
+      984                                 34.1 %
+      985                                 33.2 %
+      986                                 33.7 %
+      987                                 32.5 %
+      988                                 13.5 %
+      989                                 37.8 %
+      990                                 29.5 %
+      991                                 32.1 %
+      992                                 32.7 %
+      993                                   26 %
+      994                                 48.8 %
+      995                                 33.7 %
+      996                                 17.3 %
+      997                                 29.9 %
+      998                                 19.7 %
+      999                                 27.4 %
+      1000                                34.5 %
+      1001                                35.1 %
+      1002                                  23 %
+      1003                                26.1 %
+      1004                                26.7 %
+      1005                                15.4 %
+      1006                                23.4 %
+      1007                                  36 %
+      1008                                42.9 %
+      1009                                36.8 %
+      1010                                  33 %
+      1011                                37.2 %
+      1012                                22.9 %
+      1013                                28.5 %
+      1014                                38.6 %
+      1015                                32.9 %
+      1016                                18.5 %
+      1017                                31.5 %
+      1018                                60.2 %
+      1019                                39.8 %
+      1020                                50.9 %
+      1021                                18.3 %
+      1022                                25.4 %
+      1023                                36.7 %
+      1024                                30.1 %
+      1025                                27.3 %
+      1026                                27.2 %
+      1027                                  42 %
+      1028                                41.6 %
+      1029                                26.7 %
+      1030                                31.8 %
+      1031                                40.8 %
+      1032                                20.3 %
+      1033                                24.2 %
+      1034                                24.9 %
+      1035                                18.3 %
+      1036                                15.1 %
+      1037                                26.4 %
+      1038                                31.9 %
+      1039                                25.1 %
+      1040                                34.3 %
+      1041                                23.6 %
+      1042                                  16 %
+      1043                                12.3 %
+      1044                                22.2 %
+      1045                                20.4 %
+      1046                                34.5 %
+      1047                                31.4 %
+      1048                                21.5 %
+      1049                                29.8 %
+      1050                                40.2 %
+      1051                                10.2 %
+      1052                                51.3 %
+      1053                                  16 %
+      1054                                51.3 %
+      1055                                31.7 %
+      1056                                25.5 %
+      1057                                29.6 %
+      1058                                28.5 %
+      1059                                29.5 %
+      1060                                30.5 %
+      1061                                18.8 %
+      1062                                17.7 %
+      1063                                30.7 %
+      1064                                48.8 %
+      1065                                13.1 %
+      1066                                25.5 %
+      1067                                44.7 %
+      1068                                35.4 %
+      1069                                24.1 %
+      1070                                13.8 %
+      1071                                  26 %
+      1072                                31.8 %
+      1073                                  23 %
+      1074                                21.9 %
+      1075                                38.6 %
+      1076                                33.1 %
+      1077                                23.1 %
+      1078                                17.6 %
+      1079                                23.7 %
+      1080                                  18 %
+      1081                                13.4 %
+      1082                                22.4 %
 

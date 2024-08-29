@@ -11,10 +11,11 @@ arrange_for_download <- function(filtered_data, output_target = c("csv", "xlsx")
   pre_arranged <- filtered_data |>
     select(-all_of("GebJ")) |>
     mutate(BisherLang = if_else(Bisher == 1, "bisher", "neu")) |>
-    rename(BisherSort = Bisher) |>
+    rename(BisherSort = Bisher,
+           `Liste Bezeichnung` = ListeBezeichnung) |>
     select(
       all_of(c(
-        "Wahljahr", "Name", "Alter", "Titel", "Beruf", "Liste", "ListeBezeichnung",
+        "Wahljahr", "Name", "Alter", "Titel", "Beruf", "Liste", "Liste Bezeichnung",
         "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort"
       )),
       everything()
@@ -25,7 +26,8 @@ arrange_for_download <- function(filtered_data, output_target = c("csv", "xlsx")
     return(pre_arranged |> rename_with(\(x) stringr::str_remove_all(x, " ")))
   } else if (output_target == "xlsx") {
     # for excel, remove "Beruf" as string encoding corrupts excel file
-    return(pre_arranged |> select(-Beruf))
+    return(pre_arranged |>
+             select(-Beruf, -contains("Sort")))
   }
 
   # stuff I have tried to make the excel work
