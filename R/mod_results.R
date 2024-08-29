@@ -22,7 +22,6 @@ mod_results_ui <- function(id) {
       type = 7,
       color = "#0F05A0"
     ),
-
     conditionalPanel(
       "input.show_details > 0",
       mod_details_ui(ns("details_1")),

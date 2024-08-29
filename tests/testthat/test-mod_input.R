@@ -13,8 +13,10 @@ testServer(
     )
     # Check returned
     res <- session$returned
-    expect_named(res, c("filtered_data", "df_details_prefiltered",
-                        "has_changed", "current_inputs"))
+    expect_named(res, c(
+      "filtered_data", "df_details_prefiltered",
+      "has_changed", "current_inputs"
+    ))
 
     # make sure output assignment worked
     expect_identical(res$filtered_data(), filtered_data())
@@ -25,8 +27,10 @@ testServer(
     expect_s3_class(filtered_data(), "data.frame")
     expect_s3_class(df_details_prefiltered(), "data.frame")
     expect_type(res$current_inputs, "list")
-    expect_named(res$current_inputs,
-                 c("year", "kreis", "liste"))
+    expect_named(
+      res$current_inputs,
+      c("year", "kreis", "liste")
+    )
     expect_true(is.reactive(res$current_inputs$year))
     expect_true(is.reactive(res$current_inputs$kreis))
     expect_true(is.reactive(res$current_inputs$liste))
