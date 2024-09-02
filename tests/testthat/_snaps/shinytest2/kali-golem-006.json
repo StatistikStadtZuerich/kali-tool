@@ -20,20 +20,67 @@
     "results_1-table__reactable__sorted": null
   },
   "output": {
-    "results_1-details_1-name_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
-      ]
-    },
+    "results_1-details_1-name_candidate": "<br><h2>Jedidjah Bollag (SVP)<\/h2><hr>",
     "results_1-details_1-table_candidate": {
-      "message": "",
-      "call": "NULL",
-      "type": [
-        "shiny.silent.error",
-        "validation"
+      "x": {
+        "tag": {
+          "name": "Reactable",
+          "attribs": {
+            "data": {
+              "Detailinformationen zu den erhaltenen Stimmen": [
+                "Wahlresultat",
+                "Anzahl Stimmen",
+                "Parteieigene Stimmen",
+                "Parteifremde Stimmen",
+                "Anteil Stimmen aus veränderten Listen"
+              ],
+              "Wert": [
+                "gewählt",
+                "1677",
+                "1505",
+                "172",
+                "34.3 %"
+              ]
+            },
+            "columns": [
+              {
+                "id": "Detailinformationen zu den erhaltenen Stimmen",
+                "name": "Detailinformationen zu den erhaltenen Stimmen",
+                "type": "character",
+                "minWidth": 50,
+                "align": "left"
+              },
+              {
+                "id": "Wert",
+                "name": "Wert",
+                "type": "character",
+                "minWidth": 50,
+                "align": "left"
+              }
+            ],
+            "paginationType": "simple",
+            "highlight": true,
+            "outlined": true,
+            "theme": {
+              "borderColor": "#DEDEDE"
+            },
+            "dataKey": "ecd6578c309c90da9e30721e254cfc2b",
+            "static": false
+          },
+          "children": [
+
+          ]
+        },
+        "class": "reactR_markup"
+      },
+      "evals": [
+
+      ],
+      "jsHooks": [
+
+      ],
+      "deps": [
+
       ]
     },
     "results_1-table": {

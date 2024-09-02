@@ -82,8 +82,8 @@ mod_results_server <- function(id, filtered_data, prefiltered_details, input_cha
       req(input$show_details > 0)
       mod_details_server(
         "details_1",
-        data_person,
-        prefiltered_details
+        data_person(),
+        prefiltered_details()
       )
     }) |>
       bindEvent(input$show_details)

@@ -18,11 +18,11 @@ df_prefiltered <- create_prefiltered_data(
 testServer(
   mod_details_server,
   # Add here your module params
-  args = list(reactive(data_person), reactive(df_prefiltered)),
+  args = list(data_person, df_prefiltered),
   {
     ns <- session$ns
     # check outputs are there
-    expect_true(stringr::str_detect(output$name_candidate, data_person()$Name))
+    expect_true(stringr::str_detect(output$name_candidate, data_person$Name))
 
     expect_true(stringr::str_detect(
       output$table_candidate,
