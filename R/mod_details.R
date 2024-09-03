@@ -50,9 +50,9 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
 
     # create and send data for bar chart
     # observe({
-      person <- create_data_for_chart(df_details_prefiltered, data_person)
-      id <- paste0("#", ns("sszvis-chart"))
-      update_chart(list("data" = person, "container_id" = id), "update_data", session)
+    person <- create_data_for_chart(df_details_prefiltered, data_person)
+    id <- paste0("#", ns("sszvis-chart"))
+    update_chart(list("data" = person, "container_id" = id), "update_data", session)
     # }) |>
     #   bindEvent(df_details_prefiltered(), data_person())
   })
