@@ -31,8 +31,6 @@ flowchart LR;
   input-module-- filtered_data, has_changed -->results-module
   input-module-- current_inputs -->main-server
   main-server-- fn_no_ext, fct_create_excel, excel_args -->download-module
-  results-module-- data_download -->download-module
-  results-module-- data_person -->main-server
   subgraph results-module
   details-module
   end
