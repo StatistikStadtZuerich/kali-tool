@@ -22,13 +22,6 @@ testServer(
     ns <- session$ns
     initial_row <- 3
     session$setInputs("show_details" = initial_row)
-    # Check returned
-    res <- session$returned
-    expect_named(res, c("data_person", "data_download"))
-
-    # make sure output assignment worked
-    expect_identical(res$data_person(), data_person())
-    expect_identical(res$data_download(), data_download())
 
     # check output types
     expect_s3_class(data_person(), "data.frame")

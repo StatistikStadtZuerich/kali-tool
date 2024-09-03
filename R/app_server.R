@@ -8,8 +8,8 @@ app_server <- function(input, output, session) {
   # input module returns filtered data
   filtered_input <- mod_input_server("input_module")
 
-  # main results module returns further filtered data according to click
-  info_single_candidate <- mod_results_server(
+  # main results module
+  mod_results_server(
     "results_1",
     filtered_input$filtered_data,
     filtered_input$df_details_prefiltered,

@@ -87,11 +87,6 @@ mod_results_server <- function(id, filtered_data, prefiltered_details, input_cha
       )
     }) |>
       bindEvent(input$show_details)
-
-    return(list(
-      "data_person" = data_person,
-      "data_download" = data_download
-    ))
   })
 }
 
