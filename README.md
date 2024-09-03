@@ -6,25 +6,16 @@ The KALI application on the [Website of Statistik Stadt Zürich](https://www.sta
 The data is obtained from the Open Data portal of the city of Zurich and is available [here](https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc).
 
 # Architektur
+
+flow diagram with flow package
+![flow](dev/flow_diagram.png)
+
 ```mermaid
 flowchart LR;
-  f1[F1 select name]:::filter --> button[button start]:::button
-  f2[F2 select gender]:::filter --> button
-  f3[F3 select year of elections]:::filter --> button
-  f4[F4 select electoral district]:::filter --> button
-  f5[F5 select party list]:::filter --> button
-  f6[F6 select electoral status]:::filter --> button
-  button --> output1[(filtered data = \nF1 + F2 + F3 + F4 + F5 + F6)]:::data
-  output1 --> results1[[Resultat candidates]]:::result
-  results1 --> f7[F7 select candidate]:::filter
-  f7 --> output2[(output1 + F7)]:::data
-  output2 --> results2[["Result candidate \n(show and display \ndetails on votes \nreceived)"]]:::result
-  output2 --> downloads{Downloads}:::download
-  
-  classDef filter fill:#ffff2f,stroke:#ffff2f,color:#000000;
-  classDef button fill:#695eff,stroke:#695eff,color:#000000;
-  classDef data fill:#edade6,stroke:#acb0b0,color:#000000;
-  classDef result fill:#59e6f0,stroke:#acb0b0,color:#000000;
-  classDef download fill:#43cc4c,stroke:#43cc4c,color:#000000;
+  input-module-- filtered_data, df_details_prefiltered, has_changed ---results_module
+  input-module-- current_inputs ---main_server
+  main_server-- fn_no_ext, fct_create_excel, excel_args ---download-module
+  results-module-- data_download ---download_module
+  results-module-- data_person ---main_server
 ```
 
