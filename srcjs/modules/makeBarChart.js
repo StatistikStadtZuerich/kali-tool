@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+function makeBarChart(d3, sszvis) {
 "use strict";
 
 /*
@@ -229,7 +229,7 @@ function render(state) {
     return state.selected.indexOf(d) >= 0;
   }
 
-/*
+  /*
 Shiny -> JS
 
 We are listening for an "update_data" event sent from the server-side of the
@@ -249,4 +249,7 @@ Shiny.addCustomMessageHandler("update_data", function (message) {
     throw e;
   }
 });
-});
+
+};
+
+export {makeBarChart};
