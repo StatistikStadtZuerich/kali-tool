@@ -7,15 +7,29 @@ The data is obtained from the Open Data portal of the city of Zurich and is avai
 
 # Architektur
 
-flow diagram with flow package
+There are several modules:
+
+- an input module, which contains all the input widgets, and returns data filtered according to those inputs, as well as some current inputs (the latter for properly naming the downloads)
+- a results module, which takes the filtered data and shows a reactable
+- a details module, which is nested within the results module, which shows the second table and the graph
+- a download module
+
+Different views on this architecture are shown below.
+
+## flow diagram with flow package
 ![flow](dev/flow_diagram.png)
+
+## Module view
 
 ```mermaid
 flowchart LR;
-  input-module-- filtered_data, df_details_prefiltered, has_changed ---results_module
-  input-module-- current_inputs ---main_server
-  main_server-- fn_no_ext, fct_create_excel, excel_args ---download-module
-  results-module-- data_download ---download_module
-  results-module-- data_person ---main_server
+  input-module-- filtered_data, df_details_prefiltered, has_changed ---results-module
+  input-module-- current_inputs ---main-server
+  main-server-- fn_no_ext, fct_create_excel, excel_args ---download-module
+  results-module-- data_download ---download-module
+  results-module-- data_person ---main-server
+  subgraph results-module
+  details-module
+  end
 ```
 
