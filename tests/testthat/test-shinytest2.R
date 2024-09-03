@@ -22,7 +22,8 @@ test_that("check resetting of list choice", {
   # make main results appear
   app$click("ActionButtonId")
   # click on row
-  app$set_inputs(`results_1-show_details` = 6, allow_no_input_binding_ = TRUE, priority_ = "event")
+  app$set_inputs(`results_1-show_details` = 6,
+                 priority_ = "event")
 
   # check all values
   app$expect_values()
@@ -34,7 +35,8 @@ test_that("check resetting of list choice", {
   app$expect_values()
 
   # click another row
-  app$set_inputs(`results_1-show_details` = 1, allow_no_input_binding_ = TRUE, priority_ = "event")
+  app$set_inputs(`results_1-show_details` = 1,
+                 priority_ = "event")
   app$expect_values()
 
   # modify more inputs
