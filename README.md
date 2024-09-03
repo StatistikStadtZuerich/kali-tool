@@ -35,6 +35,7 @@ flowchart LR;
   details-module
   end
   input-module-- df_details_prefiltered -->details-module
+  input-module-- filtered_data -->download-module
 ```
 
 everything goes through the main server, but it is mentioned separately as some of the inputs for the download module are prepared there
