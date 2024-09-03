@@ -12,3 +12,10 @@ $run_dev.*
 .gitlab-ci.yml
 .lintr
 _\.new\.png$
+^srcjs$
+^node_modules$
+^package\.json$
+^package-lock\.json$
+^webpack\.dev\.js$
+^webpack\.prod\.js$
+^webpack\.common\.js$
