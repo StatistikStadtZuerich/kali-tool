@@ -40,3 +40,6 @@ flowchart LR;
 
 everything goes through the main server, but it is mentioned separately as some of the inputs for the download module are prepared there
 
+# JS dependencies
+
+these are handled with packer (which uses webpack)
