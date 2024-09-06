@@ -6,25 +6,37 @@ The KALI application on the [Website of Statistik Stadt Zürich](https://www.sta
 The data is obtained from the Open Data portal of the city of Zurich and is available [here](https://data.stadt-zuerich.ch/dataset?q=Kandidierende&sort=score+desc%2C+date_last_modified+desc).
 
 # Architektur
+
+There are several modules:
+
+- an **input module**, which contains all the input widgets, and returns data filtered according to those inputs, as well as some current inputs (the latter for properly naming the downloads)
+- a **results module**, which takes the filtered data and shows a reactable
+- a **details module**, which is nested within the results module, which shows the second table and the graph
+  - this takes only static inputs, as it is only called when a row is clicked
+  - it is only shown based on the row-click value with a conditional panel
+- a **download module**
+  - inputs for it come from the results module plus some (filename, excel arguments) are prepared in the main server
+  - inputs are static
+  - it also takes a function and an argument to it for the excel download
+
+Different views on this architecture are shown below.
+
+## flow diagram with flow package
+![flow](dev/flow_diagram.png)
+
+## Module view
+
 ```mermaid
 flowchart LR;
-  f1[F1 select name]:::filter --> button[button start]:::button
-  f2[F2 select gender]:::filter --> button
-  f3[F3 select year of elections]:::filter --> button
-  f4[F4 select electoral district]:::filter --> button
-  f5[F5 select party list]:::filter --> button
-  f6[F6 select electoral status]:::filter --> button
-  button --> output1[(filtered data = \nF1 + F2 + F3 + F4 + F5 + F6)]:::data
-  output1 --> results1[[Resultat candidates]]:::result
-  results1 --> f7[F7 select candidate]:::filter
-  f7 --> output2[(output1 + F7)]:::data
-  output2 --> results2[["Result candidate \n(show and display \ndetails on votes \nreceived)"]]:::result
-  output2 --> downloads{Downloads}:::download
-  
-  classDef filter fill:#ffff2f,stroke:#ffff2f,color:#000000;
-  classDef button fill:#695eff,stroke:#695eff,color:#000000;
-  classDef data fill:#edade6,stroke:#acb0b0,color:#000000;
-  classDef result fill:#59e6f0,stroke:#acb0b0,color:#000000;
-  classDef download fill:#43cc4c,stroke:#43cc4c,color:#000000;
+  input-module-- filtered_data, has_changed -->results-module
+  input-module-- current_inputs -->main-server
+  main-server-- fn_no_ext, fct_create_excel, excel_args -->download-module
+  subgraph results-module
+  details-module
+  end
+  input-module-- df_details_prefiltered -->details-module
+  input-module-- filtered_data -->download-module
 ```
+
+everything goes through the main server, but it is mentioned separately as some of the inputs for the download module are prepared there
 
