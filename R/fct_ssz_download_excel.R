@@ -6,7 +6,6 @@
 #' @return NA
 #' @noRd
 ssz_download_excel <- function(file, excel_args) {
-
   data_for_download <- excel_args[[1]]
   string_choice <- excel_args[[2]]
 

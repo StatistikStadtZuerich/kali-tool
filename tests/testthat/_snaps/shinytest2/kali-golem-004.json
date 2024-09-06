@@ -1,28 +1,27 @@
 {
   "input": {
     "ActionButtonId": 1,
-    "details_1-table_candidate__reactable__page": 1,
-    "details_1-table_candidate__reactable__pageSize": 10,
-    "details_1-table_candidate__reactable__pages": 1,
-    "details_1-table_candidate__reactable__selected": null,
-    "details_1-table_candidate__reactable__sorted": null,
     "input_module-gender_radio_button": "Alle",
     "input_module-select_kreis": "Ganze Stadt",
     "input_module-select_liste": "Alle Listen",
     "input_module-select_year": "2010",
     "input_module-suchfeld": "",
     "input_module-wahlstatus_radio_button": "gewählt",
+    "results_1-details_1-table_candidate__reactable__page": 1,
+    "results_1-details_1-table_candidate__reactable__pageSize": 10,
+    "results_1-details_1-table_candidate__reactable__pages": 1,
+    "results_1-details_1-table_candidate__reactable__selected": null,
+    "results_1-details_1-table_candidate__reactable__sorted": null,
     "results_1-show_details": 1,
     "results_1-table__reactable__page": 1,
     "results_1-table__reactable__pageSize": 10,
     "results_1-table__reactable__pages": 13,
     "results_1-table__reactable__selected": null,
-    "results_1-table__reactable__sorted": null,
-    "show_details": 1
+    "results_1-table__reactable__sorted": null
   },
   "output": {
-    "details_1-name_candidate": "<br><h2>Jedidjah Bollag (SVP)<\/h2><hr>",
-    "details_1-table_candidate": {
+    "results_1-details_1-name_candidate": "<br><h2>Jedidjah Bollag (SVP)<\/h2><hr>",
+    "results_1-details_1-table_candidate": {
       "x": {
         "tag": {
           "name": "Reactable",

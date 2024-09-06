@@ -31,8 +31,8 @@ mod_details_ui <- function(id) {
 }
 
 #' details Server Functions
-#' @param data_person data frame with data to be shown in small reactable
-#' @param df_details_prefiltered data frame to be used for info on candidate's changed votes
+#' @param data_person data frame with data to be shown in small reactable (static)
+#' @param df_details_prefiltered data frame to be used for info on candidate's changed votes (static)
 #' @noRd
 mod_details_server <- function(id, data_person, df_details_prefiltered) {
   moduleServer(id, function(input, output, session) {
@@ -40,21 +40,21 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
 
     # Render title of selected person
     output$name_candidate <- renderText({
-      paste0("<br><h2>", data_person()$Name, " (", data_person()$Liste, ")", "</h2><hr>")
+      paste0("<br><h2>", data_person$Name, " (", data_person$Liste, ")", "</h2><hr>")
     })
 
     # table for selected person
     output$table_candidate <- renderReactable({
-      create_details_reactable(data_person())
+      create_details_reactable(data_person)
     })
 
     # create and send data for bar chart
-    observe({
-      person <- create_data_for_chart(df_details_prefiltered(), data_person())
-      id <- paste0("#", ns("sszvis-chart"))
-      update_chart(list("data" = person, "container_id" = id), "update_data", session)
-    }) |>
-      bindEvent(df_details_prefiltered(), data_person())
+    # observe({
+    person <- create_data_for_chart(df_details_prefiltered, data_person)
+    id <- paste0("#", ns("sszvis-chart"))
+    update_chart(list("data" = person, "container_id" = id), "update_data", session)
+    # }) |>
+    #   bindEvent(df_details_prefiltered(), data_person())
   })
 }
 

@@ -22,6 +22,11 @@ mod_results_ui <- function(id) {
       type = 7,
       color = "#0F05A0"
     ),
+    conditionalPanel(
+      "input.show_details > 0",
+      mod_details_ui(ns("details_1")),
+      ns = ns
+    ),
 
     # initialise hidden variable for row selection, to be used with JS function in reactable
     conditionalPanel(
@@ -36,10 +41,11 @@ mod_results_ui <- function(id) {
 }
 
 #' results Server Functions
-#' @param filtered_data data frame to be shown in main reactable
+#' @param filtered_data data frame to be shown in main reactable, reactive
+#' @param prefiltered_details df_details pre-filtered according to inputs, reactive
 #' @param input_change reactive that changes when user changes something in input widgets
 #' @noRd
-mod_results_server <- function(id, filtered_data, input_change) {
+mod_results_server <- function(id, filtered_data, prefiltered_details, input_change) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
@@ -69,11 +75,18 @@ mod_results_server <- function(id, filtered_data, input_change) {
     }) |>
       bindEvent(input$show_details)
 
-    return(list(
-      "data_person" = data_person,
-      "data_download" = data_download,
-      "row_click" = reactive(input$show_details)
-    ))
+    # module with details on one candidate
+    observe({
+      # only show if show_details is > 0; avoid race condition of module being
+      # shown when data is not yet ready
+      req(input$show_details > 0)
+      mod_details_server(
+        "details_1",
+        data_person(),
+        prefiltered_details()
+      )
+    }) |>
+      bindEvent(input$show_details)
   })
 }
 
