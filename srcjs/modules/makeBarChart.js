@@ -1,4 +1,7 @@
-function makeBarChart(d3, sszvis) {
+import * as d3 from 'd3';
+import * as sszvis from 'sszvis';
+
+function makeBarChart() {
 "use strict";
 
 /*
@@ -249,7 +252,7 @@ Shiny.addCustomMessageHandler("update_data", function (message) {
     throw e;
   }
 });
-
+  
 };
 
 export {makeBarChart};
