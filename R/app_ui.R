@@ -15,7 +15,7 @@ app_ui <- function(request) {
     golem_add_external_resources(),
 
     # Your application UI logic
-    add_kali_devs(fluidPage(
+    fluidPage(
       # Sidebar: Input widgets are placed here
       sidebarLayout(
         sidebarPanel(
@@ -46,7 +46,6 @@ app_ui <- function(request) {
         )
       )
     ))
-  )
 }
 
 #' Add external Resources to the Application

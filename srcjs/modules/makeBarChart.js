@@ -1,4 +1,7 @@
-$( document ).ready(function() {
+import * as d3 from 'd3';
+import * as sszvis from 'sszvis';
+
+function makeBarChart() {
 "use strict";
 
 /*
@@ -53,7 +56,7 @@ var actions = {
     render(state);
   },
 
-  showTooltip: function showTooltip(_, category) {
+  showTooltip: function showTooltip(mouseEvent, _, category) {
     state.selected = state.data.filter(function (d) {
       return cAcc(d) === category;
     });
@@ -229,7 +232,7 @@ function render(state) {
     return state.selected.indexOf(d) >= 0;
   }
 
-/*
+  /*
 Shiny -> JS
 
 We are listening for an "update_data" event sent from the server-side of the
@@ -249,4 +252,7 @@ Shiny.addCustomMessageHandler("update_data", function (message) {
     throw e;
   }
 });
-});
+  
+};
+
+export {makeBarChart};
