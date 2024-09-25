@@ -56,7 +56,7 @@ var actions = {
     render(state);
   },
 
-  showTooltip: function showTooltip(_, category) {
+  showTooltip: function showTooltip(mouseEvent, _, category) {
     state.selected = state.data.filter(function (d) {
       return cAcc(d) === category;
     });
