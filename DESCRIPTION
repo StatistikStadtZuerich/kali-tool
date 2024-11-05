@@ -3,7 +3,7 @@ Title: Shiny App zu Kandidierenden des Zürcher Gemeinderates
 Version: 0.0.0.9000
 Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
 Description: Golem-paketierte Shiny App.
-License: What license is it under?
+License: BSD-3-Clause + file LICENSE
 Imports: 
     config (>= 0.3.2),
     data.table,
