@@ -12,17 +12,17 @@ include:
     ref: "main"
     file: "publish-to-github.yml"
 
-deploy-job-int:
+shiny-deploy-int:
   extends:
-    - .deploy-job-int
+    - .shiny-deploy-int
   script:
     - Rscript -e "renv::status()"
     - Rscript -e "source('data-raw/create_latest_data.R')"
     - Rscript -e "source('dev/deploy.R')"
 
-deploy-job-prod:
+shiny-deploy-prod:
   extends:
-    - .deploy-job-prod 
+    - .shiny-deploy-prod 
   script:
     - Rscript -e "renv::restore()"
     - Rscript -e "source('data-raw/create_latest_data.R')"
