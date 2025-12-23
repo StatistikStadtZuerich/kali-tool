@@ -1,10 +1,5 @@
 library(shinytest2)
 
-# Setup any PROXY setting here
-http_proxy <- Sys.getenv("HTTP_PROXY")
-Sys.setenv("HTTP_PROXY" = "")
-chromote::set_chrome_args(paste0("--http-proxy=", http_proxy))
-
 test_that("check resetting of list choice", {
   app <- AppDriver$new(name = "kali-golem", height = 1206, width = 2263)
   app$expect_values()
