@@ -16,7 +16,7 @@ get_data <- function() {
   params <- get_params_data_load()
 
   # Candidates: Download, rename and wrangle as required
-  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years"]], data_download) |>
+  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years_cand"]], data_download) |>
     wrangle_candidates()
 
   # Results: download and wrangle

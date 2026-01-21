@@ -10,7 +10,11 @@ df_main <- data[["df_main"]]
 df_details <- data[["df_details"]]
 unique_wj <- sort(unique(df_main$Wahljahr))
 
-usethis::use_data(df_main, df_details, unique_wj,
+# Global variable, whether results to candidates are available
+# if there are results for all election years -->set to 0
+year_results_not_available <- 2026
+
+usethis::use_data(df_main, df_details, unique_wj, year_results_not_available,
   overwrite = TRUE,
   internal = TRUE
 )

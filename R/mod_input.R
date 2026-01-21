@@ -10,7 +10,6 @@
 mod_input_ui <- function(id) {
   ns <- NS(id)
   tagList(
-
     # Suchfeld: Namensuche
     sszTextInput(ns("suchfeld"), "Name"),
 
@@ -35,7 +34,7 @@ mod_input_ui <- function(id) {
       selected = "Ganze Stadt"
     ),
 
-    # selectInput() for party
+    # selectInput() for list
     sszSelectInput(ns("select_liste"), "Liste",
       choices = c("Alle Listen"),
       selected = "Alle Listen"
@@ -71,6 +70,20 @@ mod_input_server <- function(id) {
         choices = new_choices,
         selected = new_choices[[1]]
       )
+    })
+
+    # Has to be commented out if results of candidates for 2026 are available
+    observeEvent(input$select_year, {
+      if (input$select_year == year_results_not_available) {
+        updateRadioButtons(
+          session,
+          "wahlstatus_radio_button",
+          selected = "Alle"
+        )
+        shinyjs::hide("wahlstatus_radio_button")
+      } else {
+        shinyjs::show("wahlstatus_radio_button")
+      }
     })
 
     # Filter main data according to inputs

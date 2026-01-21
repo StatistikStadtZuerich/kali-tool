@@ -22,10 +22,19 @@ mod_results_ui <- function(id) {
       type = 7,
       color = "#0F05A0"
     ),
+
+    # Conditional panel for details
     conditionalPanel(
-      "input.show_details > 0",
-      mod_details_ui(ns("details_1")),
-      ns = ns
+      condition = "input.show_details > 0",
+      ns = ns,
+      div(
+        id = ns("details_1_wrap"),
+        mod_details_ui(ns("details_1"))
+      ),
+      div(
+        id = ns("details_noresults_1_wrap"),
+        mod_details_noresults_ui(ns("details_noresults_1"))
+      )
     ),
 
     # initialise hidden variable for row selection, to be used with JS function in reactable
@@ -45,7 +54,7 @@ mod_results_ui <- function(id) {
 #' @param prefiltered_details df_details pre-filtered according to inputs, reactive
 #' @param input_change reactive that changes when user changes something in input widgets
 #' @noRd
-mod_results_server <- function(id, filtered_data, prefiltered_details, input_change) {
+mod_results_server <- function(id, filtered_data, prefiltered_details, input_change, selected_year) {
   moduleServer(id, function(input, output, session) {
     ns <- session$ns
 
@@ -75,6 +84,29 @@ mod_results_server <- function(id, filtered_data, prefiltered_details, input_cha
     }) |>
       bindEvent(input$show_details)
 
+    # show correct details modules depending on condition year_results_not_available
+    observe({
+      req(selected_year())
+
+      if (selected_year() == year_results_not_available) {
+        shinyjs::hide("details_1_wrap")
+        shinyjs::show("details_noresults_1_wrap")
+      } else {
+        shinyjs::show("details_1_wrap")
+        shinyjs::hide("details_noresults_1_wrap")
+      }
+    })
+
+    observeEvent(selected_year(), {
+      cat(
+        "\n[mod_results_server] selected_year:",
+        selected_year(),
+        year_results_not_available,
+        "\n"
+      )
+    })
+
+
     # module with details on one candidate
     observe({
       # only show if show_details is > 0; avoid race condition of module being
@@ -85,6 +117,8 @@ mod_results_server <- function(id, filtered_data, prefiltered_details, input_cha
         data_person(),
         prefiltered_details()
       )
+
+      mod_details_noresults_server("details_noresults_1", data_person())
     }) |>
       bindEvent(input$show_details)
   })

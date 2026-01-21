@@ -8,10 +8,12 @@
 #' @noRd
 get_params_data_load <- function() {
   # Years
+  years_cand <- c(2026, 2022, 2018, 2014, 2010)
   years <- c(2022, 2018, 2014, 2010)
 
   # URLs for all the candidates
   urls_cand <- c(
+    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2026_kandidierende/download/gemeinderatswahlen_2026_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_kandidierende/download/gemeinderatswahlen_2022_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_kandidierende/download/gemeinderatswahlen_2018_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-alle-kandidierenden/download/GRW-2014-alle-Kandidierenden-OGD.csv",
@@ -29,6 +31,7 @@ get_params_data_load <- function() {
   # todo has in tests: check 3 results, check they are equally long
 
   return(list(
+    "years_cand" = years_cand,
     "years" = years,
     "urls_cand" = urls_cand,
     "urls_result" = urls_result
