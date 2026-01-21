@@ -17,7 +17,7 @@ df_prefiltered <- create_prefiltered_data(
 testServer(
   mod_results_server,
   # Add here your module params
-  args = list(reactive(filtered_data), reactive(df_prefiltered), reactive(5)),
+  args = list(reactive(filtered_data), reactive(df_prefiltered), reactive(5), reactive(2026)),
   {
     ns <- session$ns
     initial_row <- 3
