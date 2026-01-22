@@ -63,15 +63,13 @@ get_data <- function() {
   # there is probably a mismatch in names or someone missing
   # currently known missing results: Jürg Nef, EVP, 2018
 
-  df_main_years <- as.list(unique(df_main$Wahljahr))
-  df_details_years <- as.list(unique(df_details$Wahljahr))
+  df_main_years <- unique(df_main$Wahljahr)
+  df_details_years <- unique(df_details$Wahljahr)
 
-  year_noresults <- c(setdiff(df_main_years, df_details_years), setdiff(df_details_years, df_main_years))
+  year_noresults <- setdiff(df_main_years, df_details_years)
 
   if (length(year_noresults) == 0) {
-    0
-  } else {
-    diff
+    year_noresults <- 0
   }
 
   return(list("df_main" = df_main, "df_details" = df_details, "year_noresults" = year_noresults))
