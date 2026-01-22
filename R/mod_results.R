@@ -97,15 +97,6 @@ mod_results_server <- function(id, filtered_data, prefiltered_details, input_cha
       }
     })
 
-    observeEvent(selected_year(), {
-      cat(
-        "\n[mod_results_server] selected_year:",
-        selected_year(),
-        year_results_not_available,
-        "\n"
-      )
-    })
-
 
     # module with details on one candidate
     observe({

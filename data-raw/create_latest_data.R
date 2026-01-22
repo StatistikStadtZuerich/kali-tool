@@ -12,7 +12,7 @@ unique_wj <- sort(unique(df_main$Wahljahr))
 
 # Global variable, whether results to candidates are available
 # if there are results for all election years -->set to 0
-year_results_not_available <- 2026
+year_results_not_available <- data[["year_noresults"]]
 
 usethis::use_data(df_main, df_details, unique_wj, year_results_not_available,
   overwrite = TRUE,

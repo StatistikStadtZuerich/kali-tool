@@ -72,7 +72,6 @@ mod_input_server <- function(id) {
       )
     })
 
-    # Has to be commented out if results of candidates for 2026 are available
     observeEvent(input$select_year, {
       if (input$select_year == year_results_not_available) {
         updateRadioButtons(
