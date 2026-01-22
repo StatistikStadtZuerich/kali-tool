@@ -16,7 +16,7 @@ get_data <- function() {
   params <- get_params_data_load()
 
   # Candidates: Download, rename and wrangle as required
-  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years"]], data_download) |>
+  data_cand <- furrr::future_map2_dfr(params[["urls_cand"]], params[["years_cand"]], data_download) |>
     wrangle_candidates()
 
   # Results: download and wrangle
@@ -63,5 +63,14 @@ get_data <- function() {
   # there is probably a mismatch in names or someone missing
   # currently known missing results: Jürg Nef, EVP, 2018
 
-  return(list("df_main" = df_main, "df_details" = df_details))
+  df_main_years <- unique(df_main$Wahljahr)
+  df_details_years <- unique(df_details$Wahljahr)
+
+  year_noresults <- setdiff(df_main_years, df_details_years)
+
+  if (length(year_noresults) == 0) {
+    year_noresults <- 0
+  }
+
+  return(list("df_main" = df_main, "df_details" = df_details, "year_noresults" = year_noresults))
 }

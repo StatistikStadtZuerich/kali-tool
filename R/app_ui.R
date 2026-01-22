@@ -45,7 +45,8 @@ app_ui <- function(request) {
           ),
         )
       )
-    ))
+    )
+  )
 }
 
 #' Add external Resources to the Application
@@ -69,5 +70,6 @@ golem_add_external_resources <- function() {
       app_title = "KALI"
     ),
     # Add here other external resources
+    shinyjs::useShinyjs()
   )
 }

@@ -13,7 +13,8 @@ app_server <- function(input, output, session) {
     "results_1",
     filtered_input$filtered_data,
     filtered_input$df_details_prefiltered,
-    filtered_input$has_changed
+    filtered_input$has_changed,
+    filtered_input$current_inputs$year
   )
 
   # update downloads appropriately

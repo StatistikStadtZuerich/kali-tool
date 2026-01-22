@@ -24,6 +24,7 @@ golem::add_module(name = "input", with_test = TRUE) # Name of the module
 golem::add_module(name = "details", with_test = TRUE) # Name of the module
 golem::add_module(name = "results", with_test = T)
 golem::add_module(name = "download", with_test = T)
+golem::add_module(name = "details_noresults", with_test = FALSE)
 
 ## Add helper functions ----
 ## Creates fct_* and utils_*
@@ -95,6 +96,9 @@ usethis::use_jenkins()
 
 # GitLab CI
 usethis::use_gitlab_ci()
+
+# load styler package to have it in renv (otherwise the pipeline fails)
+library(styler)
 
 # You're now set! ----
 # go to dev/03_deploy.R
