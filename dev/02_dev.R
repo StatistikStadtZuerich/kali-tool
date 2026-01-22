@@ -97,6 +97,9 @@ usethis::use_jenkins()
 # GitLab CI
 usethis::use_gitlab_ci()
 
+# load styler package to have it in renv (otherwise the pipeline fails)
+library(styler)
+
 # You're now set! ----
 # go to dev/03_deploy.R
 rstudioapi::navigateToFile("dev/03_deploy.R")
