@@ -1,7 +1,7 @@
 test_that("data is still the same", {
   dfs <- get_data()
   expect_snapshot_value(dfs, style = "json2")
-  expect_named(dfs, c("df_main", "df_details"))
+  expect_named(dfs, c("df_main", "df_details", "year_noresults"))
 })
 
 test_that("there are results for all candidates", {

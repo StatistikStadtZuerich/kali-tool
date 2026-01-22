@@ -55,6 +55,7 @@ test_that("check resetting of list choice", {
 
 test_that("{shinytest2} recording: kali-golem-download", {
   app <- AppDriver$new(name = "kali-golem-download", height = 853, width = 1606)
+  app$set_inputs(`input_module-select_year` = "2022")
   app$click("ActionButtonId")
 
   # check csv
