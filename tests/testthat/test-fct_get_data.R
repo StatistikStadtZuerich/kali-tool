@@ -9,5 +9,5 @@ test_that("there are results for all candidates", {
   df_main <- dfs[["df_main"]] |>
     filter(Wahljahr < 2026)
   # there is one missing result in 2018, but there shouldn't be more
-  expect_lt(sum(is.na(df_main$Wahlresultat)), 2)
+  expect_lt(sum(is.na(df_details$Wahlresultat)), 2)
 })
