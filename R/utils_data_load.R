@@ -9,22 +9,23 @@
 get_params_data_load <- function() {
   # Years
   years_cand <- c(2026, 2022, 2018, 2014, 2010)
-  years <- c(2022, 2018, 2014, 2010)
+  years <- c(2026, 2022, 2018, 2014, 2010)
 
   # URLs for all the candidates
   urls_cand <- c(
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2026_kandidierende/download/gemeinderatswahlen_2026_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_kandidierende/download/gemeinderatswahlen_2022_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_kandidierende/download/gemeinderatswahlen_2018_kandidierende.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-alle-kandidierenden/download/GRW-2014-alle-Kandidierenden-OGD.csv",
+    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2014_kandidierende/download/gemeinderatswahlen_2014_kandidierende.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2010_kandidierende/download/gemeinderatswahlen_2010_kandidierende.csv"
   )
 
   # URLs for the results
   urls_result <- c(
+    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2026_resultate/download/GRW_2026_resultate_kandidierende_und_herkunft_der_stimmen.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2022_resultate/download/GRW_2022_resultate_kandidierende_und_herkunft_der_stimmen.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_resultate/download/GRW_2018_resultate_und_herkunft_der_stimmen.csv",
-    "https://data.stadt-zuerich.ch/dataset/politik-gemeinderatswahlen-2014-resultate/download/GRW_2014_Resultate_und_Herkunft_der_Stimmen_Nachzahlung_v2.csv",
+    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2018_resultate/download/GRW_2018_resultate_kandidierende_und_herkunft_der_stimmen.csv",
+    "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2014_resultate/download/GRW_2014_resultate_kandidierende_und_herkunft_der_stimmen.csv",
     "https://data.stadt-zuerich.ch/dataset/politik_gemeinderatswahlen_2010_resultate/download/GRW_2010_resultate_kandidierende_und_herkunft_der_stimmen.csv"
   )
 
