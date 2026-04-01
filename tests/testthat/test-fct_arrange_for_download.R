@@ -14,22 +14,33 @@ test_that("arrange for download function works works", {
   expect_named(
     arrange_for_download(filtered_data, "xlsx"),
     c(
-      "Wahljahr", "Name", "Alter", "Titel", # "Beruf",
+      "Wahljahr", "Name", "Alter", "Titel",
       "Liste", "Liste Bezeichnung", "Wahlkreis", "BisherLang",
-      "Geschlecht", "Wahlresultat", "Anzahl Stimmen",
-      "Parteieigene Stimmen", "Parteifremde Stimmen",
-      "Anteil Stimmen aus veränderten Listen"
+      "Geschlecht", "Wahldatum", "Wahlresultat", "Anzahl Stimmen",
+      "Parteieigene Stimmen", "Parteifremde Stimmen", "Anteil Stimmen aus veränderten Listen"
     )
   )
   # but it is returned for csv, and csv does not have spaces in column names
   expect_named(
     arrange_for_download(filtered_data, "csv"),
     c(
-      "Wahljahr", "Name", "Alter", "Titel", "Beruf",
-      "Liste", "ListeBezeichnung",
-      "Wahlkreis", "WahlkreisSort", "BisherLang", "BisherSort",
-      "Geschlecht", "Wahlresultat", "AnzahlStimmen",
-      "ParteieigeneStimmen", "ParteifremdeStimmen",
+      "Wahljahr",
+      "Name",
+      "Alter",
+      "Titel",
+      "Beruf",
+      "Liste",
+      "ListeBezeichnung",
+      "Wahlkreis",
+      "WahlkreisSort",
+      "BisherLang",
+      "BisherSort",
+      "Geschlecht",
+      "Wahldatum",
+      "Wahlresultat",
+      "AnzahlStimmen",
+      "ParteieigeneStimmen",
+      "ParteifremdeStimmen",
       "AnteilStimmenausverändertenListen"
     )
   )

@@ -3286,2170 +3286,2170 @@
       1080     Evangelische Volkspartei EVP    Kreis 12        neu   Weiblich
       1081 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
       1082 Schweizerische Volkspartei – SVP    Kreis 12        neu   Männlich
-                     X10            X11                  X12                  X13
-      1             <NA>           <NA>                 <NA>                 <NA>
-      2             <NA>           <NA>                 <NA>                 <NA>
-      3             <NA>           <NA>                 <NA>                 <NA>
-      4             <NA>           <NA>                 <NA>                 <NA>
-      5             <NA>           <NA>                 <NA>                 <NA>
-      6             <NA>           <NA>                 <NA>                 <NA>
-      7     Wahlresultat Anzahl Stimmen Parteieigene Stimmen Parteifremde Stimmen
-      8    nicht gewählt           1105                 1096                    9
-      9    nicht gewählt           1191                 1166                   25
-      10   nicht gewählt           1188                 1138                   50
-      11   nicht gewählt           1401                 1331                   70
-      12   nicht gewählt           1188                 1089                   99
-      13   nicht gewählt           1543                 1455                   88
-      14   nicht gewählt            486                  447                   39
-      15   nicht gewählt           1438                 1346                   92
-      16   nicht gewählt           1152                 1131                   21
-      17         gewählt           2430                 2177                  253
-      18   nicht gewählt            143                   98                   45
-      19   nicht gewählt           2561                 2450                  111
-      20   nicht gewählt           2363                 2307                   56
-      21   nicht gewählt            184                  175                    9
-      22   nicht gewählt           1887                 1865                   22
-      23   nicht gewählt           2048                 1981                   67
-      24   nicht gewählt           1080                 1011                   69
-      25   nicht gewählt            337                  196                  141
-      26   nicht gewählt           2473                 2389                   84
-      27   nicht gewählt            552                  463                   89
-      28   nicht gewählt           1942                 1905                   37
-      29   nicht gewählt            477                  423                   54
-      30   nicht gewählt            135                   96                   39
-      31   nicht gewählt           1277                 1226                   51
-      32   nicht gewählt            223                  174                   49
-      33   nicht gewählt           1119                 1094                   25
-      34   nicht gewählt           2323                 2285                   38
-      35   nicht gewählt           1694                 1685                    9
-      36   nicht gewählt            181                  176                    5
-      37         gewählt           2253                 2122                  131
-      38   nicht gewählt            337                  335                    2
-      39   nicht gewählt            194                  167                   27
-      40   nicht gewählt           1286                 1202                   84
-      41   nicht gewählt           1399                 1356                   43
-      42   nicht gewählt           2322                 2252                   70
-      43   nicht gewählt           1562                 1438                  124
-      44   nicht gewählt            549                  520                   29
-      45   nicht gewählt           1424                 1349                   75
-      46   nicht gewählt            441                  413                   28
-      47         gewählt           2768                 2576                  192
-      48   nicht gewählt           1195                 1167                   28
-      49   nicht gewählt           1740                 1512                  228
-      50   nicht gewählt            381                  347                   34
-      51         gewählt           1993                 1551                  442
-      52   nicht gewählt            173                  170                    3
-      53   nicht gewählt           1207                 1149                   58
-      54         gewählt           1537                 1203                  334
-      55   nicht gewählt           1151                 1136                   15
-      56   nicht gewählt            432                  417                   15
-      57   nicht gewählt            175                  174                    1
-      58   nicht gewählt           1323                 1222                  101
-      59   nicht gewählt            579                  525                   54
-      60   nicht gewählt            614                  544                   70
-      61   nicht gewählt            630                  536                   94
-      62         gewählt           2135                 1554                  581
-      63   nicht gewählt            522                  500                   22
-      64   nicht gewählt           1990                 1953                   37
-      65   nicht gewählt           1153                 1133                   20
-      66   nicht gewählt           1176                 1137                   39
-      67   nicht gewählt           2293                 2249                   44
-      68   nicht gewählt           1930                 1902                   28
-      69   nicht gewählt            515                  417                   98
-      70   nicht gewählt            341                  336                    5
-      71   nicht gewählt           1223                 1182                   41
-      72   nicht gewählt           1160                 1150                   10
-      73   nicht gewählt           1392                 1317                   75
-      74   nicht gewählt           1183                 1096                   87
-      75   nicht gewählt            485                  477                    8
-      76   nicht gewählt           1742                 1732                   10
-      77   nicht gewählt            479                  474                    5
-      78   nicht gewählt            503                  485                   18
-      79   nicht gewählt           1478                 1366                  112
-      80   nicht gewählt            555                  443                  112
-      81   nicht gewählt            205                  186                   19
-      82   nicht gewählt            493                  490                    3
-      83   nicht gewählt            444                  402                   42
-      84   nicht gewählt            179                  177                    2
-      85   nicht gewählt            184                  175                    9
-      86         gewählt           3007                 2642                  365
-      87         gewählt           2465                 2216                  249
-      88         gewählt            632                  460                  172
-      89   nicht gewählt           1131                 1113                   18
-      90   nicht gewählt           2614                 2500                  114
-      91   nicht gewählt            179                  178                    1
-      92   nicht gewählt            360                  345                   15
-      93   nicht gewählt           2483                 2417                   66
-      94   nicht gewählt           1843                 1806                   37
-      95   nicht gewählt            360                  348                   12
-      96   nicht gewählt           2146                 2114                   32
-      97   nicht gewählt           1173                 1156                   17
-      98   nicht gewählt            431                  422                    9
-      99   nicht gewählt            175                  171                    4
-      100        gewählt            906                  598                  308
-      101  nicht gewählt            553                  516                   37
-      102  nicht gewählt            444                  430                   14
-      103  nicht gewählt           1195                 1145                   50
-      104  nicht gewählt            493                  473                   20
-      105        gewählt           2953                 2633                  320
-      106  nicht gewählt           1948                 1913                   35
-      107  nicht gewählt            339                  335                    4
-      108  nicht gewählt           1454                 1364                   90
-      109  nicht gewählt           1267                 1178                   89
-      110        gewählt           1359                 1227                  132
-      111  nicht gewählt            578                  470                  108
-      112  nicht gewählt           1182                 1107                   75
-      113  nicht gewählt           1600                 1504                   96
-      114  nicht gewählt            998                  983                   15
-      115  nicht gewählt            424                  409                   15
-      116        gewählt           2451                 1280                 1171
-      117  nicht gewählt           1966                 1760                  206
-      118  nicht gewählt           1228                 1084                  144
-      119  nicht gewählt            939                  939                    0
-      120  nicht gewählt           1508                 1422                   86
-      121  nicht gewählt            343                  320                   23
-      122  nicht gewählt           1035                  992                   43
-      123  nicht gewählt           1338                 1151                  187
-      124  nicht gewählt           1881                 1699                  182
-      125  nicht gewählt            165                  145                   20
-      126  nicht gewählt           1103                 1032                   71
-      127  nicht gewählt           1741                 1700                   41
-      128        gewählt           1654                 1424                  230
-      129  nicht gewählt           3773                 3717                   56
-      130  nicht gewählt           1003                  968                   35
-      131  nicht gewählt            140                  136                    4
-      132  nicht gewählt            974                  973                    1
-      133  nicht gewählt           3509                 3432                   77
-      134  nicht gewählt            173                  144                   29
-      135  nicht gewählt           1042                 1001                   41
-      136  nicht gewählt            162                  144                   18
-      137  nicht gewählt           2365                 1910                  455
-      138        gewählt           1577                 1379                  198
-      139  nicht gewählt           1819                 1204                  615
-      140  nicht gewählt           3236                 3166                   70
-      141  nicht gewählt           1298                 1280                   18
-      142  nicht gewählt           1409                 1378                   31
-      143        gewählt           4205                 3834                  371
-      144  nicht gewählt            137                  137                    0
-      145  nicht gewählt            452                  409                   43
-      146  nicht gewählt           2102                 1842                  260
-      147        gewählt           1870                 1518                  352
-      148  nicht gewählt            939                  928                   11
-      149  nicht gewählt           4013                 3834                  179
-      150  nicht gewählt            184                  181                    3
-      151  nicht gewählt           1546                 1520                   26
-      152  nicht gewählt            279                  276                    3
-      153  nicht gewählt            315                  306                    9
-      154  nicht gewählt            950                  938                   12
-      155        gewählt           4299                 3981                  318
-      156  nicht gewählt           1021                 1000                   21
-      157  nicht gewählt            148                  143                    5
-      158        gewählt            698                  614                   84
-      159  nicht gewählt           1134                 1028                  106
-      160  nicht gewählt           1522                 1471                   51
-      161  nicht gewählt            355                  328                   27
-      162  nicht gewählt            206                  154                   52
-      163  nicht gewählt           1659                 1527                  132
-      164  nicht gewählt           1459                 1436                   23
-      165  nicht gewählt            939                  933                    6
-      166  nicht gewählt            919                  917                    2
-      167  nicht gewählt            111                   93                   18
-      168  nicht gewählt            423                  411                   12
-      169  nicht gewählt            137                  137                    0
-      170  nicht gewählt           1592                 1525                   67
-      171  nicht gewählt            423                  409                   14
-      172  nicht gewählt            282                  278                    4
-      173  nicht gewählt           1924                 1786                  138
-      174  nicht gewählt           1314                 1287                   27
-      175  nicht gewählt            163                  146                   17
-      176  nicht gewählt            975                  968                    7
-      177  nicht gewählt           1312                 1288                   24
-      178        gewählt           4098                 3884                  214
-      179  nicht gewählt            393                  335                   58
-      180  nicht gewählt            186                  179                    7
-      181  nicht gewählt            241                  182                   59
-      182        gewählt           4209                 4044                  165
-      183  nicht gewählt           1171                 1111                   60
-      184  nicht gewählt           1119                 1073                   46
-      185  nicht gewählt           1690                 1549                  141
-      186  nicht gewählt           1253                 1234                   19
-      187  nicht gewählt            423                  411                   12
-      188        gewählt           1875                 1566                  309
-      189  nicht gewählt           1497                 1460                   37
-      190  nicht gewählt            313                  188                  125
-      191  nicht gewählt           3707                 3619                   88
-      192  nicht gewählt           1375                 1327                   48
-      193  nicht gewählt           1648                 1588                   60
-      194  nicht gewählt            186                  149                   37
-      195  nicht gewählt            997                  975                   22
-      196  nicht gewählt           1171                 1160                   11
-      197  nicht gewählt           1129                 1092                   37
-      198  nicht gewählt           3182                 3151                   31
-      199        gewählt           1100                 1013                   87
-      200        gewählt           2497                 1867                  630
-      201  nicht gewählt            141                  140                    1
-      202  nicht gewählt           1659                 1637                   22
-      203  nicht gewählt           1344                 1297                   47
-      204  nicht gewählt           1469                 1434                   35
-      205  nicht gewählt            425                  411                   14
-      206  nicht gewählt           1131                 1079                   52
-      207  nicht gewählt           1078                 1022                   56
-      208  nicht gewählt            953                  949                    4
-      209        gewählt           2613                 1910                  703
-      210  nicht gewählt            146                  145                    1
-      211  nicht gewählt            970                  962                    8
-      212  nicht gewählt           1193                 1061                  132
-      213  nicht gewählt            333                  325                    8
-      214  nicht gewählt           1404                 1370                   34
-      215  nicht gewählt           1227                 1202                   25
-      216  nicht gewählt           3893                 3670                  223
-      217        gewählt           2671                 2535                  136
-      218  nicht gewählt            326                  310                   16
-      219  nicht gewählt            684                  624                   60
-      220  nicht gewählt           3588                 3506                   82
-      221  nicht gewählt           1228                 1213                   15
-      222  nicht gewählt            419                  408                   11
-      223  nicht gewählt           1354                 1302                   52
-      224  nicht gewählt            200                  178                   22
-      225  nicht gewählt           1898                 1768                  130
-      226  nicht gewählt            374                  337                   37
-      227  nicht gewählt           1618                 1558                   60
-      228  nicht gewählt            144                  141                    3
-      229  nicht gewählt           1507                 1481                   26
-      230  nicht gewählt            247                  188                   59
-      231  nicht gewählt           1451                 1351                  100
-      232  nicht gewählt            328                  321                    7
-      233  nicht gewählt            141                  140                    1
-      234  nicht gewählt            279                  270                    9
-      235  nicht gewählt            174                  148                   26
-      236  nicht gewählt            303                  185                  118
-      237        gewählt           4656                 4108                  548
-      238  nicht gewählt           3592                 3547                   45
-      239  nicht gewählt           1867                 1765                  102
-      240  nicht gewählt           1095                 1035                   60
-      241  nicht gewählt           1325                 1278                   47
-      242  nicht gewählt           1518                 1485                   33
-      243  nicht gewählt           1318                 1291                   27
-      244  nicht gewählt           3724                 3612                  112
-      245  nicht gewählt            185                  181                    4
-      246  nicht gewählt            256                  251                    5
-      247        gewählt           1720                 1465                  255
-      248  nicht gewählt           1036                 1015                   21
-      249  nicht gewählt           1004                  996                    8
-      250  nicht gewählt            210                  187                   23
-      251  nicht gewählt            621                  613                    8
-      252  nicht gewählt            635                  621                   14
-      253  nicht gewählt           1312                 1271                   41
-      254  nicht gewählt           1132                 1100                   32
-      255  nicht gewählt           1227                 1149                   78
-      256        gewählt           1713                 1439                  274
-      257  nicht gewählt            624                  617                    7
-      258  nicht gewählt             88                   75                   13
-      259  nicht gewählt           1762                 1540                  222
-      260  nicht gewählt           1702                 1471                  231
-      261  nicht gewählt           3178                 3087                   91
-      262  nicht gewählt           1309                 1266                   43
-      263        gewählt           3819                 3495                  324
-      264        gewählt           3783                 3473                  310
-      265  nicht gewählt            983                  981                    2
-      266  nicht gewählt           3275                 3164                  111
-      267  nicht gewählt            586                  585                    1
-      268  nicht gewählt           1238                 1118                  120
-      269  nicht gewählt            588                  581                    7
-      270  nicht gewählt            410                  361                   49
-      271  nicht gewählt           1353                 1310                   43
-      272  nicht gewählt           1410                 1353                   57
-      273  nicht gewählt           1847                 1563                  284
-      274  nicht gewählt           1357                 1321                   36
-      275  nicht gewählt           1353                 1324                   29
-      276        gewählt           2222                 1628                  594
-      277  nicht gewählt            485                  381                  104
-      278        gewählt           1759                 1257                  502
-      279  nicht gewählt           1121                 1089                   32
-      280  nicht gewählt             85                   78                    7
-      281  nicht gewählt            353                  287                   66
-      282  nicht gewählt           3541                 3288                  253
-      283  nicht gewählt            632                  612                   20
-      284  nicht gewählt            407                  294                  113
-      285  nicht gewählt             81                   70                   11
-      286  nicht gewählt           1026                 1013                   13
-      287  nicht gewählt           1536                 1417                  119
-      288  nicht gewählt           1509                 1471                   38
-      289  nicht gewählt            202                  186                   16
-      290  nicht gewählt             72                   72                    0
-      291  nicht gewählt            632                  621                   11
-      292        gewählt           3812                 3450                  362
-      293  nicht gewählt           1067                 1054                   13
-      294  nicht gewählt           1602                 1441                  161
-      295  nicht gewählt            145                  137                    8
-      296        gewählt           2200                 1567                  633
-      297  nicht gewählt           1798                 1548                  250
-      298  nicht gewählt           1082                 1045                   37
-      299  nicht gewählt           1206                 1157                   49
-      300  nicht gewählt             72                   71                    1
-      301  nicht gewählt            458                  384                   74
-      302  nicht gewählt            422                  308                  114
-      303  nicht gewählt            323                  291                   32
-      304  nicht gewählt           1436                 1383                   53
-      305  nicht gewählt            198                  191                    7
-      306  nicht gewählt            683                  649                   34
-      307  nicht gewählt            245                  196                   49
-      308  nicht gewählt           2904                 2817                   87
-      309  nicht gewählt             65                   65                    0
-      310  nicht gewählt           1096                 1077                   19
-      311  nicht gewählt           1239                 1143                   96
-      312  nicht gewählt             98                   77                   21
-      313  nicht gewählt           3296                 3169                  127
-      314  nicht gewählt           3140                 3049                   91
-      315        gewählt           3789                 3486                  303
-      316  nicht gewählt            637                  616                   21
-      317  nicht gewählt           1568                 1257                  311
-      318  nicht gewählt           1433                 1367                   66
-      319  nicht gewählt             81                   78                    3
-      320  nicht gewählt           1100                 1024                   76
-      321  nicht gewählt            112                   78                   34
-      322  nicht gewählt           2085                 1623                  462
-      323  nicht gewählt           1439                 1375                   64
-      324  nicht gewählt           1279                 1269                   10
-      325  nicht gewählt             69                   68                    1
-      326  nicht gewählt            573                  572                    1
-      327  nicht gewählt            130                   86                   44
-      328        gewählt           1380                 1165                  215
-      329  nicht gewählt           3469                 3262                  207
-      330  nicht gewählt            154                   88                   66
-      331  nicht gewählt            177                  174                    3
-      332  nicht gewählt           1273                 1254                   19
-      333  nicht gewählt           1906                 1583                  323
-      334  nicht gewählt            664                  635                   29
-      335        gewählt           1216                 1137                   79
-      336  nicht gewählt           3023                 2922                  101
-      337  nicht gewählt           1130                 1101                   29
-      338        gewählt           3613                 3402                  211
-      339  nicht gewählt            589                  587                    2
-      340        gewählt            811                  670                  141
-      341  nicht gewählt            352                  274                   78
-      342  nicht gewählt           1144                 1086                   58
-      343  nicht gewählt           1152                 1112                   40
-      344  nicht gewählt           1424                 1379                   45
-      345  nicht gewählt             72                   66                    6
-      346  nicht gewählt           1095                 1018                   77
-      347  nicht gewählt           1046                 1021                   25
-      348  nicht gewählt            925                  916                    9
-      349  nicht gewählt           1575                 1217                  358
-      350  nicht gewählt            197                  190                    7
-      351  nicht gewählt           1586                 1406                  180
-      352  nicht gewählt           1412                 1164                  248
-      353        gewählt           1652                 1456                  196
-      354        gewählt            941                  820                  121
-      355  nicht gewählt           2615                 2575                   40
-      356  nicht gewählt            291                  254                   37
-      357  nicht gewählt            269                  257                   12
-      358  nicht gewählt            483                  477                    6
-      359        gewählt           1883                 1715                  168
-      360  nicht gewählt            739                  723                   16
-      361  nicht gewählt            200                  182                   18
-      362  nicht gewählt            236                  172                   64
-      363  nicht gewählt            590                  547                   43
-      364  nicht gewählt            189                  165                   24
-      365  nicht gewählt            776                  754                   22
-      366        gewählt           3271                 2990                  281
-      367  nicht gewählt            201                  177                   24
-      368  nicht gewählt           2551                 2520                   31
-      369  nicht gewählt            272                  254                   18
-      370  nicht gewählt           1515                 1502                   13
-      371  nicht gewählt            791                  761                   30
-      372  nicht gewählt           1383                 1318                   65
-      373  nicht gewählt            748                  732                   16
-      374  nicht gewählt            170                  155                   15
-      375  nicht gewählt            595                  546                   49
-      376  nicht gewählt           1486                 1385                  101
-      377  nicht gewählt           1438                 1376                   62
-      378  nicht gewählt           1454                 1286                  168
-      379  nicht gewählt            535                  506                   29
-      380  nicht gewählt           2877                 2752                  125
-      381  nicht gewählt           1531                 1493                   38
-      382  nicht gewählt           2949                 2797                  152
-      383        gewählt           1801                 1344                  457
-      384  nicht gewählt            779                  762                   17
-      385  nicht gewählt            146                   99                   47
-      386  nicht gewählt           1369                 1303                   66
-      387  nicht gewählt            583                  495                   88
-      388  nicht gewählt           2739                 2611                  128
-      389  nicht gewählt           1579                 1433                  146
-      390  nicht gewählt            129                   98                   31
-      391  nicht gewählt            766                  756                   10
-      392        gewählt            969                  562                  407
-      393  nicht gewählt           1341                 1280                   61
-      394  nicht gewählt           1644                 1579                   65
-      395  nicht gewählt           2467                 2389                   78
-      396        gewählt           3299                 3088                  211
-      397  nicht gewählt           1381                 1335                   46
-      398  nicht gewählt           1329                 1278                   51
-      399  nicht gewählt           1378                 1263                  115
-      400  nicht gewählt           1630                 1422                  208
-      401  nicht gewählt            276                  268                    8
-      402        gewählt           3399                 3107                  292
-      403  nicht gewählt            780                  765                   15
-      404  nicht gewählt            403                  283                  120
-      405  nicht gewählt            284                  197                   87
-      406  nicht gewählt            167                  159                    8
-      407  nicht gewählt           1676                 1414                  262
-      408  nicht gewählt            227                  181                   46
-      409        gewählt           1887                 1398                  489
-      410  nicht gewählt           1432                 1404                   28
-      411  nicht gewählt           3116                 2975                  141
-      412  nicht gewählt           1445                 1426                   19
-      413  nicht gewählt           1132                 1125                    7
-      414  nicht gewählt            524                  510                   14
-      415  nicht gewählt            502                  494                    8
-      416  nicht gewählt            144                   96                   48
-      417  nicht gewählt           1228                 1183                   45
-      418  nicht gewählt           1533                 1359                  174
-      419  nicht gewählt            200                  171                   29
-      420  nicht gewählt            751                  743                    8
-      421  nicht gewählt           1474                 1294                  180
-      422  nicht gewählt           1433                 1360                   73
-      423  nicht gewählt           1406                 1287                  119
-      424  nicht gewählt            325                  285                   40
-      425  nicht gewählt           1531                 1476                   55
-      426        gewählt           2126                 1823                  303
-      427  nicht gewählt            317                  284                   33
-      428  nicht gewählt            693                  545                  148
-      429  nicht gewählt            715                  566                  149
-      430  nicht gewählt            784                  749                   35
-      431  nicht gewählt            589                  533                   56
-      432  nicht gewählt           1790                 1709                   81
-      433  nicht gewählt            194                  166                   28
-      434  nicht gewählt            282                  258                   24
-      435  nicht gewählt           2098                 2041                   57
-      436  nicht gewählt           1892                 1859                   33
-      437  nicht gewählt            321                  297                   24
-      438  nicht gewählt            677                  590                   87
-      439  nicht gewählt            720                  713                    7
-      440  nicht gewählt           1190                  802                  388
-      441  nicht gewählt           3839                 3819                   20
-      442  nicht gewählt           3963                 3666                  297
-      443  nicht gewählt           3295                 3224                   71
-      444  nicht gewählt            986                  745                  241
-      445  nicht gewählt           1446                 1432                   14
-      446        gewählt           4314                 3979                  335
-      447  nicht gewählt            296                  292                    4
-      448        gewählt           5291                 4734                  557
-      449  nicht gewählt           3334                 3284                   50
-      450        gewählt           4876                 4548                  328
-      451        gewählt           2339                 1742                  597
-      452  nicht gewählt            259                  256                    3
-      453  nicht gewählt           3661                 3647                   14
-      454        gewählt           2813                 1739                 1074
-      455  nicht gewählt            575                  555                   20
-      456  nicht gewählt           2007                 1957                   50
-      457  nicht gewählt            292                  278                   14
-      458        gewählt           4281                 3984                  297
-      459  nicht gewählt           3376                 3320                   56
-      460  nicht gewählt           1643                 1569                   74
-      461  nicht gewählt           4072                 4010                   62
-      462  nicht gewählt            431                  339                   92
-      463        gewählt           4498                 4065                  433
-      464  nicht gewählt           1442                 1419                   23
-      465  nicht gewählt           3936                 3903                   33
-      466  nicht gewählt           3611                 3540                   71
-      467  nicht gewählt            759                  732                   27
-      468  nicht gewählt           1517                 1506                   11
-      469  nicht gewählt            717                  713                    4
-      470  nicht gewählt           2059                 1737                  322
-      471  nicht gewählt           1598                 1553                   45
-      472  nicht gewählt            297                  294                    3
-      473  nicht gewählt           2164                 2044                  120
-      474  nicht gewählt           1430                 1413                   17
-      475  nicht gewählt           3986                 3938                   48
-      476  nicht gewählt           3340                 3311                   29
-      477  nicht gewählt            143                   63                   80
-      478  nicht gewählt           1379                 1373                    6
-      479  nicht gewählt            967                  647                  320
-      480  nicht gewählt           1766                 1620                  146
-      481  nicht gewählt            537                  510                   27
-      482  nicht gewählt           2267                 1761                  506
-      483  nicht gewählt           1674                 1607                   67
-      484  nicht gewählt           3765                 3593                  172
-      485  nicht gewählt           1954                 1923                   31
-      486  nicht gewählt            735                  719                   16
-      487  nicht gewählt           1609                 1544                   65
-      488  nicht gewählt           1538                 1483                   55
-      489  nicht gewählt           1059                  667                  392
-      490  nicht gewählt           1485                 1466                   19
-      491  nicht gewählt            774                  724                   50
-      492  nicht gewählt           1490                 1477                   13
-      493  nicht gewählt           1600                 1556                   44
-      494  nicht gewählt           1976                 1922                   54
-      495  nicht gewählt           1655                 1561                   94
-      496        gewählt           1957                 1668                  289
-      497        gewählt           2577                 1771                  806
-      498        gewählt           4648                 4128                  520
-      499  nicht gewählt            710                  671                   39
-      500  nicht gewählt           1497                 1468                   29
-      501  nicht gewählt            675                  651                   24
-      502  nicht gewählt            639                  565                   74
-      503        gewählt           4685                 4457                  228
-      504  nicht gewählt           1768                 1597                  171
-      505  nicht gewählt            871                  756                  115
-      506  nicht gewählt            716                  684                   32
-      507  nicht gewählt            122                   55                   67
-      508  nicht gewählt            602                  556                   46
-      509  nicht gewählt            686                  642                   44
-      510  nicht gewählt            434                  315                  119
-      511  nicht gewählt            387                  327                   60
-      512  nicht gewählt            337                  304                   33
-      513  nicht gewählt           1852                 1839                   13
-      514  nicht gewählt            144                   70                   74
-      515  nicht gewählt           4220                 3841                  379
-      516  nicht gewählt           4023                 3963                   60
-      517  nicht gewählt            134                   69                   65
-      518  nicht gewählt           1871                 1820                   51
-      519  nicht gewählt            692                  665                   27
-      520  nicht gewählt           4381                 4246                  135
-      521  nicht gewählt            332                  300                   32
-      522  nicht gewählt           1522                 1504                   18
-      523  nicht gewählt            891                  752                  139
-      524  nicht gewählt           1984                 1932                   52
-      525        gewählt           2863                 2254                  609
-      526  nicht gewählt           3592                 3530                   62
-      527        gewählt           2810                 2276                  534
-      528  nicht gewählt            709                  671                   38
-      529  nicht gewählt           4654                 4447                  207
-      530  nicht gewählt           1563                 1544                   19
-      531  nicht gewählt            730                  686                   44
-      532  nicht gewählt           2058                 1929                  129
-      533  nicht gewählt            609                  600                    9
-      534  nicht gewählt            576                  557                   19
-      535  nicht gewählt           3696                 3681                   15
-      536  nicht gewählt           1323                 1318                    5
-      537  nicht gewählt           3385                 3341                   44
-      538  nicht gewählt            440                  205                  235
-      539  nicht gewählt            611                  538                   73
-      540        gewählt           1594                  729                  865
-      541  nicht gewählt            329                  291                   38
-      542  nicht gewählt            287                  282                    5
-      543  nicht gewählt            605                  598                    7
-      544  nicht gewählt           1585                 1530                   55
-      545  nicht gewählt            301                  297                    4
-      546  nicht gewählt           1787                 1655                  132
-      547  nicht gewählt            766                  738                   28
-      548  nicht gewählt           2032                 1992                   40
-      549  nicht gewählt            589                  555                   34
-      550  nicht gewählt           1526                 1504                   22
-      551  nicht gewählt            780                  701                   79
-      552  nicht gewählt            719                  693                   26
-      553  nicht gewählt            727                  712                   15
-      554  nicht gewählt           3946                 3879                   67
-      555  nicht gewählt           1491                 1455                   36
-      556  nicht gewählt            540                  525                   15
-      557  nicht gewählt            564                  529                   35
-      558  nicht gewählt           3360                 3329                   31
-      559  nicht gewählt           3884                 3768                  116
-      560  nicht gewählt           4195                 4148                   47
-      561  nicht gewählt            531                  526                    5
-      562  nicht gewählt            673                  605                   68
-      563  nicht gewählt           1732                 1720                   12
-      564  nicht gewählt           2380                 2169                  211
-      565  nicht gewählt           2155                 2044                  111
-      566  nicht gewählt            283                  280                    3
-      567  nicht gewählt            345                  308                   37
-      568  nicht gewählt            545                  535                   10
-      569  nicht gewählt           1704                 1583                  121
-      570  nicht gewählt           1539                 1520                   19
-      571        gewählt           1280                  817                  463
-      572  nicht gewählt            342                  302                   40
-      573  nicht gewählt           4406                 4318                   88
-      574  nicht gewählt            809                  703                  106
-      575        gewählt           4742                 4558                  184
-      576  nicht gewählt            620                  583                   37
-      577  nicht gewählt           1238                 1197                   41
-      578        gewählt           3591                 3349                  242
-      579  nicht gewählt           1661                 1648                   13
-      580  nicht gewählt            160                  105                   55
-      581        gewählt           2346                 2113                  233
-      582  nicht gewählt            742                  737                    5
-      583  nicht gewählt           1676                 1665                   11
-      584        gewählt           1951                 1802                  149
-      585        gewählt           2034                 1816                  218
-      586  nicht gewählt           1636                 1572                   64
-      587  nicht gewählt           3234                 3151                   83
-      588  nicht gewählt            763                  628                  135
-      589  nicht gewählt            624                  555                   69
-      590  nicht gewählt            398                  380                   18
-      591  nicht gewählt           2813                 2780                   33
-      592  nicht gewählt            391                  381                   10
-      593  nicht gewählt           1172                 1153                   19
-      594  nicht gewählt            597                  566                   31
-      595  nicht gewählt            432                  389                   43
-      596  nicht gewählt            368                  364                    4
-      597  nicht gewählt           3066                 2990                   76
-      598  nicht gewählt            765                  752                   13
-      599  nicht gewählt           1271                 1222                   49
-      600  nicht gewählt           1518                 1507                   11
-      601  nicht gewählt           1731                 1697                   34
-      602  nicht gewählt            393                  381                   12
-      603  nicht gewählt            128                   95                   33
-      604  nicht gewählt           1828                 1751                   77
-      605  nicht gewählt            613                  581                   32
-      606  nicht gewählt            655                  646                    9
-      607  nicht gewählt            788                  761                   27
-      608  nicht gewählt            407                  404                    3
-      609  nicht gewählt           1563                 1555                    8
-      610  nicht gewählt           3376                 3269                  107
-      611  nicht gewählt            814                  769                   45
-      612  nicht gewählt           1707                 1691                   16
-      613  nicht gewählt            419                  398                   21
-      614  nicht gewählt            705                  685                   20
-      615        gewählt           3733                 3456                  277
-      616        gewählt           3741                 3458                  283
-      617  nicht gewählt            755                  746                    9
-      618  nicht gewählt           1624                 1618                    6
-      619  nicht gewählt           3221                 3151                   70
-      620  nicht gewählt           1667                 1636                   31
-      621  nicht gewählt            514                  454                   60
-      622  nicht gewählt           1696                 1670                   26
-      623  nicht gewählt            882                  787                   95
-      624  nicht gewählt           1641                 1617                   24
-      625  nicht gewählt           3370                 3280                   90
-      626  nicht gewählt           1739                 1717                   22
-      627  nicht gewählt            378                  366                   12
-      628  nicht gewählt            406                  396                   10
-      629  nicht gewählt            785                  756                   29
-      630  nicht gewählt           1731                 1712                   19
-      631  nicht gewählt           1478                 1388                   90
-      632  nicht gewählt           1281                 1234                   47
-      633        gewählt           1979                 1511                  468
-      634  nicht gewählt           1192                 1132                   60
-      635        gewählt           1414                 1272                  142
-      636  nicht gewählt            725                  599                  126
-      637  nicht gewählt            434                  400                   34
-      638  nicht gewählt            564                  550                   14
-      639  nicht gewählt           2989                 2935                   54
-      640  nicht gewählt           1320                 1208                  112
-      641  nicht gewählt            616                  556                   60
-      642  nicht gewählt           1457                 1362                   95
-      643  nicht gewählt           1381                 1348                   33
-      644  nicht gewählt           3589                 3400                  189
-      645  nicht gewählt           3134                 3074                   60
-      646  nicht gewählt           1620                 1581                   39
-      647        gewählt           2136                 1803                  333
-      648  nicht gewählt            455                  432                   23
-      649        gewählt            989                  659                  330
-      650  nicht gewählt           1454                 1383                   71
-      651        gewählt           3898                 3554                  344
-      652  nicht gewählt            477                  435                   42
-      653  nicht gewählt           1011                  821                  190
-      654  nicht gewählt            357                  349                    8
-      655  nicht gewählt           1611                 1603                    8
-      656  nicht gewählt           1365                 1240                  125
-      657  nicht gewählt           1758                 1717                   41
-      658  nicht gewählt           1852                 1701                  151
-      659  nicht gewählt           1898                 1771                  127
-      660  nicht gewählt            402                  381                   21
-      661  nicht gewählt            810                  765                   45
-      662  nicht gewählt           1615                 1590                   25
-      663  nicht gewählt           1551                 1329                  222
-      664        gewählt            691                  484                  207
-      665  nicht gewählt           1722                 1689                   33
-      666  nicht gewählt            622                  545                   77
-      667  nicht gewählt            450                  423                   27
-      668        gewählt           1452                 1305                  147
-      669  nicht gewählt           1822                 1751                   71
-      670  nicht gewählt            445                  416                   29
-      671  nicht gewählt           1421                 1354                   67
-      672  nicht gewählt           1637                 1615                   22
-      673  nicht gewählt           1388                 1333                   55
-      674        gewählt           3628                 3412                  216
-      675  nicht gewählt           1688                 1665                   23
-      676  nicht gewählt           1208                 1176                   32
-      677  nicht gewählt            593                  581                   12
-      678  nicht gewählt           1156                 1128                   28
-      679  nicht gewählt           1732                 1481                  251
-      680  nicht gewählt           1259                 1212                   47
-      681  nicht gewählt            445                  428                   17
-      682  nicht gewählt           1688                 1642                   46
-      683  nicht gewählt            752                  605                  147
-      684  nicht gewählt            560                  541                   19
-      685  nicht gewählt           1611                 1600                   11
-      686  nicht gewählt           3454                 3334                  120
-      687  nicht gewählt            628                  562                   66
-      688  nicht gewählt           1378                 1283                   95
-      689  nicht gewählt            185                  104                   81
-      690  nicht gewählt            999                  832                  167
-      691  nicht gewählt            464                  436                   28
-      692  nicht gewählt           1457                 1361                   96
-      693  nicht gewählt           1421                 1336                   85
-      694  nicht gewählt           1591                 1580                   11
-      695  nicht gewählt           1210                 1185                   25
-      696  nicht gewählt            378                  366                   12
-      697        gewählt           2195                 1546                  649
-      698  nicht gewählt           1921                 1793                  128
-      699  nicht gewählt           1357                 1277                   80
-      700  nicht gewählt           1490                 1425                   65
-      701  nicht gewählt           1277                 1230                   47
-      702  nicht gewählt           1684                 1470                  214
-      703  nicht gewählt            450                  425                   25
-      704  nicht gewählt            908                  797                  111
-      705  nicht gewählt            546                  446                  100
-      706  nicht gewählt            436                  390                   46
-      707  nicht gewählt           1679                 1444                  235
-      708        gewählt           1298                  898                  400
-      709  nicht gewählt            808                  764                   44
-      710  nicht gewählt           2994                 2967                   27
-      711  nicht gewählt            590                  554                   36
-      712  nicht gewählt           1272                 1200                   72
-      713  nicht gewählt            657                  654                    3
-      714  nicht gewählt            572                  552                   20
-      715  nicht gewählt            228                  214                   14
-      716  nicht gewählt           1121                 1113                    8
-      717  nicht gewählt            896                  777                  119
-      718        gewählt           2079                 1636                  443
-      719  nicht gewählt            224                  213                   11
-      720  nicht gewählt           1863                 1818                   45
-      721  nicht gewählt           1273                 1237                   36
-      722  nicht gewählt            900                  729                  171
-      723  nicht gewählt            163                  108                   55
-      724  nicht gewählt           1970                 1921                   49
-      725        gewählt           4426                 3812                  614
-      726  nicht gewählt            836                  745                   91
-      727  nicht gewählt           3470                 3337                  133
-      728        gewählt           2109                 1676                  433
-      729  nicht gewählt           1695                 1502                  193
-      730        gewählt           4019                 3723                  296
-      731  nicht gewählt            245                  220                   25
-      732  nicht gewählt           2005                 1911                   94
-      733        gewählt           2480                 2188                  292
-      734  nicht gewählt           3870                 3619                  251
-      735  nicht gewählt           1987                 1676                  311
-      736  nicht gewählt           1707                 1541                  166
-      737  nicht gewählt            413                  374                   39
-      738        gewählt           1311                  830                  481
-      739        gewählt            982                  816                  166
-      740        gewählt           1799                 1563                  236
-      741  nicht gewählt           1602                 1501                  101
-      742  nicht gewählt            807                  741                   66
-      743  nicht gewählt           1484                 1426                   58
-      744  nicht gewählt           1384                 1379                    5
-      745  nicht gewählt           1849                 1824                   25
-      746  nicht gewählt           1651                 1548                  103
-      747  nicht gewählt           1835                 1807                   28
-      748  nicht gewählt            290                  241                   49
-      749  nicht gewählt           1234                 1216                   18
-      750  nicht gewählt           3398                 3299                   99
-      751  nicht gewählt           1178                 1153                   25
-      752  nicht gewählt           1430                 1401                   29
-      753  nicht gewählt           1619                 1507                  112
-      754  nicht gewählt            235                  219                   16
-      755  nicht gewählt            395                  376                   19
-      756  nicht gewählt           2042                 1654                  388
-      757  nicht gewählt           1367                 1346                   21
-      758  nicht gewählt           3512                 3389                  123
-      759  nicht gewählt            532                  434                   98
-      760  nicht gewählt            264                  221                   43
-      761  nicht gewählt           1259                 1236                   23
-      762  nicht gewählt           1752                 1727                   25
-      763  nicht gewählt           1863                 1644                  219
-      764  nicht gewählt           1156                 1152                    4
-      765  nicht gewählt            756                  687                   69
-      766  nicht gewählt            424                  379                   45
-      767  nicht gewählt            838                  756                   82
-      768  nicht gewählt            214                   71                  143
-      769  nicht gewählt           1470                 1399                   71
-      770  nicht gewählt           1621                 1490                  131
-      771  nicht gewählt           3360                 3263                   97
-      772  nicht gewählt           1226                 1205                   21
-      773  nicht gewählt           1549                 1412                  137
-      774  nicht gewählt            207                  200                    7
-      775  nicht gewählt            226                  211                   15
-      776  nicht gewählt           3252                 3211                   41
-      777  nicht gewählt            209                  208                    1
-      778  nicht gewählt            769                  693                   76
-      779  nicht gewählt           3423                 3322                  101
-      780  nicht gewählt            454                  390                   64
-      781  nicht gewählt            220                  209                   11
-      782  nicht gewählt           1875                 1844                   31
-      783  nicht gewählt           1340                 1280                   60
-      784  nicht gewählt            767                  657                  110
-      785  nicht gewählt           1581                 1483                   98
-      786  nicht gewählt            445                  420                   25
-      787  nicht gewählt           1168                 1153                   15
-      788  nicht gewählt           1867                 1795                   72
-      789  nicht gewählt           3727                 3588                  139
-      790  nicht gewählt            260                  219                   41
-      791  nicht gewählt           1624                 1509                  115
-      792  nicht gewählt            716                  703                   13
-      793  nicht gewählt           1442                 1399                   43
-      794  nicht gewählt            219                  217                    2
-      795        gewählt           1858                 1506                  352
-      796  nicht gewählt            769                  721                   48
-      797  nicht gewählt           1084                 1077                    7
-      798  nicht gewählt           2858                 2808                   50
-      799  nicht gewählt           2187                 2022                  165
-      800        gewählt           4091                 3728                  363
-      801  nicht gewählt           1276                 1256                   20
-      802  nicht gewählt           1211                 1190                   21
-      803  nicht gewählt            420                  393                   27
-      804  nicht gewählt            490                  404                   86
-      805  nicht gewählt            128                  105                   23
-      806  nicht gewählt            833                  789                   44
-      807        gewählt           1537                 1340                  197
-      808  nicht gewählt           1394                 1354                   40
-      809  nicht gewählt           1772                 1720                   52
-      810  nicht gewählt            764                  698                   66
-      811        gewählt           2474                 2188                  286
-      812  nicht gewählt            618                  558                   60
-      813  nicht gewählt            189                  155                   34
-      814  nicht gewählt            190                  157                   33
-      815  nicht gewählt           1787                 1759                   28
-      816  nicht gewählt           2108                 2076                   32
-      817        gewählt            957                  663                  294
-      818  nicht gewählt           1765                 1752                   13
-      819  nicht gewählt            436                  424                   12
-      820  nicht gewählt            469                  459                   10
-      821  nicht gewählt            587                  552                   35
-      822  nicht gewählt           1453                 1447                    6
-      823  nicht gewählt            562                  441                  121
-      824  nicht gewählt            542                  440                  102
-      825  nicht gewählt            532                  472                   60
-      826  nicht gewählt            574                  556                   18
-      827        gewählt           3992                 3659                  333
-      828  nicht gewählt           1780                 1749                   31
-      829  nicht gewählt            486                  433                   53
-      830  nicht gewählt           3238                 3186                   52
-      831  nicht gewählt           3489                 3412                   77
-      832  nicht gewählt            171                  156                   15
-      833  nicht gewählt           1849                 1806                   43
-      834  nicht gewählt           1715                 1684                   31
-      835  nicht gewählt            456                  429                   27
-      836        gewählt           2426                 2207                  219
-      837  nicht gewählt           2992                 2961                   31
-      838  nicht gewählt           1752                 1730                   22
-      839  nicht gewählt           2028                 1992                   36
-      840  nicht gewählt           3107                 3087                   20
-      841  nicht gewählt            953                  663                  290
-      842  nicht gewählt           1909                 1766                  143
-      843  nicht gewählt           3188                 3116                   72
-      844  nicht gewählt           1821                 1614                  207
-      845  nicht gewählt           1942                 1919                   23
-      846  nicht gewählt            567                  564                    3
-      847        gewählt           2191                 1986                  205
-      848  nicht gewählt           1702                 1667                   35
-      849  nicht gewählt           2069                 2047                   22
-      850  nicht gewählt           1808                 1740                   68
-      851  nicht gewählt            448                  408                   40
-      852  nicht gewählt            558                  470                   88
-      853  nicht gewählt           1665                 1659                    6
-      854        gewählt           3858                 3586                  272
-      855  nicht gewählt            465                  416                   49
-      856  nicht gewählt            461                  432                   29
-      857  nicht gewählt           1698                 1683                   15
-      858  nicht gewählt           3291                 3229                   62
-      859  nicht gewählt           1633                 1616                   17
-      860  nicht gewählt            430                  406                   24
-      861  nicht gewählt            438                  431                    7
-      862  nicht gewählt            605                  579                   26
-      863        gewählt           4040                 3691                  349
-      864  nicht gewählt           1564                 1527                   37
-      865  nicht gewählt           1598                 1571                   27
-      866  nicht gewählt            587                  564                   23
-      867  nicht gewählt            650                  593                   57
-      868  nicht gewählt            553                  539                   14
-      869        gewählt            739                  604                  135
-      870        gewählt           4134                 3775                  359
-      871  nicht gewählt           1570                 1508                   62
-      872  nicht gewählt            170                  152                   18
-      873        gewählt           2414                 2213                  201
-      874  nicht gewählt           2051                 2043                    8
-      875  nicht gewählt           3373                 3325                   48
-      876  nicht gewählt           2093                 2070                   23
-      877  nicht gewählt           1753                 1734                   19
-      878  nicht gewählt           1592                 1542                   50
-      879  nicht gewählt            495                  425                   70
-      880  nicht gewählt            699                  462                  237
-      881  nicht gewählt            619                  572                   47
-      882        gewählt           2421                 1928                  493
-      883  nicht gewählt            606                  568                   38
-      884  nicht gewählt           1993                 1974                   19
-      885  nicht gewählt            501                  461                   40
-      886  nicht gewählt            444                  434                   10
-      887  nicht gewählt           1485                 1434                   51
-      888  nicht gewählt           1880                 1626                  254
-      889  nicht gewählt            564                  556                    8
-      890  nicht gewählt           3306                 3271                   35
-      891  nicht gewählt           1978                 1646                  332
-      892  nicht gewählt           1530                 1478                   52
-      893  nicht gewählt           3488                 3380                  108
-      894  nicht gewählt            433                  430                    3
-      895  nicht gewählt            656                  577                   79
-      896  nicht gewählt           3102                 3036                   66
-      897        gewählt           2490                 1714                  776
-      898  nicht gewählt           1993                 1873                  120
-      899  nicht gewählt            497                  437                   60
-      900  nicht gewählt           1876                 1797                   79
-      901  nicht gewählt           1877                 1653                  224
-      902        gewählt           3775                 3601                  174
-      903  nicht gewählt            587                  583                    4
-      904  nicht gewählt            698                  579                  119
-      905        gewählt           2231                 1982                  249
-      906  nicht gewählt           2056                 2024                   32
-      907  nicht gewählt            567                  552                   15
-      908        gewählt           2475                 2224                  251
-      909  nicht gewählt            713                  601                  112
-      910  nicht gewählt            585                  572                   13
-      911        gewählt           2016                 1812                  204
-      912  nicht gewählt            452                  433                   19
-      913  nicht gewählt           1679                 1671                    8
-      914  nicht gewählt           3343                 3278                   65
-      915  nicht gewählt           2297                 2149                  148
-      916        gewählt            904                  484                  420
-      917  nicht gewählt            510                  501                    9
-      918  nicht gewählt           2120                 2085                   35
-      919  nicht gewählt           1728                 1700                   28
-      920  nicht gewählt            436                  427                    9
-      921  nicht gewählt           1675                 1652                   23
-      922  nicht gewählt            468                  429                   39
-      923        gewählt           2096                 1812                  284
-      924  nicht gewählt            559                  543                   16
-      925  nicht gewählt           1574                 1510                   64
-      926  nicht gewählt           1986                 1981                    5
-      927  nicht gewählt           1994                 1818                  176
-      928        gewählt           3570                 3464                  106
-      929  nicht gewählt            461                  448                   13
-      930  nicht gewählt            678                  520                  158
-      931  nicht gewählt            542                  531                   11
-      932  nicht gewählt           1952                 1947                    5
-      933  nicht gewählt            599                  555                   44
-      934  nicht gewählt           1620                 1571                   49
-      935  nicht gewählt            661                  574                   87
-      936  nicht gewählt           1643                 1549                   94
-      937  nicht gewählt           1762                 1718                   44
-      938  nicht gewählt           3467                 3385                   82
-      939  nicht gewählt           1777                 1617                  160
-      940  nicht gewählt           1586                 1580                    6
-      941  nicht gewählt           2028                 2017                   11
-      942  nicht gewählt            565                  561                    4
-      943  nicht gewählt           1718                 1701                   17
-      944  nicht gewählt           1875                 1868                    7
-      945  nicht gewählt            423                  413                   10
-      946  nicht gewählt           1803                 1755                   48
-      947  nicht gewählt           1620                 1561                   59
-      948        gewählt           2378                 2028                  350
-      949  nicht gewählt           1692                 1691                    1
-      950        gewählt           2209                 1680                  529
-      951  nicht gewählt           1817                 1786                   31
-      952  nicht gewählt            581                  566                   15
-      953  nicht gewählt            532                  516                   16
-      954  nicht gewählt            544                  531                   13
-      955  nicht gewählt           3192                 3120                   72
-      956  nicht gewählt           1849                 1810                   39
-      957  nicht gewählt            529                  525                    4
-      958  nicht gewählt            549                  538                   11
-      959  nicht gewählt            587                  547                   40
-      960  nicht gewählt            547                  537                   10
-      961  nicht gewählt           2093                 2062                   31
-      962  nicht gewählt            438                  401                   37
-      963  nicht gewählt            166                  154                   12
-      964  nicht gewählt            172                  156                   16
-      965  nicht gewählt           1889                 1775                  114
-      966  nicht gewählt            500                  429                   71
-      967  nicht gewählt           3423                 3351                   72
-      968  nicht gewählt            481                  445                   36
-      969  nicht gewählt            552                  552                    0
-      970  nicht gewählt           1669                 1636                   33
-      971  nicht gewählt           2034                 2018                   16
-      972  nicht gewählt            464                  442                   22
-      973  nicht gewählt            451                  436                   15
-      974  nicht gewählt           2047                 2023                   24
-      975  nicht gewählt            504                  504                    0
-      976  nicht gewählt            566                  557                    9
-      977  nicht gewählt            590                  551                   39
-      978  nicht gewählt           1717                 1649                   68
-      979  nicht gewählt           1731                 1705                   26
-      980        gewählt           2014                 1803                  211
-      981  nicht gewählt            476                  463                   13
-      982  nicht gewählt            582                  547                   35
-      983  nicht gewählt           1603                 1500                  103
-      984  nicht gewählt            621                  579                   42
-      985  nicht gewählt           1762                 1731                   31
-      986  nicht gewählt           1774                 1710                   64
-      987  nicht gewählt           1664                 1575                   89
-      988  nicht gewählt            446                  440                    6
-      989  nicht gewählt            585                  563                   22
-      990  nicht gewählt            580                  572                    8
-      991  nicht gewählt           1656                 1552                  104
-      992  nicht gewählt           1671                 1557                  114
-      993  nicht gewählt            431                  423                    8
-      994        gewählt           2194                 1693                  501
-      995  nicht gewählt           3526                 3376                  150
-      996  nicht gewählt           1938                 1934                    4
-      997  nicht gewählt            455                  414                   41
-      998  nicht gewählt           1994                 1980                   14
-      999  nicht gewählt           3220                 3162                   58
-      1000 nicht gewählt           1796                 1749                   47
-      1001 nicht gewählt            561                  535                   26
-      1002 nicht gewählt           1625                 1616                    9
-      1003 nicht gewählt           1520                 1447                   73
-      1004 nicht gewählt           1707                 1696                   11
-      1005 nicht gewählt            736                  732                    4
-      1006 nicht gewählt            304                  291                   13
-      1007 nicht gewählt            456                  434                   22
-      1008 nicht gewählt            511                  465                   46
-      1009       gewählt           1530                 1401                  129
-      1010 nicht gewählt            521                  476                   45
-      1011 nicht gewählt            371                  330                   41
-      1012 nicht gewählt            314                  288                   26
-      1013 nicht gewählt            459                  450                    9
-      1014 nicht gewählt            184                  158                   26
-      1015 nicht gewählt            435                  419                   16
-      1016 nicht gewählt            130                  118                   12
-      1017 nicht gewählt            340                  319                   21
-      1018 nicht gewählt            284                  186                   98
-      1019 nicht gewählt            580                  501                   79
-      1020       gewählt            475                  382                   93
-      1021 nicht gewählt           1183                 1169                   14
-      1022 nicht gewählt            468                  449                   19
-      1023 nicht gewählt            518                  493                   25
-      1024 nicht gewählt            418                  407                   11
-      1025 nicht gewählt            451                  442                    9
-      1026 nicht gewählt           1329                 1269                   60
-      1027 nicht gewählt            602                  542                   60
-      1028 nicht gewählt            562                  538                   24
-      1029 nicht gewählt            318                  311                    7
-      1030 nicht gewählt            512                  472                   40
-      1031 nicht gewählt            590                  523                   67
-      1032 nicht gewählt            782                  771                   11
-      1033 nicht gewählt            149                  141                    8
-      1034 nicht gewählt           1287                 1270                   17
-      1035 nicht gewählt            763                  755                    8
-      1036 nicht gewählt            734                  730                    4
-      1037       gewählt            847                  798                   49
-      1038 nicht gewählt            166                  156                   10
-      1039 nicht gewählt            311                  309                    2
-      1040 nicht gewählt            499                  476                   23
-      1041 nicht gewählt            148                  146                    2
-      1042 nicht gewählt            144                  131                   13
-      1043 nicht gewählt            138                  137                    1
-      1044 nicht gewählt            311                  282                   29
-      1045 nicht gewählt            142                  141                    1
-      1046 nicht gewählt            446                  438                    8
-      1047 nicht gewählt            102                   81                   21
-      1048 nicht gewählt            372                  359                   13
-      1049 nicht gewählt            416                  406                   10
-      1050 nicht gewählt            189                  166                   23
-      1051 nicht gewählt            118                  113                    5
-      1052       gewählt            600                  475                  125
-      1053 nicht gewählt            144                  142                    2
-      1054       gewählt            717                  544                  173
-      1055       gewählt           1415                 1350                   65
-      1056 nicht gewählt             94                   77                   17
-      1057 nicht gewählt            496                  459                   37
-      1058 nicht gewählt            158                  151                    7
-      1059 nicht gewählt           1371                 1332                   39
-      1060 nicht gewählt            420                  407                   13
-      1061 nicht gewählt            287                  285                    2
-      1062 nicht gewählt            757                  750                    7
-      1063 nicht gewählt            163                  156                    7
-      1064       gewählt            640                  507                  133
-      1065 nicht gewählt            122                  111                   11
-      1066 nicht gewählt             47                   40                    7
-      1067 nicht gewählt            631                  546                   85
-      1068 nicht gewählt            508                  488                   20
-      1069 nicht gewählt            307                  298                    9
-      1070 nicht gewählt            123                  117                    6
-      1071 nicht gewählt           1306                 1267                   39
-      1072 nicht gewählt            481                  472                    9
-      1073 nicht gewählt           1256                 1220                   36
-      1074 nicht gewählt            798                  785                   13
-      1075 nicht gewählt            534                  506                   28
-      1076       gewählt           1445                 1359                   86
-      1077 nicht gewählt             91                   77                   14
-      1078 nicht gewählt             85                   77                    8
-      1079 nicht gewählt            317                  289                   28
-      1080 nicht gewählt            284                  278                    6
-      1081 nicht gewählt            719                  714                    5
-      1082       gewählt            803                  783                   20
-                                             X14
-      1                                     <NA>
-      2                                     <NA>
-      3                                     <NA>
-      4                                     <NA>
-      5                                     <NA>
-      6                                     <NA>
-      7    Anteil Stimmen aus veränderten Listen
-      8                                   24.4 %
-      9                                   24.3 %
-      10                                  29.7 %
-      11                                  26.6 %
-      12                                  24.1 %
-      13                                  33.3 %
-      14                                  35.2 %
-      15                                  28.4 %
-      16                                  27.5 %
-      17                                  45.6 %
-      18                                  70.6 %
-      19                                  31.9 %
-      20                                  26.2 %
-      21                                  22.8 %
-      22                                  29.9 %
-      23                                  35.4 %
-      24                                  22.7 %
-      25                                  57.9 %
-      26                                  29.4 %
-      27                                  42.9 %
-      28                                  31.9 %
-      29                                    34 %
-      30                                  68.9 %
-      31                                  29.4 %
-      32                                  36.3 %
-      33                                  25.4 %
-      34                                  24.9 %
-      35                                    22 %
-      36                                  21.5 %
-      37                                  41.3 %
-      38                                   9.8 %
-      39                                  26.8 %
-      40                                  35.1 %
-      41                                  26.4 %
-      42                                  24.8 %
-      43                                  34.1 %
-      44                                    33 %
-      45                                  27.7 %
-      46                                  28.6 %
-      47                                    37 %
-      48                                  24.5 %
-      49                                  40.9 %
-      50                                  20.2 %
-      51                                  48.4 %
-      52                                  17.9 %
-      53                                  30.8 %
-      54                                  45.7 %
-      55                                  21.6 %
-      56                                  27.1 %
-      57                                  18.9 %
-      58                                  31.8 %
-      59                                  36.4 %
-      60                                  40.1 %
-      61                                  41.6 %
-      62                                  51.8 %
-      63                                  29.5 %
-      64                                  33.6 %
-      65                                  21.8 %
-      66                                    29 %
-      67                                  23.9 %
-      68                                  31.5 %
-      69                                  38.8 %
-      70                                  10.9 %
-      71                                  31.7 %
-      72                                  22.2 %
-      73                                  26.1 %
-      74                                  29.4 %
-      75                                  24.1 %
-      76                                  24.1 %
-      77                                  23.2 %
-      78                                  26.8 %
-      79                                  30.4 %
-      80                                  43.2 %
-      81                                  30.7 %
-      82                                  25.4 %
-      83                                  29.1 %
-      84                                  20.7 %
-      85                                  22.8 %
-      86                                    42 %
-      87                                  46.4 %
-      88                                  50.2 %
-      89                                  20.2 %
-      90                                  33.2 %
-      91                                  20.7 %
-      92                                  15.6 %
-      93                                  29.7 %
-      94                                  28.3 %
-      95                                  15.6 %
-      96                                  18.7 %
-      97                                  23.1 %
-      98                                  26.9 %
-      99                                  18.9 %
-      100                                 59.4 %
-      101                                 33.5 %
-      102                                 29.1 %
-      103                                 30.1 %
-      104                                 25.4 %
-      105                                 40.9 %
-      106                                 32.1 %
-      107                                 10.3 %
-      108                                 29.2 %
-      109                                 28.8 %
-      110                                 33.6 %
-      111                                 45.5 %
-      112                                 37.2 %
-      113                                 35.1 %
-      114                                 19.3 %
-      115                                 15.1 %
-      116                                 69.7 %
-      117                                 39.9 %
-      118                                 39.6 %
-      119                                 14.3 %
-      120                                 31.1 %
-      121                                 35.3 %
-      122                                 28.3 %
-      123                                 44.5 %
-      124                                 37.2 %
-      125                                 31.5 %
-      126                                 32.7 %
-      127                                 32.2 %
-      128                                 44.2 %
-      129                                 37.5 %
-      130                                   26 %
-      131                                 19.3 %
-      132                                 17.4 %
-      133                                 32.7 %
-      134                                 34.7 %
-      135                                 22.7 %
-      136                                 30.2 %
-      137                                 50.1 %
-      138                                 41.5 %
-      139                                 59.2 %
-      140                                 27.1 %
-      141                                 28.9 %
-      142                                 26.3 %
-      143                                 43.9 %
-      144                                 17.5 %
-      145                                 20.4 %
-      146                                 43.8 %
-      147                                 44.4 %
-      148                                 14.3 %
-      149                                 41.2 %
-      150                                 19.6 %
-      151                                 23.6 %
-      152                                 20.4 %
-      153                                 29.5 %
-      154                                 15.3 %
-      155                                 45.1 %
-      156                                 21.2 %
-      157                                 23.6 %
-      158                                 36.4 %
-      159                                 34.6 %
-      160                                 31.7 %
-      161                                 37.5 %
-      162                                 45.1 %
-      163                                 37.4 %
-      164                                 28.8 %
-      165                                 14.3 %
-      166                                 12.4 %
-      167                                 33.3 %
-      168                                 14.9 %
-      169                                 17.5 %
-      170                                 34.7 %
-      171                                 14.9 %
-      172                                 21.3 %
-      173                                 38.6 %
-      174                                 29.8 %
-      175                                 30.7 %
-      176                                 17.4 %
-      177                                 20.8 %
-      178                                 42.4 %
-      179                                 43.5 %
-      180                                 20.4 %
-      181                                 38.6 %
-      182                                 43.9 %
-      183                                 36.6 %
-      184                                 33.7 %
-      185                                 30.1 %
-      186                                 26.3 %
-      187                                 14.9 %
-      188                                 44.6 %
-      189                                 30.6 %
-      190                                 52.7 %
-      191                                 36.3 %
-      192                                 32.9 %
-      193                                 28.3 %
-      194                                 39.2 %
-      195                                 19.3 %
-      196                                 21.2 %
-      197                                 34.3 %
-      198                                 25.8 %
-      199                                 26.8 %
-      200                                 52.7 %
-      201                                 19.9 %
-      202                                 28.8 %
-      203                                 31.3 %
-      204                                 29.3 %
-      205                                 15.3 %
-      206                                 34.4 %
-      207                                 25.3 %
-      208                                 15.5 %
-      209                                 54.8 %
-      210                                 22.6 %
-      211                                   17 %
-      212                                 37.8 %
-      213                                 33.3 %
-      214                                   26 %
-      215                                 24.8 %
-      216                                 39.4 %
-      217                                 65.4 %
-      218                                 31.9 %
-      219                                 35.1 %
-      220                                 34.2 %
-      221                                 24.8 %
-      222                                 14.1 %
-      223                                 31.8 %
-      224                                   26 %
-      225                                 37.8 %
-      226                                 40.6 %
-      227                                   27 %
-      228                                 21.5 %
-      229                                 31.1 %
-      230                                 40.1 %
-      231                                 36.4 %
-      232                                 32.3 %
-      233                                 19.9 %
-      234                                 20.4 %
-      235                                 35.1 %
-      236                                 51.2 %
-      237                                 49.3 %
-      238                                 34.3 %
-      239                                 36.7 %
-      240                                 32.2 %
-      241                                 30.3 %
-      242                                 31.6 %
-      243                                   30 %
-      244                                 36.6 %
-      245                                 16.2 %
-      246                                 21.9 %
-      247                                 42.6 %
-      248                                   26 %
-      249                                 21.7 %
-      250                                 26.2 %
-      251                                 16.1 %
-      252                                   18 %
-      253                                 24.8 %
-      254                                 32.2 %
-      255                                 37.5 %
-      256                                 42.4 %
-      257                                 16.5 %
-      258                                 37.5 %
-      259                                 40.7 %
-      260                                   42 %
-      261                                 36.8 %
-      262                                 20.2 %
-      263                                 47.4 %
-      264                                 46.9 %
-      265                                   22 %
-      266                                 38.7 %
-      267                                 11.1 %
-      268                                   38 %
-      269                                 11.4 %
-      270                                 24.4 %
-      271                                 27.1 %
-      272                                   30 %
-      273                                 43.4 %
-      274                                   23 %
-      275                                 27.1 %
-      276                                   53 %
-      277                                 36.1 %
-      278                                 56.4 %
-      279                                 29.9 %
-      280                                 35.3 %
-      281                                 43.3 %
-      282                                 43.3 %
-      283                                 17.6 %
-      284                                 50.9 %
-      285                                 32.1 %
-      286                                 23.4 %
-      287                                   32 %
-      288                                 30.7 %
-      289                                 23.3 %
-      290                                 23.6 %
-      291                                 17.6 %
-      292                                 47.4 %
-      293                                 26.3 %
-      294                                 38.4 %
-      295                                   31 %
-      296                                 52.5 %
-      297                                 41.9 %
-      298                                 27.4 %
-      299                                 36.4 %
-      300                                 23.6 %
-      301                                 32.3 %
-      302                                 52.6 %
-      303                                 38.1 %
-      304                                 31.3 %
-      305                                 21.7 %
-      306                                 23.7 %
-      307                                 36.7 %
-      308                                 30.9 %
-      309                                 15.4 %
-      310                                 28.3 %
-      311                                 38.1 %
-      312                                 43.9 %
-      313                                 39.1 %
-      314                                 36.1 %
-      315                                   47 %
-      316                                 18.2 %
-      317                                 51.1 %
-      318                                 31.1 %
-      319                                 32.1 %
-      320                                 30.3 %
-      321                                 50.9 %
-      322                                 49.9 %
-      323                                 27.4 %
-      324                                 22.8 %
-      325                                 20.3 %
-      326                                  9.1 %
-      327                                 57.7 %
-      328                                   43 %
-      329                                 42.1 %
-      330                                 64.3 %
-      331                                 12.4 %
-      332                                 22.5 %
-      333                                 45.2 %
-      334                                 21.5 %
-      335                                 35.4 %
-      336                                 33.6 %
-      337                                 30.4 %
-      338                                 44.5 %
-      339                                 11.5 %
-      340                                 35.8 %
-      341                                 43.2 %
-      342                                 31.3 %
-      343                                 31.8 %
-      344                                 26.6 %
-      345                                 23.6 %
-      346                                   30 %
-      347                                 24.9 %
-      348                                   15 %
-      349                                 51.3 %
-      350                                 21.3 %
-      351                                 37.8 %
-      352                                 45.7 %
-      353                                 41.3 %
-      354                                 32.1 %
-      355                                 29.3 %
-      356                                 31.3 %
-      357                                 25.7 %
-      358                                   17 %
-      359                                 40.9 %
-      360                                 13.5 %
-      361                                   39 %
-      362                                 48.3 %
-      363                                   32 %
-      364                                 35.4 %
-      365                                 17.7 %
-      366                                 43.4 %
-      367                                 39.3 %
-      368                                 27.5 %
-      369                                 26.5 %
-      370                                 26.6 %
-      371                                 19.2 %
-      372                                 29.9 %
-      373                                 14.6 %
-      374                                 28.2 %
-      375                                 32.6 %
-      376                                 34.7 %
-      377                                 22.7 %
-      378                                 37.2 %
-      379                                   25 %
-      380                                 35.7 %
-      381                                 27.4 %
-      382                                 37.3 %
-      383                                 49.3 %
-      384                                   18 %
-      385                                 60.3 %
-      386                                 29.1 %
-      387                                 31.2 %
-      388                                 32.5 %
-      389                                 38.6 %
-      390                                   55 %
-      391                                 16.6 %
-      392                                 58.6 %
-      393                                 31.9 %
-      394                                 32.4 %
-      395                                   25 %
-      396                                 43.9 %
-      397                                 29.8 %
-      398                                   27 %
-      399                                 33.7 %
-      400                                 40.5 %
-      401                                 27.5 %
-      402                                 45.6 %
-      403                                 18.1 %
-      404                                 50.4 %
-      405                                   57 %
-      406                                 26.9 %
-      407                                 45.5 %
-      408                                 46.3 %
-      409                                 51.6 %
-      410                                 22.3 %
-      411                                 40.6 %
-      412                                   23 %
-      413                                 14.3 %
-      414                                 23.5 %
-      415                                 20.1 %
-      416                                 59.7 %
-      417                                 25.7 %
-      418                                 40.4 %
-      419                                   39 %
-      420                                 14.9 %
-      421                                 38.1 %
-      422                                 32.3 %
-      423                                 35.1 %
-      424                                 38.5 %
-      425                                 27.4 %
-      426                                 47.7 %
-      427                                 36.9 %
-      428                                 42.3 %
-      429                                 43.9 %
-      430                                 18.5 %
-      431                                 31.9 %
-      432                                 37.9 %
-      433                                 37.1 %
-      434                                 29.1 %
-      435                                 33.7 %
-      436                                 26.4 %
-      437                                 30.5 %
-      438                                 47.6 %
-      439                                 12.5 %
-      440                                 63.9 %
-      441                                 24.6 %
-      442                                 41.9 %
-      443                                 30.1 %
-      444                                 56.5 %
-      445                                 21.6 %
-      446                                 46.6 %
-      447                                 24.7 %
-      448                                 45.3 %
-      449                                   31 %
-      450                                 40.6 %
-      451                                 51.6 %
-      452                                 13.9 %
-      453                                 20.9 %
-      454                                 59.6 %
-      455                                 38.3 %
-      456                                 30.6 %
-      457                                 23.6 %
-      458                                 46.2 %
-      459                                 31.8 %
-      460                                   31 %
-      461                                 28.9 %
-      462                                 48.3 %
-      463                                 48.8 %
-      464                                 21.4 %
-      465                                 26.4 %
-      466                                 36.3 %
-      467                                   17 %
-      468                                 25.3 %
-      469                                 12.1 %
-      470                                 44.8 %
-      471                                 28.8 %
-      472                                 24.9 %
-      473                                 35.7 %
-      474                                 20.8 %
-      475                                 27.3 %
-      476                                 31.1 %
-      477                                 88.1 %
-      478                                 17.8 %
-      479                                 63.3 %
-      480                                 35.6 %
-      481                                 33.9 %
-      482                                 49.8 %
-      483                                 32.1 %
-      484                                 38.9 %
-      485                                 28.8 %
-      486                                 14.3 %
-      487                                 29.3 %
-      488                                 26.1 %
-      489                                 66.5 %
-      490                                 23.4 %
-      491                                 18.6 %
-      492                                   24 %
-      493                                 28.9 %
-      494                                 29.6 %
-      495                                 31.3 %
-      496                                 42.1 %
-      497                                 55.9 %
-      498                                 50.5 %
-      499                                 39.6 %
-      500                                 24.3 %
-      501                                 36.4 %
-      502                                 44.4 %
-      503                                 38.2 %
-      504                                 35.7 %
-      505                                 50.7 %
-      506                                 40.1 %
-      507                                 86.1 %
-      508                                   41 %
-      509                                 37.5 %
-      510                                 48.6 %
-      511                                 42.4 %
-      512                                 33.8 %
-      513                                 24.8 %
-      514                                 86.1 %
-      515                                 45.5 %
-      516                                   28 %
-      517                                 85.1 %
-      518                                 25.6 %
-      519                                   38 %
-      520                                 33.9 %
-      521                                 32.8 %
-      522                                 25.6 %
-      523                                 29.3 %
-      524                                 29.8 %
-      525                                 51.4 %
-      526                                 35.9 %
-      527                                 50.5 %
-      528                                 39.5 %
-      529                                 37.8 %
-      530                                 27.5 %
-      531                                 41.2 %
-      532                                 32.4 %
-      533                                 29.6 %
-      534                                 38.4 %
-      535                                 21.6 %
-      536                                 14.4 %
-      537                                   32 %
-      538                                 75.5 %
-      539                                 41.9 %
-      540                                 77.7 %
-      541                                 32.2 %
-      542                                 22.3 %
-      543                                 29.1 %
-      544                                 28.3 %
-      545                                 25.9 %
-      546                                 36.4 %
-      547                                 17.8 %
-      548                                 31.5 %
-      549                                 39.7 %
-      550                                 25.8 %
-      551                                   45 %
-      552                                 40.3 %
-      553                                 13.3 %
-      554                                 26.6 %
-      555                                   24 %
-      556                                 34.3 %
-      557                                 37.1 %
-      558                                 31.5 %
-      559                                 40.7 %
-      560                                   31 %
-      561                                 33.1 %
-      562                                 47.3 %
-      563                                 19.6 %
-      564                                 41.5 %
-      565                                 35.4 %
-      566                                 21.2 %
-      567                                 35.4 %
-      568                                 34.9 %
-      569                                 33.5 %
-      570                                 26.1 %
-      571                                 66.5 %
-      572                                 34.8 %
-      573                                 34.3 %
-      574                                   47 %
-      575                                 38.9 %
-      576                                 30.6 %
-      577                                 27.9 %
-      578                                 38.6 %
-      579                                 22.7 %
-      580                                   70 %
-      581                                 54.4 %
-      582                                   31 %
-      583                                 36.2 %
-      584                                 34.2 %
-      585                                 36.9 %
-      586                                 34.7 %
-      587                                 31.8 %
-      588                                 43.6 %
-      589                                 31.1 %
-      590                                 18.6 %
-      591                                 21.6 %
-      592                                 17.1 %
-      593                                 23.9 %
-      594                                   28 %
-      595                                   25 %
-      596                                   12 %
-      597                                   28 %
-      598                                 33.1 %
-      599                                 29.8 %
-      600                                 15.4 %
-      601                                 38.2 %
-      602                                 17.6 %
-      603                                 62.5 %
-      604                                 41.5 %
-      605                                 29.9 %
-      606                                 21.8 %
-      607                                   35 %
-      608                                 28.3 %
-      609                                 17.9 %
-      610                                 34.7 %
-      611                                 37.1 %
-      612                                 37.4 %
-      613                                 30.3 %
-      614                                 27.4 %
-      615                                 40.9 %
-      616                                   41 %
-      617                                 32.2 %
-      618                                 20.9 %
-      619                                 31.5 %
-      620                                   23 %
-      621                                 43.2 %
-      622                                 24.3 %
-      623                                   42 %
-      624                                 34.9 %
-      625                                 34.5 %
-      626                                 38.5 %
-      627                                 14.3 %
-      628                                 28.1 %
-      629                                 34.8 %
-      630                                 38.2 %
-      631                                 33.5 %
-      632                                 30.4 %
-      633                                 50.3 %
-      634                                 25.2 %
-      635                                 36.9 %
-      636                                 40.7 %
-      637                                 32.7 %
-      638                                 23.8 %
-      639                                 26.2 %
-      640                                 32.4 %
-      641                                 30.2 %
-      642                                 32.5 %
-      643                                 28.8 %
-      644                                 38.5 %
-      645                                 29.6 %
-      646                                 20.7 %
-      647                                   50 %
-      648                                 35.8 %
-      649                                 56.5 %
-      650                                 32.4 %
-      651                                 43.4 %
-      652                                 38.8 %
-      653                                 49.4 %
-      654                                 18.2 %
-      655                                 20.3 %
-      656                                   28 %
-      657                                   27 %
-      658                                 42.3 %
-      659                                 32.3 %
-      660                                 19.4 %
-      661                                 36.8 %
-      662                                 20.5 %
-      663                                 36.6 %
-      664                                 57.7 %
-      665                                 37.9 %
-      666                                 30.9 %
-      667                                 35.1 %
-      668                                 38.6 %
-      669                                 41.3 %
-      670                                 34.4 %
-      671                                 30.8 %
-      672                                 21.6 %
-      673                                 29.2 %
-      674                                 39.2 %
-      675                                 36.7 %
-      676                                 26.2 %
-      677                                 27.5 %
-      678                                 22.8 %
-      679                                 43.2 %
-      680                                 29.2 %
-      681                                 34.4 %
-      682                                 36.7 %
-      683                                 42.8 %
-      684                                 23.2 %
-      685                                 20.3 %
-      686                                 36.1 %
-      687                                 31.5 %
-      688                                 35.3 %
-      689                                 74.1 %
-      690                                 48.7 %
-      691                                 37.1 %
-      692                                 32.5 %
-      693                                 30.8 %
-      694                                 19.3 %
-      695                                 26.3 %
-      696                                 14.3 %
-      697                                 55.2 %
-      698                                 44.4 %
-      699                                 34.3 %
-      700                                   34 %
-      701                                 30.1 %
-      702                                 41.6 %
-      703                                 35.1 %
-      704                                 43.6 %
-      705                                 46.5 %
-      706                                   33 %
-      707                                 41.5 %
-      708                                 60.6 %
-      709                                 36.6 %
-      710                                 26.3 %
-      711                                 27.1 %
-      712                                 29.9 %
-      713                                 22.1 %
-      714                                 24.8 %
-      715                                 24.6 %
-      716                                 12.6 %
-      717                                 40.4 %
-      718                                 47.8 %
-      719                                 23.2 %
-      720                                 28.1 %
-      721                                   23 %
-      722                                 40.7 %
-      723                                 68.1 %
-      724                                   32 %
-      725                                 45.6 %
-      726                                 36.1 %
-      727                                 30.6 %
-      728                                 48.5 %
-      729                                 35.9 %
-      730                                 40.1 %
-      731                                 29.8 %
-      732                                 33.2 %
-      733                                   46 %
-      734                                 37.8 %
-      735                                 45.3 %
-      736                                 36.4 %
-      737                                 27.6 %
-      738                                 59.3 %
-      739                                 39.1 %
-      740                                 41.5 %
-      741                                 34.3 %
-      742                                 33.8 %
-      743                                   29 %
-      744                                 23.9 %
-      745                                 27.6 %
-      746                                 34.2 %
-      747                                   27 %
-      748                                 40.7 %
-      749                                 20.6 %
-      750                                 29.2 %
-      751                                 16.8 %
-      752                                 26.4 %
-      753                                 32.9 %
-      754                                 26.8 %
-      755                                 24.3 %
-      756                                 46.8 %
-      757                                   23 %
-      758                                 31.5 %
-      759                                 43.8 %
-      760                                 34.8 %
-      761                                 22.2 %
-      762                                 23.6 %
-      763                                 41.7 %
-      764                                 15.2 %
-      765                                 29.4 %
-      766                                 29.5 %
-      767                                 36.3 %
-      768                                 93.5 %
-      769                                 26.1 %
-      770                                   33 %
-      771                                 28.4 %
-      772                                 20.1 %
-      773                                   32 %
-      774                                 16.9 %
-      775                                 23.9 %
-      776                                   26 %
-      777                                 17.7 %
-      778                                 30.6 %
-      779                                 29.7 %
-      780                                 34.1 %
-      781                                 21.8 %
-      782                                 28.6 %
-      783                                 26.9 %
-      784                                 30.4 %
-      785                                 33.4 %
-      786                                 32.8 %
-      787                                 16.1 %
-      788                                 28.3 %
-      789                                 35.4 %
-      790                                 33.8 %
-      791                                 33.1 %
-      792                                 25.4 %
-      793                                   27 %
-      794                                 21.5 %
-      795                                 43.3 %
-      796                                 30.6 %
-      797                                  9.6 %
-      798                                 15.8 %
-      799                                 38.8 %
-      800                                 41.2 %
-      801                                 17.5 %
-      802                                 19.1 %
-      803                                 28.8 %
-      804                                   39 %
-      805                                 59.4 %
-      806                                 28.2 %
-      807                                 36.2 %
-      808                                 24.5 %
-      809                                 24.4 %
-      810                                 30.1 %
-      811                                 45.9 %
-      812                                 41.1 %
-      813                                 35.4 %
-      814                                 35.8 %
-      815                                 29.9 %
-      816                                   24 %
-      817                                 57.3 %
-      818                                 29.1 %
-      819                                 26.8 %
-      820                                 17.7 %
-      821                                   38 %
-      822                                 22.6 %
-      823                                 43.2 %
-      824                                 41.1 %
-      825                                 31.6 %
-      826                                 36.6 %
-      827                                 41.4 %
-      828                                 33.9 %
-      829                                 34.4 %
-      830                                 27.8 %
-      831                                   33 %
-      832                                 28.7 %
-      833                                 32.3 %
-      834                                 31.4 %
-      835                                   30 %
-      836                                   34 %
-      837                                 21.9 %
-      838                                 28.5 %
-      839                                   21 %
-      840                                 24.8 %
-      841                                 57.1 %
-      842                                 34.4 %
-      843                                 26.7 %
-      844                                 38.3 %
-      845                                 17.5 %
-      846                                 27.9 %
-      847                                 42.9 %
-      848                                 26.4 %
-      849                                 22.6 %
-      850                                 30.8 %
-      851                                 28.8 %
-      852                                 30.8 %
-      853                                 24.8 %
-      854                                 39.4 %
-      855                                 31.4 %
-      856                                 30.8 %
-      857                                 26.3 %
-      858                                   29 %
-      859                                 23.3 %
-      860                                 25.8 %
-      861                                 11.9 %
-      862                                 32.4 %
-      863                                 42.1 %
-      864                                 28.1 %
-      865                                 26.3 %
-      866                                 30.3 %
-      867                                 37.1 %
-      868                                 34.2 %
-      869                                 50.7 %
-      870                                 43.4 %
-      871                                 28.4 %
-      872                                 28.2 %
-      873                                 33.6 %
-      874                                 21.9 %
-      875                                 30.7 %
-      876                                 23.5 %
-      877                                 32.9 %
-      878                                 29.4 %
-      879                                 35.6 %
-      880                                 54.4 %
-      881                                 33.9 %
-      882                                 51.4 %
-      883                                 32.5 %
-      884                                 19.6 %
-      885                                   23 %
-      886                                 13.1 %
-      887                                 24.3 %
-      888                                 40.2 %
-      889                                 27.5 %
-      890                                 29.3 %
-      891                                 43.2 %
-      892                                 26.5 %
-      893                                   33 %
-      894                                 10.9 %
-      895                                 44.5 %
-      896                                 24.6 %
-      897                                 54.9 %
-      898                                 37.2 %
-      899                                 35.8 %
-      900                                 33.3 %
-      901                                 40.1 %
-      902                                 38.1 %
-      903                                 30.3 %
-      904                                 47.9 %
-      905                                 43.9 %
-      906                                 22.1 %
-      907                                 35.8 %
-      908                                 35.3 %
-      909                                 42.6 %
-      910                                 30.1 %
-      911                                 41.6 %
-      912                                 29.4 %
-      913                                 29.9 %
-      914                                 30.1 %
-      915                                 30.3 %
-      916                                 64.7 %
-      917                                 28.6 %
-      918                                 24.4 %
-      919                                 31.9 %
-      920                                 26.8 %
-      921                                 29.7 %
-      922                                 31.8 %
-      923                                 43.8 %
-      924                                 26.8 %
-      925                                 28.6 %
-      926                                 19.3 %
-      927                                   41 %
-      928                                 34.5 %
-      929                                 16.3 %
-      930                                 46.3 %
-      931                                 24.5 %
-      932                                 17.9 %
-      933                                 39.2 %
-      934                                 27.3 %
-      935                                 44.9 %
-      936                                 31.6 %
-      937                                 33.2 %
-      938                                 32.6 %
-      939                                 36.7 %
-      940                                 25.8 %
-      941                                   21 %
-      942                                 27.6 %
-      943                                 27.1 %
-      944                                 14.6 %
-      945                                 24.6 %
-      946                                 34.7 %
-      947                                 30.6 %
-      948                                 47.4 %
-      949                                   26 %
-      950                                 49.1 %
-      951                                 31.1 %
-      952                                 29.6 %
-      953                                 31.6 %
-      954                                 33.1 %
-      955                                 26.8 %
-      956                                 32.3 %
-      957                                 22.7 %
-      958                                 33.7 %
-      959                                   38 %
-      960                                 33.5 %
-      961                                 23.5 %
-      962                                 27.2 %
-      963                                 26.5 %
-      964                                 29.1 %
-      965                                 37.7 %
-      966                                 36.2 %
-      967                                 31.7 %
-      968                                 33.7 %
-      969                                 25.9 %
-      970                                 29.5 %
-      971                                 21.2 %
-      972                                 16.8 %
-      973                                 14.4 %
-      974                                 21.7 %
-      975                                 18.8 %
-      976                                 27.7 %
-      977                                 38.3 %
-      978                                 27.1 %
-      979                                   32 %
-      980                                 41.6 %
-      981                                 18.9 %
-      982                                 37.5 %
-      983                                 29.9 %
-      984                                 34.1 %
-      985                                 33.2 %
-      986                                 33.7 %
-      987                                 32.5 %
-      988                                 13.5 %
-      989                                 37.8 %
-      990                                 29.5 %
-      991                                 32.1 %
-      992                                 32.7 %
-      993                                   26 %
-      994                                 48.8 %
-      995                                 33.7 %
-      996                                 17.3 %
-      997                                 29.9 %
-      998                                 19.7 %
-      999                                 27.4 %
-      1000                                34.5 %
-      1001                                35.1 %
-      1002                                  23 %
-      1003                                26.1 %
-      1004                                26.7 %
-      1005                                15.4 %
-      1006                                23.4 %
-      1007                                  36 %
-      1008                                42.9 %
-      1009                                36.8 %
-      1010                                  33 %
-      1011                                37.2 %
-      1012                                22.9 %
-      1013                                28.5 %
-      1014                                38.6 %
-      1015                                32.9 %
-      1016                                18.5 %
-      1017                                31.5 %
-      1018                                60.2 %
-      1019                                39.8 %
-      1020                                50.9 %
-      1021                                18.3 %
-      1022                                25.4 %
-      1023                                36.7 %
-      1024                                30.1 %
-      1025                                27.3 %
-      1026                                27.2 %
-      1027                                  42 %
-      1028                                41.6 %
-      1029                                26.7 %
-      1030                                31.8 %
-      1031                                40.8 %
-      1032                                20.3 %
-      1033                                24.2 %
-      1034                                24.9 %
-      1035                                18.3 %
-      1036                                15.1 %
-      1037                                26.4 %
-      1038                                31.9 %
-      1039                                25.1 %
-      1040                                34.3 %
-      1041                                23.6 %
-      1042                                  16 %
-      1043                                12.3 %
-      1044                                22.2 %
-      1045                                20.4 %
-      1046                                34.5 %
-      1047                                31.4 %
-      1048                                21.5 %
-      1049                                29.8 %
-      1050                                40.2 %
-      1051                                10.2 %
-      1052                                51.3 %
-      1053                                  16 %
-      1054                                51.3 %
-      1055                                31.7 %
-      1056                                25.5 %
-      1057                                29.6 %
-      1058                                28.5 %
-      1059                                29.5 %
-      1060                                30.5 %
-      1061                                18.8 %
-      1062                                17.7 %
-      1063                                30.7 %
-      1064                                48.8 %
-      1065                                13.1 %
-      1066                                25.5 %
-      1067                                44.7 %
-      1068                                35.4 %
-      1069                                24.1 %
-      1070                                13.8 %
-      1071                                  26 %
-      1072                                31.8 %
-      1073                                  23 %
-      1074                                21.9 %
-      1075                                38.6 %
-      1076                                33.1 %
-      1077                                23.1 %
-      1078                                17.6 %
-      1079                                23.7 %
-      1080                                  18 %
-      1081                                13.4 %
-      1082                                22.4 %
+                 X10           X11            X12                  X13
+      1         <NA>          <NA>           <NA>                 <NA>
+      2         <NA>          <NA>           <NA>                 <NA>
+      3         <NA>          <NA>           <NA>                 <NA>
+      4         <NA>          <NA>           <NA>                 <NA>
+      5         <NA>          <NA>           <NA>                 <NA>
+      6         <NA>          <NA>           <NA>                 <NA>
+      7    Wahldatum  Wahlresultat Anzahl Stimmen Parteieigene Stimmen
+      8        44605 nicht gewählt           1105                 1096
+      9        44605 nicht gewählt           1191                 1166
+      10       44605 nicht gewählt           1188                 1138
+      11       44605 nicht gewählt           1401                 1331
+      12       44605 nicht gewählt           1188                 1089
+      13       44605 nicht gewählt           1543                 1455
+      14       44605 nicht gewählt            486                  447
+      15       44605 nicht gewählt           1438                 1346
+      16       44605 nicht gewählt           1152                 1131
+      17       44605       gewählt           2430                 2177
+      18       44605 nicht gewählt            143                   98
+      19       44605 nicht gewählt           2561                 2450
+      20       44605 nicht gewählt           2363                 2307
+      21       44605 nicht gewählt            184                  175
+      22       44605 nicht gewählt           1887                 1865
+      23       44605 nicht gewählt           2048                 1981
+      24       44605 nicht gewählt           1080                 1011
+      25       44605 nicht gewählt            337                  196
+      26       44605 nicht gewählt           2473                 2389
+      27       44605 nicht gewählt            552                  463
+      28       44605 nicht gewählt           1942                 1905
+      29       44605 nicht gewählt            477                  423
+      30       44605 nicht gewählt            135                   96
+      31       44605 nicht gewählt           1277                 1226
+      32       44605 nicht gewählt            223                  174
+      33       44605 nicht gewählt           1119                 1094
+      34       44605 nicht gewählt           2323                 2285
+      35       44605 nicht gewählt           1694                 1685
+      36       44605 nicht gewählt            181                  176
+      37       44605       gewählt           2253                 2122
+      38       44605 nicht gewählt            337                  335
+      39       44605 nicht gewählt            194                  167
+      40       44605 nicht gewählt           1286                 1202
+      41       44605 nicht gewählt           1399                 1356
+      42       44605 nicht gewählt           2322                 2252
+      43       44605 nicht gewählt           1562                 1438
+      44       44605 nicht gewählt            549                  520
+      45       44605 nicht gewählt           1424                 1349
+      46       44605 nicht gewählt            441                  413
+      47       44605       gewählt           2768                 2576
+      48       44605 nicht gewählt           1195                 1167
+      49       44605 nicht gewählt           1740                 1512
+      50       44605 nicht gewählt            381                  347
+      51       44605       gewählt           1993                 1551
+      52       44605 nicht gewählt            173                  170
+      53       44605 nicht gewählt           1207                 1149
+      54       44605       gewählt           1537                 1203
+      55       44605 nicht gewählt           1151                 1136
+      56       44605 nicht gewählt            432                  417
+      57       44605 nicht gewählt            175                  174
+      58       44605 nicht gewählt           1323                 1222
+      59       44605 nicht gewählt            579                  525
+      60       44605 nicht gewählt            614                  544
+      61       44605 nicht gewählt            630                  536
+      62       44605       gewählt           2135                 1554
+      63       44605 nicht gewählt            522                  500
+      64       44605 nicht gewählt           1990                 1953
+      65       44605 nicht gewählt           1153                 1133
+      66       44605 nicht gewählt           1176                 1137
+      67       44605 nicht gewählt           2293                 2249
+      68       44605 nicht gewählt           1930                 1902
+      69       44605 nicht gewählt            515                  417
+      70       44605 nicht gewählt            341                  336
+      71       44605 nicht gewählt           1223                 1182
+      72       44605 nicht gewählt           1160                 1150
+      73       44605 nicht gewählt           1392                 1317
+      74       44605 nicht gewählt           1183                 1096
+      75       44605 nicht gewählt            485                  477
+      76       44605 nicht gewählt           1742                 1732
+      77       44605 nicht gewählt            479                  474
+      78       44605 nicht gewählt            503                  485
+      79       44605 nicht gewählt           1478                 1366
+      80       44605 nicht gewählt            555                  443
+      81       44605 nicht gewählt            205                  186
+      82       44605 nicht gewählt            493                  490
+      83       44605 nicht gewählt            444                  402
+      84       44605 nicht gewählt            179                  177
+      85       44605 nicht gewählt            184                  175
+      86       44605       gewählt           3007                 2642
+      87       44605       gewählt           2465                 2216
+      88       44605       gewählt            632                  460
+      89       44605 nicht gewählt           1131                 1113
+      90       44605 nicht gewählt           2614                 2500
+      91       44605 nicht gewählt            179                  178
+      92       44605 nicht gewählt            360                  345
+      93       44605 nicht gewählt           2483                 2417
+      94       44605 nicht gewählt           1843                 1806
+      95       44605 nicht gewählt            360                  348
+      96       44605 nicht gewählt           2146                 2114
+      97       44605 nicht gewählt           1173                 1156
+      98       44605 nicht gewählt            431                  422
+      99       44605 nicht gewählt            175                  171
+      100      44605       gewählt            906                  598
+      101      44605 nicht gewählt            553                  516
+      102      44605 nicht gewählt            444                  430
+      103      44605 nicht gewählt           1195                 1145
+      104      44605 nicht gewählt            493                  473
+      105      44605       gewählt           2953                 2633
+      106      44605 nicht gewählt           1948                 1913
+      107      44605 nicht gewählt            339                  335
+      108      44605 nicht gewählt           1454                 1364
+      109      44605 nicht gewählt           1267                 1178
+      110      44605       gewählt           1359                 1227
+      111      44605 nicht gewählt            578                  470
+      112      44605 nicht gewählt           1182                 1107
+      113      44605 nicht gewählt           1600                 1504
+      114      44605 nicht gewählt            998                  983
+      115      44605 nicht gewählt            424                  409
+      116      44605       gewählt           2451                 1280
+      117      44605 nicht gewählt           1966                 1760
+      118      44605 nicht gewählt           1228                 1084
+      119      44605 nicht gewählt            939                  939
+      120      44605 nicht gewählt           1508                 1422
+      121      44605 nicht gewählt            343                  320
+      122      44605 nicht gewählt           1035                  992
+      123      44605 nicht gewählt           1338                 1151
+      124      44605 nicht gewählt           1881                 1699
+      125      44605 nicht gewählt            165                  145
+      126      44605 nicht gewählt           1103                 1032
+      127      44605 nicht gewählt           1741                 1700
+      128      44605       gewählt           1654                 1424
+      129      44605 nicht gewählt           3773                 3717
+      130      44605 nicht gewählt           1003                  968
+      131      44605 nicht gewählt            140                  136
+      132      44605 nicht gewählt            974                  973
+      133      44605 nicht gewählt           3509                 3432
+      134      44605 nicht gewählt            173                  144
+      135      44605 nicht gewählt           1042                 1001
+      136      44605 nicht gewählt            162                  144
+      137      44605 nicht gewählt           2365                 1910
+      138      44605       gewählt           1577                 1379
+      139      44605 nicht gewählt           1819                 1204
+      140      44605 nicht gewählt           3236                 3166
+      141      44605 nicht gewählt           1298                 1280
+      142      44605 nicht gewählt           1409                 1378
+      143      44605       gewählt           4205                 3834
+      144      44605 nicht gewählt            137                  137
+      145      44605 nicht gewählt            452                  409
+      146      44605 nicht gewählt           2102                 1842
+      147      44605       gewählt           1870                 1518
+      148      44605 nicht gewählt            939                  928
+      149      44605 nicht gewählt           4013                 3834
+      150      44605 nicht gewählt            184                  181
+      151      44605 nicht gewählt           1546                 1520
+      152      44605 nicht gewählt            279                  276
+      153      44605 nicht gewählt            315                  306
+      154      44605 nicht gewählt            950                  938
+      155      44605       gewählt           4299                 3981
+      156      44605 nicht gewählt           1021                 1000
+      157      44605 nicht gewählt            148                  143
+      158      44605       gewählt            698                  614
+      159      44605 nicht gewählt           1134                 1028
+      160      44605 nicht gewählt           1522                 1471
+      161      44605 nicht gewählt            355                  328
+      162      44605 nicht gewählt            206                  154
+      163      44605 nicht gewählt           1659                 1527
+      164      44605 nicht gewählt           1459                 1436
+      165      44605 nicht gewählt            939                  933
+      166      44605 nicht gewählt            919                  917
+      167      44605 nicht gewählt            111                   93
+      168      44605 nicht gewählt            423                  411
+      169      44605 nicht gewählt            137                  137
+      170      44605 nicht gewählt           1592                 1525
+      171      44605 nicht gewählt            423                  409
+      172      44605 nicht gewählt            282                  278
+      173      44605 nicht gewählt           1924                 1786
+      174      44605 nicht gewählt           1314                 1287
+      175      44605 nicht gewählt            163                  146
+      176      44605 nicht gewählt            975                  968
+      177      44605 nicht gewählt           1312                 1288
+      178      44605       gewählt           4098                 3884
+      179      44605 nicht gewählt            393                  335
+      180      44605 nicht gewählt            186                  179
+      181      44605 nicht gewählt            241                  182
+      182      44605       gewählt           4209                 4044
+      183      44605 nicht gewählt           1171                 1111
+      184      44605 nicht gewählt           1119                 1073
+      185      44605 nicht gewählt           1690                 1549
+      186      44605 nicht gewählt           1253                 1234
+      187      44605 nicht gewählt            423                  411
+      188      44605       gewählt           1875                 1566
+      189      44605 nicht gewählt           1497                 1460
+      190      44605 nicht gewählt            313                  188
+      191      44605 nicht gewählt           3707                 3619
+      192      44605 nicht gewählt           1375                 1327
+      193      44605 nicht gewählt           1648                 1588
+      194      44605 nicht gewählt            186                  149
+      195      44605 nicht gewählt            997                  975
+      196      44605 nicht gewählt           1171                 1160
+      197      44605 nicht gewählt           1129                 1092
+      198      44605 nicht gewählt           3182                 3151
+      199      44605       gewählt           1100                 1013
+      200      44605       gewählt           2497                 1867
+      201      44605 nicht gewählt            141                  140
+      202      44605 nicht gewählt           1659                 1637
+      203      44605 nicht gewählt           1344                 1297
+      204      44605 nicht gewählt           1469                 1434
+      205      44605 nicht gewählt            425                  411
+      206      44605 nicht gewählt           1131                 1079
+      207      44605 nicht gewählt           1078                 1022
+      208      44605 nicht gewählt            953                  949
+      209      44605       gewählt           2613                 1910
+      210      44605 nicht gewählt            146                  145
+      211      44605 nicht gewählt            970                  962
+      212      44605 nicht gewählt           1193                 1061
+      213      44605 nicht gewählt            333                  325
+      214      44605 nicht gewählt           1404                 1370
+      215      44605 nicht gewählt           1227                 1202
+      216      44605 nicht gewählt           3893                 3670
+      217      44605       gewählt           2671                 2535
+      218      44605 nicht gewählt            326                  310
+      219      44605 nicht gewählt            684                  624
+      220      44605 nicht gewählt           3588                 3506
+      221      44605 nicht gewählt           1228                 1213
+      222      44605 nicht gewählt            419                  408
+      223      44605 nicht gewählt           1354                 1302
+      224      44605 nicht gewählt            200                  178
+      225      44605 nicht gewählt           1898                 1768
+      226      44605 nicht gewählt            374                  337
+      227      44605 nicht gewählt           1618                 1558
+      228      44605 nicht gewählt            144                  141
+      229      44605 nicht gewählt           1507                 1481
+      230      44605 nicht gewählt            247                  188
+      231      44605 nicht gewählt           1451                 1351
+      232      44605 nicht gewählt            328                  321
+      233      44605 nicht gewählt            141                  140
+      234      44605 nicht gewählt            279                  270
+      235      44605 nicht gewählt            174                  148
+      236      44605 nicht gewählt            303                  185
+      237      44605       gewählt           4656                 4108
+      238      44605 nicht gewählt           3592                 3547
+      239      44605 nicht gewählt           1867                 1765
+      240      44605 nicht gewählt           1095                 1035
+      241      44605 nicht gewählt           1325                 1278
+      242      44605 nicht gewählt           1518                 1485
+      243      44605 nicht gewählt           1318                 1291
+      244      44605 nicht gewählt           3724                 3612
+      245      44605 nicht gewählt            185                  181
+      246      44605 nicht gewählt            256                  251
+      247      44605       gewählt           1720                 1465
+      248      44605 nicht gewählt           1036                 1015
+      249      44605 nicht gewählt           1004                  996
+      250      44605 nicht gewählt            210                  187
+      251      44605 nicht gewählt            621                  613
+      252      44605 nicht gewählt            635                  621
+      253      44605 nicht gewählt           1312                 1271
+      254      44605 nicht gewählt           1132                 1100
+      255      44605 nicht gewählt           1227                 1149
+      256      44605       gewählt           1713                 1439
+      257      44605 nicht gewählt            624                  617
+      258      44605 nicht gewählt             88                   75
+      259      44605 nicht gewählt           1762                 1540
+      260      44605 nicht gewählt           1702                 1471
+      261      44605 nicht gewählt           3178                 3087
+      262      44605 nicht gewählt           1309                 1266
+      263      44605       gewählt           3819                 3495
+      264      44605       gewählt           3783                 3473
+      265      44605 nicht gewählt            983                  981
+      266      44605 nicht gewählt           3275                 3164
+      267      44605 nicht gewählt            586                  585
+      268      44605 nicht gewählt           1238                 1118
+      269      44605 nicht gewählt            588                  581
+      270      44605 nicht gewählt            410                  361
+      271      44605 nicht gewählt           1353                 1310
+      272      44605 nicht gewählt           1410                 1353
+      273      44605 nicht gewählt           1847                 1563
+      274      44605 nicht gewählt           1357                 1321
+      275      44605 nicht gewählt           1353                 1324
+      276      44605       gewählt           2222                 1628
+      277      44605 nicht gewählt            485                  381
+      278      44605       gewählt           1759                 1257
+      279      44605 nicht gewählt           1121                 1089
+      280      44605 nicht gewählt             85                   78
+      281      44605 nicht gewählt            353                  287
+      282      44605 nicht gewählt           3541                 3288
+      283      44605 nicht gewählt            632                  612
+      284      44605 nicht gewählt            407                  294
+      285      44605 nicht gewählt             81                   70
+      286      44605 nicht gewählt           1026                 1013
+      287      44605 nicht gewählt           1536                 1417
+      288      44605 nicht gewählt           1509                 1471
+      289      44605 nicht gewählt            202                  186
+      290      44605 nicht gewählt             72                   72
+      291      44605 nicht gewählt            632                  621
+      292      44605       gewählt           3812                 3450
+      293      44605 nicht gewählt           1067                 1054
+      294      44605 nicht gewählt           1602                 1441
+      295      44605 nicht gewählt            145                  137
+      296      44605       gewählt           2200                 1567
+      297      44605 nicht gewählt           1798                 1548
+      298      44605 nicht gewählt           1082                 1045
+      299      44605 nicht gewählt           1206                 1157
+      300      44605 nicht gewählt             72                   71
+      301      44605 nicht gewählt            458                  384
+      302      44605 nicht gewählt            422                  308
+      303      44605 nicht gewählt            323                  291
+      304      44605 nicht gewählt           1436                 1383
+      305      44605 nicht gewählt            198                  191
+      306      44605 nicht gewählt            683                  649
+      307      44605 nicht gewählt            245                  196
+      308      44605 nicht gewählt           2904                 2817
+      309      44605 nicht gewählt             65                   65
+      310      44605 nicht gewählt           1096                 1077
+      311      44605 nicht gewählt           1239                 1143
+      312      44605 nicht gewählt             98                   77
+      313      44605 nicht gewählt           3296                 3169
+      314      44605 nicht gewählt           3140                 3049
+      315      44605       gewählt           3789                 3486
+      316      44605 nicht gewählt            637                  616
+      317      44605 nicht gewählt           1568                 1257
+      318      44605 nicht gewählt           1433                 1367
+      319      44605 nicht gewählt             81                   78
+      320      44605 nicht gewählt           1100                 1024
+      321      44605 nicht gewählt            112                   78
+      322      44605 nicht gewählt           2085                 1623
+      323      44605 nicht gewählt           1439                 1375
+      324      44605 nicht gewählt           1279                 1269
+      325      44605 nicht gewählt             69                   68
+      326      44605 nicht gewählt            573                  572
+      327      44605 nicht gewählt            130                   86
+      328      44605       gewählt           1380                 1165
+      329      44605 nicht gewählt           3469                 3262
+      330      44605 nicht gewählt            154                   88
+      331      44605 nicht gewählt            177                  174
+      332      44605 nicht gewählt           1273                 1254
+      333      44605 nicht gewählt           1906                 1583
+      334      44605 nicht gewählt            664                  635
+      335      44605       gewählt           1216                 1137
+      336      44605 nicht gewählt           3023                 2922
+      337      44605 nicht gewählt           1130                 1101
+      338      44605       gewählt           3613                 3402
+      339      44605 nicht gewählt            589                  587
+      340      44605       gewählt            811                  670
+      341      44605 nicht gewählt            352                  274
+      342      44605 nicht gewählt           1144                 1086
+      343      44605 nicht gewählt           1152                 1112
+      344      44605 nicht gewählt           1424                 1379
+      345      44605 nicht gewählt             72                   66
+      346      44605 nicht gewählt           1095                 1018
+      347      44605 nicht gewählt           1046                 1021
+      348      44605 nicht gewählt            925                  916
+      349      44605 nicht gewählt           1575                 1217
+      350      44605 nicht gewählt            197                  190
+      351      44605 nicht gewählt           1586                 1406
+      352      44605 nicht gewählt           1412                 1164
+      353      44605       gewählt           1652                 1456
+      354      44605       gewählt            941                  820
+      355      44605 nicht gewählt           2615                 2575
+      356      44605 nicht gewählt            291                  254
+      357      44605 nicht gewählt            269                  257
+      358      44605 nicht gewählt            483                  477
+      359      44605       gewählt           1883                 1715
+      360      44605 nicht gewählt            739                  723
+      361      44605 nicht gewählt            200                  182
+      362      44605 nicht gewählt            236                  172
+      363      44605 nicht gewählt            590                  547
+      364      44605 nicht gewählt            189                  165
+      365      44605 nicht gewählt            776                  754
+      366      44605       gewählt           3271                 2990
+      367      44605 nicht gewählt            201                  177
+      368      44605 nicht gewählt           2551                 2520
+      369      44605 nicht gewählt            272                  254
+      370      44605 nicht gewählt           1515                 1502
+      371      44605 nicht gewählt            791                  761
+      372      44605 nicht gewählt           1383                 1318
+      373      44605 nicht gewählt            748                  732
+      374      44605 nicht gewählt            170                  155
+      375      44605 nicht gewählt            595                  546
+      376      44605 nicht gewählt           1486                 1385
+      377      44605 nicht gewählt           1438                 1376
+      378      44605 nicht gewählt           1454                 1286
+      379      44605 nicht gewählt            535                  506
+      380      44605 nicht gewählt           2877                 2752
+      381      44605 nicht gewählt           1531                 1493
+      382      44605 nicht gewählt           2949                 2797
+      383      44605       gewählt           1801                 1344
+      384      44605 nicht gewählt            779                  762
+      385      44605 nicht gewählt            146                   99
+      386      44605 nicht gewählt           1369                 1303
+      387      44605 nicht gewählt            583                  495
+      388      44605 nicht gewählt           2739                 2611
+      389      44605 nicht gewählt           1579                 1433
+      390      44605 nicht gewählt            129                   98
+      391      44605 nicht gewählt            766                  756
+      392      44605       gewählt            969                  562
+      393      44605 nicht gewählt           1341                 1280
+      394      44605 nicht gewählt           1644                 1579
+      395      44605 nicht gewählt           2467                 2389
+      396      44605       gewählt           3299                 3088
+      397      44605 nicht gewählt           1381                 1335
+      398      44605 nicht gewählt           1329                 1278
+      399      44605 nicht gewählt           1378                 1263
+      400      44605 nicht gewählt           1630                 1422
+      401      44605 nicht gewählt            276                  268
+      402      44605       gewählt           3399                 3107
+      403      44605 nicht gewählt            780                  765
+      404      44605 nicht gewählt            403                  283
+      405      44605 nicht gewählt            284                  197
+      406      44605 nicht gewählt            167                  159
+      407      44605 nicht gewählt           1676                 1414
+      408      44605 nicht gewählt            227                  181
+      409      44605       gewählt           1887                 1398
+      410      44605 nicht gewählt           1432                 1404
+      411      44605 nicht gewählt           3116                 2975
+      412      44605 nicht gewählt           1445                 1426
+      413      44605 nicht gewählt           1132                 1125
+      414      44605 nicht gewählt            524                  510
+      415      44605 nicht gewählt            502                  494
+      416      44605 nicht gewählt            144                   96
+      417      44605 nicht gewählt           1228                 1183
+      418      44605 nicht gewählt           1533                 1359
+      419      44605 nicht gewählt            200                  171
+      420      44605 nicht gewählt            751                  743
+      421      44605 nicht gewählt           1474                 1294
+      422      44605 nicht gewählt           1433                 1360
+      423      44605 nicht gewählt           1406                 1287
+      424      44605 nicht gewählt            325                  285
+      425      44605 nicht gewählt           1531                 1476
+      426      44605       gewählt           2126                 1823
+      427      44605 nicht gewählt            317                  284
+      428      44605 nicht gewählt            693                  545
+      429      44605 nicht gewählt            715                  566
+      430      44605 nicht gewählt            784                  749
+      431      44605 nicht gewählt            589                  533
+      432      44605 nicht gewählt           1790                 1709
+      433      44605 nicht gewählt            194                  166
+      434      44605 nicht gewählt            282                  258
+      435      44605 nicht gewählt           2098                 2041
+      436      44605 nicht gewählt           1892                 1859
+      437      44605 nicht gewählt            321                  297
+      438      44605 nicht gewählt            677                  590
+      439      44605 nicht gewählt            720                  713
+      440      44605 nicht gewählt           1190                  802
+      441      44605 nicht gewählt           3839                 3819
+      442      44605 nicht gewählt           3963                 3666
+      443      44605 nicht gewählt           3295                 3224
+      444      44605 nicht gewählt            986                  745
+      445      44605 nicht gewählt           1446                 1432
+      446      44605       gewählt           4314                 3979
+      447      44605 nicht gewählt            296                  292
+      448      44605       gewählt           5291                 4734
+      449      44605 nicht gewählt           3334                 3284
+      450      44605       gewählt           4876                 4548
+      451      44605       gewählt           2339                 1742
+      452      44605 nicht gewählt            259                  256
+      453      44605 nicht gewählt           3661                 3647
+      454      44605       gewählt           2813                 1739
+      455      44605 nicht gewählt            575                  555
+      456      44605 nicht gewählt           2007                 1957
+      457      44605 nicht gewählt            292                  278
+      458      44605       gewählt           4281                 3984
+      459      44605 nicht gewählt           3376                 3320
+      460      44605 nicht gewählt           1643                 1569
+      461      44605 nicht gewählt           4072                 4010
+      462      44605 nicht gewählt            431                  339
+      463      44605       gewählt           4498                 4065
+      464      44605 nicht gewählt           1442                 1419
+      465      44605 nicht gewählt           3936                 3903
+      466      44605 nicht gewählt           3611                 3540
+      467      44605 nicht gewählt            759                  732
+      468      44605 nicht gewählt           1517                 1506
+      469      44605 nicht gewählt            717                  713
+      470      44605 nicht gewählt           2059                 1737
+      471      44605 nicht gewählt           1598                 1553
+      472      44605 nicht gewählt            297                  294
+      473      44605 nicht gewählt           2164                 2044
+      474      44605 nicht gewählt           1430                 1413
+      475      44605 nicht gewählt           3986                 3938
+      476      44605 nicht gewählt           3340                 3311
+      477      44605 nicht gewählt            143                   63
+      478      44605 nicht gewählt           1379                 1373
+      479      44605 nicht gewählt            967                  647
+      480      44605 nicht gewählt           1766                 1620
+      481      44605 nicht gewählt            537                  510
+      482      44605 nicht gewählt           2267                 1761
+      483      44605 nicht gewählt           1674                 1607
+      484      44605 nicht gewählt           3765                 3593
+      485      44605 nicht gewählt           1954                 1923
+      486      44605 nicht gewählt            735                  719
+      487      44605 nicht gewählt           1609                 1544
+      488      44605 nicht gewählt           1538                 1483
+      489      44605 nicht gewählt           1059                  667
+      490      44605 nicht gewählt           1485                 1466
+      491      44605 nicht gewählt            774                  724
+      492      44605 nicht gewählt           1490                 1477
+      493      44605 nicht gewählt           1600                 1556
+      494      44605 nicht gewählt           1976                 1922
+      495      44605 nicht gewählt           1655                 1561
+      496      44605       gewählt           1957                 1668
+      497      44605       gewählt           2577                 1771
+      498      44605       gewählt           4648                 4128
+      499      44605 nicht gewählt            710                  671
+      500      44605 nicht gewählt           1497                 1468
+      501      44605 nicht gewählt            675                  651
+      502      44605 nicht gewählt            639                  565
+      503      44605       gewählt           4685                 4457
+      504      44605 nicht gewählt           1768                 1597
+      505      44605 nicht gewählt            871                  756
+      506      44605 nicht gewählt            716                  684
+      507      44605 nicht gewählt            122                   55
+      508      44605 nicht gewählt            602                  556
+      509      44605 nicht gewählt            686                  642
+      510      44605 nicht gewählt            434                  315
+      511      44605 nicht gewählt            387                  327
+      512      44605 nicht gewählt            337                  304
+      513      44605 nicht gewählt           1852                 1839
+      514      44605 nicht gewählt            144                   70
+      515      44605 nicht gewählt           4220                 3841
+      516      44605 nicht gewählt           4023                 3963
+      517      44605 nicht gewählt            134                   69
+      518      44605 nicht gewählt           1871                 1820
+      519      44605 nicht gewählt            692                  665
+      520      44605 nicht gewählt           4381                 4246
+      521      44605 nicht gewählt            332                  300
+      522      44605 nicht gewählt           1522                 1504
+      523      44605 nicht gewählt            891                  752
+      524      44605 nicht gewählt           1984                 1932
+      525      44605       gewählt           2863                 2254
+      526      44605 nicht gewählt           3592                 3530
+      527      44605       gewählt           2810                 2276
+      528      44605 nicht gewählt            709                  671
+      529      44605 nicht gewählt           4654                 4447
+      530      44605 nicht gewählt           1563                 1544
+      531      44605 nicht gewählt            730                  686
+      532      44605 nicht gewählt           2058                 1929
+      533      44605 nicht gewählt            609                  600
+      534      44605 nicht gewählt            576                  557
+      535      44605 nicht gewählt           3696                 3681
+      536      44605 nicht gewählt           1323                 1318
+      537      44605 nicht gewählt           3385                 3341
+      538      44605 nicht gewählt            440                  205
+      539      44605 nicht gewählt            611                  538
+      540      44605       gewählt           1594                  729
+      541      44605 nicht gewählt            329                  291
+      542      44605 nicht gewählt            287                  282
+      543      44605 nicht gewählt            605                  598
+      544      44605 nicht gewählt           1585                 1530
+      545      44605 nicht gewählt            301                  297
+      546      44605 nicht gewählt           1787                 1655
+      547      44605 nicht gewählt            766                  738
+      548      44605 nicht gewählt           2032                 1992
+      549      44605 nicht gewählt            589                  555
+      550      44605 nicht gewählt           1526                 1504
+      551      44605 nicht gewählt            780                  701
+      552      44605 nicht gewählt            719                  693
+      553      44605 nicht gewählt            727                  712
+      554      44605 nicht gewählt           3946                 3879
+      555      44605 nicht gewählt           1491                 1455
+      556      44605 nicht gewählt            540                  525
+      557      44605 nicht gewählt            564                  529
+      558      44605 nicht gewählt           3360                 3329
+      559      44605 nicht gewählt           3884                 3768
+      560      44605 nicht gewählt           4195                 4148
+      561      44605 nicht gewählt            531                  526
+      562      44605 nicht gewählt            673                  605
+      563      44605 nicht gewählt           1732                 1720
+      564      44605 nicht gewählt           2380                 2169
+      565      44605 nicht gewählt           2155                 2044
+      566      44605 nicht gewählt            283                  280
+      567      44605 nicht gewählt            345                  308
+      568      44605 nicht gewählt            545                  535
+      569      44605 nicht gewählt           1704                 1583
+      570      44605 nicht gewählt           1539                 1520
+      571      44605       gewählt           1280                  817
+      572      44605 nicht gewählt            342                  302
+      573      44605 nicht gewählt           4406                 4318
+      574      44605 nicht gewählt            809                  703
+      575      44605       gewählt           4742                 4558
+      576      44605 nicht gewählt            620                  583
+      577      44605 nicht gewählt           1238                 1197
+      578      44605       gewählt           3591                 3349
+      579      44605 nicht gewählt           1661                 1648
+      580      44605 nicht gewählt            160                  105
+      581      44605       gewählt           2346                 2113
+      582      44605 nicht gewählt            742                  737
+      583      44605 nicht gewählt           1676                 1665
+      584      44605       gewählt           1951                 1802
+      585      44605       gewählt           2034                 1816
+      586      44605 nicht gewählt           1636                 1572
+      587      44605 nicht gewählt           3234                 3151
+      588      44605 nicht gewählt            763                  628
+      589      44605 nicht gewählt            624                  555
+      590      44605 nicht gewählt            398                  380
+      591      44605 nicht gewählt           2813                 2780
+      592      44605 nicht gewählt            391                  381
+      593      44605 nicht gewählt           1172                 1153
+      594      44605 nicht gewählt            597                  566
+      595      44605 nicht gewählt            432                  389
+      596      44605 nicht gewählt            368                  364
+      597      44605 nicht gewählt           3066                 2990
+      598      44605 nicht gewählt            765                  752
+      599      44605 nicht gewählt           1271                 1222
+      600      44605 nicht gewählt           1518                 1507
+      601      44605 nicht gewählt           1731                 1697
+      602      44605 nicht gewählt            393                  381
+      603      44605 nicht gewählt            128                   95
+      604      44605 nicht gewählt           1828                 1751
+      605      44605 nicht gewählt            613                  581
+      606      44605 nicht gewählt            655                  646
+      607      44605 nicht gewählt            788                  761
+      608      44605 nicht gewählt            407                  404
+      609      44605 nicht gewählt           1563                 1555
+      610      44605 nicht gewählt           3376                 3269
+      611      44605 nicht gewählt            814                  769
+      612      44605 nicht gewählt           1707                 1691
+      613      44605 nicht gewählt            419                  398
+      614      44605 nicht gewählt            705                  685
+      615      44605       gewählt           3733                 3456
+      616      44605       gewählt           3741                 3458
+      617      44605 nicht gewählt            755                  746
+      618      44605 nicht gewählt           1624                 1618
+      619      44605 nicht gewählt           3221                 3151
+      620      44605 nicht gewählt           1667                 1636
+      621      44605 nicht gewählt            514                  454
+      622      44605 nicht gewählt           1696                 1670
+      623      44605 nicht gewählt            882                  787
+      624      44605 nicht gewählt           1641                 1617
+      625      44605 nicht gewählt           3370                 3280
+      626      44605 nicht gewählt           1739                 1717
+      627      44605 nicht gewählt            378                  366
+      628      44605 nicht gewählt            406                  396
+      629      44605 nicht gewählt            785                  756
+      630      44605 nicht gewählt           1731                 1712
+      631      44605 nicht gewählt           1478                 1388
+      632      44605 nicht gewählt           1281                 1234
+      633      44605       gewählt           1979                 1511
+      634      44605 nicht gewählt           1192                 1132
+      635      44605       gewählt           1414                 1272
+      636      44605 nicht gewählt            725                  599
+      637      44605 nicht gewählt            434                  400
+      638      44605 nicht gewählt            564                  550
+      639      44605 nicht gewählt           2989                 2935
+      640      44605 nicht gewählt           1320                 1208
+      641      44605 nicht gewählt            616                  556
+      642      44605 nicht gewählt           1457                 1362
+      643      44605 nicht gewählt           1381                 1348
+      644      44605 nicht gewählt           3589                 3400
+      645      44605 nicht gewählt           3134                 3074
+      646      44605 nicht gewählt           1620                 1581
+      647      44605       gewählt           2136                 1803
+      648      44605 nicht gewählt            455                  432
+      649      44605       gewählt            989                  659
+      650      44605 nicht gewählt           1454                 1383
+      651      44605       gewählt           3898                 3554
+      652      44605 nicht gewählt            477                  435
+      653      44605 nicht gewählt           1011                  821
+      654      44605 nicht gewählt            357                  349
+      655      44605 nicht gewählt           1611                 1603
+      656      44605 nicht gewählt           1365                 1240
+      657      44605 nicht gewählt           1758                 1717
+      658      44605 nicht gewählt           1852                 1701
+      659      44605 nicht gewählt           1898                 1771
+      660      44605 nicht gewählt            402                  381
+      661      44605 nicht gewählt            810                  765
+      662      44605 nicht gewählt           1615                 1590
+      663      44605 nicht gewählt           1551                 1329
+      664      44605       gewählt            691                  484
+      665      44605 nicht gewählt           1722                 1689
+      666      44605 nicht gewählt            622                  545
+      667      44605 nicht gewählt            450                  423
+      668      44605       gewählt           1452                 1305
+      669      44605 nicht gewählt           1822                 1751
+      670      44605 nicht gewählt            445                  416
+      671      44605 nicht gewählt           1421                 1354
+      672      44605 nicht gewählt           1637                 1615
+      673      44605 nicht gewählt           1388                 1333
+      674      44605       gewählt           3628                 3412
+      675      44605 nicht gewählt           1688                 1665
+      676      44605 nicht gewählt           1208                 1176
+      677      44605 nicht gewählt            593                  581
+      678      44605 nicht gewählt           1156                 1128
+      679      44605 nicht gewählt           1732                 1481
+      680      44605 nicht gewählt           1259                 1212
+      681      44605 nicht gewählt            445                  428
+      682      44605 nicht gewählt           1688                 1642
+      683      44605 nicht gewählt            752                  605
+      684      44605 nicht gewählt            560                  541
+      685      44605 nicht gewählt           1611                 1600
+      686      44605 nicht gewählt           3454                 3334
+      687      44605 nicht gewählt            628                  562
+      688      44605 nicht gewählt           1378                 1283
+      689      44605 nicht gewählt            185                  104
+      690      44605 nicht gewählt            999                  832
+      691      44605 nicht gewählt            464                  436
+      692      44605 nicht gewählt           1457                 1361
+      693      44605 nicht gewählt           1421                 1336
+      694      44605 nicht gewählt           1591                 1580
+      695      44605 nicht gewählt           1210                 1185
+      696      44605 nicht gewählt            378                  366
+      697      44605       gewählt           2195                 1546
+      698      44605 nicht gewählt           1921                 1793
+      699      44605 nicht gewählt           1357                 1277
+      700      44605 nicht gewählt           1490                 1425
+      701      44605 nicht gewählt           1277                 1230
+      702      44605 nicht gewählt           1684                 1470
+      703      44605 nicht gewählt            450                  425
+      704      44605 nicht gewählt            908                  797
+      705      44605 nicht gewählt            546                  446
+      706      44605 nicht gewählt            436                  390
+      707      44605 nicht gewählt           1679                 1444
+      708      44605       gewählt           1298                  898
+      709      44605 nicht gewählt            808                  764
+      710      44605 nicht gewählt           2994                 2967
+      711      44605 nicht gewählt            590                  554
+      712      44605 nicht gewählt           1272                 1200
+      713      44605 nicht gewählt            657                  654
+      714      44605 nicht gewählt            572                  552
+      715      44605 nicht gewählt            228                  214
+      716      44605 nicht gewählt           1121                 1113
+      717      44605 nicht gewählt            896                  777
+      718      44605       gewählt           2079                 1636
+      719      44605 nicht gewählt            224                  213
+      720      44605 nicht gewählt           1863                 1818
+      721      44605 nicht gewählt           1273                 1237
+      722      44605 nicht gewählt            900                  729
+      723      44605 nicht gewählt            163                  108
+      724      44605 nicht gewählt           1970                 1921
+      725      44605       gewählt           4426                 3812
+      726      44605 nicht gewählt            836                  745
+      727      44605 nicht gewählt           3470                 3337
+      728      44605       gewählt           2109                 1676
+      729      44605 nicht gewählt           1695                 1502
+      730      44605       gewählt           4019                 3723
+      731      44605 nicht gewählt            245                  220
+      732      44605 nicht gewählt           2005                 1911
+      733      44605       gewählt           2480                 2188
+      734      44605 nicht gewählt           3870                 3619
+      735      44605 nicht gewählt           1987                 1676
+      736      44605 nicht gewählt           1707                 1541
+      737      44605 nicht gewählt            413                  374
+      738      44605       gewählt           1311                  830
+      739      44605       gewählt            982                  816
+      740      44605       gewählt           1799                 1563
+      741      44605 nicht gewählt           1602                 1501
+      742      44605 nicht gewählt            807                  741
+      743      44605 nicht gewählt           1484                 1426
+      744      44605 nicht gewählt           1384                 1379
+      745      44605 nicht gewählt           1849                 1824
+      746      44605 nicht gewählt           1651                 1548
+      747      44605 nicht gewählt           1835                 1807
+      748      44605 nicht gewählt            290                  241
+      749      44605 nicht gewählt           1234                 1216
+      750      44605 nicht gewählt           3398                 3299
+      751      44605 nicht gewählt           1178                 1153
+      752      44605 nicht gewählt           1430                 1401
+      753      44605 nicht gewählt           1619                 1507
+      754      44605 nicht gewählt            235                  219
+      755      44605 nicht gewählt            395                  376
+      756      44605 nicht gewählt           2042                 1654
+      757      44605 nicht gewählt           1367                 1346
+      758      44605 nicht gewählt           3512                 3389
+      759      44605 nicht gewählt            532                  434
+      760      44605 nicht gewählt            264                  221
+      761      44605 nicht gewählt           1259                 1236
+      762      44605 nicht gewählt           1752                 1727
+      763      44605 nicht gewählt           1863                 1644
+      764      44605 nicht gewählt           1156                 1152
+      765      44605 nicht gewählt            756                  687
+      766      44605 nicht gewählt            424                  379
+      767      44605 nicht gewählt            838                  756
+      768      44605 nicht gewählt            214                   71
+      769      44605 nicht gewählt           1470                 1399
+      770      44605 nicht gewählt           1621                 1490
+      771      44605 nicht gewählt           3360                 3263
+      772      44605 nicht gewählt           1226                 1205
+      773      44605 nicht gewählt           1549                 1412
+      774      44605 nicht gewählt            207                  200
+      775      44605 nicht gewählt            226                  211
+      776      44605 nicht gewählt           3252                 3211
+      777      44605 nicht gewählt            209                  208
+      778      44605 nicht gewählt            769                  693
+      779      44605 nicht gewählt           3423                 3322
+      780      44605 nicht gewählt            454                  390
+      781      44605 nicht gewählt            220                  209
+      782      44605 nicht gewählt           1875                 1844
+      783      44605 nicht gewählt           1340                 1280
+      784      44605 nicht gewählt            767                  657
+      785      44605 nicht gewählt           1581                 1483
+      786      44605 nicht gewählt            445                  420
+      787      44605 nicht gewählt           1168                 1153
+      788      44605 nicht gewählt           1867                 1795
+      789      44605 nicht gewählt           3727                 3588
+      790      44605 nicht gewählt            260                  219
+      791      44605 nicht gewählt           1624                 1509
+      792      44605 nicht gewählt            716                  703
+      793      44605 nicht gewählt           1442                 1399
+      794      44605 nicht gewählt            219                  217
+      795      44605       gewählt           1858                 1506
+      796      44605 nicht gewählt            769                  721
+      797      44605 nicht gewählt           1084                 1077
+      798      44605 nicht gewählt           2858                 2808
+      799      44605 nicht gewählt           2187                 2022
+      800      44605       gewählt           4091                 3728
+      801      44605 nicht gewählt           1276                 1256
+      802      44605 nicht gewählt           1211                 1190
+      803      44605 nicht gewählt            420                  393
+      804      44605 nicht gewählt            490                  404
+      805      44605 nicht gewählt            128                  105
+      806      44605 nicht gewählt            833                  789
+      807      44605       gewählt           1537                 1340
+      808      44605 nicht gewählt           1394                 1354
+      809      44605 nicht gewählt           1772                 1720
+      810      44605 nicht gewählt            764                  698
+      811      44605       gewählt           2474                 2188
+      812      44605 nicht gewählt            618                  558
+      813      44605 nicht gewählt            189                  155
+      814      44605 nicht gewählt            190                  157
+      815      44605 nicht gewählt           1787                 1759
+      816      44605 nicht gewählt           2108                 2076
+      817      44605       gewählt            957                  663
+      818      44605 nicht gewählt           1765                 1752
+      819      44605 nicht gewählt            436                  424
+      820      44605 nicht gewählt            469                  459
+      821      44605 nicht gewählt            587                  552
+      822      44605 nicht gewählt           1453                 1447
+      823      44605 nicht gewählt            562                  441
+      824      44605 nicht gewählt            542                  440
+      825      44605 nicht gewählt            532                  472
+      826      44605 nicht gewählt            574                  556
+      827      44605       gewählt           3992                 3659
+      828      44605 nicht gewählt           1780                 1749
+      829      44605 nicht gewählt            486                  433
+      830      44605 nicht gewählt           3238                 3186
+      831      44605 nicht gewählt           3489                 3412
+      832      44605 nicht gewählt            171                  156
+      833      44605 nicht gewählt           1849                 1806
+      834      44605 nicht gewählt           1715                 1684
+      835      44605 nicht gewählt            456                  429
+      836      44605       gewählt           2426                 2207
+      837      44605 nicht gewählt           2992                 2961
+      838      44605 nicht gewählt           1752                 1730
+      839      44605 nicht gewählt           2028                 1992
+      840      44605 nicht gewählt           3107                 3087
+      841      44605 nicht gewählt            953                  663
+      842      44605 nicht gewählt           1909                 1766
+      843      44605 nicht gewählt           3188                 3116
+      844      44605 nicht gewählt           1821                 1614
+      845      44605 nicht gewählt           1942                 1919
+      846      44605 nicht gewählt            567                  564
+      847      44605       gewählt           2191                 1986
+      848      44605 nicht gewählt           1702                 1667
+      849      44605 nicht gewählt           2069                 2047
+      850      44605 nicht gewählt           1808                 1740
+      851      44605 nicht gewählt            448                  408
+      852      44605 nicht gewählt            558                  470
+      853      44605 nicht gewählt           1665                 1659
+      854      44605       gewählt           3858                 3586
+      855      44605 nicht gewählt            465                  416
+      856      44605 nicht gewählt            461                  432
+      857      44605 nicht gewählt           1698                 1683
+      858      44605 nicht gewählt           3291                 3229
+      859      44605 nicht gewählt           1633                 1616
+      860      44605 nicht gewählt            430                  406
+      861      44605 nicht gewählt            438                  431
+      862      44605 nicht gewählt            605                  579
+      863      44605       gewählt           4040                 3691
+      864      44605 nicht gewählt           1564                 1527
+      865      44605 nicht gewählt           1598                 1571
+      866      44605 nicht gewählt            587                  564
+      867      44605 nicht gewählt            650                  593
+      868      44605 nicht gewählt            553                  539
+      869      44605       gewählt            739                  604
+      870      44605       gewählt           4134                 3775
+      871      44605 nicht gewählt           1570                 1508
+      872      44605 nicht gewählt            170                  152
+      873      44605       gewählt           2414                 2213
+      874      44605 nicht gewählt           2051                 2043
+      875      44605 nicht gewählt           3373                 3325
+      876      44605 nicht gewählt           2093                 2070
+      877      44605 nicht gewählt           1753                 1734
+      878      44605 nicht gewählt           1592                 1542
+      879      44605 nicht gewählt            495                  425
+      880      44605 nicht gewählt            699                  462
+      881      44605 nicht gewählt            619                  572
+      882      44605       gewählt           2421                 1928
+      883      44605 nicht gewählt            606                  568
+      884      44605 nicht gewählt           1993                 1974
+      885      44605 nicht gewählt            501                  461
+      886      44605 nicht gewählt            444                  434
+      887      44605 nicht gewählt           1485                 1434
+      888      44605 nicht gewählt           1880                 1626
+      889      44605 nicht gewählt            564                  556
+      890      44605 nicht gewählt           3306                 3271
+      891      44605 nicht gewählt           1978                 1646
+      892      44605 nicht gewählt           1530                 1478
+      893      44605 nicht gewählt           3488                 3380
+      894      44605 nicht gewählt            433                  430
+      895      44605 nicht gewählt            656                  577
+      896      44605 nicht gewählt           3102                 3036
+      897      44605       gewählt           2490                 1714
+      898      44605 nicht gewählt           1993                 1873
+      899      44605 nicht gewählt            497                  437
+      900      44605 nicht gewählt           1876                 1797
+      901      44605 nicht gewählt           1877                 1653
+      902      44605       gewählt           3775                 3601
+      903      44605 nicht gewählt            587                  583
+      904      44605 nicht gewählt            698                  579
+      905      44605       gewählt           2231                 1982
+      906      44605 nicht gewählt           2056                 2024
+      907      44605 nicht gewählt            567                  552
+      908      44605       gewählt           2475                 2224
+      909      44605 nicht gewählt            713                  601
+      910      44605 nicht gewählt            585                  572
+      911      44605       gewählt           2016                 1812
+      912      44605 nicht gewählt            452                  433
+      913      44605 nicht gewählt           1679                 1671
+      914      44605 nicht gewählt           3343                 3278
+      915      44605 nicht gewählt           2297                 2149
+      916      44605       gewählt            904                  484
+      917      44605 nicht gewählt            510                  501
+      918      44605 nicht gewählt           2120                 2085
+      919      44605 nicht gewählt           1728                 1700
+      920      44605 nicht gewählt            436                  427
+      921      44605 nicht gewählt           1675                 1652
+      922      44605 nicht gewählt            468                  429
+      923      44605       gewählt           2096                 1812
+      924      44605 nicht gewählt            559                  543
+      925      44605 nicht gewählt           1574                 1510
+      926      44605 nicht gewählt           1986                 1981
+      927      44605 nicht gewählt           1994                 1818
+      928      44605       gewählt           3570                 3464
+      929      44605 nicht gewählt            461                  448
+      930      44605 nicht gewählt            678                  520
+      931      44605 nicht gewählt            542                  531
+      932      44605 nicht gewählt           1952                 1947
+      933      44605 nicht gewählt            599                  555
+      934      44605 nicht gewählt           1620                 1571
+      935      44605 nicht gewählt            661                  574
+      936      44605 nicht gewählt           1643                 1549
+      937      44605 nicht gewählt           1762                 1718
+      938      44605 nicht gewählt           3467                 3385
+      939      44605 nicht gewählt           1777                 1617
+      940      44605 nicht gewählt           1586                 1580
+      941      44605 nicht gewählt           2028                 2017
+      942      44605 nicht gewählt            565                  561
+      943      44605 nicht gewählt           1718                 1701
+      944      44605 nicht gewählt           1875                 1868
+      945      44605 nicht gewählt            423                  413
+      946      44605 nicht gewählt           1803                 1755
+      947      44605 nicht gewählt           1620                 1561
+      948      44605       gewählt           2378                 2028
+      949      44605 nicht gewählt           1692                 1691
+      950      44605       gewählt           2209                 1680
+      951      44605 nicht gewählt           1817                 1786
+      952      44605 nicht gewählt            581                  566
+      953      44605 nicht gewählt            532                  516
+      954      44605 nicht gewählt            544                  531
+      955      44605 nicht gewählt           3192                 3120
+      956      44605 nicht gewählt           1849                 1810
+      957      44605 nicht gewählt            529                  525
+      958      44605 nicht gewählt            549                  538
+      959      44605 nicht gewählt            587                  547
+      960      44605 nicht gewählt            547                  537
+      961      44605 nicht gewählt           2093                 2062
+      962      44605 nicht gewählt            438                  401
+      963      44605 nicht gewählt            166                  154
+      964      44605 nicht gewählt            172                  156
+      965      44605 nicht gewählt           1889                 1775
+      966      44605 nicht gewählt            500                  429
+      967      44605 nicht gewählt           3423                 3351
+      968      44605 nicht gewählt            481                  445
+      969      44605 nicht gewählt            552                  552
+      970      44605 nicht gewählt           1669                 1636
+      971      44605 nicht gewählt           2034                 2018
+      972      44605 nicht gewählt            464                  442
+      973      44605 nicht gewählt            451                  436
+      974      44605 nicht gewählt           2047                 2023
+      975      44605 nicht gewählt            504                  504
+      976      44605 nicht gewählt            566                  557
+      977      44605 nicht gewählt            590                  551
+      978      44605 nicht gewählt           1717                 1649
+      979      44605 nicht gewählt           1731                 1705
+      980      44605       gewählt           2014                 1803
+      981      44605 nicht gewählt            476                  463
+      982      44605 nicht gewählt            582                  547
+      983      44605 nicht gewählt           1603                 1500
+      984      44605 nicht gewählt            621                  579
+      985      44605 nicht gewählt           1762                 1731
+      986      44605 nicht gewählt           1774                 1710
+      987      44605 nicht gewählt           1664                 1575
+      988      44605 nicht gewählt            446                  440
+      989      44605 nicht gewählt            585                  563
+      990      44605 nicht gewählt            580                  572
+      991      44605 nicht gewählt           1656                 1552
+      992      44605 nicht gewählt           1671                 1557
+      993      44605 nicht gewählt            431                  423
+      994      44605       gewählt           2194                 1693
+      995      44605 nicht gewählt           3526                 3376
+      996      44605 nicht gewählt           1938                 1934
+      997      44605 nicht gewählt            455                  414
+      998      44605 nicht gewählt           1994                 1980
+      999      44605 nicht gewählt           3220                 3162
+      1000     44605 nicht gewählt           1796                 1749
+      1001     44605 nicht gewählt            561                  535
+      1002     44605 nicht gewählt           1625                 1616
+      1003     44605 nicht gewählt           1520                 1447
+      1004     44605 nicht gewählt           1707                 1696
+      1005     44605 nicht gewählt            736                  732
+      1006     44605 nicht gewählt            304                  291
+      1007     44605 nicht gewählt            456                  434
+      1008     44605 nicht gewählt            511                  465
+      1009     44605       gewählt           1530                 1401
+      1010     44605 nicht gewählt            521                  476
+      1011     44605 nicht gewählt            371                  330
+      1012     44605 nicht gewählt            314                  288
+      1013     44605 nicht gewählt            459                  450
+      1014     44605 nicht gewählt            184                  158
+      1015     44605 nicht gewählt            435                  419
+      1016     44605 nicht gewählt            130                  118
+      1017     44605 nicht gewählt            340                  319
+      1018     44605 nicht gewählt            284                  186
+      1019     44605 nicht gewählt            580                  501
+      1020     44605       gewählt            475                  382
+      1021     44605 nicht gewählt           1183                 1169
+      1022     44605 nicht gewählt            468                  449
+      1023     44605 nicht gewählt            518                  493
+      1024     44605 nicht gewählt            418                  407
+      1025     44605 nicht gewählt            451                  442
+      1026     44605 nicht gewählt           1329                 1269
+      1027     44605 nicht gewählt            602                  542
+      1028     44605 nicht gewählt            562                  538
+      1029     44605 nicht gewählt            318                  311
+      1030     44605 nicht gewählt            512                  472
+      1031     44605 nicht gewählt            590                  523
+      1032     44605 nicht gewählt            782                  771
+      1033     44605 nicht gewählt            149                  141
+      1034     44605 nicht gewählt           1287                 1270
+      1035     44605 nicht gewählt            763                  755
+      1036     44605 nicht gewählt            734                  730
+      1037     44605       gewählt            847                  798
+      1038     44605 nicht gewählt            166                  156
+      1039     44605 nicht gewählt            311                  309
+      1040     44605 nicht gewählt            499                  476
+      1041     44605 nicht gewählt            148                  146
+      1042     44605 nicht gewählt            144                  131
+      1043     44605 nicht gewählt            138                  137
+      1044     44605 nicht gewählt            311                  282
+      1045     44605 nicht gewählt            142                  141
+      1046     44605 nicht gewählt            446                  438
+      1047     44605 nicht gewählt            102                   81
+      1048     44605 nicht gewählt            372                  359
+      1049     44605 nicht gewählt            416                  406
+      1050     44605 nicht gewählt            189                  166
+      1051     44605 nicht gewählt            118                  113
+      1052     44605       gewählt            600                  475
+      1053     44605 nicht gewählt            144                  142
+      1054     44605       gewählt            717                  544
+      1055     44605       gewählt           1415                 1350
+      1056     44605 nicht gewählt             94                   77
+      1057     44605 nicht gewählt            496                  459
+      1058     44605 nicht gewählt            158                  151
+      1059     44605 nicht gewählt           1371                 1332
+      1060     44605 nicht gewählt            420                  407
+      1061     44605 nicht gewählt            287                  285
+      1062     44605 nicht gewählt            757                  750
+      1063     44605 nicht gewählt            163                  156
+      1064     44605       gewählt            640                  507
+      1065     44605 nicht gewählt            122                  111
+      1066     44605 nicht gewählt             47                   40
+      1067     44605 nicht gewählt            631                  546
+      1068     44605 nicht gewählt            508                  488
+      1069     44605 nicht gewählt            307                  298
+      1070     44605 nicht gewählt            123                  117
+      1071     44605 nicht gewählt           1306                 1267
+      1072     44605 nicht gewählt            481                  472
+      1073     44605 nicht gewählt           1256                 1220
+      1074     44605 nicht gewählt            798                  785
+      1075     44605 nicht gewählt            534                  506
+      1076     44605       gewählt           1445                 1359
+      1077     44605 nicht gewählt             91                   77
+      1078     44605 nicht gewählt             85                   77
+      1079     44605 nicht gewählt            317                  289
+      1080     44605 nicht gewählt            284                  278
+      1081     44605 nicht gewählt            719                  714
+      1082     44605       gewählt            803                  783
+                            X14                                   X15
+      1                    <NA>                                  <NA>
+      2                    <NA>                                  <NA>
+      3                    <NA>                                  <NA>
+      4                    <NA>                                  <NA>
+      5                    <NA>                                  <NA>
+      6                    <NA>                                  <NA>
+      7    Parteifremde Stimmen Anteil Stimmen aus veränderten Listen
+      8                       9                                24.4 %
+      9                      25                                24.3 %
+      10                     50                                29.7 %
+      11                     70                                26.6 %
+      12                     99                                24.1 %
+      13                     88                                33.3 %
+      14                     39                                35.2 %
+      15                     92                                28.4 %
+      16                     21                                27.5 %
+      17                    253                                45.6 %
+      18                     45                                70.6 %
+      19                    111                                31.9 %
+      20                     56                                26.2 %
+      21                      9                                22.8 %
+      22                     22                                29.9 %
+      23                     67                                35.4 %
+      24                     69                                22.7 %
+      25                    141                                57.9 %
+      26                     84                                29.4 %
+      27                     89                                42.9 %
+      28                     37                                31.9 %
+      29                     54                                  34 %
+      30                     39                                68.9 %
+      31                     51                                29.4 %
+      32                     49                                36.3 %
+      33                     25                                25.4 %
+      34                     38                                24.9 %
+      35                      9                                  22 %
+      36                      5                                21.5 %
+      37                    131                                41.3 %
+      38                      2                                 9.8 %
+      39                     27                                26.8 %
+      40                     84                                35.1 %
+      41                     43                                26.4 %
+      42                     70                                24.8 %
+      43                    124                                34.1 %
+      44                     29                                  33 %
+      45                     75                                27.7 %
+      46                     28                                28.6 %
+      47                    192                                  37 %
+      48                     28                                24.5 %
+      49                    228                                40.9 %
+      50                     34                                20.2 %
+      51                    442                                48.4 %
+      52                      3                                17.9 %
+      53                     58                                30.8 %
+      54                    334                                45.7 %
+      55                     15                                21.6 %
+      56                     15                                27.1 %
+      57                      1                                18.9 %
+      58                    101                                31.8 %
+      59                     54                                36.4 %
+      60                     70                                40.1 %
+      61                     94                                41.6 %
+      62                    581                                51.8 %
+      63                     22                                29.5 %
+      64                     37                                33.6 %
+      65                     20                                21.8 %
+      66                     39                                  29 %
+      67                     44                                23.9 %
+      68                     28                                31.5 %
+      69                     98                                38.8 %
+      70                      5                                10.9 %
+      71                     41                                31.7 %
+      72                     10                                22.2 %
+      73                     75                                26.1 %
+      74                     87                                29.4 %
+      75                      8                                24.1 %
+      76                     10                                24.1 %
+      77                      5                                23.2 %
+      78                     18                                26.8 %
+      79                    112                                30.4 %
+      80                    112                                43.2 %
+      81                     19                                30.7 %
+      82                      3                                25.4 %
+      83                     42                                29.1 %
+      84                      2                                20.7 %
+      85                      9                                22.8 %
+      86                    365                                  42 %
+      87                    249                                46.4 %
+      88                    172                                50.2 %
+      89                     18                                20.2 %
+      90                    114                                33.2 %
+      91                      1                                20.7 %
+      92                     15                                15.6 %
+      93                     66                                29.7 %
+      94                     37                                28.3 %
+      95                     12                                15.6 %
+      96                     32                                18.7 %
+      97                     17                                23.1 %
+      98                      9                                26.9 %
+      99                      4                                18.9 %
+      100                   308                                59.4 %
+      101                    37                                33.5 %
+      102                    14                                29.1 %
+      103                    50                                30.1 %
+      104                    20                                25.4 %
+      105                   320                                40.9 %
+      106                    35                                32.1 %
+      107                     4                                10.3 %
+      108                    90                                29.2 %
+      109                    89                                28.8 %
+      110                   132                                33.6 %
+      111                   108                                45.5 %
+      112                    75                                37.2 %
+      113                    96                                35.1 %
+      114                    15                                19.3 %
+      115                    15                                15.1 %
+      116                  1171                                69.7 %
+      117                   206                                39.9 %
+      118                   144                                39.6 %
+      119                     0                                14.3 %
+      120                    86                                31.1 %
+      121                    23                                35.3 %
+      122                    43                                28.3 %
+      123                   187                                44.5 %
+      124                   182                                37.2 %
+      125                    20                                31.5 %
+      126                    71                                32.7 %
+      127                    41                                32.2 %
+      128                   230                                44.2 %
+      129                    56                                37.5 %
+      130                    35                                  26 %
+      131                     4                                19.3 %
+      132                     1                                17.4 %
+      133                    77                                32.7 %
+      134                    29                                34.7 %
+      135                    41                                22.7 %
+      136                    18                                30.2 %
+      137                   455                                50.1 %
+      138                   198                                41.5 %
+      139                   615                                59.2 %
+      140                    70                                27.1 %
+      141                    18                                28.9 %
+      142                    31                                26.3 %
+      143                   371                                43.9 %
+      144                     0                                17.5 %
+      145                    43                                20.4 %
+      146                   260                                43.8 %
+      147                   352                                44.4 %
+      148                    11                                14.3 %
+      149                   179                                41.2 %
+      150                     3                                19.6 %
+      151                    26                                23.6 %
+      152                     3                                20.4 %
+      153                     9                                29.5 %
+      154                    12                                15.3 %
+      155                   318                                45.1 %
+      156                    21                                21.2 %
+      157                     5                                23.6 %
+      158                    84                                36.4 %
+      159                   106                                34.6 %
+      160                    51                                31.7 %
+      161                    27                                37.5 %
+      162                    52                                45.1 %
+      163                   132                                37.4 %
+      164                    23                                28.8 %
+      165                     6                                14.3 %
+      166                     2                                12.4 %
+      167                    18                                33.3 %
+      168                    12                                14.9 %
+      169                     0                                17.5 %
+      170                    67                                34.7 %
+      171                    14                                14.9 %
+      172                     4                                21.3 %
+      173                   138                                38.6 %
+      174                    27                                29.8 %
+      175                    17                                30.7 %
+      176                     7                                17.4 %
+      177                    24                                20.8 %
+      178                   214                                42.4 %
+      179                    58                                43.5 %
+      180                     7                                20.4 %
+      181                    59                                38.6 %
+      182                   165                                43.9 %
+      183                    60                                36.6 %
+      184                    46                                33.7 %
+      185                   141                                30.1 %
+      186                    19                                26.3 %
+      187                    12                                14.9 %
+      188                   309                                44.6 %
+      189                    37                                30.6 %
+      190                   125                                52.7 %
+      191                    88                                36.3 %
+      192                    48                                32.9 %
+      193                    60                                28.3 %
+      194                    37                                39.2 %
+      195                    22                                19.3 %
+      196                    11                                21.2 %
+      197                    37                                34.3 %
+      198                    31                                25.8 %
+      199                    87                                26.8 %
+      200                   630                                52.7 %
+      201                     1                                19.9 %
+      202                    22                                28.8 %
+      203                    47                                31.3 %
+      204                    35                                29.3 %
+      205                    14                                15.3 %
+      206                    52                                34.4 %
+      207                    56                                25.3 %
+      208                     4                                15.5 %
+      209                   703                                54.8 %
+      210                     1                                22.6 %
+      211                     8                                  17 %
+      212                   132                                37.8 %
+      213                     8                                33.3 %
+      214                    34                                  26 %
+      215                    25                                24.8 %
+      216                   223                                39.4 %
+      217                   136                                65.4 %
+      218                    16                                31.9 %
+      219                    60                                35.1 %
+      220                    82                                34.2 %
+      221                    15                                24.8 %
+      222                    11                                14.1 %
+      223                    52                                31.8 %
+      224                    22                                  26 %
+      225                   130                                37.8 %
+      226                    37                                40.6 %
+      227                    60                                  27 %
+      228                     3                                21.5 %
+      229                    26                                31.1 %
+      230                    59                                40.1 %
+      231                   100                                36.4 %
+      232                     7                                32.3 %
+      233                     1                                19.9 %
+      234                     9                                20.4 %
+      235                    26                                35.1 %
+      236                   118                                51.2 %
+      237                   548                                49.3 %
+      238                    45                                34.3 %
+      239                   102                                36.7 %
+      240                    60                                32.2 %
+      241                    47                                30.3 %
+      242                    33                                31.6 %
+      243                    27                                  30 %
+      244                   112                                36.6 %
+      245                     4                                16.2 %
+      246                     5                                21.9 %
+      247                   255                                42.6 %
+      248                    21                                  26 %
+      249                     8                                21.7 %
+      250                    23                                26.2 %
+      251                     8                                16.1 %
+      252                    14                                  18 %
+      253                    41                                24.8 %
+      254                    32                                32.2 %
+      255                    78                                37.5 %
+      256                   274                                42.4 %
+      257                     7                                16.5 %
+      258                    13                                37.5 %
+      259                   222                                40.7 %
+      260                   231                                  42 %
+      261                    91                                36.8 %
+      262                    43                                20.2 %
+      263                   324                                47.4 %
+      264                   310                                46.9 %
+      265                     2                                  22 %
+      266                   111                                38.7 %
+      267                     1                                11.1 %
+      268                   120                                  38 %
+      269                     7                                11.4 %
+      270                    49                                24.4 %
+      271                    43                                27.1 %
+      272                    57                                  30 %
+      273                   284                                43.4 %
+      274                    36                                  23 %
+      275                    29                                27.1 %
+      276                   594                                  53 %
+      277                   104                                36.1 %
+      278                   502                                56.4 %
+      279                    32                                29.9 %
+      280                     7                                35.3 %
+      281                    66                                43.3 %
+      282                   253                                43.3 %
+      283                    20                                17.6 %
+      284                   113                                50.9 %
+      285                    11                                32.1 %
+      286                    13                                23.4 %
+      287                   119                                  32 %
+      288                    38                                30.7 %
+      289                    16                                23.3 %
+      290                     0                                23.6 %
+      291                    11                                17.6 %
+      292                   362                                47.4 %
+      293                    13                                26.3 %
+      294                   161                                38.4 %
+      295                     8                                  31 %
+      296                   633                                52.5 %
+      297                   250                                41.9 %
+      298                    37                                27.4 %
+      299                    49                                36.4 %
+      300                     1                                23.6 %
+      301                    74                                32.3 %
+      302                   114                                52.6 %
+      303                    32                                38.1 %
+      304                    53                                31.3 %
+      305                     7                                21.7 %
+      306                    34                                23.7 %
+      307                    49                                36.7 %
+      308                    87                                30.9 %
+      309                     0                                15.4 %
+      310                    19                                28.3 %
+      311                    96                                38.1 %
+      312                    21                                43.9 %
+      313                   127                                39.1 %
+      314                    91                                36.1 %
+      315                   303                                  47 %
+      316                    21                                18.2 %
+      317                   311                                51.1 %
+      318                    66                                31.1 %
+      319                     3                                32.1 %
+      320                    76                                30.3 %
+      321                    34                                50.9 %
+      322                   462                                49.9 %
+      323                    64                                27.4 %
+      324                    10                                22.8 %
+      325                     1                                20.3 %
+      326                     1                                 9.1 %
+      327                    44                                57.7 %
+      328                   215                                  43 %
+      329                   207                                42.1 %
+      330                    66                                64.3 %
+      331                     3                                12.4 %
+      332                    19                                22.5 %
+      333                   323                                45.2 %
+      334                    29                                21.5 %
+      335                    79                                35.4 %
+      336                   101                                33.6 %
+      337                    29                                30.4 %
+      338                   211                                44.5 %
+      339                     2                                11.5 %
+      340                   141                                35.8 %
+      341                    78                                43.2 %
+      342                    58                                31.3 %
+      343                    40                                31.8 %
+      344                    45                                26.6 %
+      345                     6                                23.6 %
+      346                    77                                  30 %
+      347                    25                                24.9 %
+      348                     9                                  15 %
+      349                   358                                51.3 %
+      350                     7                                21.3 %
+      351                   180                                37.8 %
+      352                   248                                45.7 %
+      353                   196                                41.3 %
+      354                   121                                32.1 %
+      355                    40                                29.3 %
+      356                    37                                31.3 %
+      357                    12                                25.7 %
+      358                     6                                  17 %
+      359                   168                                40.9 %
+      360                    16                                13.5 %
+      361                    18                                  39 %
+      362                    64                                48.3 %
+      363                    43                                  32 %
+      364                    24                                35.4 %
+      365                    22                                17.7 %
+      366                   281                                43.4 %
+      367                    24                                39.3 %
+      368                    31                                27.5 %
+      369                    18                                26.5 %
+      370                    13                                26.6 %
+      371                    30                                19.2 %
+      372                    65                                29.9 %
+      373                    16                                14.6 %
+      374                    15                                28.2 %
+      375                    49                                32.6 %
+      376                   101                                34.7 %
+      377                    62                                22.7 %
+      378                   168                                37.2 %
+      379                    29                                  25 %
+      380                   125                                35.7 %
+      381                    38                                27.4 %
+      382                   152                                37.3 %
+      383                   457                                49.3 %
+      384                    17                                  18 %
+      385                    47                                60.3 %
+      386                    66                                29.1 %
+      387                    88                                31.2 %
+      388                   128                                32.5 %
+      389                   146                                38.6 %
+      390                    31                                  55 %
+      391                    10                                16.6 %
+      392                   407                                58.6 %
+      393                    61                                31.9 %
+      394                    65                                32.4 %
+      395                    78                                  25 %
+      396                   211                                43.9 %
+      397                    46                                29.8 %
+      398                    51                                  27 %
+      399                   115                                33.7 %
+      400                   208                                40.5 %
+      401                     8                                27.5 %
+      402                   292                                45.6 %
+      403                    15                                18.1 %
+      404                   120                                50.4 %
+      405                    87                                  57 %
+      406                     8                                26.9 %
+      407                   262                                45.5 %
+      408                    46                                46.3 %
+      409                   489                                51.6 %
+      410                    28                                22.3 %
+      411                   141                                40.6 %
+      412                    19                                  23 %
+      413                     7                                14.3 %
+      414                    14                                23.5 %
+      415                     8                                20.1 %
+      416                    48                                59.7 %
+      417                    45                                25.7 %
+      418                   174                                40.4 %
+      419                    29                                  39 %
+      420                     8                                14.9 %
+      421                   180                                38.1 %
+      422                    73                                32.3 %
+      423                   119                                35.1 %
+      424                    40                                38.5 %
+      425                    55                                27.4 %
+      426                   303                                47.7 %
+      427                    33                                36.9 %
+      428                   148                                42.3 %
+      429                   149                                43.9 %
+      430                    35                                18.5 %
+      431                    56                                31.9 %
+      432                    81                                37.9 %
+      433                    28                                37.1 %
+      434                    24                                29.1 %
+      435                    57                                33.7 %
+      436                    33                                26.4 %
+      437                    24                                30.5 %
+      438                    87                                47.6 %
+      439                     7                                12.5 %
+      440                   388                                63.9 %
+      441                    20                                24.6 %
+      442                   297                                41.9 %
+      443                    71                                30.1 %
+      444                   241                                56.5 %
+      445                    14                                21.6 %
+      446                   335                                46.6 %
+      447                     4                                24.7 %
+      448                   557                                45.3 %
+      449                    50                                  31 %
+      450                   328                                40.6 %
+      451                   597                                51.6 %
+      452                     3                                13.9 %
+      453                    14                                20.9 %
+      454                  1074                                59.6 %
+      455                    20                                38.3 %
+      456                    50                                30.6 %
+      457                    14                                23.6 %
+      458                   297                                46.2 %
+      459                    56                                31.8 %
+      460                    74                                  31 %
+      461                    62                                28.9 %
+      462                    92                                48.3 %
+      463                   433                                48.8 %
+      464                    23                                21.4 %
+      465                    33                                26.4 %
+      466                    71                                36.3 %
+      467                    27                                  17 %
+      468                    11                                25.3 %
+      469                     4                                12.1 %
+      470                   322                                44.8 %
+      471                    45                                28.8 %
+      472                     3                                24.9 %
+      473                   120                                35.7 %
+      474                    17                                20.8 %
+      475                    48                                27.3 %
+      476                    29                                31.1 %
+      477                    80                                88.1 %
+      478                     6                                17.8 %
+      479                   320                                63.3 %
+      480                   146                                35.6 %
+      481                    27                                33.9 %
+      482                   506                                49.8 %
+      483                    67                                32.1 %
+      484                   172                                38.9 %
+      485                    31                                28.8 %
+      486                    16                                14.3 %
+      487                    65                                29.3 %
+      488                    55                                26.1 %
+      489                   392                                66.5 %
+      490                    19                                23.4 %
+      491                    50                                18.6 %
+      492                    13                                  24 %
+      493                    44                                28.9 %
+      494                    54                                29.6 %
+      495                    94                                31.3 %
+      496                   289                                42.1 %
+      497                   806                                55.9 %
+      498                   520                                50.5 %
+      499                    39                                39.6 %
+      500                    29                                24.3 %
+      501                    24                                36.4 %
+      502                    74                                44.4 %
+      503                   228                                38.2 %
+      504                   171                                35.7 %
+      505                   115                                50.7 %
+      506                    32                                40.1 %
+      507                    67                                86.1 %
+      508                    46                                  41 %
+      509                    44                                37.5 %
+      510                   119                                48.6 %
+      511                    60                                42.4 %
+      512                    33                                33.8 %
+      513                    13                                24.8 %
+      514                    74                                86.1 %
+      515                   379                                45.5 %
+      516                    60                                  28 %
+      517                    65                                85.1 %
+      518                    51                                25.6 %
+      519                    27                                  38 %
+      520                   135                                33.9 %
+      521                    32                                32.8 %
+      522                    18                                25.6 %
+      523                   139                                29.3 %
+      524                    52                                29.8 %
+      525                   609                                51.4 %
+      526                    62                                35.9 %
+      527                   534                                50.5 %
+      528                    38                                39.5 %
+      529                   207                                37.8 %
+      530                    19                                27.5 %
+      531                    44                                41.2 %
+      532                   129                                32.4 %
+      533                     9                                29.6 %
+      534                    19                                38.4 %
+      535                    15                                21.6 %
+      536                     5                                14.4 %
+      537                    44                                  32 %
+      538                   235                                75.5 %
+      539                    73                                41.9 %
+      540                   865                                77.7 %
+      541                    38                                32.2 %
+      542                     5                                22.3 %
+      543                     7                                29.1 %
+      544                    55                                28.3 %
+      545                     4                                25.9 %
+      546                   132                                36.4 %
+      547                    28                                17.8 %
+      548                    40                                31.5 %
+      549                    34                                39.7 %
+      550                    22                                25.8 %
+      551                    79                                  45 %
+      552                    26                                40.3 %
+      553                    15                                13.3 %
+      554                    67                                26.6 %
+      555                    36                                  24 %
+      556                    15                                34.3 %
+      557                    35                                37.1 %
+      558                    31                                31.5 %
+      559                   116                                40.7 %
+      560                    47                                  31 %
+      561                     5                                33.1 %
+      562                    68                                47.3 %
+      563                    12                                19.6 %
+      564                   211                                41.5 %
+      565                   111                                35.4 %
+      566                     3                                21.2 %
+      567                    37                                35.4 %
+      568                    10                                34.9 %
+      569                   121                                33.5 %
+      570                    19                                26.1 %
+      571                   463                                66.5 %
+      572                    40                                34.8 %
+      573                    88                                34.3 %
+      574                   106                                  47 %
+      575                   184                                38.9 %
+      576                    37                                30.6 %
+      577                    41                                27.9 %
+      578                   242                                38.6 %
+      579                    13                                22.7 %
+      580                    55                                  70 %
+      581                   233                                54.4 %
+      582                     5                                  31 %
+      583                    11                                36.2 %
+      584                   149                                34.2 %
+      585                   218                                36.9 %
+      586                    64                                34.7 %
+      587                    83                                31.8 %
+      588                   135                                43.6 %
+      589                    69                                31.1 %
+      590                    18                                18.6 %
+      591                    33                                21.6 %
+      592                    10                                17.1 %
+      593                    19                                23.9 %
+      594                    31                                  28 %
+      595                    43                                  25 %
+      596                     4                                  12 %
+      597                    76                                  28 %
+      598                    13                                33.1 %
+      599                    49                                29.8 %
+      600                    11                                15.4 %
+      601                    34                                38.2 %
+      602                    12                                17.6 %
+      603                    33                                62.5 %
+      604                    77                                41.5 %
+      605                    32                                29.9 %
+      606                     9                                21.8 %
+      607                    27                                  35 %
+      608                     3                                28.3 %
+      609                     8                                17.9 %
+      610                   107                                34.7 %
+      611                    45                                37.1 %
+      612                    16                                37.4 %
+      613                    21                                30.3 %
+      614                    20                                27.4 %
+      615                   277                                40.9 %
+      616                   283                                  41 %
+      617                     9                                32.2 %
+      618                     6                                20.9 %
+      619                    70                                31.5 %
+      620                    31                                  23 %
+      621                    60                                43.2 %
+      622                    26                                24.3 %
+      623                    95                                  42 %
+      624                    24                                34.9 %
+      625                    90                                34.5 %
+      626                    22                                38.5 %
+      627                    12                                14.3 %
+      628                    10                                28.1 %
+      629                    29                                34.8 %
+      630                    19                                38.2 %
+      631                    90                                33.5 %
+      632                    47                                30.4 %
+      633                   468                                50.3 %
+      634                    60                                25.2 %
+      635                   142                                36.9 %
+      636                   126                                40.7 %
+      637                    34                                32.7 %
+      638                    14                                23.8 %
+      639                    54                                26.2 %
+      640                   112                                32.4 %
+      641                    60                                30.2 %
+      642                    95                                32.5 %
+      643                    33                                28.8 %
+      644                   189                                38.5 %
+      645                    60                                29.6 %
+      646                    39                                20.7 %
+      647                   333                                  50 %
+      648                    23                                35.8 %
+      649                   330                                56.5 %
+      650                    71                                32.4 %
+      651                   344                                43.4 %
+      652                    42                                38.8 %
+      653                   190                                49.4 %
+      654                     8                                18.2 %
+      655                     8                                20.3 %
+      656                   125                                  28 %
+      657                    41                                  27 %
+      658                   151                                42.3 %
+      659                   127                                32.3 %
+      660                    21                                19.4 %
+      661                    45                                36.8 %
+      662                    25                                20.5 %
+      663                   222                                36.6 %
+      664                   207                                57.7 %
+      665                    33                                37.9 %
+      666                    77                                30.9 %
+      667                    27                                35.1 %
+      668                   147                                38.6 %
+      669                    71                                41.3 %
+      670                    29                                34.4 %
+      671                    67                                30.8 %
+      672                    22                                21.6 %
+      673                    55                                29.2 %
+      674                   216                                39.2 %
+      675                    23                                36.7 %
+      676                    32                                26.2 %
+      677                    12                                27.5 %
+      678                    28                                22.8 %
+      679                   251                                43.2 %
+      680                    47                                29.2 %
+      681                    17                                34.4 %
+      682                    46                                36.7 %
+      683                   147                                42.8 %
+      684                    19                                23.2 %
+      685                    11                                20.3 %
+      686                   120                                36.1 %
+      687                    66                                31.5 %
+      688                    95                                35.3 %
+      689                    81                                74.1 %
+      690                   167                                48.7 %
+      691                    28                                37.1 %
+      692                    96                                32.5 %
+      693                    85                                30.8 %
+      694                    11                                19.3 %
+      695                    25                                26.3 %
+      696                    12                                14.3 %
+      697                   649                                55.2 %
+      698                   128                                44.4 %
+      699                    80                                34.3 %
+      700                    65                                  34 %
+      701                    47                                30.1 %
+      702                   214                                41.6 %
+      703                    25                                35.1 %
+      704                   111                                43.6 %
+      705                   100                                46.5 %
+      706                    46                                  33 %
+      707                   235                                41.5 %
+      708                   400                                60.6 %
+      709                    44                                36.6 %
+      710                    27                                26.3 %
+      711                    36                                27.1 %
+      712                    72                                29.9 %
+      713                     3                                22.1 %
+      714                    20                                24.8 %
+      715                    14                                24.6 %
+      716                     8                                12.6 %
+      717                   119                                40.4 %
+      718                   443                                47.8 %
+      719                    11                                23.2 %
+      720                    45                                28.1 %
+      721                    36                                  23 %
+      722                   171                                40.7 %
+      723                    55                                68.1 %
+      724                    49                                  32 %
+      725                   614                                45.6 %
+      726                    91                                36.1 %
+      727                   133                                30.6 %
+      728                   433                                48.5 %
+      729                   193                                35.9 %
+      730                   296                                40.1 %
+      731                    25                                29.8 %
+      732                    94                                33.2 %
+      733                   292                                  46 %
+      734                   251                                37.8 %
+      735                   311                                45.3 %
+      736                   166                                36.4 %
+      737                    39                                27.6 %
+      738                   481                                59.3 %
+      739                   166                                39.1 %
+      740                   236                                41.5 %
+      741                   101                                34.3 %
+      742                    66                                33.8 %
+      743                    58                                  29 %
+      744                     5                                23.9 %
+      745                    25                                27.6 %
+      746                   103                                34.2 %
+      747                    28                                  27 %
+      748                    49                                40.7 %
+      749                    18                                20.6 %
+      750                    99                                29.2 %
+      751                    25                                16.8 %
+      752                    29                                26.4 %
+      753                   112                                32.9 %
+      754                    16                                26.8 %
+      755                    19                                24.3 %
+      756                   388                                46.8 %
+      757                    21                                  23 %
+      758                   123                                31.5 %
+      759                    98                                43.8 %
+      760                    43                                34.8 %
+      761                    23                                22.2 %
+      762                    25                                23.6 %
+      763                   219                                41.7 %
+      764                     4                                15.2 %
+      765                    69                                29.4 %
+      766                    45                                29.5 %
+      767                    82                                36.3 %
+      768                   143                                93.5 %
+      769                    71                                26.1 %
+      770                   131                                  33 %
+      771                    97                                28.4 %
+      772                    21                                20.1 %
+      773                   137                                  32 %
+      774                     7                                16.9 %
+      775                    15                                23.9 %
+      776                    41                                  26 %
+      777                     1                                17.7 %
+      778                    76                                30.6 %
+      779                   101                                29.7 %
+      780                    64                                34.1 %
+      781                    11                                21.8 %
+      782                    31                                28.6 %
+      783                    60                                26.9 %
+      784                   110                                30.4 %
+      785                    98                                33.4 %
+      786                    25                                32.8 %
+      787                    15                                16.1 %
+      788                    72                                28.3 %
+      789                   139                                35.4 %
+      790                    41                                33.8 %
+      791                   115                                33.1 %
+      792                    13                                25.4 %
+      793                    43                                  27 %
+      794                     2                                21.5 %
+      795                   352                                43.3 %
+      796                    48                                30.6 %
+      797                     7                                 9.6 %
+      798                    50                                15.8 %
+      799                   165                                38.8 %
+      800                   363                                41.2 %
+      801                    20                                17.5 %
+      802                    21                                19.1 %
+      803                    27                                28.8 %
+      804                    86                                  39 %
+      805                    23                                59.4 %
+      806                    44                                28.2 %
+      807                   197                                36.2 %
+      808                    40                                24.5 %
+      809                    52                                24.4 %
+      810                    66                                30.1 %
+      811                   286                                45.9 %
+      812                    60                                41.1 %
+      813                    34                                35.4 %
+      814                    33                                35.8 %
+      815                    28                                29.9 %
+      816                    32                                  24 %
+      817                   294                                57.3 %
+      818                    13                                29.1 %
+      819                    12                                26.8 %
+      820                    10                                17.7 %
+      821                    35                                  38 %
+      822                     6                                22.6 %
+      823                   121                                43.2 %
+      824                   102                                41.1 %
+      825                    60                                31.6 %
+      826                    18                                36.6 %
+      827                   333                                41.4 %
+      828                    31                                33.9 %
+      829                    53                                34.4 %
+      830                    52                                27.8 %
+      831                    77                                  33 %
+      832                    15                                28.7 %
+      833                    43                                32.3 %
+      834                    31                                31.4 %
+      835                    27                                  30 %
+      836                   219                                  34 %
+      837                    31                                21.9 %
+      838                    22                                28.5 %
+      839                    36                                  21 %
+      840                    20                                24.8 %
+      841                   290                                57.1 %
+      842                   143                                34.4 %
+      843                    72                                26.7 %
+      844                   207                                38.3 %
+      845                    23                                17.5 %
+      846                     3                                27.9 %
+      847                   205                                42.9 %
+      848                    35                                26.4 %
+      849                    22                                22.6 %
+      850                    68                                30.8 %
+      851                    40                                28.8 %
+      852                    88                                30.8 %
+      853                     6                                24.8 %
+      854                   272                                39.4 %
+      855                    49                                31.4 %
+      856                    29                                30.8 %
+      857                    15                                26.3 %
+      858                    62                                  29 %
+      859                    17                                23.3 %
+      860                    24                                25.8 %
+      861                     7                                11.9 %
+      862                    26                                32.4 %
+      863                   349                                42.1 %
+      864                    37                                28.1 %
+      865                    27                                26.3 %
+      866                    23                                30.3 %
+      867                    57                                37.1 %
+      868                    14                                34.2 %
+      869                   135                                50.7 %
+      870                   359                                43.4 %
+      871                    62                                28.4 %
+      872                    18                                28.2 %
+      873                   201                                33.6 %
+      874                     8                                21.9 %
+      875                    48                                30.7 %
+      876                    23                                23.5 %
+      877                    19                                32.9 %
+      878                    50                                29.4 %
+      879                    70                                35.6 %
+      880                   237                                54.4 %
+      881                    47                                33.9 %
+      882                   493                                51.4 %
+      883                    38                                32.5 %
+      884                    19                                19.6 %
+      885                    40                                  23 %
+      886                    10                                13.1 %
+      887                    51                                24.3 %
+      888                   254                                40.2 %
+      889                     8                                27.5 %
+      890                    35                                29.3 %
+      891                   332                                43.2 %
+      892                    52                                26.5 %
+      893                   108                                  33 %
+      894                     3                                10.9 %
+      895                    79                                44.5 %
+      896                    66                                24.6 %
+      897                   776                                54.9 %
+      898                   120                                37.2 %
+      899                    60                                35.8 %
+      900                    79                                33.3 %
+      901                   224                                40.1 %
+      902                   174                                38.1 %
+      903                     4                                30.3 %
+      904                   119                                47.9 %
+      905                   249                                43.9 %
+      906                    32                                22.1 %
+      907                    15                                35.8 %
+      908                   251                                35.3 %
+      909                   112                                42.6 %
+      910                    13                                30.1 %
+      911                   204                                41.6 %
+      912                    19                                29.4 %
+      913                     8                                29.9 %
+      914                    65                                30.1 %
+      915                   148                                30.3 %
+      916                   420                                64.7 %
+      917                     9                                28.6 %
+      918                    35                                24.4 %
+      919                    28                                31.9 %
+      920                     9                                26.8 %
+      921                    23                                29.7 %
+      922                    39                                31.8 %
+      923                   284                                43.8 %
+      924                    16                                26.8 %
+      925                    64                                28.6 %
+      926                     5                                19.3 %
+      927                   176                                  41 %
+      928                   106                                34.5 %
+      929                    13                                16.3 %
+      930                   158                                46.3 %
+      931                    11                                24.5 %
+      932                     5                                17.9 %
+      933                    44                                39.2 %
+      934                    49                                27.3 %
+      935                    87                                44.9 %
+      936                    94                                31.6 %
+      937                    44                                33.2 %
+      938                    82                                32.6 %
+      939                   160                                36.7 %
+      940                     6                                25.8 %
+      941                    11                                  21 %
+      942                     4                                27.6 %
+      943                    17                                27.1 %
+      944                     7                                14.6 %
+      945                    10                                24.6 %
+      946                    48                                34.7 %
+      947                    59                                30.6 %
+      948                   350                                47.4 %
+      949                     1                                  26 %
+      950                   529                                49.1 %
+      951                    31                                31.1 %
+      952                    15                                29.6 %
+      953                    16                                31.6 %
+      954                    13                                33.1 %
+      955                    72                                26.8 %
+      956                    39                                32.3 %
+      957                     4                                22.7 %
+      958                    11                                33.7 %
+      959                    40                                  38 %
+      960                    10                                33.5 %
+      961                    31                                23.5 %
+      962                    37                                27.2 %
+      963                    12                                26.5 %
+      964                    16                                29.1 %
+      965                   114                                37.7 %
+      966                    71                                36.2 %
+      967                    72                                31.7 %
+      968                    36                                33.7 %
+      969                     0                                25.9 %
+      970                    33                                29.5 %
+      971                    16                                21.2 %
+      972                    22                                16.8 %
+      973                    15                                14.4 %
+      974                    24                                21.7 %
+      975                     0                                18.8 %
+      976                     9                                27.7 %
+      977                    39                                38.3 %
+      978                    68                                27.1 %
+      979                    26                                  32 %
+      980                   211                                41.6 %
+      981                    13                                18.9 %
+      982                    35                                37.5 %
+      983                   103                                29.9 %
+      984                    42                                34.1 %
+      985                    31                                33.2 %
+      986                    64                                33.7 %
+      987                    89                                32.5 %
+      988                     6                                13.5 %
+      989                    22                                37.8 %
+      990                     8                                29.5 %
+      991                   104                                32.1 %
+      992                   114                                32.7 %
+      993                     8                                  26 %
+      994                   501                                48.8 %
+      995                   150                                33.7 %
+      996                     4                                17.3 %
+      997                    41                                29.9 %
+      998                    14                                19.7 %
+      999                    58                                27.4 %
+      1000                   47                                34.5 %
+      1001                   26                                35.1 %
+      1002                    9                                  23 %
+      1003                   73                                26.1 %
+      1004                   11                                26.7 %
+      1005                    4                                15.4 %
+      1006                   13                                23.4 %
+      1007                   22                                  36 %
+      1008                   46                                42.9 %
+      1009                  129                                36.8 %
+      1010                   45                                  33 %
+      1011                   41                                37.2 %
+      1012                   26                                22.9 %
+      1013                    9                                28.5 %
+      1014                   26                                38.6 %
+      1015                   16                                32.9 %
+      1016                   12                                18.5 %
+      1017                   21                                31.5 %
+      1018                   98                                60.2 %
+      1019                   79                                39.8 %
+      1020                   93                                50.9 %
+      1021                   14                                18.3 %
+      1022                   19                                25.4 %
+      1023                   25                                36.7 %
+      1024                   11                                30.1 %
+      1025                    9                                27.3 %
+      1026                   60                                27.2 %
+      1027                   60                                  42 %
+      1028                   24                                41.6 %
+      1029                    7                                26.7 %
+      1030                   40                                31.8 %
+      1031                   67                                40.8 %
+      1032                   11                                20.3 %
+      1033                    8                                24.2 %
+      1034                   17                                24.9 %
+      1035                    8                                18.3 %
+      1036                    4                                15.1 %
+      1037                   49                                26.4 %
+      1038                   10                                31.9 %
+      1039                    2                                25.1 %
+      1040                   23                                34.3 %
+      1041                    2                                23.6 %
+      1042                   13                                  16 %
+      1043                    1                                12.3 %
+      1044                   29                                22.2 %
+      1045                    1                                20.4 %
+      1046                    8                                34.5 %
+      1047                   21                                31.4 %
+      1048                   13                                21.5 %
+      1049                   10                                29.8 %
+      1050                   23                                40.2 %
+      1051                    5                                10.2 %
+      1052                  125                                51.3 %
+      1053                    2                                  16 %
+      1054                  173                                51.3 %
+      1055                   65                                31.7 %
+      1056                   17                                25.5 %
+      1057                   37                                29.6 %
+      1058                    7                                28.5 %
+      1059                   39                                29.5 %
+      1060                   13                                30.5 %
+      1061                    2                                18.8 %
+      1062                    7                                17.7 %
+      1063                    7                                30.7 %
+      1064                  133                                48.8 %
+      1065                   11                                13.1 %
+      1066                    7                                25.5 %
+      1067                   85                                44.7 %
+      1068                   20                                35.4 %
+      1069                    9                                24.1 %
+      1070                    6                                13.8 %
+      1071                   39                                  26 %
+      1072                    9                                31.8 %
+      1073                   36                                  23 %
+      1074                   13                                21.9 %
+      1075                   28                                38.6 %
+      1076                   86                                33.1 %
+      1077                   14                                23.1 %
+      1078                    8                                17.6 %
+      1079                   28                                23.7 %
+      1080                    6                                  18 %
+      1081                    5                                13.4 %
+      1082                   20                                22.4 %
 
