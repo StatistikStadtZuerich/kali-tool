@@ -57,7 +57,9 @@ get_data <- function() {
     )) |>
     arrange(across(all_of(c("Wahljahr", "WahlkreisSort")))) |>
     mutate(Alter = .data[["Wahljahr"]] - .data[["GebJ"]]) |>
-    rename(all_of(c("Liste" = "ListeKurzbez")))
+    rename(all_of(c("Liste" = "ListeKurzbez"))) |>
+    # deal with weird IDate parsing problem
+    mutate(Wahldatum = as.Date(Wahldatum))
 
   # with updated data (2026): check if this joined df has NA, in that case
   # there is probably a mismatch in names or someone missing

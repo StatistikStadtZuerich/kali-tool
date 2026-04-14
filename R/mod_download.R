@@ -18,12 +18,12 @@ mod_download_ui <- function(id, ssz_icons, ogd_link) {
       class = "downloadWrapperDiv",
       sszDownloadButton(
         outputId = ns("csv_download"),
-        label = "csv",
+        label = "CSV",
         image = img(ssz_icons$download)
       ),
       sszDownloadButton(
         outputId = ns("excel_download"),
-        label = "xlsx",
+        label = "XLSX",
         image = img(ssz_icons$download)
       ),
       sszOgdDownload(
