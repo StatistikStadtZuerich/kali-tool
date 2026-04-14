@@ -19,17 +19,17 @@ mod_download_ui <- function(id, ssz_icons, ogd_link) {
       sszDownloadButton(
         outputId = ns("csv_download"),
         label = "CSV",
-        image = img(ssz_icons$download)
+        image = icons_stzh()("download")
       ),
       sszDownloadButton(
         outputId = ns("excel_download"),
         label = "XLSX",
-        image = img(ssz_icons$download)
+        image = icons_stzh()("download")
       ),
       sszOgdDownload(
         outputId = ns("ogd_download"),
         label = "OGD",
-        image = img(ssz_icons("link")),
+        image = icons_stzh()("external-link"),
         href = ogd_link
       )
     )
