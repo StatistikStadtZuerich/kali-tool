@@ -1,8 +1,16 @@
 Package: KALI
 Title: Shiny App zu Kandidierenden des Zürcher Gemeinderates
 Version: 0.0.0.9000
-Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
-Description: Golem-paketierte Shiny App.
+Authors@R: c(
+    person("Aline",
+      "Metzler",
+      role = c("aut", "cre"),
+      email = "aline.metzler@zuerich.ch"),
+    person("Statistik Stadt Zürich",
+      email = "statistik@zuerich.ch",
+      role = c("cph", "fnd")
+    ))
+Description: Golem-paketierte Shiny App zu den Kandidierenden des Zürcher Gemeinderates.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.2),
