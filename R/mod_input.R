@@ -13,13 +13,6 @@ mod_input_ui <- function(id) {
     # Suchfeld: Namensuche
     sszTextInput(ns("suchfeld"), "Name"),
 
-    # radioButtons() vertical for gender
-    sszRadioButtons(ns("gender_radio_button"),
-      label = "Geschlecht",
-      choices = c("Alle", sort(unique(df_main$Geschlecht))),
-      selected = "Alle" # default value
-    ),
-
     # selectInput() for year of election
     sszSelectInput(ns("select_year"), "Gemeinderatswahlen",
       choices = unique_wj,
@@ -40,12 +33,25 @@ mod_input_ui <- function(id) {
       selected = "Alle Listen"
     ),
 
-    # radioButtons() vertical for whether the person was elected
-    sszRadioButtons(ns("wahlstatus_radio_button"),
-      label = "Status",
-      # nicht basierend auf den Daten um die Handvoll "rückt nach" und NAs zu vermeiden
-      choices = c("Alle", "gewählt", "nicht gewählt"),
-      selected = "Alle"
+    # put radio buttons next to each other
+    div(
+      class = "button-div",
+      # radioButtons() vertical for whether the person was elected
+      sszRadioButtons(ns("wahlstatus_radio_button"),
+        label = "Status",
+        # nicht basierend auf den Daten um die Handvoll "rückt nach" und NAs zu vermeiden
+        choices = c("Alle", "gewählt", "nicht gewählt"),
+        selected = "Alle",
+        inline = TRUE
+      ),
+
+      # radioButtons() vertical for gender
+      sszRadioButtons(ns("gender_radio_button"),
+        label = "Geschlecht",
+        choices = c("Alle", sort(unique(df_main$Geschlecht))),
+        selected = "Alle", # default value
+        inline = TRUE
+      )
     )
   )
 }
