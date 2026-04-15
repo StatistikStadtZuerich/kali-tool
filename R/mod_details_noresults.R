@@ -28,7 +28,7 @@ mod_details_noresults_server <- function(id, data_person) {
 
     # Render title of selected person
     output$name_candidate <- renderText({
-      paste0("<br><h2>", data_person$Name, " (", data_person$Liste, ")", "</h2><hr>")
+      paste0("<br><h2>", data_person$Name, " (", data_person$Liste, ")", "</h2><br>")
     })
   })
 }

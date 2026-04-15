@@ -25,18 +25,18 @@ app_ui <- function(request) {
           "Abfrage starten"
         )
       ),
-
+      br(),
       # Downloads
       conditionalPanel(
         condition = "input.ActionButtonId>0",
-        h3("Daten herunterladen"),
         mod_download_ui("download_1", ssz_icons, ogd_link)
-      )
-    ),
-    conditionalPanel(
-      condition = "input.ActionButtonId>0",
-      mod_results_ui("results_1")
-    ),
+      ),
+      br(),
+      conditionalPanel(
+        condition = "input.ActionButtonId>0",
+        mod_results_ui("results_1")
+      ),
+    )
   )
 }
 
