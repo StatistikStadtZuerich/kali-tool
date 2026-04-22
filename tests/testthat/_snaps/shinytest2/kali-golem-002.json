@@ -15,7 +15,7 @@
     "results_1-table__reactable__sorted": null
   },
   "output": {
-    "results_1-details_1-name_candidate": "<br><h2>Beat Bloch (Grüne)<\/h2><hr>",
+    "results_1-details_1-name_candidate": "<br><h2>Beat Bloch (Grüne)<\/h2><br>",
     "results_1-details_1-table_candidate": {
       "x": {
         "tag": {
@@ -54,8 +54,7 @@
               }
             ],
             "paginationType": "simple",
-            "highlight": true,
-            "outlined": true,
+            "className": "table-striped",
             "theme": {
               "borderColor": "#DEDEDE"
             },
@@ -7103,8 +7102,7 @@
             ],
             "paginationType": "simple",
             "onClick": "function(rowInfo, column) {\n            if (window.Shiny) {\n            Shiny.setInputValue('results_1-show_details:shiny.number', rowInfo.index + 1, { priority: 'event' })\n            }\n            }",
-            "highlight": true,
-            "outlined": true,
+            "className": "table-hover",
             "theme": {
               "borderColor": "#DEDEDE"
             },

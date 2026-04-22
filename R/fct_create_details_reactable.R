@@ -17,6 +17,7 @@ create_details_reactable <- function(data_person) {
       values_to = "Wert"
     ) |>
     reactable(
+      class = "table-striped",
       paginationType = "simple",
       theme = reactableTheme(
         borderColor = "#DEDEDE"
@@ -24,8 +25,6 @@ create_details_reactable <- function(data_person) {
       defaultColDef = colDef(
         align = "left",
         minWidth = 50
-      ),
-      outlined = TRUE,
-      highlight = TRUE
+      )
     )
 }

@@ -14,23 +14,26 @@ mod_download_ui <- function(id, ssz_icons, ogd_link) {
   tagList(
     # Download Panel
     tags$div(
-      id = ns("downloadWrapperId"),
-      class = "downloadWrapperDiv",
-      sszDownloadButton(
-        outputId = ns("csv_download"),
-        label = "csv",
-        image = img(ssz_icons$download)
-      ),
-      sszDownloadButton(
-        outputId = ns("excel_download"),
-        label = "xlsx",
-        image = img(ssz_icons$download)
-      ),
-      sszOgdDownload(
-        outputId = ns("ogd_download"),
-        label = "OGD",
-        image = img(ssz_icons("link")),
-        href = ogd_link
+      class = "button-div",
+      tags$div(
+        id = ns("downloadWrapperId"),
+        class = "downloadWrapperDiv",
+        sszDownloadButton(
+          outputId = ns("csv_download"),
+          label = "CSV",
+          image = icons_stzh()("download")
+        ),
+        sszDownloadButton(
+          outputId = ns("excel_download"),
+          label = "XLSX",
+          image = icons_stzh()("download")
+        ),
+        sszOgdDownload(
+          outputId = ns("ogd_download"),
+          label = "OGD",
+          image = icons_stzh()("external-link"),
+          href = ogd_link
+        )
       )
     )
   )

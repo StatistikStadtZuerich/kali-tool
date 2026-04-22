@@ -19,3 +19,4 @@ _\.new\.png$
 ^webpack\.dev\.js$
 ^webpack\.prod\.js$
 ^webpack\.common\.js$
+^LICENSE\.md$

@@ -22,7 +22,7 @@ mod_details_ui <- function(id) {
 
     # Name of selected candidate
     # Title for table
-    hr(),
+    br(),
     h4("Stimmen aus veränderten Listen"),
 
     # div for d3 chart; namespace is dealt with in server/JS message handler
@@ -40,7 +40,7 @@ mod_details_server <- function(id, data_person, df_details_prefiltered) {
 
     # Render title of selected person
     output$name_candidate <- renderText({
-      paste0("<br><h2>", data_person$Name, " (", data_person$Liste, ")", "</h2><hr>")
+      paste0("<br><h2>", data_person$Name, " (", data_person$Liste, ")", "</h2><br>")
     })
 
     # table for selected person

@@ -8,6 +8,7 @@
 #' @return a reactable
 get_reactable_candidates <- function(df, name_of_row_var) {
   reactable(
+    class = "table-hover",
     df |>
       select(all_of(c(
         "Name", "Alter", "Geschlecht", "Beruf", "Wahlkreis", "Liste"
@@ -30,8 +31,6 @@ get_reactable_candidates <- function(df, name_of_row_var) {
       align = "left",
       minWidth = 50
     ),
-    outlined = TRUE,
-    highlight = TRUE,
     onClick = JS(
       # Send the click event to Shiny, which will be available in input$show_details
       # Note that the row index starts at 0 in JavaScript, so we add 1

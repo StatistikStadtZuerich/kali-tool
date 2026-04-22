@@ -15,36 +15,27 @@ app_ui <- function(request) {
     golem_add_external_resources(),
 
     # Your application UI logic
-    fluidPage(
-      # Sidebar: Input widgets are placed here
-      sidebarLayout(
-        sidebarPanel(
-          mod_input_ui("input_module"),
-          # Action Button to start the query and show the resulting table
-          conditionalPanel(
-            condition = "input.ActionButtonId==0",
-            sszActionButton(
-              "ActionButtonId",
-              "Abfrage starten"
-            )
-          ),
-
-          # Downloads
-          conditionalPanel(
-            condition = "input.ActionButtonId>0",
-            h3("Daten herunterladen"),
-            mod_download_ui("download_1", ssz_icons, ogd_link)
-          )
-        ),
-
-        # Mail Panel: Outputs are placed here
-        mainPanel(
-          conditionalPanel(
-            condition = "input.ActionButtonId>0",
-            mod_results_ui("results_1")
-          ),
+    ssz_page(
+      mod_input_ui("input_module"),
+      # Action Button to start the query and show the resulting table
+      conditionalPanel(
+        condition = "input.ActionButtonId==0",
+        sszActionButton(
+          "ActionButtonId",
+          "Abfrage starten"
         )
-      )
+      ),
+      br(),
+      # Downloads
+      conditionalPanel(
+        condition = "input.ActionButtonId>0",
+        mod_download_ui("download_1", ssz_icons, ogd_link)
+      ),
+      br(),
+      conditionalPanel(
+        condition = "input.ActionButtonId>0",
+        mod_results_ui("results_1")
+      ),
     )
   )
 }

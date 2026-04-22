@@ -12,7 +12,6 @@ mod_results_ui <- function(id) {
   tagList(
     # Title for table
     h1("Die untenstehenden Kandidierenden entsprechen Ihren Suchkriterien"),
-    hr(),
     # Define subtitle
     p("Für Detailinformationen zu den Ergebnissen einzelner Kandidierenden wählen Sie eine Zeile aus."),
 

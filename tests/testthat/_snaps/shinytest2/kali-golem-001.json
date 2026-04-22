@@ -6566,8 +6566,7 @@
             ],
             "paginationType": "simple",
             "onClick": "function(rowInfo, column) {\n            if (window.Shiny) {\n            Shiny.setInputValue('results_1-show_details:shiny.number', rowInfo.index + 1, { priority: 'event' })\n            }\n            }",
-            "highlight": true,
-            "outlined": true,
+            "className": "table-hover",
             "theme": {
               "borderColor": "#DEDEDE"
             },
