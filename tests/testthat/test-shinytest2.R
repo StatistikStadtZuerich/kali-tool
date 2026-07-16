@@ -2,6 +2,7 @@ library(shinytest2)
 
 test_that("check resetting of list choice", {
   app <- AppDriver$new(name = "kali-golem", height = 1206, width = 2263)
+  Sys.sleep(2)
   app$expect_values()
 
   # check resetting of list input when another input is changed
@@ -23,12 +24,14 @@ test_that("check resetting of list choice", {
   )
 
   # check all values
+  Sys.sleep(2)
   app$expect_values()
 
   # check observe in main app: reset show_inputs when some input is changed
   # after a row has been clicked
   app$set_inputs(`input_module-wahlstatus_radio_button` = "gewählt", wait_ = T)
   expect_equal(app$get_value(input = "results_1-show_details"), 0)
+  Sys.sleep(2)
   app$expect_values()
 
   # click another row
@@ -36,18 +39,24 @@ test_that("check resetting of list choice", {
     `results_1-show_details` = 1,
     priority_ = "event"
   )
+  Sys.sleep(2)
   app$expect_values()
 
   # modify more inputs
   app$set_inputs(`input_module-select_year` = "2022")
+  Sys.sleep(2)
   app$expect_values()
   app$set_inputs(`input_module-gender_radio_button` = "Männlich")
+  Sys.sleep(2)
   app$expect_values()
   app$set_inputs(`input_module-wahlstatus_radio_button` = "nicht gewählt")
+  Sys.sleep(2)
   app$expect_values()
   app$set_inputs(`input_module-select_kreis` = "Kreis 6")
+  Sys.sleep(2)
   app$expect_values()
   app$set_inputs(`input_module-suchfeld` = "Meyer")
+  Sys.sleep(2)
   app$expect_values()
   app$stop()
 })
@@ -58,6 +67,7 @@ test_that("{shinytest2} recording: kali-golem-download", {
   app$set_inputs(`input_module-select_year` = "2022")
   app$click("ActionButtonId")
 
+  Sys.sleep(2)
   # check csv
   app$expect_download("download_1-csv_download")
 
